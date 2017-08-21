@@ -1,7 +1,5 @@
 # Python and Django- Contributing
 
-# Python and Django- Contributing
-
 <!--
 My CPython Issue and Pull Requests
 http://bugs.python.org/issue30312
