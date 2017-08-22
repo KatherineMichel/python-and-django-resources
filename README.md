@@ -41,12 +41,13 @@ https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
 
-python.org and djangoproject.com Contributing
+python.org Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
+* [python.org Issues](https://github.com/python/pythondotorg/issues)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
-* [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 
-Django Dashboards
+djangoproject.com Contributing
+* [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
 
