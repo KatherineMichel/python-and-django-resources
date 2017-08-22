@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://djangogirls.org/spokane
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/issue30312
 https://github.com/python/cpython/pull/2085
@@ -8,22 +10,8 @@ https://github.com/python/cpython/pull/2081
 http://bugs.python.org/user26332
 -->
  
-<!--
-#### Python and Django Contributing
-
-Python- Users and Members
-* [Python Members](https://www.python.org/psf/members)
-* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-https://www.djangoproject.com/foundation/developer-members
-
-https://wiki.python.org/moin/FrontPage
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
-
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
--->
-
 Python
+* [Python Front Page](https://wiki.python.org/moin/FrontPage)
 * [Python GitHub](https://github.com/python)
 
 CPython Contributing
@@ -40,26 +28,38 @@ https://docs.python.org/devguide/gitbootcamp.html
 http://cpython-devguide.readthedocs.io/
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
+
+https://github.com/python/cpython/blob/master/Misc/NEWS
+
+https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
+ 
+https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
 -->
 
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
 
-python.org Contributing
+python.org and djangoproject.com Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
-
-djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 
+Django Dashboards
+* [code.djangoproject.com](https://code.djangoproject.com)
+* [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
+
 Django Contributing
+* [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
+
+<!--
+https://code.djangoproject.com/wiki/LittleEasyImprovements
+-->
 
 Python- Django- Roadmaps
 * [Django Enhancement Proposals](https://github.com/django/deps)
-* [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
-* [Django 1.9 Roadmap](https://code.djangoproject.com/wiki/Version1.9Roadmap) 
-
+* [Django 1.11 Roadmap](https://code.djangoproject.com/wiki/Version1.11Roadmap) 
+ 
 Python- Django- Code of Conduct and Contributing
 * [Django Code of Conduct](https://www.djangoproject.com/conduct)
 * [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
@@ -71,6 +71,10 @@ Python- Django- Forums and Lists
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organizational Repo People](https://github.com/orgs/django/people)
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+
+<!--
+https://www.djangoproject.com/foundation/developer-members
+-->
 
 Python- Django- Slack
 * [Django Developers](https://django-developers.herokuapp.com)
