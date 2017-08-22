@@ -65,19 +65,19 @@ Django Contributing
 
 <!--
 https://www.djangoproject.com/community/
-https://groups.google.com/forum/#!forum/django-announce
 
-https://docs.djangoproject.com/en/stable/releases
 https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
 
 https://code.djangoproject.com/wiki/LittleEasyImprovements
 -->
 
 Kenneth Reitz Advice to Me 
-* Python Object Model
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
-Django Roadmaps
+Django, Releases, Announcements, and Roadmaps
+* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
 * [Django Enhancement Proposals](https://github.com/django/deps)
 * [Django 1.11 Roadmap](https://code.djangoproject.com/wiki/Version1.11Roadmap) 
  
@@ -86,7 +86,7 @@ Django Code of Conduct and Contributing
 * [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
 
-Django Forums and Lists
+Django Mailing Lists and People
 * [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
 * [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
