@@ -24,6 +24,10 @@ Dev Guides (Guido van Rossum)
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
+Kenneth Reitz: 
+Python Object Model
+Python Magic Classes
+
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
 
