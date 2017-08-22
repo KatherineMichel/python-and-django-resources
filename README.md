@@ -78,11 +78,7 @@ Django Forums and Lists
 * [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 
 <!--
 https://www.djangoproject.com/foundation/individual-members
 -->
-
-Django Slack
-* [Django Developers](https://django-developers.herokuapp.com)
