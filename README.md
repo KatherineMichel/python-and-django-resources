@@ -19,15 +19,11 @@ CPython Contributing
 * [Bugs](http://bugs.python.org)
 * [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker)
 
-Dev Guides (Guido van Rossum)
+Dev Guides
 * [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
-Kenneth Reitz: 
-Python Object Model
-Python Magic Classes
-
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
 
@@ -40,6 +36,11 @@ https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
 
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
+
+Python Mentorship for Women (Guido van Rossum), Female Core Devs
+* [Python Mentorship for Women](https://twitter.com/mariatta/status/737689052736978945)
+* [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
+* ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
 
 python.org Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
@@ -72,6 +73,10 @@ https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding
 https://code.djangoproject.com/wiki/LittleEasyImprovements
 -->
 
+Kenneth Reitz Advice to Me 
+* Python Object Model
+* Python Magic Classes
+
 Django Roadmaps
 * [Django Enhancement Proposals](https://github.com/django/deps)
 * [Django 1.11 Roadmap](https://code.djangoproject.com/wiki/Version1.11Roadmap) 
@@ -88,5 +93,8 @@ Django Forums and Lists
 * [Django Organization Repo People](https://github.com/orgs/django/people)
 
 <!--
+http://legacy.python.org/psf/members
+
+https://devguide.python.org/developers
 https://www.djangoproject.com/foundation/individual-members
 -->
