@@ -46,6 +46,13 @@ python.org Contributing
 * [python.org Issues](https://github.com/python/pythondotorg/issues)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 
+<!--
+https://pythondotorg.readthedocs.io/install.html
+https://pythondotorg.readthedocs.io/contributing.html
+https://pythondotorg.readthedocs.io
+https://staging.python.org
+-->
+
 djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
