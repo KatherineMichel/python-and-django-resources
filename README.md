@@ -73,13 +73,13 @@ Python- Django- Code of Conduct and Contributing
 
 Python- Django- Forums and Lists
 * [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
-* [Django Original Team List](https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list)
+* [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
-* [Django Organizational Repo People](https://github.com/orgs/django/people)
+* [Django Organization Repo People](https://github.com/orgs/django/people)
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 
 <!--
-https://www.djangoproject.com/foundation/developer-members
+https://www.djangoproject.com/foundation/individual-members
 -->
 
 Python- Django- Slack
