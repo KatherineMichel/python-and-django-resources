@@ -53,6 +53,12 @@ Django Contributing
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
 <!--
+https://www.djangoproject.com/community/
+https://groups.google.com/forum/#!forum/django-announce
+
+https://docs.djangoproject.com/en/stable/releases
+https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
+
 https://code.djangoproject.com/wiki/LittleEasyImprovements
 -->
 
