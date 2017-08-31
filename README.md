@@ -24,6 +24,8 @@ Dev Guides
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
+https://devguide.python.org/#quick-reference
+
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
 
