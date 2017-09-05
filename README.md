@@ -24,6 +24,10 @@ Dev Guides
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
+ttps://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
+
 https://devguide.python.org/#quick-reference
 
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
@@ -50,6 +54,10 @@ python.org Contributing
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 
 <!--
+https://pythondotorg.readthedocs.io/contributing.html
+https://github.com/python/pythondotorg/tree/master
+https://github.com/python/performance
+
 https://pythondotorg.readthedocs.io/install.html
 https://pythondotorg.readthedocs.io/contributing.html
 https://pythondotorg.readthedocs.io
