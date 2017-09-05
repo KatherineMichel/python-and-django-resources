@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+
 https://djangogirls.org/spokane
 
 My CPython Issue and Pull Requests
@@ -24,7 +26,7 @@ Dev Guides
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
-ttps://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
 https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
 
