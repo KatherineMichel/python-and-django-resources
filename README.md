@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
+
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 
 https://djangogirls.org/spokane
@@ -10,6 +12,11 @@ http://bugs.python.org/issue30312
 https://github.com/python/cpython/pull/2085
 https://github.com/python/cpython/pull/2081
 http://bugs.python.org/user26332
+
+https://github.com/berkerpeksag/cpython-merge-bot
+https://github.com/Mariatta/python_versions_and_distros
+https://github.com/Mariatta/cloner
+https://github.com/python/miss-islington/blob/master/backport/__main__.py | miss-islington/__main__.py at master · python/miss-islington
 -->
  
 Python
