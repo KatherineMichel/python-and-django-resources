@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+https://github.com/python/cpython/commit/891331134516784ff1c5ad8d1720fdc2d056a15f | Version bump to 3.6.2rc2 · python/cpython@8913311
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+https://www.python.org/dev/peps/pep-0537/ | PEP 537 -- Python 3.7 Release Schedule | Python.org
+
 https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
