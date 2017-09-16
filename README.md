@@ -1,28 +1,10 @@
 # Python and Django- Contributing
 
 <!--
-https://github.com/python/cpython/commit/891331134516784ff1c5ad8d1720fdc2d056a15f | Version bump to 3.6.2rc2 · python/cpython@8913311
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-https://www.python.org/dev/peps/pep-0537/ | PEP 537 -- Python 3.7 Release Schedule | Python.org
-
-https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
-
-https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
-
-https://djangogirls.org/spokane
-
 My CPython Issue and Pull Requests
-http://bugs.python.org/issue30312
-https://github.com/python/cpython/pull/2085
-https://github.com/python/cpython/pull/2081
 http://bugs.python.org/user26332
-
-https://github.com/berkerpeksag/cpython-merge-bot
-https://github.com/Mariatta/python_versions_and_distros
-https://github.com/Mariatta/cloner
-https://github.com/python/miss-islington/blob/master/backport/__main__.py | miss-islington/__main__.py at master · python/miss-islington
 -->
- 
+
 Python
 * [Python Front Page](https://wiki.python.org/moin/FrontPage)
 * [Python GitHub](https://github.com/python)
@@ -37,6 +19,9 @@ Dev Guides
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+https://www.python.org/dev/peps/pep-0537/ | PEP 537 -- Python 3.7 Release Schedule | Python.org
+
 https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
 https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
@@ -46,11 +31,28 @@ https://devguide.python.org/#quick-reference
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
 
-https://github.com/python/cpython/blob/master/Misc/NEWS
-
-https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
- 
+CPython workflow changes
 https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+
+https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
+
+Developer Log and News
+https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
+https://github.com/python/cpython/blob/master/Misc/NEWS
+ 
+https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+
+Mariatta
+https://github.com/berkerpeksag/cpython-merge-bot
+https://github.com/Mariatta/python_versions_and_distros
+https://github.com/Mariatta/cloner
+https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
+https://github.com/python/miss-islington/issues
+http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
+http://distrowatch.com/table.php?distribution=mint
+https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
 -->
 
 Python Mentors
