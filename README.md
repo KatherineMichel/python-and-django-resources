@@ -33,6 +33,7 @@ http://cpython-devguide.readthedocs.io/#quick-reference
 
 CPython workflow changes
 https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+Python Release Managers
 
 https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
 
