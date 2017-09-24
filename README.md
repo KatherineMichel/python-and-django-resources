@@ -46,6 +46,7 @@ https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-8
 Mariatta
 https://github.com/berkerpeksag/cpython-merge-bot
 https://github.com/Mariatta/python_versions_and_distros
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
 https://github.com/Mariatta/cloner
 https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
 https://github.com/python/miss-islington/issues
