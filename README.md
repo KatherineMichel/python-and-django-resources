@@ -44,6 +44,7 @@ https://github.com/python/cpython/blob/master/Misc/NEWS
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 
 Mariatta
+https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
 https://github.com/berkerpeksag/cpython-merge-bot
 https://github.com/Mariatta/python_versions_and_distros
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
