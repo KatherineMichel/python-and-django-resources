@@ -23,15 +23,15 @@ Dev Guides
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 <!--
+https://devguide.python.org/developers
+https://devguide.python.org/#quick-reference
+
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 https://www.python.org/dev/peps/pep-0537/ | PEP 537 -- Python 3.7 Release Schedule | Python.org
 
 https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
 https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
-
-https://devguide.python.org/developers
-https://devguide.python.org/#quick-reference
 
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
@@ -49,6 +49,7 @@ https://github.com/python/cpython/blob/master/Misc/NEWS
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 
 Mariatta
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
 https://github.com/berkerpeksag/cpython-merge-bot
 https://github.com/Mariatta/python_versions_and_distros
