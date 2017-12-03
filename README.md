@@ -3,8 +3,6 @@
 <!--
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
-
-https://mail.python.org/mailman/listinfo/core-workflow
 -->
 
 Python
@@ -19,6 +17,9 @@ CPython Contributing
 Dev Guides
 * [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
+
+Mailing List
+* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
 
 <!--
 https://devguide.python.org/developers
