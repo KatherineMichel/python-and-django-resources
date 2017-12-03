@@ -5,8 +5,6 @@ My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
 https://mail.python.org/mailman/listinfo/core-workflow
-
-http://legacy.python.org/psf/members
 -->
 
 Python
@@ -102,8 +100,6 @@ Django Contributing
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
 <!--
-https://www.djangoproject.com/community/
-
 https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
 
 https://code.djangoproject.com/wiki/LittleEasyImprovements
@@ -125,7 +121,3 @@ Django Mailing Lists and People
 * [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
-
-<!--
-https://www.djangoproject.com/foundation/individual-members
--->
