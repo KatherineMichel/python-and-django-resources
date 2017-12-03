@@ -3,6 +3,10 @@
 <!--
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
+
+https://mail.python.org/mailman/listinfo/core-workflow
+
+http://legacy.python.org/psf/members
 -->
 
 Python
@@ -26,6 +30,7 @@ https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Pytho
 https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
 
+https://devguide.python.org/developers
 https://devguide.python.org/#quick-reference
 
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
@@ -82,6 +87,10 @@ https://pythondotorg.readthedocs.io
 https://staging.python.org
 -->
 
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
 djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
@@ -98,10 +107,6 @@ https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding
 
 https://code.djangoproject.com/wiki/LittleEasyImprovements
 -->
-
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
 
 Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
@@ -121,8 +126,5 @@ Django Mailing Lists and People
 * [Django Organization Repo People](https://github.com/orgs/django/people)
 
 <!--
-http://legacy.python.org/psf/members
-
-https://devguide.python.org/developers
 https://www.djangoproject.com/foundation/individual-members
 -->
