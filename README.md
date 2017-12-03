@@ -77,6 +77,8 @@ python.org Contributing
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 
 <!--
+https://github.com/python/pythondotorg/graphs/contributors | Contributors to python/pythondotorg
+
 https://pythondotorg.readthedocs.io/contributing.html
 https://github.com/python/pythondotorg/tree/master
 https://github.com/python/performance
