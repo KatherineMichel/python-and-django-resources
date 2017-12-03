@@ -3,6 +3,9 @@
 <!--
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
+
+https://snarky.ca
+https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
 -->
 
 Python
