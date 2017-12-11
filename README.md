@@ -4,8 +4,20 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-https://snarky.ca
-https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+Mariatta
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
+https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
+https://github.com/berkerpeksag/cpython-merge-bot
+https://github.com/Mariatta/python_versions_and_distros
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
+https://github.com/Mariatta/cloner
+https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
+https://github.com/python/miss-islington/issues
+http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
+http://distrowatch.com/table.php?distribution=mint
+https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
 -->
 
 Python
@@ -21,10 +33,13 @@ Dev Guides
 * [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
 * [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
-Mailing List
+Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
+* [Permissions History](https://devguide.python.org/developers/#permissions-history)
 
 <!--
+https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+
 https://devguide.python.org/developers
 https://devguide.python.org/#quick-reference
 
@@ -49,21 +64,6 @@ https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13
 https://github.com/python/cpython/blob/master/Misc/NEWS
  
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
-
-Mariatta
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
-https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
-https://github.com/berkerpeksag/cpython-merge-bot
-https://github.com/Mariatta/python_versions_and_distros
-https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
-https://github.com/Mariatta/cloner
-https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
-https://github.com/python/miss-islington/issues
-http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
-http://distrowatch.com/table.php?distribution=mint
-https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
 -->
 
 Python Mentors
@@ -101,13 +101,14 @@ djangoproject.com Contributing
 * [code.djangoproject.com](https://code.djangoproject.com)
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
 
+Django Coding Style
+* [Django Coding Style](https://docs.djangoproject.com/en/2.0/internals/contributing/writing-code/coding-style/)
+
 Django Contributing
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
 <!--
-https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
-
 https://code.djangoproject.com/wiki/LittleEasyImprovements
 -->
 
@@ -115,7 +116,7 @@ Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
 * [Django Enhancement Proposals](https://github.com/django/deps)
-* [Django 1.11 Roadmap](https://code.djangoproject.com/wiki/Version1.11Roadmap) 
+* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
  
 Django Code of Conduct and Contributing
 * [Django Code of Conduct](https://www.djangoproject.com/conduct)
