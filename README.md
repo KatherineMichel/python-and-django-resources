@@ -1,8 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -20,6 +18,13 @@ https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
 https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
 http://distrowatch.com/table.php?distribution=mint
 https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
+-->
+
+<!--
+http://www.fullstackpython.com/deployment.html
+http://masteringdjango.com/testing-in-django
+
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
 -->
 
 Python
@@ -42,7 +47,6 @@ CPython Contributing
 
 Dev Guides
 * [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
-* [Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
@@ -103,6 +107,10 @@ https://pythondotorg.readthedocs.io
 https://staging.python.org
 -->
 
+Python and Django Git Bootcamps and Cheat Sheets
+* [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
+* [Django: Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+
 djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
@@ -110,6 +118,9 @@ djangoproject.com Contributing
 
 Django Coding Style
 * [Django Coding Style](https://docs.djangoproject.com/en/2.0/internals/contributing/writing-code/coding-style/)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/1.10/howto/deployment/checklist)
 
 Django Contributing
 * [Tickets](https://code.djangoproject.com/query)
