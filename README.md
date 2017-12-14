@@ -78,6 +78,11 @@ Python- Official Packaging
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 
 <!--
+* [Pypa Warehouse](https://github.com/pypa/warehouse)
+
+https://pypi.org/ | PyPI - the Python Package Index · Warehouse (PyPI)
+https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
+
 Python- Creating Packages
 * [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
 
