@@ -32,13 +32,10 @@ Python
 * [Python GitHub](https://github.com/python)
 
 Python Authorities
+* [Python Packaging Authority (PyPA)](https://pypa.io)
 * [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
-
-<!--
-PyPA | Python Packaging Authority | https://pypa.io/
--->
 
 CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
@@ -48,12 +45,11 @@ CPython Contributing
 Dev Guides
 * [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
 
-Mailing List and Permissions History
-* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
-* [Permissions History](https://devguide.python.org/developers/#permissions-history)
-
 <!--
 https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+CPython workflow changes
+https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+Python Release Managers
 
 https://devguide.python.org/developers
 https://devguide.python.org/#quick-reference
@@ -68,18 +64,53 @@ https://docs.python.org/devguide/committing.html#working-with-git | 16. Committi
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
 
-CPython workflow changes
-https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
-Python Release Managers
-
 https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
+https://wiki.python.org/moin/BuildBot
 
-Developer Log and News
-https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
-https://github.com/python/cpython/blob/master/Misc/NEWS
- 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
+
+Python- Official Packaging
+* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
+* [Python Packaging User Guide](https://packaging.python.org) 
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
+
+<!--
+Python- Creating Packages
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+https://packaging.python.org/guides/
+https://packaging.python.org/new-tutorials | Maze Found | Read the Docs
+https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
+https://packaging.python.org/tutorials/installing-packages
+
+https://github.com/pypa/python-packaging-user-guide/issues
+-->
+
+Python- Additional Packaging Tutorials
+* [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+
+<!--
+https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
+
+https://github.com/kennethreitz/samplemod | kennethreitz/samplemod: Sample module for Python-Guide.org.
+
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
+
+https://pythonhosted.org/setuptools/formats.html
+http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
+-->
+
+Python- Wheel (versus Egg!)
+* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
+* [Python Wheels](http://pythonwheels.com)
+
+Mailing List and Permissions History
+* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
+* [Permissions History](https://devguide.python.org/developers/#permissions-history)
+* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
 
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
