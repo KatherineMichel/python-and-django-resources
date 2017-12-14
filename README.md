@@ -127,6 +127,27 @@ Python- Wheel (versus Egg!)
 * [Python Wheels](http://pythonwheels.com)
 
 <!--
+http://eldarion.com/blog/2017/10/17/how-we-maintain-high-levels-code-quality/
+http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/
+
+https://codecov.io/
+https://circleci.com/
+https://coverage.readthedocs.io/en/coverage-4.4.1/#quick-start
+https://bitbucket.org/ned/coveragepy | ned / coverage.py — Bitbucket
+coverage http://coverage.readthedocs.org/
+https://github.com/FactoryBoy/factory_boy | FactoryBoy/factory_boy: A test fixtures replacement for Python
+factory boy https://pypi.python.org/pypi/factory_boy
+https://pypi.python.org/pypi/detox
+Tox (Automation)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
+http://django-test-plus.readthedocs.io/en/latest/
+https://github.com/timothycrosley/isort
+http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
+
+
 2.12 Writing your first patch for Django
 https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches
 https://docs.python.org/3.5/library/unittest.html
@@ -156,24 +177,8 @@ http://doc.pytest.org/en/latest/contents.html#toc
 https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
 https://www.obeythetestinggoat.com/
 
-https://bitbucket.org/ned/coveragepy | ned / coverage.py — Bitbucket
-coverage http://coverage.readthedocs.org/
 http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
 
-https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
-http://django-test-plus.readthedocs.io/en/latest/
-
-https://github.com/FactoryBoy/factory_boy | FactoryBoy/factory_boy: A test fixtures replacement for Python
-factory boy https://pypi.python.org/pypi/factory_boy
-
-https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
-
-http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
-https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
-
-Tox (Automation)
-* [Tox Read the Docs](https://tox.readthedocs.org)
-https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
 noqa - Google Search
 
 http://www.pyinvoke.org/
