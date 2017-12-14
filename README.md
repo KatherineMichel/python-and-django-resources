@@ -71,7 +71,7 @@ https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-8
 -->
 
 Python- Packages/Libraries
-* [Python Package Warehouse](https://warehouse.python.org/project) 
+* [Pre-Production Deployment of Warehouse](https://pypi.org) and [Warehouse GitHub](https://github.com/pypa/warehouse) 
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 
 Python- Official Packaging Info
@@ -82,9 +82,6 @@ Python- Official Packaging Info
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 
 <!--
-* [Pypa Warehouse GitHub](https://github.com/pypa/warehouse)
-
-https://pypi.org/ | PyPI - the Python Package Index · Warehouse (PyPI)
 https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
 
 Python- Creating Packages
@@ -101,23 +98,29 @@ https://github.com/pypa/python-packaging-user-guide/issues
 Python- Additional Packaging Tutorials
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
-<!--
-https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
+Kenneth Reitz- Sample Module and setup.py
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
 
-https://github.com/kennethreitz/samplemod | kennethreitz/samplemod: Sample module for Python-Guide.org.
+<!--
+Sample module for Python-Guide.org.
+http://docs.python-guide.org/en/latest/
+
+https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
 
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://pythonhosted.org/setuptools/formats.html
 http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
+-->
 
-Python and Django- Cookiecutter Creating Packages
+Python- Cookiecutter Creating Packages
 * [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 * [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
--->
 
 Python- Wheel (versus Egg!)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
@@ -144,7 +147,6 @@ python.org Contributing
 <!--
 https://github.com/python/pythondotorg/graphs/contributors | Contributors to python/pythondotorg
 
-https://pythondotorg.readthedocs.io/contributing.html
 https://github.com/python/pythondotorg/tree/master
 
 https://pythondotorg.readthedocs.io/install.html
