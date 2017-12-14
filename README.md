@@ -64,6 +64,8 @@ https://docs.python.org/devguide/committing.html#working-with-git | 16. Committi
 http://cpython-devguide.readthedocs.io/documenting.html#building-doc
 http://cpython-devguide.readthedocs.io/#quick-reference
 
+https://github.com/python/core-workflow | python/core-workflow: Issue tracker for CPython's workflow
+
 https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
 https://wiki.python.org/moin/BuildBot
 
@@ -93,6 +95,9 @@ https://packaging.python.org/tutorials/managing-dependencies/ | Managing Applica
 https://packaging.python.org/tutorials/installing-packages
 
 https://github.com/pypa/python-packaging-user-guide/issues
+
+https://github.com/pypa/twine | pypa/twine: Utilities for interacting with PyPI
+https://pypi.python.org/pypi/twine | twine 1.9.1 : Python Package Index
 -->
 
 Python- Additional Packaging Tutorials
@@ -145,7 +150,9 @@ https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful add
 http://django-test-plus.readthedocs.io/en/latest/
 https://github.com/timothycrosley/isort
 http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+https://github.com/PyCQA/flake8 | PyCQA/flake8: The official GitHub mirror of https://gitlab.com/pycqa/flake8
 https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
+
 
 
 2.12 Writing your first patch for Django
