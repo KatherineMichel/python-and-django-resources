@@ -126,6 +126,65 @@ Python- Wheel (versus Egg!)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
+<!--
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches
+https://docs.python.org/3.5/library/unittest.html
+http://www.diveintopython.net/unit_testing
+
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+Test-Driven Development with Python<br>
+
+pytest and Nose (Unit Test Extension)
+* [Nose GitHub](https://github.com/nose-devs/nose)
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
+* [pytest](http://pytest.org)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [mock PyPi](https://pypi.python.org/pypi/mock)
+
+https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
+https://docs.pytest.org/en/latest/example/
+https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
+http://doc.pytest.org/en/latest/contents.html#toc
+
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+https://www.obeythetestinggoat.com/
+
+https://bitbucket.org/ned/coveragepy | ned / coverage.py — Bitbucket
+coverage http://coverage.readthedocs.org/
+http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
+
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
+http://django-test-plus.readthedocs.io/en/latest/
+
+https://github.com/FactoryBoy/factory_boy | FactoryBoy/factory_boy: A test fixtures replacement for Python
+factory boy https://pypi.python.org/pypi/factory_boy
+
+https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
+
+http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
+
+Tox (Automation)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
+noqa - Google Search
+
+http://www.pyinvoke.org/
+
+model mommy https://pypi.python.org/pypi/model_mommy
+ 
+Selenium
+* [Selenium](http://www.seleniumhq.org)
+-->
+
+
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
 * [Permissions History](https://devguide.python.org/developers/#permissions-history)
