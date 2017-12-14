@@ -32,7 +32,7 @@ Python
 * [Python GitHub](https://github.com/python)
 
 Python Authorities
-* [Python Packaging Authority (PyPA)](https://pypa.io)
+* [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
 * [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
@@ -70,7 +70,11 @@ https://wiki.python.org/moin/BuildBot
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
-Python- Official Packaging
+Python- Packages/Libraries
+* [Python Package Warehouse](https://warehouse.python.org/project) 
+* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+
+Python- Official Packaging Info
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
 * [Python Packaging User Guide](https://packaging.python.org) 
@@ -78,7 +82,7 @@ Python- Official Packaging
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 
 <!--
-* [Pypa Warehouse](https://github.com/pypa/warehouse)
+* [Pypa Warehouse GitHub](https://github.com/pypa/warehouse)
 
 https://pypi.org/ | PyPI - the Python Package Index · Warehouse (PyPI)
 https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
@@ -106,6 +110,14 @@ http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.
 
 https://pythonhosted.org/setuptools/formats.html
 http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
+
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+
+Python and Django- Cookiecutter Creating Packages
+* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
+* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 -->
 
 Python- Wheel (versus Egg!)
@@ -135,7 +147,6 @@ https://github.com/python/pythondotorg/graphs/contributors | Contributors to pyt
 
 https://pythondotorg.readthedocs.io/contributing.html
 https://github.com/python/pythondotorg/tree/master
-https://github.com/python/performance
 
 https://pythondotorg.readthedocs.io/install.html
 https://pythondotorg.readthedocs.io/contributing.html
@@ -161,10 +172,6 @@ Django Deployment
 Django Contributing
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
-
-<!--
-https://code.djangoproject.com/wiki/LittleEasyImprovements
--->
 
 Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
