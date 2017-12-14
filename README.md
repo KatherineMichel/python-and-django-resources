@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -23,6 +25,15 @@ https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_ve
 Python
 * [Python Front Page](https://wiki.python.org/moin/FrontPage)
 * [Python GitHub](https://github.com/python)
+
+Python Authorities
+* [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
+* [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
+* [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
+
+<!--
+PyPA | Python Packaging Authority | https://pypa.io/
+-->
 
 CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
@@ -114,13 +125,20 @@ Django, Releases, Announcements, and Roadmaps
 * [Django Enhancement Proposals](https://github.com/django/deps)
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
  
-Django Code of Conduct and Contributing
-* [Django Code of Conduct](https://www.djangoproject.com/conduct)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+Django DEPS
+* [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+Django Developers Forum and Slack
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+* [Django Developers Slack](https://django-developers.herokuapp.com)
 
 Django Mailing Lists and People
 * [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
 * [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
+
+Django Code of Conduct and Contributing
+* [Django Code of Conduct](https://www.djangoproject.com/conduct)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
