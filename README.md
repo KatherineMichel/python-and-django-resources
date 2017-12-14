@@ -111,9 +111,8 @@ http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.
 https://pythonhosted.org/setuptools/formats.html
 http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
 
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-
 Python and Django- Cookiecutter Creating Packages
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 * [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
