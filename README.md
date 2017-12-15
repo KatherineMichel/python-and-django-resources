@@ -95,9 +95,6 @@ https://packaging.python.org/tutorials/managing-dependencies/ | Managing Applica
 https://packaging.python.org/tutorials/installing-packages
 
 https://github.com/pypa/python-packaging-user-guide/issues
-
-https://github.com/pypa/twine | pypa/twine: Utilities for interacting with PyPI
-https://pypi.python.org/pypi/twine | twine 1.9.1 : Python Package Index
 -->
 
 Python- Additional Packaging Tutorials
@@ -109,6 +106,12 @@ Kenneth Reitz- Sample Module and setup.py
 * [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
 
 <!--
+https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
+https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
+
+https://github.com/pypa/twine | pypa/twine: Utilities for interacting with PyPI
+https://pypi.python.org/pypi/twine | twine 1.9.1 : Python Package Index
+
 Sample module for Python-Guide.org.
 http://docs.python-guide.org/en/latest/
 
