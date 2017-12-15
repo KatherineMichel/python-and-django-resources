@@ -251,6 +251,11 @@ Django, Releases, Announcements, and Roadmaps
 * [Django Enhancement Proposals](https://github.com/django/deps)
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
  
+ <!--
+https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/
+https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+-->
+
 Django DEPS
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
