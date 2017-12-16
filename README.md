@@ -106,6 +106,10 @@ Kenneth Reitz- Sample Module and setup.py
 * [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
 
 <!--
+https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24 | How to publish your own Python Package on PyPi – freeCodeCamp
+https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
+https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
+
 https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
 https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
 
