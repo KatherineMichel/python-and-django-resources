@@ -112,6 +112,8 @@ https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christ
 
 https://help.github.com/articles/working-with-tags/ | Working with Tags - User Documentation
 https://help.github.com/articles/creating-releases/ | Creating Releases - User Documentation
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+https://help.github.com/articles/about-releases/ | About Releases - User Documentation
 
 https://github.com/pypa/twine | pypa/twine: Utilities for interacting with PyPI
 https://pypi.python.org/pypi/twine | twine 1.9.1 : Python Package Index
