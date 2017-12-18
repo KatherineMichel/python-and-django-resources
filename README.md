@@ -45,10 +45,11 @@ CPython Contributing
 Dev Guides
 * [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
 
+CPython GitHub Migration
+* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
+* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
+
 <!--
-https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
-CPython workflow changes
-https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
 Python Release Managers
 
 https://devguide.python.org/developers
@@ -204,7 +205,6 @@ model mommy https://pypi.python.org/pypi/model_mommy
 Selenium
 * [Selenium](http://www.seleniumhq.org)
 -->
-
 
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
