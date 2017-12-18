@@ -222,18 +222,11 @@ Python Mentorship for Women (Guido van Rossum), Female Core Devs
 python.org Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
 * [python.org Issues](https://github.com/python/pythondotorg/issues)
+* [python.org Staging](https://staging.python.org)
+* [python.org Read the Docs](https://pythondotorg.readthedocs.io)
+* [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
-
-<!--
-https://github.com/python/pythondotorg/graphs/contributors | Contributors to python/pythondotorg
-
-https://github.com/python/pythondotorg/tree/master
-
-https://pythondotorg.readthedocs.io/install.html
-https://pythondotorg.readthedocs.io/contributing.html
-https://pythondotorg.readthedocs.io
-https://staging.python.org
--->
+* [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
 
 Python and Django Git Bootcamps and Cheat Sheets
 * [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
@@ -257,15 +250,8 @@ Django Contributing
 Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-* [Django Enhancement Proposals](https://github.com/django/deps)
+* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0) and [Django 2.0 Blog Post](https://www.djangoproject.com/weblog/2017/dec/02/django-20-released)
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
- 
- <!--
-https://www.djangoproject.com/weblog/2017/dec/02/django-20-released/
-https://docs.djangoproject.com/en/2.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
--->
-
-Django DEPS
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 Django Developers Forum and Slack
