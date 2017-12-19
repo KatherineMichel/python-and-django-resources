@@ -113,7 +113,7 @@ https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ 
 https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
 
 Sample module for Python-Guide.org.
-http://docs.python-guide.org/en/latest/
+http://docs.python-guide.org
 
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
