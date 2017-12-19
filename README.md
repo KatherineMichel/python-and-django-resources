@@ -83,9 +83,6 @@ Python- Official Packaging Info
 https://github.com/pypa/python-packaging-user-guide/issues
 -->
 
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-
 Kenneth Reitz- Sample Module and setup.py
 * [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod)
 * [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
@@ -98,7 +95,10 @@ Package Stats
 * ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
 
 <!--
-https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24 | How to publish your own Python Package on PyPi – freeCodeCamp
+Python- Additional Packaging Tutorials
+* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
+
 https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
 https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
 
