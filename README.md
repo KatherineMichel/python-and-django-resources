@@ -20,13 +20,6 @@ http://distrowatch.com/table.php?distribution=mint
 https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
 -->
 
-<!--
-http://www.fullstackpython.com/deployment.html
-http://masteringdjango.com/testing-in-django
-
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
--->
-
 Python
 * [Python Front Page](https://wiki.python.org/moin/FrontPage)
 * [Python GitHub](https://github.com/python)
@@ -55,7 +48,6 @@ Core Workflow Tools
 * [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker)
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
-
 <!--
 Python Release Managers
 
@@ -73,7 +65,7 @@ https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-8
 -->
 
 Python- Packages/Libraries
-* [Pre-Production Deployment of Warehouse](https://pypi.org) and [Warehouse GitHub](https://github.com/pypa/warehouse) 
+* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 
 Python Docs- Packaging
@@ -88,8 +80,6 @@ Python- Official Packaging Info
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 
 <!--
-https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
-
 https://github.com/pypa/python-packaging-user-guide/issues
 -->
 
@@ -118,6 +108,8 @@ http://docs.python-guide.org
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://pythonhosted.org/setuptools/formats.html
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
 http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
 -->
 
