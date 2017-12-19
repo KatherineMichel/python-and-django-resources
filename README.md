@@ -40,35 +40,34 @@ Python Authorities
 CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
 * [Bugs](http://bugs.python.org)
-* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker)
-
-Dev Guides
-* [Python Dev Guide](https://docs.python.org/devguide), [Python Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [Python Dev Guide GitHub](https://github.com/python/devguide)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 
 CPython GitHub Migration
 * ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
 * ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
 
+Release
+* [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+
+Core Workflow Tools
+* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
+* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker)
+* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+
 <!--
 Python Release Managers
 
-https://devguide.python.org/developers
 https://devguide.python.org/#quick-reference
 
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-https://www.python.org/dev/peps/pep-0537/ | PEP 537 -- Python 3.7 Release Schedule | Python.org
 
-https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
-https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
-https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
+https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
 
-http://cpython-devguide.readthedocs.io/documenting.html#building-doc
-http://cpython-devguide.readthedocs.io/#quick-reference
-
-https://github.com/python/core-workflow | python/core-workflow: Issue tracker for CPython's workflow
-
-https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
-https://wiki.python.org/moin/BuildBot
+https://devguide.python.org/documenting.html#building-doc
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
@@ -77,23 +76,19 @@ Python- Packages/Libraries
 * [Pre-Production Deployment of Warehouse](https://pypi.org) and [Warehouse GitHub](https://github.com/pypa/warehouse) 
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 
+Python Docs- Packaging
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
 Python- Official Packaging Info
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
 * [Python Packaging User Guide](https://packaging.python.org) 
 * [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 
 <!--
 https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
-
-Python- Creating Packages
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-https://packaging.python.org/guides/
-https://packaging.python.org/new-tutorials | Maze Found | Read the Docs
-https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-https://packaging.python.org/tutorials/installing-packages
 
 https://github.com/pypa/python-packaging-user-guide/issues
 -->
@@ -109,6 +104,9 @@ Kenneth Reitz- Sample Module and setup.py
 Package Helpers
 * [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
 
+Package Stats
+* ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
+
 <!--
 https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24 | How to publish your own Python Package on PyPi – freeCodeCamp
 https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
@@ -116,8 +114,6 @@ https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christ
 
 Sample module for Python-Guide.org.
 http://docs.python-guide.org/en/latest/
-
-https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
 
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
