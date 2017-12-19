@@ -11,8 +11,6 @@ https://github.com/berkerpeksag/cpython-merge-bot
 https://github.com/Mariatta/python_versions_and_distros
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
 https://github.com/Mariatta/cloner
-https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
-https://github.com/python/miss-islington/issues
 http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
 https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
@@ -50,6 +48,9 @@ Core Workflow Tools
 
 <!--
 Python Release Managers
+
+https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
+https://github.com/python/miss-islington/issues
 
 https://devguide.python.org/#quick-reference
 
@@ -110,7 +111,7 @@ http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.
 https://pythonhosted.org/setuptools/formats.html
 https://pythonhosted.org/an_example_pypi_project/setuptools.html
 
-http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
+https://pip.pypa.io/en/stable/reference/pip_wheel
 -->
 
 Python- Cookiecutter Creating Packages
@@ -121,6 +122,7 @@ Python- Cookiecutter Creating Packages
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 Python- Wheel (versus Egg!)
+* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
