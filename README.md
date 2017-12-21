@@ -44,12 +44,12 @@ Release
 Core Workflow Tools
 * [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
 * [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker)
+* [miss-islington](https://github.com/python/miss-islington)
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
 <!--
 Python Release Managers
 
-https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
 https://github.com/python/miss-islington/issues
 
 https://devguide.python.org/#quick-reference
