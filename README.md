@@ -28,6 +28,10 @@ Python Authorities
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
+<!--
+https://www.python.org/dev/peps/pep-0012/ | PEP 12 -- Sample reStructuredText PEP Template | Python.org
+-->
+
 CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
 * [Bugs](http://bugs.python.org)
