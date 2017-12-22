@@ -54,6 +54,10 @@ Core Workflow Tools
 <!--
 Python Release Managers
 
+https://github.com/python/python-docs-theme | python/python-docs-theme: Sphinx theme for Python documentation
+
+https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
+
 https://github.com/python/miss-islington/issues
 
 https://devguide.python.org/#quick-reference
