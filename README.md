@@ -89,6 +89,10 @@ Kenneth Reitz- Sample Module and setup.py
 * [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
 
+<!--
+https://github.com/kennethreitz/setup.py/blob/master/setup.py | setup.py/setup.py at master · kennethreitz/setup.py
+-->
+
 Package Helpers
 * [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
 
@@ -96,6 +100,19 @@ Package Stats
 * ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
 
 <!--
+https://media.readthedocs.org/pdf/python-packaging-user-guide/latest/python-packaging-user-guide.pdf | Python Packaging User Guide
+
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/library/distutils.html | 28.1. distutils — Building and installing Python modules — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+
 Python- Additional Packaging Tutorials
 * [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 * [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
