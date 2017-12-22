@@ -62,6 +62,8 @@ https://devguide.python.org/documenting/#building-the-documentation | 7. Documen
 
 https://github.com/python/miss-islington/issues
 
+http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
+
 https://devguide.python.org/#quick-reference
 
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
