@@ -56,6 +56,8 @@ Python Release Managers
 
 https://github.com/python/python-docs-theme | python/python-docs-theme: Sphinx theme for Python documentation
 
+Doc/build/html/index.html - Google Search
+https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
 
 https://github.com/python/miss-islington/issues
