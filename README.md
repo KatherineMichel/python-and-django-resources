@@ -8,7 +8,10 @@ Mariatta
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
 https://github.com/berkerpeksag/cpython-merge-bot
-https://github.com/Mariatta/python_versions_and_distros
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
 https://github.com/Mariatta/cloner
 http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
@@ -16,6 +19,7 @@ https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
 https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
 http://distrowatch.com/table.php?distribution=mint
 https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
+https://github.com/Mariatta/python_versions_and_distros
 -->
 
 Python
@@ -28,18 +32,17 @@ Python Authorities
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
-<!--
-https://www.python.org/dev/peps/pep-0012/ | PEP 12 -- Sample reStructuredText PEP Template | Python.org
--->
+PEP Template
+* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
+
+CPython GitHub Migration
+* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
+* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
 
 CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
 * [Bugs](http://bugs.python.org)
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-
-CPython GitHub Migration
-* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
-* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
 
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
@@ -47,32 +50,34 @@ Release
 
 Core Workflow Tools
 * [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
-* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker)
+* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
 * [miss-islington](https://github.com/python/miss-islington)
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+Sphinx and Django-Sphinx
+* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
+* [Sphinx](http://sphinx-doc.org)  
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
 Python Release Managers
 
-https://github.com/python/python-docs-theme | python/python-docs-theme: Sphinx theme for Python documentation
-
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
+
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
+https://devguide.python.org/documenting.html#building-doc
 
 https://github.com/python/miss-islington/issues
 
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
 https://devguide.python.org/#quick-reference
-
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-
 https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
 https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
-
-https://devguide.python.org/documenting.html#building-doc
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
