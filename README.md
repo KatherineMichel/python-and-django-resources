@@ -60,14 +60,18 @@ Sphinx and Django-Sphinx
 * [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
+Command Line
+* [Click GitHub](https://github.com/pallets/click)
+* [Chalk GitHub](https://github.com/chalk/chalk)
+
 <!--
 Python Release Managers
 
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
+https://pypi.python.org/pypi/blurb
 
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
-https://devguide.python.org/documenting.html#building-doc
 
 https://github.com/python/miss-islington/issues
 
