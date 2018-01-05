@@ -6,6 +6,8 @@ http://bugs.python.org/user26332
 
 https://github.com/Mariatta | Mariatta
 
+http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+
 Mariatta
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
