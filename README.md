@@ -217,6 +217,10 @@ Django, Releases, Announcements, and Roadmaps
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
+<!--
+https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
+-->
+
 Django Developers Forum and Slack
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
