@@ -74,6 +74,7 @@ Command Line
 
 <!--
 Python Release Managers
+https://mail.python.org/pipermail/python-dev/2018-January/151949.html | [Python-Dev] Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!
 
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
@@ -85,6 +86,9 @@ https://github.com/python/miss-islington/issues
 
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
+https://docs.python.org/devguide/ | Python Developer’s Guide — Python Developer's Guide
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+
 https://devguide.python.org/#quick-reference
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
@@ -93,84 +97,6 @@ https://devguide.python.org/committing.html | 16. Committing and Pushing Changes
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
-
-Python- Packages/Libraries
-* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
-* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
-
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
-
-<!--
-https://github.com/pypa/python-packaging-user-guide/issues
--->
-
-Kenneth Reitz- Sample Module and setup.py
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-<!--
-https://github.com/kennethreitz/setup.py/blob/master/setup.py | setup.py/setup.py at master · kennethreitz/setup.py
--->
-
-Package Helpers
-* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
-
-Package Stats
-* ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
-
-<!--
-https://media.readthedocs.org/pdf/python-packaging-user-guide/latest/python-packaging-user-guide.pdf | Python Packaging User Guide
-
-https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
-
-https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
-https://docs.python.org/3.6/library/distutils.html | 28.1. distutils — Building and installing Python modules — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
-
-https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
-https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
-
-
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
-
-https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
-https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
-
-Sample module for Python-Guide.org.
-http://docs.python-guide.org
-
-http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
-
-https://pythonhosted.org/setuptools/formats.html
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://pip.pypa.io/en/stable/reference/pip_wheel
--->
-
-Python- Cookiecutter Creating Packages
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
-* [Python Wheels](http://pythonwheels.com)
 
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
