@@ -98,6 +98,9 @@ https://devguide.python.org/committing.html | 16. Committing and Pushing Changes
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
+Python Sprints
+* [Python Sprints](https://python-sprints.github.io)
+
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
 * [Permissions History](https://devguide.python.org/developers/#permissions-history)
