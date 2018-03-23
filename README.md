@@ -36,6 +36,12 @@ Python Authorities
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
+<!--
+https://github.com/pypa/warehouse
+https://github.com/pypa/warehouse/issues
+https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
+-->
+
 PEP Template
 * [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
 
@@ -122,6 +128,10 @@ python.org Contributing
 * [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
+
+<!--
+https://status.python.org | Python Infrastructure Status - Spam on PyPI
+-->
 
 Python and Django Git Bootcamps and Cheat Sheets
 * [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
