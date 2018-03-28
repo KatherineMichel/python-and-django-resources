@@ -9,6 +9,8 @@ http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Pyt
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GItHub Workflow with Bots
+
 https://github.com/Mariatta | Mariatta
 
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
