@@ -1,6 +1,11 @@
 # Python and Django- Contributing
 
 <!--
+http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
+https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1wvCm_cLddg/viewform | Conducting user tests on PyPI
+https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
+http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -37,6 +42,9 @@ Python Authorities
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
 <!--
+https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
+https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
+
 https://github.com/pypa/warehouse
 https://github.com/pypa/warehouse/issues
 https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
