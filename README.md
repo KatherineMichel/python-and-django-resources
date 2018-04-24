@@ -56,25 +56,6 @@ Python Authorities
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
-Python- Packages/Libraries
-* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
-* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
-
-<!--
-https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
-https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
-
-https://github.com/pypa/warehouse
-https://github.com/pypa/warehouse/issues
-https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
-
-Package Stats
-* ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
-
-https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
-https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
--->
-
 PEP Template
 * [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
 
@@ -136,6 +117,35 @@ https://devguide.python.org/committing.html | 16. Committing and Pushing Changes
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
+
+Python- Packages/Libraries
+* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
+* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+
+<!--
+https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
+https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
+
+https://github.com/pypa/warehouse
+https://github.com/pypa/warehouse/issues
+https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
+
+Package Stats
+* ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
+
+https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
+https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
+-->
+
+Package Helpers
+* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
+
+Python- Cookiecutter Creating Packages
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
+* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 Python Sprints
 * [Python Sprints](https://python-sprints.github.io)
