@@ -185,7 +185,7 @@ Django Coding Style
 * [Django Coding Style](https://docs.djangoproject.com/en/2.0/internals/contributing/writing-code/coding-style/)
 
 Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/1.10/howto/deployment/checklist)
+* [Deployment Checklist](https://docs.djangoproject.com/en/2.0/howto/deployment/checklist)
 
 Django Contributing
 * [Tickets](https://code.djangoproject.com/query)
