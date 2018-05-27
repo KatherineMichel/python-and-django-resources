@@ -196,6 +196,7 @@ Django, Releases, Announcements, and Roadmaps
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 <!--
+https://code.djangoproject.com/wiki/Version2.0Roadmap | Version2.0Roadmap – Django
 https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
 
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
