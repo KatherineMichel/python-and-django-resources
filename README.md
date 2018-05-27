@@ -184,12 +184,6 @@ djangoproject.com Contributing
 * [code.djangoproject.com](https://code.djangoproject.com)
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
 
-Django Coding Style
-* [Django Coding Style](https://docs.djangoproject.com/en/2.0/internals/contributing/writing-code/coding-style/)
-
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/2.0/howto/deployment/checklist)
-
 Django Contributing
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
