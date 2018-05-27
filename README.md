@@ -34,6 +34,7 @@ https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/
 https://github.com/berkerpeksag/cpython-merge-bot
 https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
 https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
 https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
 https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
