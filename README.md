@@ -72,6 +72,9 @@ CPython Contributing
 https://travis-ci.org/python/cpython/
 -->
 
+Python 2 End of Life (EOL)
+* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
+
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
