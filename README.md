@@ -69,6 +69,10 @@ CPython Contributing
 * [Bugs](http://bugs.python.org)
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 
+Python Status
+* [Python Status](https://status.python.org)
+* [Python Status History](https://status.python.org/history)
+
 <!--
 https://travis-ci.org/python/cpython/
 -->
@@ -168,10 +172,6 @@ python.org Contributing
 * [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
-
-<!--
-https://status.python.org | Python Infrastructure Status - Spam on PyPI
--->
 
 Python and Django Git Bootcamps and Cheat Sheets
 * [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
