@@ -1,6 +1,9 @@
 # Python and Django- Contributing
 
 <!--
+* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
+* [Stack Overflow Post](https://stackoverflow.blog/2017/09/06/incredible-growth-python) about the incredible growth of Python.
+
 Data Classes
 https://github.com/ericvsmith | ericvsmith (Eric V. Smith)
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
