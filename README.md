@@ -6,6 +6,10 @@ https://docs.python.org/3/about.html | About these documents — Python 3.6.5 do
 * [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
 * [Stack Overflow Post](https://stackoverflow.blog/2017/09/06/incredible-growth-python) about the incredible growth of Python.
 
+https://github.com/python/python-dev-survey | python/python-dev-survey: Place for gathering feedback from the public on the Python Developers Survey
+https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
+https://opensource.com/article/18/5/numbers-python-community-trends | By the numbers: Python community trends in 2017/2018 | Opensource.com
+
 Data Classes
 https://github.com/ericvsmith | ericvsmith (Eric V. Smith)
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
