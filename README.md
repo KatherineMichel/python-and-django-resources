@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
+
 * [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
 * [Stack Overflow Post](https://stackoverflow.blog/2017/09/06/incredible-growth-python) about the incredible growth of Python.
 
@@ -51,7 +53,7 @@ https://github.com/Mariatta/python_versions_and_distros
 -->
 
 Python
-* [Python Front Page](https://wiki.python.org/moin/FrontPage)
+* [Python Front Page](https://wiki.python.org/moin)
 * [Python GitHub](https://github.com/python)
 
 Python Authorities
