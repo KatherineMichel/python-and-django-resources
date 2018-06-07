@@ -202,7 +202,15 @@ Django, Releases, Announcements, and Roadmaps
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 <!--
-https://code.djangoproject.com/wiki/Version2.0Roadmap | Version2.0Roadmap – Django
+http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django/
+
+https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist | FAQ: General | Django documentation | Django
+
+https://www.djangoproject.com/foundation/teams/ | Django Software Foundation | Django
+https://docs.djangoproject.com/en/dev/internals/ | Django internals | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/committers/ | Page not found | Django
+
 https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
 
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
