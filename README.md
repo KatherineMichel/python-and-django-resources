@@ -110,6 +110,10 @@ Command Line
 * [Chalk GitHub](https://github.com/chalk/chalk)
 
 <!--
+Regression Test Suite For Python Core Developers
+https://docs.python.org/3/library/test.html
+https://docs.python.org/3/library/test.html#module-test.support
+
 Python Release Managers
 https://mail.python.org/pipermail/python-dev/2018-January/151949.html | [Python-Dev] Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!
 
