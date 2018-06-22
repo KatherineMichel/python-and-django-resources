@@ -110,6 +110,12 @@ Command Line
 * [Chalk GitHub](https://github.com/chalk/chalk)
 
 <!--
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+
 Regression Test Suite For Python Core Developers
 https://docs.python.org/3/library/test.html
 https://docs.python.org/3/library/test.html#module-test.support
