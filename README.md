@@ -116,6 +116,8 @@ http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documen
 https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 
+https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
+
 Regression Test Suite For Python Core Developers
 https://docs.python.org/3/library/test.html
 https://docs.python.org/3/library/test.html#module-test.support
