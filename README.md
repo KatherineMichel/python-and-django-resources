@@ -119,7 +119,9 @@ https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package 
 https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
 
 Regression Test Suite For Python Core Developers
+26.8. test — Regression tests package for Python
 https://docs.python.org/3/library/test.html
+26.9. test.support — Utilities for the Python test suite
 https://docs.python.org/3/library/test.html#module-test.support
 
 Python Release Managers
