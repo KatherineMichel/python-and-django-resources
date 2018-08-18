@@ -31,7 +31,9 @@ http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Pyt
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GItHub Workflow with Bots
+PEP 581 -- Using GitHub Issues for CPython
+https://www.python.org/dev/peps/pep-0581/
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 
 https://github.com/Mariatta | Mariatta
 
