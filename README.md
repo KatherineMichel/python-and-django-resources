@@ -10,11 +10,6 @@ https://github.com/python/python-dev-survey | python/python-dev-survey: Place fo
 https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
 https://opensource.com/article/18/5/numbers-python-community-trends | By the numbers: Python community trends in 2017/2018 | Opensource.com
 
-Data Classes
-https://github.com/ericvsmith | ericvsmith (Eric V. Smith)
-https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
-https://www.python.org/dev/peps/pep-0557/ | PEP 557 -- Data Classes | Python.org
-
 Dropping Support
 http://python3statement.org/ | Sunsetting Python 2 support in scientific Python projects
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
