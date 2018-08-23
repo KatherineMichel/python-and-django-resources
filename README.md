@@ -107,17 +107,7 @@ Sphinx and Django-Sphinx
 * [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
-Command Line
-* [Click GitHub](https://github.com/pallets/click)
-* [Chalk GitHub](https://github.com/chalk/chalk)
-
 <!--
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
-
 https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
 
 Regression Test Suite For Python Core Developers
