@@ -1,40 +1,49 @@
 # Python and Django- Contributing
 
 <!--
+My CPython Issue and Pull Requests
+http://bugs.python.org/user26332
+
+https://lwn.net/Articles/754152/ | The 2018 Python Language Summit [LWN.net]
+
+http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+
 https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
 
-* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
 * [Stack Overflow Post](https://stackoverflow.blog/2017/09/06/incredible-growth-python) about the incredible growth of Python.
 
 https://github.com/python/python-dev-survey | python/python-dev-survey: Place for gathering feedback from the public on the Python Developers Survey
 https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
 https://opensource.com/article/18/5/numbers-python-community-trends | By the numbers: Python community trends in 2017/2018 | Opensource.com
 
+https://wiki.python.org/moin/Python2orPython3
+https://www.djangopackages.com/python3/
+
 Dropping Support
 http://python3statement.org/ | Sunsetting Python 2 support in scientific Python projects
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+https://twitter.com/gvanrossum/status/1012462042094002176 | Guido van Rossum on Twitter: "Cool sites about the Python 3 transition: https://py3readiness.org/ , https://pythonclock.org/ , https://python3wos.appspot.com/ , https://python3statement.org/ 
 
-PyPI
-http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#livechat | Python Software Foundation News: Warehouse: All New PyPI is now in beta
-http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
-https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1wvCm_cLddg/viewform | Conducting user tests on PyPI
-https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
+https://mail.python.org/pipermail/python-committers/2018-July/005935.html | [python-committers] Proposal: an explicit, time-limited moratorium on finalizing any governance decisions
+https://lwn.net/Articles/757713/ | PEP 572 and decision-making in Python [LWN.net]
+https://mail.python.org/pipermail/python-committers/2018-July/005664.html | [python-committers] Transfer of power
+https://twitter.com/nayafia/status/1017758275301830656 | Nadia Eghbal on Twitter: "Guido retiring from Python reminds me (unsurprisingly) of Jacob retiring from Django Python: https://t.co/iIZzJVr8jh Django: https://t.co/mWvXJmKrTP Think it speaks volumes to the strength of a community when BDFLs make themseves obsolete. Respect!"
 
-http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+BDFL Python 3 retrospective
+PyCascades 2018 · Guido van Rossum
+https://www.youtube.com/watch?v=Oiw23yfqQy8
+* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
 
-My CPython Issue and Pull Requests
-http://bugs.python.org/user26332
-
-PEP 581 -- Using GitHub Issues for CPython
-https://www.python.org/dev/peps/pep-0581/
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://github.com/Mariatta | Mariatta
-
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld/ | A new and improved website; here are details on the redesign of LJWorld.com | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
+http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
+http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
+http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
+https://mail.python.org/pipermail/python-list/1999-June/001951.html | "The Python Way"
 
 Mariatta
+https://github.com/Mariatta | Mariatta
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
 https://github.com/berkerpeksag/cpython-merge-bot
@@ -51,6 +60,8 @@ https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn
 http://distrowatch.com/table.php?distribution=mint
 https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
 https://github.com/Mariatta/python_versions_and_distros
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 -->
 
 Python
@@ -89,6 +100,13 @@ Python 2 End of Life (EOL)
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+
+Issues PEP
+* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
+
+<!--
+https://lwn.net/Articles/754779/ | Using GitHub Issues for Python [LWN.net]
+-->
 
 Core Workflow Tools
 * [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
@@ -141,12 +159,30 @@ Python- Packages/Libraries
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 
 <!--
+https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
+
+https://github.com/pypa/pipfile/issues/27
+https://www.python.org/dev/peps/pep-0517/
+
+Inside the Cheeseshop: How Python Packaging Works
+PyCon 2018 · Dustin Ingram
+https://www.youtube.com/watch?v=AQsZsgJ30AE
+https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi | PyPI is dead. Long live PyPI! - Dustin Ingram
 https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
+
 https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
 
 https://github.com/pypa/warehouse
 https://github.com/pypa/warehouse/issues
 https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
+
+http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html
+http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#livechat | Python Software Foundation News: Warehouse: All New PyPI is now in beta
+http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
+https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1wvCm_cLddg/viewform | Conducting user tests on PyPI
+https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
+https://docs.google.com/forms/d/e/1FAIpQLSfABpsRcVYt7RDJEsbL_2CnyH-IKXRCRwaBhCm4sYnNI6yB3A/viewform | Buy a feature
+http://whoisnicoleharris.com/2018/05/17/warehouse-accessibility.html
 
 Package Stats
 * ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
