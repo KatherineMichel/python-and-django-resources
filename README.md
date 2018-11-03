@@ -61,38 +61,6 @@ https://www.jetbrains.com/research/devecosystem-2018/python/
 https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
 -->
 
-High Profile/Performance Python Use
-
-<!--
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
--->
-
-Python Authorities
-* [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
-* [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
-* [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
-* [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
-
-PEP Template
-* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
-
-CPython GitHub Migration
-* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
-* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
-
-CPython Contributing
-* [CPython GitHub](https://github.com/python/cpython)
-* [Bugs](http://bugs.python.org)
-* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-
-Python Status
-* [Python Status](https://status.python.org)
-* [Python Status History](https://status.python.org/history)
-
-<!--
-https://travis-ci.org/python/cpython/
--->
-
 Python 2 or 3
 * [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
 
@@ -117,9 +85,78 @@ https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
 -->
 
+High Profile/Performance Python Use
+* Dropbox
+* Instagram
+
+<!--
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
+
+Python Authorities
+* [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
+* [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
+* [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
+* [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
+
+PEP Template
+* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
+
+CPython Contributing
+* [CPython GitHub](https://github.com/python/cpython)
+* [Bugs](http://bugs.python.org)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+
+<!--
+http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
+
+https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
+Django Core Mentorship
+
+https://docs.python.org/devguide/ | Python Developer’s Guide — Python Developer's Guide
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+
+https://devguide.python.org/#quick-reference
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
+
+https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+-->
+
+Python Status
+* [Python Status](https://status.python.org)
+* [Python Status History](https://status.python.org/history)
+
+<!--
+https://travis-ci.org/python/cpython/
+-->
+
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+
+<!--
+Python Release Managers
+https://mail.python.org/pipermail/python-dev/2018-January/151949.html | [Python-Dev] Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!
+-->
+
+Python Performance
+
+<!--
+https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
+
+Regression Test Suite For Python Core Developers
+26.8. test — Regression tests package for Python
+https://docs.python.org/3/library/test.html
+26.9. test.support — Utilities for the Python test suite
+https://docs.python.org/3/library/test.html#module-test.support
+-->
+
+CPython GitHub Migration
+* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
+* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
 
 Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
@@ -143,6 +180,8 @@ Mariatta
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+
+https://github.com/python/miss-islington/issues
 
 https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
 https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
@@ -174,37 +213,11 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
-https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
-
-Regression Test Suite For Python Core Developers
-26.8. test — Regression tests package for Python
-https://docs.python.org/3/library/test.html
-26.9. test.support — Utilities for the Python test suite
-https://docs.python.org/3/library/test.html#module-test.support
-
-Python Release Managers
-https://mail.python.org/pipermail/python-dev/2018-January/151949.html | [Python-Dev] Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!
-
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
 https://pypi.python.org/pypi/blurb
 
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
-
-https://github.com/python/miss-islington/issues
-
-http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
-
-https://docs.python.org/devguide/ | Python Developer’s Guide — Python Developer's Guide
-https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
-
-https://devguide.python.org/#quick-reference
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
-https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
-https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
-
-https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
 Python- Packages/Libraries
