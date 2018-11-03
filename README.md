@@ -4,33 +4,37 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-https://lwn.net/Articles/754152/ | The 2018 Python Language Summit [LWN.net]
-
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
+Django Core
+https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
+
+Mariatta
+https://github.com/Mariatta | Mariatta
+https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
+
+
+https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
+Django Core Mentorship
+-->
+
+Python
+* [Python Front Page](https://wiki.python.org/moin)
+* [Python GitHub](https://github.com/python)
+
+<!--
 https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
+-->
 
-* [Stack Overflow Post](https://stackoverflow.blog/2017/09/06/incredible-growth-python) about the incredible growth of Python.
+Python History
+* [The History of Python](http://python-history.blogspot.com)
 
-https://github.com/python/python-dev-survey | python/python-dev-survey: Place for gathering feedback from the public on the Python Developers Survey
-https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
-https://opensource.com/article/18/5/numbers-python-community-trends | By the numbers: Python community trends in 2017/2018 | Opensource.com
-
-https://wiki.python.org/moin/Python2orPython3
-https://www.djangopackages.com/python3/
-
-Dropping Support
-http://python3statement.org/ | Sunsetting Python 2 support in scientific Python projects
-https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
-https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-https://twitter.com/gvanrossum/status/1012462042094002176 | Guido van Rossum on Twitter: "Cool sites about the Python 3 transition: https://py3readiness.org/ , https://pythonclock.org/ , https://python3wos.appspot.com/ , https://python3statement.org/ 
-
-https://mail.python.org/pipermail/python-committers/2018-July/005935.html | [python-committers] Proposal: an explicit, time-limited moratorium on finalizing any governance decisions
-https://lwn.net/Articles/757713/ | PEP 572 and decision-making in Python [LWN.net]
-https://mail.python.org/pipermail/python-committers/2018-July/005664.html | [python-committers] Transfer of power
-https://twitter.com/nayafia/status/1017758275301830656 | Nadia Eghbal on Twitter: "Guido retiring from Python reminds me (unsurprisingly) of Jacob retiring from Django Python: https://t.co/iIZzJVr8jh Django: https://t.co/mWvXJmKrTP Think it speaks volumes to the strength of a community when BDFLs make themseves obsolete. Respect!"
-
+<!--
 BDFL Python 3 retrospective
 PyCascades 2018 · Guido van Rossum
 https://www.youtube.com/watch?v=Oiw23yfqQy8
@@ -41,32 +45,30 @@ http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The 
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
 https://mail.python.org/pipermail/python-list/1999-June/001951.html | "The Python Way"
-
-Mariatta
-https://github.com/Mariatta | Mariatta
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
-https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
-https://github.com/berkerpeksag/cpython-merge-bot
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
-https://github.com/Mariatta/cloner
-http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
-http://distrowatch.com/table.php?distribution=mint
-https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
-https://github.com/Mariatta/python_versions_and_distros
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 -->
 
-Python
-* [Python Front Page](https://wiki.python.org/moin)
-* [Python GitHub](https://github.com/python)
+Python and Django BDFL
+* [PEP 572 and decision-making in Python](https://lwn.net/Articles/757713)
+* [Transfer of Power](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
+* [Moratorium on Governance Decisions](https://mail.python.org/pipermail/python-committers/2018-July/005935.html)
+* [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
+
+Python Trends
+* [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
+* [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
+
+<!--
+https://github.com/python/python-dev-survey | python/python-dev-survey: Place for gathering feedback from the public on the Python Developers Survey
+https://surveys.jetbrains.com/s3/c12-python-developers-survey-2018
+https://www.jetbrains.com/research/devecosystem-2018/python/
+https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
+-->
+
+High Profile/Performance Python Use
+
+<!--
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
 
 Python Authorities
 * [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
@@ -94,8 +96,29 @@ Python Status
 https://travis-ci.org/python/cpython/
 -->
 
+Python 2 or 3
+* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
+
+<!--
+https://www.djangopackages.com/python3/
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+-->
+
 Python 2 End of Life (EOL)
 * [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
+
+Python 2 EOL Websites
+* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
+* [Python Clock](https://pythonclock.org)
+* [Python 3 Statement](http://python3statement.org)
+* [Python 3 Readiness](https://py3readiness.org)
+* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
+
+<!--
+Dropping Support
+https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
+https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
+-->
 
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
@@ -105,6 +128,10 @@ Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
 
 <!--
+https://lwn.net/Articles/754152/ | The 2018 Python Language Summit [LWN.net]
+
+https://mariatta.ca/core-sprint-2018-part-2.html | mariatta.ca – Python Core Sprint 2018: Part Two
+
 https://lwn.net/Articles/754779/ | Using GitHub Issues for Python [LWN.net]
 -->
 
@@ -113,6 +140,35 @@ Core Workflow Tools
 * [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
 * [miss-islington](https://github.com/python/miss-islington)
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+<!--
+Mariatta
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
+https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
+http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+
+https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
+https://github.com/Mariatta/cloner
+
+https://zapier.com/ | Zapier | The easiest way to automate your work
+https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
+https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+https://github.com/berkerpeksag/cpython-merge-bot
+
+https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
+http://distrowatch.com/table.php?distribution=mint
+https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
+https://github.com/Mariatta/python_versions_and_distros
+-->
 
 Sphinx and Django-Sphinx
 * [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
@@ -164,6 +220,7 @@ https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
 https://github.com/pypa/pipfile/issues/27
 https://www.python.org/dev/peps/pep-0517/
 
+https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop | Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram
 Inside the Cheeseshop: How Python Packaging Works
 PyCon 2018 · Dustin Ingram
 https://www.youtube.com/watch?v=AQsZsgJ30AE
@@ -247,28 +304,44 @@ http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django/
 
 https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist | FAQ: General | Django documentation | Django
 
-https://www.djangoproject.com/foundation/teams/ | Django Software Foundation | Django
-https://docs.djangoproject.com/en/dev/internals/ | Django internals | Django documentation | Django
-https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
-https://docs.djangoproject.com/en/dev/internals/committers/ | Page not found | Django
-
 https://code.djangoproject.com/wiki/Version2.0Roadmap | Version2.0Roadmap – Django
 https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
 
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
+
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+
+https://docs.djangoproject.com/en/dev/internals/ | Django internals | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/committers/ | Page not found | Django
+
+https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs | Reporting bugs and requesting features | Django documentation | Django
+
+https://www.djangoproject.com/foundation/teams/ | Django Software Foundation | Django
 -->
 
-Django Developers Forum and Slack
+Your Framework Needs You
+* [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
+
+Dissolving Django Core
+* [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
+* [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
+* [Django DEP: Add draft DEP dissolving Django core. by ubernostrum](https://github.com/django/deps/pull/47)
+* [Rough draft Django DEP: Dissolving Django Core](https://github.com/ubernostrum/deps/blob/draft-dissolve-core/draft/XXXX-dissolve-core.rst)
+
+Mentorship
+* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
+
+Django Developers Mailing Lists, Forum and Slack
+* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 
-Django Mailing Lists and People
-* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
+Django People
 * [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
 
-Django Code of Conduct and Contributing
+Django Code of Conduct and CLA
 * [Django Code of Conduct](https://www.djangoproject.com/conduct)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
