@@ -252,6 +252,7 @@ https://docs.djangoproject.com/en/dev/internals/ | Django internals | Django doc
 https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
 https://docs.djangoproject.com/en/dev/internals/committers/ | Page not found | Django
 
+https://code.djangoproject.com/wiki/Version2.0Roadmap | Version2.0Roadmap – Django
 https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
 
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
