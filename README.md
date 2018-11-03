@@ -30,13 +30,10 @@ https://docs.python.org/3/about.html | About these documents — Python 3.6.5 do
 
 Python History
 * [The History of Python](http://python-history.blogspot.com)
-
-<!--
-BDFL Python 3 retrospective
-PyCascades 2018 · Guido van Rossum
-https://www.youtube.com/watch?v=Oiw23yfqQy8
+* [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
 * [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
 
+<!--
 http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld/ | A new and improved website; here are details on the redesign of LJWorld.com | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
@@ -86,10 +83,23 @@ https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule 
 -->
 
 High Profile/Performance Python Use
-* Dropbox
-* Instagram
+* [Dropbox](https://blogs.dropbox.com)
+* [Instagram](https://engineering.instagram.com)
+* Uber
 
 <!--
+https://realpython.com/world-class-companies-using-python/
+https://zapier.com
+Google
+Spotify
+Quora
+Netflix
+Reddit
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
 https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 -->
 
