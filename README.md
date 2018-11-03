@@ -16,9 +16,6 @@ https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robo
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 
-http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
-
-
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
 -->
