@@ -1,15 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://www.eventbrite.com/e/winter-conference-2018-ks-mo-tickets-48615973686 | Winter Conference 2018 - KS & MO Tickets, Mon, Dec 3, 2018 at 9:00 AM | Eventbrite
-
-DEFNA
-https://wiki.python.org/moin/FiscalSponsorship | FiscalSponsorship - Python Wiki
-
-https://planetpython.org/ | Planet Python
-
-
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -17,13 +8,6 @@ http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Pyt
 
 Django Core
 https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
-
-Mariatta
-https://github.com/Mariatta | Mariatta
-https://github-bot-tutorial.readthedocs.io/en/latest/ | Build-a-GitHub-Bot Workshop — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
@@ -125,14 +109,11 @@ CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
 * [Bugs](http://bugs.python.org)
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
 <!--
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
-https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
-Django Core Mentorship
-
-https://docs.python.org/devguide/ | Python Developer’s Guide — Python Developer's Guide
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
 https://devguide.python.org/#quick-reference
@@ -248,6 +229,22 @@ Python- Packages/Libraries
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 
 <!--
+https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
+https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
+https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
+https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+https://github.com/pypa/sampleproject | pypa/sampleproject: A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
+https://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
+https://github.com/pypa/pipfile | pypa/pipfile
+https://www.python.org/dev/peps/pep-0517/
+https://www.python.org/dev/peps/pep-0518/
+https://github.com/pypa/warehouse | pypa/warehouse: The Python Package Repository
+https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
+-->
+
+<!--
 https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
 
 https://github.com/pypa/pipfile/issues/27
@@ -292,7 +289,7 @@ Mailing List and Permissions History
 * [Permissions History](https://devguide.python.org/developers/#permissions-history)
 * [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
 
-<!_-
+<!--
 https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
 -->
 
@@ -326,6 +323,8 @@ djangoproject.com Contributing
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
 
 Django Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
@@ -341,14 +340,10 @@ http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django/
 
 https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist | FAQ: General | Django documentation | Django
 
-https://code.djangoproject.com/wiki/Version2.0Roadmap | Version2.0Roadmap – Django
 https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
 
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
 
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-
-https://docs.djangoproject.com/en/dev/internals/ | Django internals | Django documentation | Django
 https://docs.djangoproject.com/en/dev/internals/committers/ | Page not found | Django
 
 https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
