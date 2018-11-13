@@ -1,6 +1,15 @@
 # Python and Django- Contributing
 
 <!--
+https://www.eventbrite.com/e/winter-conference-2018-ks-mo-tickets-48615973686 | Winter Conference 2018 - KS & MO Tickets, Mon, Dec 3, 2018 at 9:00 AM | Eventbrite
+
+DEFNA
+https://wiki.python.org/moin/FiscalSponsorship | FiscalSponsorship - Python Wiki
+
+https://planetpython.org/ | Planet Python
+
+
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -53,7 +62,7 @@ Python Trends
 
 <!--
 https://github.com/python/python-dev-survey | python/python-dev-survey: Place for gathering feedback from the public on the Python Developers Survey
-https://surveys.jetbrains.com/s3/c12-python-developers-survey-2018
+https://surveys.jetbrains.com/s3/c12-python-developers-survey-2018 | Python developers survey 2018
 https://www.jetbrains.com/research/devecosystem-2018/python/
 https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
 -->
@@ -84,17 +93,17 @@ https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule 
 
 High Profile/Performance Python Use
 * [Dropbox](https://blogs.dropbox.com)
+* Google
 * [Instagram](https://engineering.instagram.com)
+* Netflix
+* Quora
+* Reddit
+* Spotify
 * Uber
 
 <!--
 https://realpython.com/world-class-companies-using-python/
 https://zapier.com
-Google
-Spotify
-Quora
-Netflix
-Reddit
 
 Python 3 at Facebook 
 https://lwn.net/Articles/758159/
@@ -172,11 +181,15 @@ Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
 
 <!--
+https://lwn.net/Articles/757950/ | Mentoring and diversity for Python [LWN.net]
+
 https://lwn.net/Articles/754152/ | The 2018 Python Language Summit [LWN.net]
 
 https://mariatta.ca/core-sprint-2018-part-2.html | mariatta.ca – Python Core Sprint 2018: Part Two
 
 https://lwn.net/Articles/754779/ | Using GitHub Issues for Python [LWN.net]
+
+http://lukasz.langa.pl/12/diversity-python-sprint-september/ | RE: Diversity on the Python sprint in September - lukasz.langa.pl
 -->
 
 Core Workflow Tools
@@ -279,6 +292,10 @@ Mailing List and Permissions History
 * [Permissions History](https://devguide.python.org/developers/#permissions-history)
 * [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
 
+<!_-
+https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
+-->
+
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
 
@@ -343,6 +360,13 @@ https://www.djangoproject.com/foundation/teams/ | Django Software Foundation | D
 Your Framework Needs You
 * [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
 
+<!--
+https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s
+https://2018.djangocon.us/talk/state-of-django-panel
+State of Django
+https://www.slideshare.net/jacobian/state-of-django/36-ORM_aggregationhttpdocsdjangoprojectcomendevtopicsdbaggregation | 
+-->
+
 Dissolving Django Core
 * [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
 * [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
@@ -361,6 +385,10 @@ Django People
 * [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
+
+<!--
+https://www.djangoproject.com/foundation/committees/ | Django Software Foundation Committees | Django
+-->
 
 Django Code of Conduct and CLA
 * [Django Code of Conduct](https://www.djangoproject.com/conduct)
