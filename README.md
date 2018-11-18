@@ -1,6 +1,36 @@
 # Python and Django- Contributing
 
 <!--
+https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
+https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
+https://www.python.org/dev/peps/pep-0553/ | PEP 553 -- Built-in breakpoint() | Python.org
+https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers | Django committers | Django documentation | Django
+https://twitter.com/VictorStinner/status/1041219533439217665 | Victor Stinner 🐍 on Twitter: "The 3rd CPython sprint at Microsoft was amazing! Many interesting talks in parallel, a lot about the new governance obviously. It is always a great pleasure to see my friends 🤗 I even heard something saying that core developers are a family 😍 Oh and we got 2 new core devs!… https://t.co/IxzLSwhyU3"
+https://mariatta.ca/core-sprint-2018-part-1.html | mariatta.ca – Python Core Sprint 2018: Part One
+http://python3porting.com/ | Welcome! — Supporting Python 3: An in-depth guide
+https://bugs.python.org/issue34605 | Issue 34605: Avoid master/slave terminology - Python tracker
+https://github.com/python/core-workflow | python/core-workflow: Issue tracker for CPython's workflow
+https://pypi.org/project/cherry-picker/ | cherry-picker · PyPI
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
+https://github.com/brettcannon/gidgethub/tree/master/docs | gidgethub/docs at master · brettcannon/gidgethub
+https://twitter.com/ewa_jodlowska/status/1034546348006277121 | Ewa Jodlowska on Twitter: "“PyPI’s new design is a reflection of the Python community - modern, welcoming and inclusive.”… "
+https://www.google.com/search?q=pyproject.toml&oq=pyproject.toml&aqs=chrome..69i57j69i61j0l4.2199j0j7&sourceid=chrome&ie=UTF-8 | pyproject.toml - Google Search
+https://github.com/python/cpython/pull/9101 | bpo-34605: Avoid master/slave terms by vstinner · Pull Request #9101 · python/cpython
+https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
+
+
+https://www.python.org/dev/peps/pep-3107/ | PEP 3107 -- Function Annotations | Python.org
+
+https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
+
+https://legacy.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs)
+
+https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
+Setup.py Kenneth Reitz
+
+https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
+
 Dev
 https://mail.python.org/pipermail/python-dev/2018-July/154703.html | [Python-Dev] Status of Python CIs (buildbots, Travis CI, AppVeyor): july 2018
 
