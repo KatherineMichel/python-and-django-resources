@@ -1,6 +1,42 @@
 # Python and Django- Contributing
 
 <!--
+Dev
+https://mail.python.org/pipermail/python-dev/2018-July/154703.html | [Python-Dev] Status of Python CIs (buildbots, Travis CI, AppVeyor): july 2018
+
+https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Python — Python 2.7.15 documentation
+https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
+https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 ? 
+
+https://code.djangoproject.com/wiki/TitleIndex
+https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
+https://www.python.org/download/releases/2.2/descrintro/#metaclasses | Unifying types and classes in Python 2.2 | Python.org
+https://code.djangoproject.com/wiki/DynamicModels | DynamicModels – Django
+https://code.djangoproject.com/wiki/DevModelCreation | DevModelCreation – Django
+
+https://lwn.net/SubscriberLink/758159/f1f631e1535ab9d6/ | Python 3 at Facebook [LWN.net]
+https://mail.python.org/pipermail/python-announce-list/2018-June/011976.html | Python 3.7.0 is now available! (and so is 3.6.6)
+
+https://mail.python.org/pipermail/python-dev/2018-July/154554.html | [Python-Dev] Naming comprehension syntax [was Re: Informal educator feedback on PEP 572 ...]
+https://github.com/python/cpython/pull/8122/files | WIP: use assignment expression in stdlib (combined PR) by vstinner · Pull Request #8122 · python/python
+https://nedbatchelder.com/blog/201605/generator_comprehensions.html | Ned Batchelder: Generator comprehensions
+https://twitter.com/squeaky_pl/status/1014855652362145792 | Squeaky on Twitter: "FYI @VictorStinner opened some pull requests to CPython for __demonstration purposes__ how PEP 572 assignment expression can be used to make Python library code more readable/shorter: https://t.co/Gc5IwdqwD1 https://t.co/IxkNMJvo9G https://t.co/eNPKiRgeI6… https://t.co/SjocXGITSS"
+https://www.python.org/dev/peps/pep-0572/ | PEP 572 -- Assignment Expressions | Python.org
+
+https://lwn.net/SubscriberLink/757715/8af1787ab3a628ca/ | Mentoring and diversity for Python [LWN.net]
+
+https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
+https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
+https://devguide.python.org/#branchstatus | Python Developer’s Guide — Python Developer's Guide
+
+https://www.python.org/dev/peps/pep-0373/ | PEP 373 -- Python 2.7 Release Schedule | Python.org
+https://docs.python.org/3/reference/import.html#open-issues | 5. The import system — Python 3.7.0 documentation
+https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
+
+http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas documentation! — Django gotchas 0.1 documentation
+
+
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
