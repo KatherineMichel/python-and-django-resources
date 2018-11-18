@@ -1,24 +1,21 @@
 # Python and Django- Contributing
 
 <!--
-Dev
-https://mail.python.org/pipermail/python-dev/2018-July/154703.html | [Python-Dev] Status of Python CIs (buildbots, Travis CI, AppVeyor): july 2018
-
-https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Python — Python 2.7.15 documentation
-https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
-https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 ? 
-
+Django Notes
 https://code.djangoproject.com/wiki/TitleIndex
 https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
 https://www.python.org/download/releases/2.2/descrintro/#metaclasses | Unifying types and classes in Python 2.2 | Python.org
 https://code.djangoproject.com/wiki/DynamicModels | DynamicModels – Django
 https://code.djangoproject.com/wiki/DevModelCreation | DevModelCreation – Django
 
+https://mail.python.org/pipermail/python-dev/2018-July/154703.html | [Python-Dev] Status of Python CIs (buildbots, Travis CI, AppVeyor): july 2018
+
+https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Python — Python 2.7.15 documentation
+
 https://docs.python.org/3/reference/import.html#open-issues | 5. The import system — Python 3.7.0 documentation
 
 https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas documentation! — Django gotchas 0.1 documentation
-
 
 
 My CPython Issue and Pull Requests
@@ -212,6 +209,9 @@ Issues PEP
 <!--
 https://bugs.python.org/issue34605 | Issue 34605: Avoid master/slave terminology - Python tracker
 https://github.com/python/cpython/pull/9101 | bpo-34605: Avoid master/slave terms by vstinner · Pull Request #9101 · python/cpython
+
+https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
+https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
 
 https://lwn.net/Articles/757950/ | Mentoring and diversity for Python [LWN.net]
 
