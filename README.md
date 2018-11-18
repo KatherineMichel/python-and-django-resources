@@ -1,36 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
-https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
-https://www.python.org/dev/peps/pep-0553/ | PEP 553 -- Built-in breakpoint() | Python.org
-https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers | Django committers | Django documentation | Django
-https://twitter.com/VictorStinner/status/1041219533439217665 | Victor Stinner 🐍 on Twitter: "The 3rd CPython sprint at Microsoft was amazing! Many interesting talks in parallel, a lot about the new governance obviously. It is always a great pleasure to see my friends 🤗 I even heard something saying that core developers are a family 😍 Oh and we got 2 new core devs!… https://t.co/IxzLSwhyU3"
-https://mariatta.ca/core-sprint-2018-part-1.html | mariatta.ca – Python Core Sprint 2018: Part One
-http://python3porting.com/ | Welcome! — Supporting Python 3: An in-depth guide
-https://bugs.python.org/issue34605 | Issue 34605: Avoid master/slave terminology - Python tracker
-https://github.com/python/core-workflow | python/core-workflow: Issue tracker for CPython's workflow
-https://pypi.org/project/cherry-picker/ | cherry-picker · PyPI
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
-https://github.com/brettcannon/gidgethub/tree/master/docs | gidgethub/docs at master · brettcannon/gidgethub
-https://twitter.com/ewa_jodlowska/status/1034546348006277121 | Ewa Jodlowska on Twitter: "“PyPI’s new design is a reflection of the Python community - modern, welcoming and inclusive.”… "
-https://www.google.com/search?q=pyproject.toml&oq=pyproject.toml&aqs=chrome..69i57j69i61j0l4.2199j0j7&sourceid=chrome&ie=UTF-8 | pyproject.toml - Google Search
-https://github.com/python/cpython/pull/9101 | bpo-34605: Avoid master/slave terms by vstinner · Pull Request #9101 · python/cpython
-https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
-
-
-https://www.python.org/dev/peps/pep-3107/ | PEP 3107 -- Function Annotations | Python.org
-
-https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
-
-https://legacy.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs)
-
-https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
-Setup.py Kenneth Reitz
-
-https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
-
 Dev
 https://mail.python.org/pipermail/python-dev/2018-July/154703.html | [Python-Dev] Status of Python CIs (buildbots, Travis CI, AppVeyor): july 2018
 
@@ -44,25 +14,9 @@ https://www.python.org/download/releases/2.2/descrintro/#metaclasses | Unifying 
 https://code.djangoproject.com/wiki/DynamicModels | DynamicModels – Django
 https://code.djangoproject.com/wiki/DevModelCreation | DevModelCreation – Django
 
-https://lwn.net/SubscriberLink/758159/f1f631e1535ab9d6/ | Python 3 at Facebook [LWN.net]
-https://mail.python.org/pipermail/python-announce-list/2018-June/011976.html | Python 3.7.0 is now available! (and so is 3.6.6)
-
-https://mail.python.org/pipermail/python-dev/2018-July/154554.html | [Python-Dev] Naming comprehension syntax [was Re: Informal educator feedback on PEP 572 ...]
-https://github.com/python/cpython/pull/8122/files | WIP: use assignment expression in stdlib (combined PR) by vstinner · Pull Request #8122 · python/python
-https://nedbatchelder.com/blog/201605/generator_comprehensions.html | Ned Batchelder: Generator comprehensions
-https://twitter.com/squeaky_pl/status/1014855652362145792 | Squeaky on Twitter: "FYI @VictorStinner opened some pull requests to CPython for __demonstration purposes__ how PEP 572 assignment expression can be used to make Python library code more readable/shorter: https://t.co/Gc5IwdqwD1 https://t.co/IxkNMJvo9G https://t.co/eNPKiRgeI6… https://t.co/SjocXGITSS"
-https://www.python.org/dev/peps/pep-0572/ | PEP 572 -- Assignment Expressions | Python.org
-
-https://lwn.net/SubscriberLink/757715/8af1787ab3a628ca/ | Mentoring and diversity for Python [LWN.net]
-
-https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
-https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
-https://devguide.python.org/#branchstatus | Python Developer’s Guide — Python Developer's Guide
-
-https://www.python.org/dev/peps/pep-0373/ | PEP 373 -- Python 2.7 Release Schedule | Python.org
 https://docs.python.org/3/reference/import.html#open-issues | 5. The import system — Python 3.7.0 documentation
-https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 
+https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas documentation! — Django gotchas 0.1 documentation
 
 
@@ -72,11 +26,33 @@ http://bugs.python.org/user26332
 
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
+https://mail.python.org/pipermail/python-announce-list/2018-June/011976.html | Python 3.7.0 is now available! (and so is 3.6.6)
+
 Django Core
 https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
 
+https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
+
+https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
+
+https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
+
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
+
+https://legacy.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs)
+
+New functionality
+https://www.python.org/dev/peps/pep-0553/ | PEP 553 -- Built-in breakpoint() | Python.org
+https://www.python.org/dev/peps/pep-3107/ | PEP 3107 -- Function Annotations | Python.org
+https://mail.python.org/pipermail/python-dev/2018-July/154554.html | [Python-Dev] Naming comprehension syntax [was Re: Informal educator feedback on PEP 572 ...]
+https://github.com/python/cpython/pull/8122/files | WIP: use assignment expression in stdlib (combined PR) by vstinner · Pull Request #8122 · python/python
+https://nedbatchelder.com/blog/201605/generator_comprehensions.html | Ned Batchelder: Generator comprehensions
+https://twitter.com/squeaky_pl/status/1014855652362145792 | Squeaky on Twitter: "FYI @VictorStinner opened some pull requests to CPython for __demonstration purposes__ how PEP 572 assignment expression can be used to make Python library code more readable/shorter: https://t.co/Gc5IwdqwD1 https://t.co/IxkNMJvo9G https://t.co/eNPKiRgeI6… https://t.co/SjocXGITSS"
+https://www.python.org/dev/peps/pep-0572/ | PEP 572 -- Assignment Expressions | Python.org
+
+https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
+Setup.py Kenneth Reitz
 -->
 
 Python
@@ -136,6 +112,8 @@ Python 2 EOL Websites
 * [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
 
 <!--
+http://python3porting.com/ | Welcome! — Supporting Python 3: An in-depth guide
+
 Dropping Support
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
@@ -178,11 +156,14 @@ CPython Contributing
 * [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
 <!--
+https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
+
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
 https://devguide.python.org/#quick-reference
+https://devguide.python.org/#branchstatus
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
 https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
@@ -202,6 +183,7 @@ https://travis-ci.org/python/cpython/
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
 
 <!--
 Python Release Managers
@@ -228,15 +210,23 @@ Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
 
 <!--
+https://bugs.python.org/issue34605 | Issue 34605: Avoid master/slave terminology - Python tracker
+https://github.com/python/cpython/pull/9101 | bpo-34605: Avoid master/slave terms by vstinner · Pull Request #9101 · python/cpython
+
 https://lwn.net/Articles/757950/ | Mentoring and diversity for Python [LWN.net]
 
 https://lwn.net/Articles/754152/ | The 2018 Python Language Summit [LWN.net]
 
+https://mariatta.ca/core-sprint-2018-part-1.html | mariatta.ca – Python Core Sprint 2018: Part One
 https://mariatta.ca/core-sprint-2018-part-2.html | mariatta.ca – Python Core Sprint 2018: Part Two
+
+https://twitter.com/VictorStinner/status/1041219533439217665 | Victor Stinner 🐍 on Twitter: "The 3rd CPython sprint at Microsoft was amazing! Many interesting talks in parallel, a lot about the new governance obviously. It is always a great pleasure to see my friends 🤗 I even heard something saying that core developers are a family 😍 Oh and we got 2 new core devs!… https://t.co/IxzLSwhyU3"
 
 https://lwn.net/Articles/754779/ | Using GitHub Issues for Python [LWN.net]
 
 http://lukasz.langa.pl/12/diversity-python-sprint-september/ | RE: Diversity on the Python sprint in September - lukasz.langa.pl
+
+https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
 -->
 
 Core Workflow Tools
@@ -252,6 +242,7 @@ https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 
 https://github.com/python/miss-islington/issues
+https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
 
 https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
 https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
@@ -268,6 +259,7 @@ https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..6
 https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
 https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
 https://github.com/berkerpeksag/cpython-merge-bot
 
 https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
@@ -295,6 +287,13 @@ Python- Packages/Libraries
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 
 <!--
+New
+https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
+https://twitter.com/ewa_jodlowska/status/1034546348006277121 | Ewa Jodlowska on Twitter: "“PyPI’s new design is a reflection of the Python community - modern, welcoming and inclusive.”… "
+https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
+https://www.google.com/search?q=pyproject.toml&oq=pyproject.toml&aqs=chrome..69i57j69i61j0l4.2199j0j7&sourceid=chrome&ie=UTF-8 | pyproject.toml - Google Search
+
+
 https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
 https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
 https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
@@ -410,8 +409,6 @@ https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | W
 
 https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
 
-https://docs.djangoproject.com/en/dev/internals/committers/ | Page not found | Django
-
 https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
 https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs | Reporting bugs and requesting features | Django documentation | Django
 
@@ -448,6 +445,8 @@ Django People
 * [Django Organization Repo People](https://github.com/orgs/django/people)
 
 <!--
+https://docs.djangoproject.com/en/dev/internals/organization/
+
 https://www.djangoproject.com/foundation/committees/ | Django Software Foundation Committees | Django
 -->
 
