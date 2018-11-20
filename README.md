@@ -288,45 +288,39 @@ Python- Packages/Libraries
 
 <!--
 New
-https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
-https://twitter.com/ewa_jodlowska/status/1034546348006277121 | Ewa Jodlowska on Twitter: "“PyPI’s new design is a reflection of the Python community - modern, welcoming and inclusive.”… "
 https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
-https://www.google.com/search?q=pyproject.toml&oq=pyproject.toml&aqs=chrome..69i57j69i61j0l4.2199j0j7&sourceid=chrome&ie=UTF-8 | pyproject.toml - Google Search
-
 
 https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
-https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
+
 https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
-https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
-https://github.com/pypa/sampleproject | pypa/sampleproject: A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
-https://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
-https://github.com/pypa/pipfile | pypa/pipfile
-https://www.python.org/dev/peps/pep-0517/
-https://www.python.org/dev/peps/pep-0518/
-https://github.com/pypa/warehouse | pypa/warehouse: The Python Package Repository
-https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
+https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
 https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
-https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
--->
-
-<!--
-https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
-
-https://github.com/pypa/pipfile/issues/27
 https://www.python.org/dev/peps/pep-0517/
+
+https://github.com/pypa/warehouse
+
+https://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
+
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
+
+https://github.com/pypa/warehouse/issues
+https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
+https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
+
+https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
+
+https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
+
+https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
 
 https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop | Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram
 Inside the Cheeseshop: How Python Packaging Works
 PyCon 2018 · Dustin Ingram
 https://www.youtube.com/watch?v=AQsZsgJ30AE
 https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi | PyPI is dead. Long live PyPI! - Dustin Ingram
-https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
 
-https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
-
-https://github.com/pypa/warehouse
-https://github.com/pypa/warehouse/issues
-https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
+https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
+https://twitter.com/ewa_jodlowska/status/1034546348006277121 | Ewa Jodlowska on Twitter: "“PyPI’s new design is a reflection of the Python community - modern, welcoming and inclusive.”… "
 
 http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html
 http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#livechat | Python Software Foundation News: Warehouse: All New PyPI is now in beta
