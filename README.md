@@ -143,6 +143,9 @@ Python Authorities
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
+Python- PEP
+* [PEP Index](https://www.python.org/dev/peps)
+
 PEP Template
 * [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
 
@@ -285,6 +288,10 @@ https://devguide.python.org/documenting/#building-the-documentation | 7. Documen
 Python- Packages/Libraries
 * [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+
+Core Packaging Utilities
+* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
+* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/) 
 
 <!--
 New
