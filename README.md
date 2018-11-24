@@ -37,8 +37,6 @@ https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Sl
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
 
-https://legacy.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs)
-
 New functionality
 https://www.python.org/dev/peps/pep-0553/ | PEP 553 -- Built-in breakpoint() | Python.org
 https://www.python.org/dev/peps/pep-3107/ | PEP 3107 -- Function Annotations | Python.org
@@ -116,27 +114,6 @@ https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
 -->
 
-High Profile/Performance Python Use
-* [Dropbox](https://blogs.dropbox.com)
-* Google
-* [Instagram](https://engineering.instagram.com)
-* Netflix
-* Quora
-* Reddit
-* Spotify
-* Uber
-
-<!--
-https://realpython.com/world-class-companies-using-python/
-https://zapier.com
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
--->
-
 Python Authorities
 * [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
 * [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
@@ -145,6 +122,10 @@ Python Authorities
 
 Python- PEP
 * [PEP Index](https://www.python.org/dev/peps)
+
+<!--
+https://legacy.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs)
+-->
 
 PEP Template
 * [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
