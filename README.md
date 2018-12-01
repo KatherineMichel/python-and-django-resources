@@ -8,12 +8,9 @@ https://www.python.org/download/releases/2.2/descrintro/#metaclasses | Unifying 
 https://code.djangoproject.com/wiki/DynamicModels | DynamicModels – Django
 https://code.djangoproject.com/wiki/DevModelCreation | DevModelCreation – Django
 
-https://mail.python.org/pipermail/python-dev/2018-July/154703.html | [Python-Dev] Status of Python CIs (buildbots, Travis CI, AppVeyor): july 2018
-
-https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Python — Python 2.7.15 documentation
-
 https://docs.python.org/3/reference/import.html#open-issues | 5. The import system — Python 3.7.0 documentation
 
+https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Python — Python 2.7.15 documentation
 https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas documentation! — Django gotchas 0.1 documentation
 
@@ -23,16 +20,10 @@ http://bugs.python.org/user26332
 
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
-https://mail.python.org/pipermail/python-announce-list/2018-June/011976.html | Python 3.7.0 is now available! (and so is 3.6.6)
-
 Django Core
 https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
-
-https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
-
-https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
 
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
@@ -80,12 +71,9 @@ Python Trends
 * [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
 * [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
 
-<!--
-https://github.com/python/python-dev-survey | python/python-dev-survey: Place for gathering feedback from the public on the Python Developers Survey
-https://surveys.jetbrains.com/s3/c12-python-developers-survey-2018 | Python developers survey 2018
-https://www.jetbrains.com/research/devecosystem-2018/python/
-https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Developers Survey 2017 - Results
--->
+Surveys
+* [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
+* [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
 
 Python 2 or 3
 * [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
@@ -150,11 +138,12 @@ https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-8
 -->
 
 Python Status
+* ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
 * [Python Status](https://status.python.org)
 * [Python Status History](https://status.python.org/history)
 
 <!--
-https://travis-ci.org/python/cpython/
+ https://travis-ci.org/python/cpython/
 -->
 
 Release
@@ -162,14 +151,16 @@ Release
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
 * [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
 
-<!--
-Python Release Managers
-https://mail.python.org/pipermail/python-dev/2018-January/151949.html | [Python-Dev] Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!
--->
+Release Managers
+* ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
 Python Performance
 
 <!--
+https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
+
+https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
+
 https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
 
 Regression Test Suite For Python Core Developers
@@ -262,7 +253,18 @@ Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/) 
 
+PyPi History
+* ["Redesigning the Python Package Index"](http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html)
+* ["A new package index for Python"](https://lwn.net/Articles/751458/)
+* ["Warehouse: All New PyPI is now in beta"](http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html)
+
+Dustin Ingram
+* ["Inside the Cheeseshop: How Python Packaging Works" (PyCon 2018)](https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop)
+* ["PyPI is dead. Long live PyPI!"](https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi)
+
 <!--
+https://www.youtube.com/watch?v=AQsZsgJ30AE
+
 New
 https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
 
@@ -283,18 +285,6 @@ https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-pro
 https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
 
 https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
-
-https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
-
-https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop | Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram
-PyCon 2018 · Dustin Ingram
-https://www.youtube.com/watch?v=AQsZsgJ30AE
-https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi | PyPI is dead. Long live PyPI! - Dustin Ingram
-
-https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
-
-http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html
-http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#livechat | Python Software Foundation News: Warehouse: All New PyPI is now in beta
 
 Testing
 http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
