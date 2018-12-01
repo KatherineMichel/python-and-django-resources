@@ -62,13 +62,12 @@ Python History
 * [The History of Python](http://python-history.blogspot.com)
 * [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
 * [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
+* ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
 
 <!--
-http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld/ | A new and improved website; here are details on the redesign of LJWorld.com | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
-https://mail.python.org/pipermail/python-list/1999-June/001951.html | "The Python Way"
 -->
 
 Python and Django BDFL
@@ -91,11 +90,6 @@ https://www.jetbrains.com/research/python-developers-survey-2017/ | Python Devel
 Python 2 or 3
 * [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
 
-<!--
-https://www.djangopackages.com/python3/
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
--->
-
 Python 2 End of Life (EOL)
 * [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
 
@@ -104,11 +98,15 @@ Python 2 EOL Websites
 * [Python Clock](https://pythonclock.org)
 * [Python 3 Statement](http://python3statement.org)
 * [Python 3 Readiness](https://py3readiness.org)
+* [Python Readiness](https://pyreadiness.org)
 * [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
+* [Python 3 Porting](http://python3porting.com)
+
+Django and Python 3
+* [Django Packages Python 3](https://www.djangopackages.com/python3)
 
 <!--
-https://pyreadiness.org/ | Python Readiness - Python support table for most popular Python packages
-http://python3porting.com/ | Welcome! — Supporting Python 3: An in-depth guide
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
 
 Dropping Support
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
@@ -123,10 +121,7 @@ Python Authorities
 
 Python- PEP
 * [PEP Index](https://www.python.org/dev/peps)
-
-<!--
-https://legacy.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs)
--->
+* [Legacy PEP Index](https://legacy.python.org/dev/peps)
 
 PEP Template
 * [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
@@ -362,13 +357,29 @@ Python and Django Git Bootcamps and Cheat Sheets
 * [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 * [Django: Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
 
+Lawrence Journal World
+* [Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
+* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
+
+State of Django
+* [State of Django Panel (DjangoCon 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
+* [State of Django Panel Video (DjangoCon 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
+* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
+
+About Django 
+* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
+
 Django Software
-* [Django Submitting a Patch](https://docs.djangoproject.com/en/2.0/internals/contributing/writing-code/submitting-patches/)
+* [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
+* [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
 
 djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
+
+DEPS (Django Enhancement Proposals)
+* [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 Django Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
@@ -376,43 +387,25 @@ Django Contributing
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
+Release Cadence
+* [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
+
 Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0) and [Django 2.0 Blog Post](https://www.djangoproject.com/weblog/2017/dec/02/django-20-released)
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
-* [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-
-<!--
-http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django/
-
-https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist | FAQ: General | Django documentation | Django
-
-https://www.djangoproject.com/weblog/2015/jun/25/roadmap/ | Django's Roadmap | Weblog | Django
-
-https://docs.djangoproject.com/en/2.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/organization/ | Organization of the Django Project | Django documentation | Django
-https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs | Reporting bugs and requesting features | Django documentation | Django
-
-https://www.djangoproject.com/foundation/teams/ | Django Software Foundation | Django
--->
+* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0) and [Django 2.0 Blog Post](https://www.djangoproject.com/weblog/2017/dec/02/django-20-released)
+* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
 
 Your Framework Needs You
 * [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
 
-<!--
-https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s
-https://2018.djangocon.us/talk/state-of-django-panel
-State of Django
-https://www.slideshare.net/jacobian/state-of-django/36-ORM_aggregationhttpdocsdjangoprojectcomendevtopicsdbaggregation | 
--->
-
 Dissolving Django Core
-* [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
-* [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
+* [James Bennett: Core No More](https://www.b-list.org/weblog/2018/nov/20/core)
 * [Django DEP: Add draft DEP dissolving Django core. by ubernostrum](https://github.com/django/deps/pull/47)
 * [Rough draft Django DEP: Dissolving Django Core](https://github.com/ubernostrum/deps/blob/draft-dissolve-core/draft/XXXX-dissolve-core.rst)
+* [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
+* [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
 
 Mentorship
 * [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
@@ -422,16 +415,14 @@ Django Developers Mailing Lists, Forum and Slack
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 
-Django People
-* [Django Original Team List](https://www.djangoproject.com/foundation/teams/#original-team-list)
+Django People- Current
+* [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
+* [DSF Committees](https://www.djangoproject.com/foundation/committees)
+* [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
+
+Django People- Historical
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
-
-<!--
-https://docs.djangoproject.com/en/dev/internals/organization/
-
-https://www.djangoproject.com/foundation/committees/ | Django Software Foundation Committees | Django
--->
 
 Django Code of Conduct and CLA
 * [Django Code of Conduct](https://www.djangoproject.com/conduct)
