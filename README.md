@@ -1,6 +1,47 @@
 # Python and Django- Contributing
 
 <!--
+https://www.djangoproject.com/weblog/2018/nov/04/individual-membership-system-cfp/ | DSF Individual membership - call for implementation proposals | Weblog | Django
+
+https://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
+
+https://devdocs.io/python~3.6/ | Python 3.6 documentation — DevDocs
+
+https://github.com/Mariatta/talk-talk-talk | Mariatta/talk-talk-talk: Talk Proposals by Mariatta
+https://talk-talk-talk.readthedocs.io/en/latest/ | Talk Proposals by Mariatta — talk-talk-talk documentation
+https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
+https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+
+https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
+https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
+
+https://github.com/pypa/python-packaging-user-guide | pypa/python-packaging-user-guide: Python Packaging User Guide
+
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+https://pip.pypa.io/en/stable/reference/pip_wheel
+
+https://pyup.io/ | Manage your Python dependencies with pyup.io
+https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
+http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
+
+https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
+https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
+
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
+
+https://pythonhosted.org/setuptools/formats.html
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoops/Creating-and-Distributing-Python-Packages
+https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python-packages | Two Scoops Press
+
 Django Notes
 https://code.djangoproject.com/wiki/TitleIndex
 https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
@@ -405,6 +446,12 @@ Django Developers Mailing Lists, Forum and Slack
 * [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
+
+<!--
+https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
+https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Mentorship - Google Groups
+https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
+-->
 
 Django People- Current
 * [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
