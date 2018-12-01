@@ -1,7 +1,14 @@
 # Python and Django- Contributing
 
 <!--
-https://www.djangoproject.com/weblog/2018/nov/04/individual-membership-system-cfp/ | DSF Individual membership - call for implementation proposals | Weblog | Django
+https://lwn.net/ | Welcome to LWN.net [LWN.net]
+
+https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+http://python-notes.curiousefficiency.org
+
+https://nedbatchelder.com/blog/201711/toxic_experts.html
 
 https://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
 
@@ -61,6 +68,9 @@ http://bugs.python.org/user26332
 
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
+http://pyfound.blogspot.com/2018/10/pypi-security-and-accessibility-q1-2019.html | Python Software Foundation News: PyPI Security and Accessibility Q1 2019 Request for Information period opens.
+https://www.djangoproject.com/weblog/2018/nov/04/individual-membership-system-cfp/ | DSF Individual membership - call for implementation proposals | Weblog | Django
+
 Django Core
 https://www.amazon.com/Mastering-Django-Core-Complete-Guide/dp/099461683X | Mastering Django: Core: The Complete Guide to Django 1.8 LTS: Nigel George: 9780994616838: Amazon.com: Books
 
@@ -68,6 +78,7 @@ https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh
 
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
+
 
 New functionality
 https://www.python.org/dev/peps/pep-0553/ | PEP 553 -- Built-in breakpoint() | Python.org
@@ -78,7 +89,10 @@ https://nedbatchelder.com/blog/201605/generator_comprehensions.html | Ned Batche
 https://twitter.com/squeaky_pl/status/1014855652362145792 | Squeaky on Twitter: "FYI @VictorStinner opened some pull requests to CPython for __demonstration purposes__ how PEP 572 assignment expression can be used to make Python library code more readable/shorter: https://t.co/Gc5IwdqwD1 https://t.co/IxkNMJvo9G https://t.co/eNPKiRgeI6… https://t.co/SjocXGITSS"
 https://www.python.org/dev/peps/pep-0572/ | PEP 572 -- Assignment Expressions | Python.org
 
+https://twitter.com/freakboy3742/status/999286561626877957 | Russell Keith-Magee on Twitter: "TIL: Python 3.6 f-strings and Dynamic Django querysets are a match made in heaven. It’s kinda obvious when you think about it, but it took @maribedran pointing it out before this 12-year Django core team veteran made the connection. #djangocon"
+
 https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
+
 Setup.py Kenneth Reitz
 -->
 
