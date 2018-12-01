@@ -185,27 +185,19 @@ CPython GitHub Migration
 
 Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
+* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
+
+The 2018 Python Language Summit
+* [The 2018 Python Language Summit](https://lwn.net/Articles/754152)
+
+Python Core Sprint 2018
+* [Mariatta: Part 1](https://mariatta.ca/core-sprint-2018-part-1.html) and [Mariatta: Part 2](https://mariatta.ca/core-sprint-2018-part-2.html)
+* [Victor Stinner](https://twitter.com/VictorStinner/status/1041219533439217665)
+
+Python Core Sprint 2016
+* [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
-https://bugs.python.org/issue34605 | Issue 34605: Avoid master/slave terminology - Python tracker
-https://github.com/python/cpython/pull/9101 | bpo-34605: Avoid master/slave terms by vstinner · Pull Request #9101 · python/cpython
-
-https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
-https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
-
-https://lwn.net/Articles/757950/ | Mentoring and diversity for Python [LWN.net]
-
-https://lwn.net/Articles/754152/ | The 2018 Python Language Summit [LWN.net]
-
-https://mariatta.ca/core-sprint-2018-part-1.html | mariatta.ca – Python Core Sprint 2018: Part One
-https://mariatta.ca/core-sprint-2018-part-2.html | mariatta.ca – Python Core Sprint 2018: Part Two
-
-https://twitter.com/VictorStinner/status/1041219533439217665 | Victor Stinner 🐍 on Twitter: "The 3rd CPython sprint at Microsoft was amazing! Many interesting talks in parallel, a lot about the new governance obviously. It is always a great pleasure to see my friends 🤗 I even heard something saying that core developers are a family 😍 Oh and we got 2 new core devs!… https://t.co/IxzLSwhyU3"
-
-https://lwn.net/Articles/754779/ | Using GitHub Issues for Python [LWN.net]
-
-http://lukasz.langa.pl/12/diversity-python-sprint-september/ | RE: Diversity on the Python sprint in September - lukasz.langa.pl
-
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
 -->
 
@@ -281,15 +273,12 @@ https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-
 https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
 https://www.python.org/dev/peps/pep-0517/
 
-https://github.com/pypa/warehouse
-
 https://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
 
 https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
 
 https://github.com/pypa/warehouse/issues
 https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
-https://warehouse.readthedocs.io/development/getting-started/#quickstart-for-developers-with-docker-experience | Getting started — Warehouse 15.0.dev0 documentation
 
 https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
 
@@ -298,16 +287,16 @@ https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
 https://lwn.net/Articles/751458/ | A new package index for Python [LWN.net]
 
 https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop | Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram
-Inside the Cheeseshop: How Python Packaging Works
 PyCon 2018 · Dustin Ingram
 https://www.youtube.com/watch?v=AQsZsgJ30AE
 https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi | PyPI is dead. Long live PyPI! - Dustin Ingram
 
 https://morepypy.blogspot.com/2018/09/the-first-15-years-of-pypy.html | PyPy Status Blog: The First 15 Years of PyPy — a Personal Retrospective
-https://twitter.com/ewa_jodlowska/status/1034546348006277121 | Ewa Jodlowska on Twitter: "“PyPI’s new design is a reflection of the Python community - modern, welcoming and inclusive.”… "
 
 http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html
 http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#livechat | Python Software Foundation News: Warehouse: All New PyPI is now in beta
+
+Testing
 http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
 https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1wvCm_cLddg/viewform | Conducting user tests on PyPI
 https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
@@ -327,6 +316,11 @@ Package Helpers
 Python Sprints
 * [Python Sprints](https://python-sprints.github.io)
 
+<!--
+https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
+https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
+-->
+
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
 * [Permissions History](https://devguide.python.org/developers/#permissions-history)
@@ -339,10 +333,17 @@ https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
 Python Mentors
 * [Python Mentors](http://pythonmentors.com)
 
-Python Mentorship for Women (Guido van Rossum), Female Core Devs
+Mentoring and diversity for Python (2018)
+* [Mentoring and diversity for Python](https://lwn.net/Articles/757950)
+
+Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
 * [Python Mentorship for Women](https://twitter.com/mariatta/status/737689052736978945)
 * [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
 * ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
+
+Python Master/Slave Terminology
+* [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
+* [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
 
 python.org Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
