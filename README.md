@@ -107,6 +107,7 @@ Python 2 EOL Websites
 * [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
 
 <!--
+https://pyreadiness.org/ | Python Readiness - Python support table for most popular Python packages
 http://python3porting.com/ | Welcome! — Supporting Python 3: An in-depth guide
 
 Dropping Support
