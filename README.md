@@ -244,6 +244,8 @@ Python Core Sprint 2016
 * [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
+http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html
+
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
 -->
 
@@ -485,6 +487,351 @@ https://www.djangoproject.com/foundation/
 https://www.djangoproject.com/foundation/individual-members/
 
 Django 
+
+Teams
+
+Ops team
+Florian Apolloner
+Markus Holtermann
+Tim Graham
+Tobias McNulty
+
+Releasers
+Carlton Gibson
+Jacob Kaplan-Moss
+James Bennett
+Tim Graham
+
+Security team
+Adrian Holovaty
+Aymeric Augustin
+Carl Meyer
+Carlton Gibson
+Claude Paroz
+Collin Anderson
+Florian Apolloner
+Jacob Kaplan-Moss
+James Bennett
+Jannis Leidel
+Marc Tamlyn
+Markus Holtermann
+Michael Manfre
+Paul McMillan
+Sasha Romijn
+Shai Berger
+Simon Charette
+Tim Graham
+
+Technical advisory team
+Aymeric Augustin
+Carl Meyer
+Collin Anderson
+Julien Phalip
+Karen Tracey
+Luke Plant
+Michael Manfre
+Sasha Romijn
+Shai Berger
+Tobias McNulty
+Tom Christie
+Technical board
+
+The technical board for the 2.2 release cycle is:
+Adam Johnson
+Andrew Godwin
+Aymeric Augustin
+Carl Meyer
+James Bennett
+
+Technical team
+Adam Johnson
+Carlton Gibson
+Claude Paroz
+Josh Smeaton
+Loïc Bistuer
+Marc Tamlyn
+Mariusz Felisiak
+Markus Holtermann
+Sergey Fedoseev
+Simon Charette
+Tim Graham
+
+Django committers
+
+The original team
+Adrian Holovaty
+Simon Willison
+Jacob Kaplan-Moss
+Wilson Miner
+
+Current developers
+Malcolm Tredinnick
+Luke Plant
+Russell Keith-Magee
+James Bennett
+Gary Wilson
+Matt Boersma
+Ian Kelly
+Joseph Kocherhans
+Brian Rosner
+Justin Bronn
+Karen Tracey
+Jannis Leidel
+James Tauber
+Alex Gaynor
+Simon Meers
+Andrew Godwin
+Carl Meyer
+Ramiro Morales
+Gabriel Hurley
+Chris Beaven
+Honza Král
+Tim Graham
+Idan Gazit
+Paul McMillan
+Julien Phalip
+Aymeric Augustin
+Claude Paroz
+Anssi Kääriäinen
+Florian Apolloner
+Jeremy Dunck
+Bryan Veloso
+Preston Holmes
+Simon Charette
+Donald Stufft
+Daniel Lindsley
+Marc Tamlyn
+Shai Berger
+Baptiste Mispelon
+Daniele Procida
+Erik Romijn
+
+Developers Emeritus
+Georg “Hugo” Bauer
+Robert Wittams
+
+@adrianholovaty	Adrian Holovaty
+@jacobian	Jacob Kaplan-Moss
+
+@spookylukey	Luke Plant
+@freakboy3742	Russell Keith-Magee
+@ubernostrum	James Bennett
+@gdub	Gary Wilson Jr.
+@brosner	Brian Rosner
+@jbronn	Justin Bronn
+@kmtracey	Karen Tracey
+@jtauber	James Tauber
+@alex	Alex Gaynor
+@DrMeers	Simon Meers
+@andrewgodwin	Andrew Godwin
+@carljm	Carl Meyer
+@ramiro	Ramiro Morales
+@HonzaKral	Honza Král
+@timgraham	Tim Graham
+@idan	Idan Gazit
+@jphalip	Julien Phalip
+@aaugustin Aymeric Augustin
+@claudep	Claude Paroz
+@akaariai	Anssi Kääriäinen
+@apollo13	Florian Apolloner
+@jdunck	Jeremy Dunck
+@bryanveloso	Bryan Veloso
+@ptone	Preston Holmes
+@charettes	Simon Charette
+@dstufft	Donald Stufft
+@mjtamlyn	Marc Tamlyn
+@shaib	Shai Berger
+@bmispelon	Baptiste Mispelon
+@mxsasha	Sasha Romijn
+
+@carltongibson	Carlton Gibson
+
+@adamchainz	Adam Johnson
+@adriennefriend	Adrienne Lowe
+@avelino	Avelino
+@felixxm	Mariusz Felisiak
+@frankwiles	Frank Wiles
+@gchp	Greg Chapple
+@glasnt	Katie McLaughlin
+@jarshwah	Josh Smeaton
+@jdufresne	Jon Dufresne
+@jefftriplett	Jeff Triplett
+@jkocherhans	Joseph Kocherhans
+@loic	Loïc Bistuer
+@MarkusH	Markus Holtermann
+@phalt	Paul Hallett
+@pelme	Andreas Pelme
+@proofit404	Artem Malyshev
+@sir-sigurd	Sergey Fedoseev
+@SmileyChris	Chris Beaven
+@tobiasmcnulty	Tobias McNulty
+@tomchristie	Tom Christie
+@treyhunner	Trey Hunner
+@williln	Lacey Williams Henschel
+
+Python Push Access
+
+Lisa Roach
+Emily Morehouse
+Pablo Galindo Salgado
+Mark Shannon
+Petr Viktorin
+Nathaniel J. Smith
+Julien Palard
+Ivan Levkivskyi
+Carol Willing
+Mariatta Wijaya
+Maciej Szulik
+Xiang Zhang
+INADA Naoki
+Xavier de Gaye
+Davin Potts
+Martin Panter
+Paul Moore
+Chris Angelico
+Santoso Wijaya
+Stefan Richthofer
+Robert Collins
+Darjus Loktevic
+Berker Peksağ
+Steve Dower
+Kushal Das
+Steven d’Aprano
+Yury Selivanov
+Zachary Ware
+Donald Stufft
+Ethan Furman
+Roger Serwy
+Serhiy Storchaka
+Chris Jerdonek
+Daniel Holth
+Eric Snow
+Jeff Allen
+Peter Moody
+Hynek Schlawack
+Richard Oudkerk
+Andrew Svetlov
+Petri Lehtinen
+Meador Inge
+Sandro Tosi
+Charles-François Natali
+Nadeem Vawda
+Carl Friedrich Bolz
+Alexis Métaireau, Elson Rodriguez, Kelsey Hightower, Michael Mulich and Walker Hale
+Jeff Hardy
+Alex Gaynor and Maciej Fijalkowski
+Ross Lagerwall
+Eli Bendersky
+Ned Deily
+David Malcolm
+Tal Einat
+Łukasz Langa
+Daniel Stutzbach
+Ask Solem
+George Boutsioukis
+Éric Araujo
+Terry Reedy
+Brian Quinlan
+Reid Kleckner
+Alexander Belopolsky
+Tim Golden
+Giampaolo Rodolà
+Jean-Paul Calderone
+Brian Curtin
+Florent Xicluna
+Dino Viehland
+Larry Hastings
+Victor Stinner
+Stefan Krah
+Doug Hellmann
+Ezio Melotti
+Paul Kippes
+Ron DuPlain
+Allison Randal (Parrot), Michael Foord (IronPython), Jim Baker, Philip Jenvey, and Frank Wierzbicki (all Jython)
+R. David Murray
+Chris Withers
+Tarek Ziadé
+Hirokazu Yamamoto
+Antoine Pitrou
+Jesse Noller
+Gregor Lingl
+Robert Schuppenies
+Rodrigo Bernardo Pimentel
+Heiko Weinen
+Jesús Cea
+Guilherme Polo
+Thomas Lee
+Jeroen Ruigrok van der Werven
+Josiah Carlson
+Benjamin Peterson
+Jerry Seutter
+Jeff Rush
+David Wolever
+Trent Nelson
+Mark Dickinson
+Amaury Forgeot d’Arc
+Christian Heimes
+Chris Monson
+Bill Janssen
+Jeffrey Yasskin
+Mark Summerfield
+Armin Ronacher
+Senthil Kumaran
+Alexandre Vassalotti
+Travis Oliphant
+Ziga Seilnacht
+Pete Shinners
+Pat Maupin and Eric V. Smith
+Steven Bethard
+Josiah Carlson
+Collin Winter
+Lars Gustaebel
+Matt Fleming
+Jackilyn Hoxworth
+Mateusz Rukowicz
+Andrew Dalke Christian Tismer Jack Diederich John Benediktsson Kristján V. Jónsson Martin Blais Richard Emslie Richard Jones Runar Petursson Steve Holden Richard M. Tew
+Steven Bethard
+Talin
+George Yoshida
+Ronald Oussoren
+Bob Ippolito
+Nick Coghlan
+Gregory K Johnson
+Floris Bruynooghe
+Georg Brandl
+Terry Reedy
+Nick Coghlan
+Armin Rigo
+Eric Price
+Eric S. Raymond
+
+15.2. Permissions Dropped on Request¶
+Xavier de Gaye’s privileges were dropped on 25 January 2018 by Brett Cannon per his request.
+Andrew MacIntyre’s privileges were dropped on 2 January 2016 by BCP per his request.
+Skip Montanaro’s permissions were removed on 21 April 2015 by BCP per his request.
+Armin Rigo permissions were removed on 2012.
+Roy Smith, Matt Fleming and Richard Emslie sent drop requests. 4 Aug 2008 GFB
+Per note from Andrew Kuchling, the permissions for Gregory K Johnson and the Summer Of Code project are no longer needed. 4 Aug 2008 GFB
+Per note from Andrew Kuchling, the permissions for Gregory K Johnson and the Summer Of Code project are no longer needed. AMK will make any future checkins directly. 16 Oct 2005 RDH
+Johannes Gijsbers sent a drop request. 27 July 2005 RDH
+Floris Bruynooghe sent a drop request. 14 July 2005 RDH
+Paul Prescod sent a drop request. 30 Apr 2005 RDH
+Finn Bock sent a drop request. 13 Apr 2005 RDH
+Eric Price sent a drop request. 10 Apr 2005 RDH
+Irmen de Jong requested dropping CVS access while keeping tracker access. 10 Apr 2005 RDH
+Moshe Zadka and Ken Manheimer sent drop requests. 8 Apr 2005 by RDH
+Steve Holden, Gerhard Haring, and David Cole sent email stating that they no longer use their access. 7 Apr 2005 RDH
+
+TGP: Tim Peters
+GFB: Georg Brandl
+BAC: Brett Cannon
+BCP: Benjamin Peterson
+NCN: Neal Norwitz
+DJG: David Goodger
+MvL: Martin v. Loewis
+GvR: Guido van Rossum
+RDH: Raymond Hettinger
+
 PSF Fellows
 
 PSF Membership Roster
@@ -854,288 +1201,4 @@ Holger Krekel (2010/2018)
 Deceased Fellows
 John Pinner (member from 2008-2015)
 Malcolm Tredinnick (member since 2009)
-
-
-Teams
-
-Ops team
-Florian Apolloner
-Markus Holtermann
-Tim Graham
-Tobias McNulty
-
-Releasers
-Carlton Gibson
-Jacob Kaplan-Moss
-James Bennett
-Tim Graham
-
-Security team
-Adrian Holovaty
-Aymeric Augustin
-Carl Meyer
-Carlton Gibson
-Claude Paroz
-Collin Anderson
-Florian Apolloner
-Jacob Kaplan-Moss
-James Bennett
-Jannis Leidel
-Marc Tamlyn
-Markus Holtermann
-Michael Manfre
-Paul McMillan
-Sasha Romijn
-Shai Berger
-Simon Charette
-Tim Graham
-
-Technical advisory team
-Aymeric Augustin
-Carl Meyer
-Collin Anderson
-Julien Phalip
-Karen Tracey
-Luke Plant
-Michael Manfre
-Sasha Romijn
-Shai Berger
-Tobias McNulty
-Tom Christie
-Technical board
-
-The technical board for the 2.2 release cycle is:
-Adam Johnson
-Andrew Godwin
-Aymeric Augustin
-Carl Meyer
-James Bennett
-
-Technical team
-Adam Johnson
-Carlton Gibson
-Claude Paroz
-Josh Smeaton
-Loïc Bistuer
-Marc Tamlyn
-Mariusz Felisiak
-Markus Holtermann
-Sergey Fedoseev
-Simon Charette
-Tim Graham
-
-Django committers
-
-The original team
-Adrian Holovaty
-Simon Willison
-Jacob Kaplan-Moss
-Wilson Miner
-
-Current developers
-Malcolm Tredinnick
-Luke Plant
-Russell Keith-Magee
-James Bennett
-Gary Wilson
-Matt Boersma
-Ian Kelly
-Joseph Kocherhans
-Brian Rosner
-Justin Bronn
-Karen Tracey
-Jannis Leidel
-James Tauber
-Alex Gaynor
-Simon Meers
-Andrew Godwin
-Carl Meyer
-Ramiro Morales
-Gabriel Hurley
-Chris Beaven
-Honza Král
-Tim Graham
-Idan Gazit
-Paul McMillan
-Julien Phalip
-Aymeric Augustin
-Claude Paroz
-Anssi Kääriäinen
-Florian Apolloner
-Jeremy Dunck
-Bryan Veloso
-Preston Holmes
-Simon Charette
-Donald Stufft
-Daniel Lindsley
-Marc Tamlyn
-Shai Berger
-Baptiste Mispelon
-Daniele Procida
-Erik Romijn
-
-Developers Emeritus
-Georg “Hugo” Bauer
-Robert Wittams
-
-Lisa Roach
-Emily Morehouse
-Pablo Galindo Salgado
-Mark Shannon
-Petr Viktorin
-Nathaniel J. Smith
-Julien Palard
-Ivan Levkivskyi
-Carol Willing
-Mariatta Wijaya
-Maciej Szulik
-Xiang Zhang
-INADA Naoki
-Xavier de Gaye
-Davin Potts
-Martin Panter
-Paul Moore
-Chris Angelico
-Santoso Wijaya
-Stefan Richthofer
-Robert Collins
-Darjus Loktevic
-Berker Peksağ
-Steve Dower
-Kushal Das
-Steven d’Aprano
-Yury Selivanov
-Zachary Ware
-Donald Stufft
-Ethan Furman
-Roger Serwy
-Serhiy Storchaka
-Chris Jerdonek
-Daniel Holth
-Eric Snow
-Jeff Allen
-Peter Moody
-Hynek Schlawack
-Richard Oudkerk
-Andrew Svetlov
-Petri Lehtinen
-Meador Inge
-Sandro Tosi
-Charles-François Natali
-Nadeem Vawda
-Carl Friedrich Bolz
-Alexis Métaireau, Elson Rodriguez, Kelsey Hightower, Michael Mulich and Walker Hale
-Jeff Hardy
-Alex Gaynor and Maciej Fijalkowski
-Ross Lagerwall
-Eli Bendersky
-Ned Deily
-David Malcolm
-Tal Einat
-Łukasz Langa
-Daniel Stutzbach
-Ask Solem
-George Boutsioukis
-Éric Araujo
-Terry Reedy
-Brian Quinlan
-Reid Kleckner
-Alexander Belopolsky
-Tim Golden
-Giampaolo Rodolà
-Jean-Paul Calderone
-Brian Curtin
-Florent Xicluna
-Dino Viehland
-Larry Hastings
-Victor Stinner
-Stefan Krah
-Doug Hellmann
-Ezio Melotti
-Paul Kippes
-Ron DuPlain
-Allison Randal (Parrot), Michael Foord (IronPython), Jim Baker, Philip Jenvey, and Frank Wierzbicki (all Jython)
-R. David Murray
-Chris Withers
-Tarek Ziadé
-Hirokazu Yamamoto
-Antoine Pitrou
-Jesse Noller
-Gregor Lingl
-Robert Schuppenies
-Rodrigo Bernardo Pimentel
-Heiko Weinen
-Jesús Cea
-Guilherme Polo
-Thomas Lee
-Jeroen Ruigrok van der Werven
-Josiah Carlson
-Benjamin Peterson
-Jerry Seutter
-Jeff Rush
-David Wolever
-Trent Nelson
-Mark Dickinson
-Amaury Forgeot d’Arc
-Christian Heimes
-Chris Monson
-Bill Janssen
-Jeffrey Yasskin
-Mark Summerfield
-Armin Ronacher
-Senthil Kumaran
-Alexandre Vassalotti
-Travis Oliphant
-Ziga Seilnacht
-Pete Shinners
-Pat Maupin and Eric V. Smith
-Steven Bethard
-Josiah Carlson
-Collin Winter
-Lars Gustaebel
-Matt Fleming
-Jackilyn Hoxworth
-Mateusz Rukowicz
-Andrew Dalke Christian Tismer Jack Diederich John Benediktsson Kristján V. Jónsson Martin Blais Richard Emslie Richard Jones Runar Petursson Steve Holden Richard M. Tew
-Steven Bethard
-Talin
-George Yoshida
-Ronald Oussoren
-Bob Ippolito
-Nick Coghlan
-Gregory K Johnson
-Floris Bruynooghe
-Georg Brandl
-Terry Reedy
-Nick Coghlan
-Armin Rigo
-Eric Price
-Eric S. Raymond
-
-15.2. Permissions Dropped on Request¶
-Xavier de Gaye’s privileges were dropped on 25 January 2018 by Brett Cannon per his request.
-Andrew MacIntyre’s privileges were dropped on 2 January 2016 by BCP per his request.
-Skip Montanaro’s permissions were removed on 21 April 2015 by BCP per his request.
-Armin Rigo permissions were removed on 2012.
-Roy Smith, Matt Fleming and Richard Emslie sent drop requests. 4 Aug 2008 GFB
-Per note from Andrew Kuchling, the permissions for Gregory K Johnson and the Summer Of Code project are no longer needed. 4 Aug 2008 GFB
-Per note from Andrew Kuchling, the permissions for Gregory K Johnson and the Summer Of Code project are no longer needed. AMK will make any future checkins directly. 16 Oct 2005 RDH
-Johannes Gijsbers sent a drop request. 27 July 2005 RDH
-Floris Bruynooghe sent a drop request. 14 July 2005 RDH
-Paul Prescod sent a drop request. 30 Apr 2005 RDH
-Finn Bock sent a drop request. 13 Apr 2005 RDH
-Eric Price sent a drop request. 10 Apr 2005 RDH
-Irmen de Jong requested dropping CVS access while keeping tracker access. 10 Apr 2005 RDH
-Moshe Zadka and Ken Manheimer sent drop requests. 8 Apr 2005 by RDH
-Steve Holden, Gerhard Haring, and David Cole sent email stating that they no longer use their access. 7 Apr 2005 RDH
-
-TGP: Tim Peters
-GFB: Georg Brandl
-BAC: Brett Cannon
-BCP: Benjamin Peterson
-NCN: Neal Norwitz
-DJG: David Goodger
-MvL: Martin v. Loewis
-GvR: Guido van Rossum
-RDH: Raymond Hettinger
 -->
