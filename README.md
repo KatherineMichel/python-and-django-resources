@@ -410,8 +410,8 @@ Lawrence Journal World
 * [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
 
 State of Django
-* [State of Django Panel (DjangoCon 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
-* [State of Django Panel Video (DjangoCon 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
+* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
+* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
 * [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
 
 About Django 
