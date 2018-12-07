@@ -12,13 +12,6 @@ https://nedbatchelder.com/blog/201711/toxic_experts.html
 
 https://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
 
-https://devdocs.io/python~3.6/ | Python 3.6 documentation — DevDocs
-
-https://github.com/Mariatta/talk-talk-talk | Mariatta/talk-talk-talk: Talk Proposals by Mariatta
-https://talk-talk-talk.readthedocs.io/en/latest/ | Talk Proposals by Mariatta — talk-talk-talk documentation
-https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
-https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
-
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
 https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
 
@@ -244,6 +237,8 @@ Python Core Sprint 2016
 * [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
+https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
+
 http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html
 
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
@@ -256,6 +251,9 @@ Core Workflow Tools
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
 <!--
+https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
+https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+
 Mariatta
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
@@ -534,6 +532,7 @@ Sasha Romijn
 Shai Berger
 Tobias McNulty
 Tom Christie
+
 Technical board
 
 The technical board for the 2.2 release cycle is:
@@ -556,6 +555,7 @@ Sergey Fedoseev
 Simon Charette
 Tim Graham
 
+
 Django committers
 
 The original team
@@ -566,45 +566,31 @@ Wilson Miner
 
 Current developers
 Malcolm Tredinnick
-Luke Plant
 Russell Keith-Magee
-James Bennett
 Gary Wilson
 Matt Boersma
 Ian Kelly
 Joseph Kocherhans
 Brian Rosner
 Justin Bronn
-Karen Tracey
-Jannis Leidel
 James Tauber
 Alex Gaynor
 Simon Meers
-Andrew Godwin
-Carl Meyer
 Ramiro Morales
 Gabriel Hurley
 Chris Beaven
 Honza Král
-Tim Graham
 Idan Gazit
 Paul McMillan
 Julien Phalip
-Aymeric Augustin
-Claude Paroz
 Anssi Kääriäinen
-Florian Apolloner
 Jeremy Dunck
 Bryan Veloso
 Preston Holmes
-Simon Charette
 Donald Stufft
 Daniel Lindsley
-Marc Tamlyn
-Shai Berger
 Baptiste Mispelon
 Daniele Procida
-Erik Romijn
 
 Developers Emeritus
 Georg “Hugo” Bauer
