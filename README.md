@@ -403,8 +403,13 @@ Python and Django Git Bootcamps and Cheat Sheets
 * [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
 * [Django: Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
 
-Lawrence Journal World
-* [Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
+Django History
+* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
+* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
+* [Django Birthday Event](https://djangobirthday.com)
+* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
+* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
+* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
 * [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
 
 State of Django
