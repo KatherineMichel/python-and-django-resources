@@ -503,6 +503,8 @@ https://github.com/django/code-of-conduct
 -->
 
 <!--
+https://people.djangoproject.com
+
 https://www.djangoproject.com/foundation/
 
 Django 
@@ -520,8 +522,11 @@ https://wilsonminer.com
 Teams
 
 Adam Johnson
+https://adamj.eu
 Andrew Godwin
+https://www.aeracode.org
 Aymeric Augustin
+https://myks.org/en
 Carl Meyer
 Carlton Gibson
 Claude Paroz
@@ -767,14 +772,6 @@ Steve Holden, Gerhard Haring, and David Cole sent email stating that they no lon
 
 PSF Fellows
 
-PSF Membership Roster
-Officers
-Board of Directors
-PSF Bloggers
-Membership Categories
-Fellows
-Emeritus Fellows
-Deceased Fellows
 Officers
 President: Guido van Rossum
 Chair: Naomi Ceder
@@ -815,9 +812,9 @@ Craig Lang
 Fellows
 
 The year the member was elected is in parentheses.
-Adrian Holovaty (2009)
+
 Aisha Bello (2017)
-Alex Gaynor (2011)
+
 Alex Martelli (2002)
 Alex Willmer (2010)
 Allison Randal (2010)
@@ -827,7 +824,7 @@ Anand Chitipothu (2012)
 Anand Pillai (2010)
 Andreas Jung (2012)
 Andrew Dalke (2004)
-Andrew Godwin (2018)
+
 Andrew Kuchling (2003)
 Anna Martelli Ravenscroft (2006)
 Anne Gentle (2012)
@@ -858,7 +855,7 @@ C. Titus Brown (2008)
 Cameron Laird (2002)
 Carl F. Karsten (2010)
 Carl Friedrich Bolz (2010)
-Carl Meyer (2012)
+
 Carol Willing (2017)
 Carrie Anne Philbin (2017)
 Catherine Devlin (2007)
@@ -879,7 +876,7 @@ Damien George (2017)
 Dana Bauer (2012)
 Daniel Greenfeld (2011)
 Daniel Pope (2017)
-Daniele Procida (2017)
+
 Dave Malcolm (2012)
 David Goodger (2003)
 David M. Beazley (2002)
@@ -890,7 +887,7 @@ Diana Clarke (2013)
 Dino Viehland (2009)
 Don Sheu (2017)
 Donald Beaudry (2002)
-Donald Stufft (2017)
+
 Doug Hellmann (2009)
 Doug Napoleone (2007)
 Duncan McGreggor (2009)
@@ -940,19 +937,18 @@ Jack Diederich (2010)
 Jack Jansen (2001)
 Jackie Kazil (2017)
 Jacob Hallén (2010)
-Jacob Kaplan-Moss (2009)
-James Bennett (2009)
+
 James Blair (2012)
-James Tauber (2008)
+
 Jan Ulrich Hasecke (2012)
-Jannis Leidel (2012)
+
 Jason Pellerin (2013)
 Jason Tishler (2003)
 Jean-Paul Calderone (2009)
 Jeff Elkner (2004)
 Jeff Reback (2018)
 Jeff Rush (2007)
-Jeremy Dunck (2013)
+
 Jeremy Hylton (2001)
 Jesse Noller (2009)
 Jessica McKellar (2011)
@@ -1037,7 +1033,7 @@ Ola Sitarska (2017)
 Olivier Grisel (2013)
 Osvaldo Santana (2013)
 Paul Everitt (2006)
-Paul McMillan (2012)
+
 Paulo Nuin (2011)
 Peter Inglesby (2017)
 Peter Kropf (2012)
@@ -1060,12 +1056,12 @@ Robert Kern (2010)
 Robin Dunn (2002)
 Ronald Oussoren (2011)
 Ruben Orduz (2017)
-Russell Keith-Magee (2017)
+
 Samuele Pedroni (2001)
 Sean Reifschneider (2007)
 Selena Deckelman (2017)
 Simon Cross (2013)
-Simon Willison (2009)
+
 Sjoerd Mullender (2001)
 Stefan Behnel (2018)
 Stefan van der Walt (2013)
