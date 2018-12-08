@@ -372,6 +372,8 @@ Mailing List and Permissions History
 * [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
 
 <!--
+https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python.org
+
 https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
 -->
 
@@ -386,6 +388,11 @@ Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
 * [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
 * ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
 
+<!--
+Mentorship
+https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
+-->
+
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
@@ -398,6 +405,11 @@ python.org Contributing
 * [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
+
+<!--
+https://github.com/python/pycon-code-of-conduct
+https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
+-->
 
 Python and Django Git Bootcamps and Cheat Sheets
 * [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
@@ -484,6 +496,10 @@ Django People- Historical
 Django Code of Conduct and CLA
 * [Django Code of Conduct](https://www.djangoproject.com/conduct)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+<!--
+https://github.com/django/code-of-conduct
+-->
 
 <!--
 https://www.djangoproject.com/foundation/
