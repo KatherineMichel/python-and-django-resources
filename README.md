@@ -487,6 +487,7 @@ https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates â€
 Django People- Current
 * [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
 * [DSF Committees](https://www.djangoproject.com/foundation/committees)
+* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
 * [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
 
 Django People- Historical
@@ -503,7 +504,6 @@ https://github.com/django/code-of-conduct
 
 <!--
 https://www.djangoproject.com/foundation/
-https://www.djangoproject.com/foundation/individual-members/
 
 Django 
 
