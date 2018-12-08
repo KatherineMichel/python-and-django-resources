@@ -507,176 +507,114 @@ https://www.djangoproject.com/foundation/
 
 Django 
 
+Django committers: The original team
+Adrian Holovaty
+http://www.holovaty.com
+Simon Willison
+https://simonwillison.net
+Jacob Kaplan-Moss
+https://jacobian.org
+Wilson Miner
+https://wilsonminer.com
+
 Teams
 
-Ops team
-Florian Apolloner
-Markus Holtermann
-Tim Graham
-Tobias McNulty
-
-Releasers
-Carlton Gibson
-Jacob Kaplan-Moss
-James Bennett
-Tim Graham
-
-Security team
-Adrian Holovaty
-Aymeric Augustin
-Carl Meyer
-Carlton Gibson
-Claude Paroz
-Collin Anderson
-Florian Apolloner
-Jacob Kaplan-Moss
-James Bennett
-Jannis Leidel
-Marc Tamlyn
-Markus Holtermann
-Michael Manfre
-Paul McMillan
-Sasha Romijn
-Shai Berger
-Simon Charette
-Tim Graham
-
-Technical advisory team
-Aymeric Augustin
-Carl Meyer
-Collin Anderson
-Julien Phalip
-Karen Tracey
-Luke Plant
-Michael Manfre
-Sasha Romijn
-Shai Berger
-Tobias McNulty
-Tom Christie
-
-Technical board
-
-The technical board for the 2.2 release cycle is:
 Adam Johnson
 Andrew Godwin
 Aymeric Augustin
 Carl Meyer
-James Bennett
-
-Technical team
-Adam Johnson
 Carlton Gibson
 Claude Paroz
+Collin Anderson
+Florian Apolloner
+Jannis Leidel
+James Bennett
+https://www.b-list.org
 Josh Smeaton
+Julien Phalip
+Karen Tracey
 Loïc Bistuer
+Luke Plant
 Marc Tamlyn
 Mariusz Felisiak
 Markus Holtermann
+Michael Manfre
+Paul McMillan
+Sasha Romijn
 Sergey Fedoseev
+Shai Berger
 Simon Charette
 Tim Graham
+Tobias McNulty
+Tom Christie
 
-
-Django committers
-
-The original team
-Adrian Holovaty
-Simon Willison
-Jacob Kaplan-Moss
-Wilson Miner
+Django committers past
 
 Current developers
-Malcolm Tredinnick
-Russell Keith-Magee
-Gary Wilson
-Matt Boersma
-Ian Kelly
-Joseph Kocherhans
-Brian Rosner
-Justin Bronn
-James Tauber
+
 Alex Gaynor
-Simon Meers
-Ramiro Morales
-Gabriel Hurley
-Chris Beaven
-Honza Král
-Idan Gazit
-Paul McMillan
-Julien Phalip
 Anssi Kääriäinen
-Jeremy Dunck
-Bryan Veloso
-Preston Holmes
-Donald Stufft
-Daniel Lindsley
 Baptiste Mispelon
+Brian Rosner
+Bryan Veloso
+Chris Beaven
+Daniel Lindsley
 Daniele Procida
+Donald Stufft
+Gabriel Hurley
+Gary Wilson
+Honza Král
+Ian Kelly
+Idan Gazit
+James Tauber
+Jeremy Dunck
+Joseph Kocherhans
+Julien Phalip
+Justin Bronn
+Matt Boersma
+Preston Holmes
+Paul McMillan
+Ramiro Morales
+Russell Keith-Magee
+Simon Meers
 
 Developers Emeritus
 Georg “Hugo” Bauer
 Robert Wittams
 
-@adrianholovaty	Adrian Holovaty
-@jacobian	Jacob Kaplan-Moss
+Additonal Org Members
+Adrienne Lowe
+Andreas Pelme
+Artem Malyshev
+Avelino
+Frank Wiles
+Gary Wilson Jr.
+Greg Chapple
+Jeff Triplett
+Jon Dufresne
+Katie McLaughlin
+Paul Hallett
 
-@spookylukey	Luke Plant
-@freakboy3742	Russell Keith-Magee
-@ubernostrum	James Bennett
-@gdub	Gary Wilson Jr.
-@brosner	Brian Rosner
-@jbronn	Justin Bronn
-@kmtracey	Karen Tracey
-@jtauber	James Tauber
-@alex	Alex Gaynor
-@DrMeers	Simon Meers
-@andrewgodwin	Andrew Godwin
-@carljm	Carl Meyer
-@ramiro	Ramiro Morales
-@HonzaKral	Honza Král
-@timgraham	Tim Graham
-@idan	Idan Gazit
-@jphalip	Julien Phalip
-@aaugustin Aymeric Augustin
-@claudep	Claude Paroz
-@akaariai	Anssi Kääriäinen
-@apollo13	Florian Apolloner
-@jdunck	Jeremy Dunck
-@bryanveloso	Bryan Veloso
-@ptone	Preston Holmes
-@charettes	Simon Charette
-@dstufft	Donald Stufft
-@mjtamlyn	Marc Tamlyn
-@shaib	Shai Berger
-@bmispelon	Baptiste Mispelon
-@mxsasha	Sasha Romijn
+Trey Hunner
+https://treyhunner.com
+Lacey Williams Henschel
+https://www.laceyhenschel.com
 
-@carltongibson	Carlton Gibson
-
-@adamchainz	Adam Johnson
-@adriennefriend	Adrienne Lowe
-@avelino	Avelino
-@felixxm	Mariusz Felisiak
-@frankwiles	Frank Wiles
-@gchp	Greg Chapple
-@glasnt	Katie McLaughlin
-@jarshwah	Josh Smeaton
-@jdufresne	Jon Dufresne
-@jefftriplett	Jeff Triplett
-@jkocherhans	Joseph Kocherhans
-@loic	Loïc Bistuer
-@MarkusH	Markus Holtermann
-@phalt	Paul Hallett
-@pelme	Andreas Pelme
-@proofit404	Artem Malyshev
-@sir-sigurd	Sergey Fedoseev
-@SmileyChris	Chris Beaven
-@tobiasmcnulty	Tobias McNulty
-@tomchristie	Tom Christie
-@treyhunner	Trey Hunner
-@williln	Lacey Williams Henschel
 
 Python Push Access
+
+TGP: Tim Peters
+GFB: Georg Brandl
+BAC: Brett Cannon
+BCP: Benjamin Peterson
+NCN: Neal Norwitz
+DJG: David Goodger
+MvL: Martin v. Loewis
+GvR: Guido van Rossum
+RDH: Raymond Hettinger
+
+Nick Coghlan
+http://python-notes.curiousefficiency.org
 
 Lisa Roach
 Emily Morehouse
@@ -802,12 +740,10 @@ Talin
 George Yoshida
 Ronald Oussoren
 Bob Ippolito
-Nick Coghlan
 Gregory K Johnson
 Floris Bruynooghe
 Georg Brandl
 Terry Reedy
-Nick Coghlan
 Armin Rigo
 Eric Price
 Eric S. Raymond
@@ -828,16 +764,6 @@ Eric Price sent a drop request. 10 Apr 2005 RDH
 Irmen de Jong requested dropping CVS access while keeping tracker access. 10 Apr 2005 RDH
 Moshe Zadka and Ken Manheimer sent drop requests. 8 Apr 2005 by RDH
 Steve Holden, Gerhard Haring, and David Cole sent email stating that they no longer use their access. 7 Apr 2005 RDH
-
-TGP: Tim Peters
-GFB: Georg Brandl
-BAC: Brett Cannon
-BCP: Benjamin Peterson
-NCN: Neal Norwitz
-DJG: David Goodger
-MvL: Martin v. Loewis
-GvR: Guido van Rossum
-RDH: Raymond Hettinger
 
 PSF Fellows
 
