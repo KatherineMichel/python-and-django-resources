@@ -10,38 +10,6 @@ http://python-notes.curiousefficiency.org
 
 https://nedbatchelder.com/blog/201711/toxic_experts.html
 
-https://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
-
-https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
-https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
-
-https://github.com/pypa/python-packaging-user-guide | pypa/python-packaging-user-guide: Python Packaging User Guide
-
-https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
-
-https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
-https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
-https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
-
-https://pip.pypa.io/en/stable/reference/pip_wheel
-
-https://pyup.io/ | Manage your Python dependencies with pyup.io
-https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
-http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
-
-https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
-https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
-
-http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
-
-https://pythonhosted.org/setuptools/formats.html
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
-https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoops/Creating-and-Distributing-Python-Packages
-https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python-packages | Two Scoops Press
-
 Django Notes
 https://code.djangoproject.com/wiki/TitleIndex
 https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
@@ -169,9 +137,11 @@ CPython Contributing
 * [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
 <!--
-https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
-
+http://pythondev.readthedocs.io/ | Python Development Documentation — Python Development 1.0 documentation
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
+
+https://docs.python.org/devguide/motivations.html
+https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
 
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
@@ -237,6 +207,8 @@ Python Core Sprint 2016
 * [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
+http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
+
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
 
 http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html
@@ -355,6 +327,9 @@ https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build 
 https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
 https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
 
+https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
+https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
+
 https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
 https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
 https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
@@ -387,6 +362,32 @@ https://github.com/pypa/pipfile/issues/27
 -->
 
 <!--
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+https://pip.pypa.io/en/stable/reference/pip_wheel
+
+https://pyup.io/ | Manage your Python dependencies with pyup.io
+https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
+http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
+
+https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
+https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
+
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
+
+https://pythonhosted.org/setuptools/formats.html
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
+https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoops/Creating-and-Distributing-Python-Packages
+https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python-packages | Two Scoops Press
+
+
 https://www.youtube.com/watch?v=AQsZsgJ30AE
 
 New
@@ -398,8 +399,6 @@ https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package 
 https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
 https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
 https://www.python.org/dev/peps/pep-0517/
-
-https://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
 
 https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
 
