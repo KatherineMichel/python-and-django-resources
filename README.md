@@ -211,6 +211,7 @@ The 2018 Python Language Summit
 * [The 2018 Python Language Summit](https://lwn.net/Articles/754152)
 
 Python Core Sprint 2018
+* [Python Blog "CPython Core Developer Sprint 2018"](http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html)
 * [Mariatta: Part 1](https://mariatta.ca/core-sprint-2018-part-1.html) and [Mariatta: Part 2](https://mariatta.ca/core-sprint-2018-part-2.html)
 * [Victor Stinner](https://twitter.com/VictorStinner/status/1041219533439217665)
 
@@ -218,11 +219,11 @@ Python Core Sprint 2016
 * [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
+https://realpython.com/interview-emily-morehouse/ | Python Community Interview With Emily Morehouse – Real Python
+
 http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
 
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
-
-http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html
 
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
 -->
