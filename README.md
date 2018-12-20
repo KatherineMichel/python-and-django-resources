@@ -77,11 +77,22 @@ http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The 
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
 -->
 
-Python and Django BDFL
+Python and Django Governance and BDFL
+* [PEP 8016- The Steering Council Model (Accepted)](https://www.python.org/dev/peps/pep-8016)
+* [Python Governance Vote (December 2018)](https://discuss.python.org/t/python-governance-vote-december-2018-results/546)
+* [PEP 8010- The Technical Leader Governance Model (Rejected)](https://www.python.org/dev/peps/pep-8010)
 * [PEP 572 and decision-making in Python](https://lwn.net/Articles/757713)
 * [Transfer of Power](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
 * [Moratorium on Governance Decisions](https://mail.python.org/pipermail/python-committers/2018-July/005935.html)
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
+
+<!--
+https://twitter.com/brettsky/status/1074690504682426368 | Brett Cannon on Twitter: "PEP 8016 won, so next step is an election for council membership that will take 4 weeks to hold and needs a start date to be scheduled… https://t.co/W9tM3aGc2J"
+
+https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
+https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
+https://twitter.com/aymericaugustin/status/1074751907195949056 | Aymeric Augustin on Twitter: ""Substantial text was copied shamelessly from The Django project's governance document." It looks like https://t.co/QN7JaoXdFI just became my biggest contribution to Python :-)… https://t.co/CsC0LoxMRz"
+-->
 
 Python Trends
 * [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
