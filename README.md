@@ -87,6 +87,10 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+PEP 8100 -- January 2019 steering council election
+https://www.python.org/dev/peps/pep-8100/
+https://discuss.python.org/t/steering-council-nomination-mariatta/670
+
 https://twitter.com/brettsky/status/1074690504682426368 | Brett Cannon on Twitter: "PEP 8016 won, so next step is an election for council membership that will take 4 weeks to hold and needs a start date to be scheduled… https://t.co/W9tM3aGc2J"
 
 https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
