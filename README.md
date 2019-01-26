@@ -62,6 +62,9 @@ Python
 * [Python GitHub](https://github.com/python)
 
 <!--
+http://pyfound.blogspot.com/ | Python Software Foundation News
+https://pythoninsider.blogspot.com/ | Python Insider: Python 3.7.2rc1 and 3.6.8rc1 now available for testing
+
 https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
 -->
 
@@ -92,6 +95,8 @@ https://www.python.org/dev/peps/pep-8100/
 https://discuss.python.org/t/steering-council-nomination-mariatta/670
 
 https://twitter.com/brettsky/status/1074690504682426368 | Brett Cannon on Twitter: "PEP 8016 won, so next step is an election for council membership that will take 4 weeks to hold and needs a start date to be scheduled… https://t.co/W9tM3aGc2J"
+
+https://snarky.ca/an-update-on-pythons-governance/
 
 https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
 https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
@@ -241,6 +246,8 @@ Core Workflow Tools
 <!--
 https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
 https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+
+https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
 
 Mariatta
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
@@ -473,6 +480,10 @@ Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
 * ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
 
 <!--
+Mentoring
+https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "
+https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+
 Mentorship
 https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
 -->
