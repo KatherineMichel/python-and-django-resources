@@ -75,6 +75,9 @@ Python History
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
+
+https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
+https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
 -->
 
 Python Trends
@@ -395,6 +398,8 @@ Django
 * [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
 
 <!--
+https://www.youtube.com/watch?v=EdD6Ifjlle4 | DjangoCon US 2018 - Packaging Django Apps for Distribution on PyPI by Laura Hampton - YouTube
+
 Check core developer repo info
 
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
@@ -560,7 +565,7 @@ Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
-* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0) and [Django 2.0 Blog Post](https://www.djangoproject.com/weblog/2017/dec/02/django-20-released)
+* [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
 * [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
 
 Your Framework Needs You
