@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
+
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
 
@@ -539,6 +541,16 @@ State of Django
 
 About Django 
 * [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
+
+Django fellows
+* [Mariusz Felisiak GitHub](https://github.com/felixxm)
+* [Carlton Gibson GitHub](https://github.com/carltongibson)
+* [Tim Graham GitHub](https://github.com/timgraham)
+
+<!--
+Carlton Gibson and William S. Vincent
+https://djangochat.com/ | Django Chat Podcast
+-->
 
 Django Software
 * [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
