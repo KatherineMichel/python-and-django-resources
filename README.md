@@ -86,6 +86,13 @@ Python Trends
 * [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
 * [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
 
+Python Rust/WebAssembly
+* [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
+* [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
+* [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
+* [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
+* [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
+
 Surveys
 * [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
 * [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
@@ -140,6 +147,10 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+https://discuss.python.org/t/2019-steering-council-election-results/824 | 2019 Steering Council Election Results - Committers - Discussions on Python.org
+https://mail.python.org/pipermail/python-committers/2019-February/006520.html | [python-committers] 2019 Steering Council Election Results
+https://twitter.com/ThePSF/status/1092452576266801152 | Python Software on Twitter: "The Python Core Developers have elected their first Steering Council! @pumpichank, @brettsky, @WillingCarol, @gvanrossum, and @ncoghlan_dev will lead the project under the specifications in PEP 13. https://t.co/cN2wDLh5uH https://t.co/hCOahJQSWY"
+
 PEP 8100 -- January 2019 steering council election
 https://www.python.org/dev/peps/pep-8100/
 https://discuss.python.org/t/steering-council-nomination-mariatta/670
