@@ -312,6 +312,9 @@ Core Workflow Tools
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
 <!--
+https://mariatta.ca/
+https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
+
 https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
 
 https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
