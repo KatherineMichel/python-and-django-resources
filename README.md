@@ -97,6 +97,10 @@ Surveys
 * [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
 * [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
 
+<!--
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+-->
+
 Python 2 or 3
 * [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
 
