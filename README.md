@@ -93,12 +93,12 @@ Python Rust/WebAssembly
 * [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
 
-Surveys
-* [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
-* [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
+Survey Results
+* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018)
 
 <!--
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+* [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
+* [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
 -->
 
 Python 2 or 3
@@ -373,6 +373,9 @@ https://pypi.python.org/pypi/blurb
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
 -->
 
+Django
+* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+
 Python Docs- Packaging
 * [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
 
@@ -383,55 +386,44 @@ Python- Official Packaging Info
 * [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-* [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
 
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
+* [Wheel PyPi](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
-Python- Packages/Libraries
-* [Pre-Production Deployment of Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
-* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
+Package Helpers
+* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
 
+Python- Packages/Libraries
+* [Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
+ 
 Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/) 
-
-PyPi History
-* ["Redesigning the Python Package Index"](http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html)
-* ["A new package index for Python"](https://lwn.net/Articles/751458/)
-* ["Warehouse: All New PyPI is now in beta"](http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html)
-
-Dustin Ingram
-* ["Inside the Cheeseshop: How Python Packaging Works" (PyCon 2018)](https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop)
-* ["PyPI is dead. Long live PyPI!"](https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi)
-
-Python- Cookiecutter Creating Packages
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-Python- Additional Packaging Tutorials
-* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
-* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
 <!--
-https://www.youtube.com/watch?v=EdD6Ifjlle4 | DjangoCon US 2018 - Packaging Django Apps for Distribution on PyPI by Laura Hampton - YouTube
+https://pip.pypa.io/en/stable/reference/pip_wheel
 
-Check core developer repo info
+https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
 
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
 https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
 https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
 
-https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
-https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
+https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
+https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+https://www.python.org/dev/peps/pep-0517/
 
 https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
 https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
@@ -443,6 +435,18 @@ https://packaging.python.org/tutorials/installing-packages/
 https://packaging.python.org/tutorials/distributing-packages/ | Packaging and distributing projects
 https://packaging.python.org/tutorials/distributing-packages/#project-urls
 
+https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
+https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
+
+https://www.youtube.com/watch?v=AQsZsgJ30AE
+
+https://www.youtube.com/watch?v=EdD6Ifjlle4 | DjangoCon US 2018 - Packaging Django Apps for Distribution on PyPI by Laura Hampton - YouTube
+
+https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
+
+https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
+
+Tools
 https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
 
 pip is the The PyPA recommended tool for installing Python packages.
@@ -462,57 +466,58 @@ https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Python Development
 
 pyproject.toml
 https://github.com/pypa/pipfile/issues/27
--->
-
-<!--
-https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
-
-https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
-https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
-https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
-
-https://pip.pypa.io/en/stable/reference/pip_wheel
 
 https://pyup.io/ | Manage your Python dependencies with pyup.io
 https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
 http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
 
-https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
-https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
+https://github.com/pypa/warehouse/issues
+https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
 
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
+
+https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
+-->
+
+PyPi History
+* ["Redesigning the Python Package Index"](http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html)
+* ["A new package index for Python"](https://lwn.net/Articles/751458/)
+* ["Warehouse: All New PyPI is now in beta"](http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html)
+
+Dustin Ingram
+* ["Inside the Cheeseshop: How Python Packaging Works" (PyCon 2018)](https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop)
+* ["PyPI is dead. Long live PyPI!"](https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi)
+
+Tutorials
+* [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
+
+Python- Cookiecutter Creating Packages
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
+* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest)
+* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
+* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
+
+Python- Additional Packaging Tutorials
+* [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+* [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
+
+<!--
+https://twitter.com/di_codes/status/1097217474603438080 | Dustin Ingram @ PyCaribbean on Twitter: "First you just have to understand all these things... 🤐… "
+
+Tutorials
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://pythonhosted.org/setuptools/formats.html
 https://pythonhosted.org/an_example_pypi_project/setuptools.html
 
+https://blog.jetbrains.com/pycharm/2017/05/how-to-publish-your-package-on-pypi/ | How to Publish Your Package on PyPI | PyCharm Blog
+https://tom-christie.github.io/articles/pypi/ | Uploading to PyPI – Tom Christie
+
 https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoops/Creating-and-Distributing-Python-Packages
 https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python-packages | Two Scoops Press
 
-
-https://www.youtube.com/watch?v=AQsZsgJ30AE
-
-New
-https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
-
-https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
-
-https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
-https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
-https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
-https://www.python.org/dev/peps/pep-0517/
-
-https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
-
-https://github.com/pypa/warehouse/issues
-https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
-
-https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
-
-https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
-
-Testing
+New PyPI
 http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
 https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1wvCm_cLddg/viewform | Conducting user tests on PyPI
 https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
@@ -525,9 +530,6 @@ Package Stats
 https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
 https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
 -->
-
-Package Helpers
-* [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
 
 python.org Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
