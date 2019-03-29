@@ -413,7 +413,7 @@ https://docs.python.org/3.6/distutils/introduction.html | 1. An Introduction to 
 https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
 https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
 https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3.6/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
 
 https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
@@ -606,6 +606,10 @@ Django, Releases, Announcements, and Roadmaps
 
 Your Framework Needs You
 * [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
+
+<!--
+https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/ | Feeding the Pony: Contributing back to Django & How to make that work for you • DjangoCon Europe 2019
+-->
 
 Dissolving Django Core
 * [James Bennett: Core No More](https://www.b-list.org/weblog/2018/nov/20/core)
