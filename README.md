@@ -1,7 +1,11 @@
 # Python and Django- Contributing
 
 <!--
-https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
+https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+
+https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
+
 
 https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
 Django Core Mentorship
@@ -151,6 +155,8 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
+
 https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
  
 https://discuss.python.org/t/2019-steering-council-election-results/824 | 2019 Steering Council Election Results - Committers - Discussions on Python.org
