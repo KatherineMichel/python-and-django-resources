@@ -1,14 +1,15 @@
 # Python and Django- Contributing
 
 <!--
+http://bdfl-gift.pspython.com/ | PuPPy Annual Benefit
+
+https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-
+scheme-for-its-undergraduate-cs-program/ | Why MIT now uses python instead of scheme for its undergraduate CS program – cemerick
+
+
 https://lwn.net/ | Welcome to LWN.net [LWN.net]
 
-https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
 http://python-notes.curiousefficiency.org
-
-https://nedbatchelder.com/blog/201711/toxic_experts.html
 
 Django Notes
 https://code.djangoproject.com/wiki/TitleIndex
@@ -386,6 +387,9 @@ Issues PEP
 * [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
 
 <!--
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
+
 https://mariatta.ca/
 https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
 
