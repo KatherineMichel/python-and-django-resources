@@ -1,15 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
-
-https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
-
-
-https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
-Django Core Mentorship
-
 https://lwn.net/ | Welcome to LWN.net [LWN.net]
 
 https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
@@ -60,6 +51,63 @@ https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter:
 Setup.py Kenneth Reitz
 -->
 
+## My Learning Priorities
+
+* Python and Django contributing
+* Packaging
+* Mariatta's talks and workshops
+
+<!--
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
+
+https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+
+https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
+
+Workshops
+
+<!--
+Mariatta- F-Strings
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+-->
+
+<!--
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+
+Mariatta- Bots
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
+https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+-->
+
+<!--
+## Python Packaging
+
+Vinta Django Apps Checklist
+* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
+
+Vinta API Checklist
+* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+Python and Django- Contributing- Packaging
+
+DjangoCon Europe 2017 Vinta
+https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
+https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
+https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
+-->
+
+## Python General
+
 Python
 * [Python Front Page](https://wiki.python.org/moin)
 * [Python GitHub](https://github.com/python)
@@ -86,6 +134,8 @@ https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitt
 https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
 -->
 
+## Python Trends and Surveys
+
 Python Trends
 * [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
 * [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
@@ -104,6 +154,8 @@ Survey Results
 * [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
 * [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
 -->
+
+## Python 2 or 3, Python 2 EoL
 
 Python 2 or 3
 * [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
@@ -130,6 +182,8 @@ Dropping Support
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
 -->
+
+## Python Governance
 
 Python Authorities
 * [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
@@ -179,6 +233,8 @@ https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
 https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
 -->
 
+## Python Summits and Sprints
+
 The 2018 Python Language Summit
 * [The 2018 Python Language Summit](https://lwn.net/Articles/754152)
 
@@ -203,6 +259,8 @@ Python Sprints
 https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
 https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
 -->
+
+## Python Mailing Lists, Permissions, Mentors, Diversity
 
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
@@ -251,9 +309,9 @@ Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
 
-Issues PEP
-* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
-* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
+## Python Contributing, Release, Workflow
+
+## Python and Django Contributing
 
 CPython Contributing
 * [CPython GitHub](https://github.com/python/cpython)
@@ -323,6 +381,10 @@ Core Workflow Tools
 * [miss-islington](https://github.com/python/miss-islington)
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
+Issues PEP
+* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
+* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
+
 <!--
 https://mariatta.ca/
 https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
@@ -378,6 +440,14 @@ https://pypi.python.org/pypi/blurb
 
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
 -->
+
+## Python and Django Git Assistance
+
+Python and Django Git Bootcamps and Cheat Sheets
+* [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
+* [Django: Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+
+## Python and Django Packages
 
 Django
 * [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
@@ -540,6 +610,8 @@ https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
 https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
 -->
 
+## python.org Contributing
+
 python.org Contributing
 * [python.org GitHub](https://github.com/python/pythondotorg)
 * [python.org Issues](https://github.com/python/pythondotorg/issues)
@@ -554,9 +626,7 @@ https://github.com/python/pycon-code-of-conduct
 https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
 -->
 
-Python and Django Git Bootcamps and Cheat Sheets
-* [Python: Git Bootcamp and Cheat Sheet](https://docs.python.org/devguide/gitbootcamp.html)
-* [Django: Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
+## Django
 
 Django History
 * [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
