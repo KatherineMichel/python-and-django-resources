@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+https://docs.python.org/3/library/collections.html#collections.namedtuple	
+https://docs.python.org/3/library/collections.html#collections.OrderedDict	
+https://docs.python.org/3/library/itertools.html#itertools.chain
+
 https://2019.djangocon.eu/live/
 
 https://members.2019.djangocon.eu/conference/talk/DG7SG8/
@@ -462,17 +466,19 @@ https://github.com/django/django/blob/master/django/db/models/__init__.py
 https://github.com/django/django/blob/master/django/db/models/query.py	
 https://github.com/django/django/blob/master/django/db/models/query.py#L337	
 https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
-https://docs.python.org/3/library/collections.html#collections.namedtuple	
-https://docs.python.org/3/library/collections.html#collections.OrderedDict	
-https://docs.python.org/3/library/itertools.html#itertools.chain	
-https://github.com/django/django/blob/master/django/db/models/lookups.py	
+https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
 
 
-
-
 <!--	
+Core- Interpreter Design	
+https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.7.2 documentation	
+https://fileinfo.com/extension/h | H File Extension - What is an .h file and how do I open it?	
+https://github.com/python/cpython/tree/3.7/Objects | cpython/Objects at 3.7 · python/cpython	
+https://docs.python.org/3/library/pkgutil.html | pkgutil — Package extension utility — Python 3.7.2 documentation	
+
 $ python -m dis program.py	
 compiler -> bytecode	
 bytecode -> python interpreter (interpreter is written in C language)	
@@ -504,23 +510,10 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 -->
 
 
-
-
 <!--
-Core- Interpreter Design	
-https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.7.2 documentation	
-https://fileinfo.com/extension/h | H File Extension - What is an .h file and how do I open it?	
-https://github.com/python/cpython/tree/3.7/Objects | cpython/Objects at 3.7 · python/cpython	
-https://docs.python.org/3/library/pkgutil.html | pkgutil — Package extension utility — Python 3.7.2 documentation	
-
 https://bernsteinbear.com/blog/bytecode-interpreters/ | Bytecode compilers and interpreters | Max Bernstein	
 https://opensource.com/article/18/4/introduction-python-bytecode | An introduction to Python bytecode | Opensource.com	
--->
 
-
-
-<!--
 http://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-tree-and-ast
 
 ASDL, AST
