@@ -1,48 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-http://bdfl-gift.pspython.com/ | PuPPy Annual Benefit
-
-
-Very Important!!!!!
-https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
-https://cpython-devguide.readthedocs.io/setup/#directory-structure
-https://cpython-devguide.readthedocs.io/compiler/
-
-https://devguide.python.org/
-https://pythondev.readthedocs.io/ (my most complete website)
-https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
-https://pythondev.readthedocs.io/internals.html
-https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
-https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
-https://github.com/emilyemorehouse/cpython-notes
-https://python.zulipchat.com/login/
-https://mail.python.org/mailman3/lists/core-mentorship.python.org/
-https://github.com/mitmproxy/mitmproxy/issues/1381
-https://speakerdeck.com/matrixise/exploring-our-python-interpreter
-https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
-https://twitter.com/jacobian/status/737441987587018752
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
-http://python-history.blogspot.com/. A few highlights:
-http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
-http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
-http://python-history.blogspot.com/2010/06/method-resolution-order.html
-http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
-http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
-http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
-http://www.pgbovine.net/cpython-internals.htm
-https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
-http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
-http://opensourcebridge.org/sessions/1882
-http://opensourcebridge.org/sessions/1881
-https://github.com/larryhastings/gilectomy
-https://en.wikipedia.org/wiki/Open_addressing
-https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
-https://en.wikipedia.org/wiki/Locality_of_reference
-https://docs.python.org/3.5//c-api/index.html
-https://cpython-devguide.readthedocs.io/en/latest/setup/#directory-structure
-
 https://lwn.net/ | Welcome to LWN.net [LWN.net]
 
 http://python-notes.curiousefficiency.org
@@ -94,55 +52,6 @@ Setup.py Kenneth Reitz
 * Packaging
 * Mariatta's talks and workshops
 
-<!--
-Django and Python Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
-
-https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
-
-https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
-
-Workshops
-
-<!--
-Mariatta- F-Strings
-
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
--->
-
-<!--
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-
-https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
--->
-
-<!--
-## Python Packaging
-
-Vinta Django Apps Checklist
-* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
-
-Vinta API Checklist
-* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-Python and Django- Contributing- Packaging
-
-DjangoCon Europe 2017 Vinta
-https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
-https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
-https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
--->
-
 ## Python General
 
 Python
@@ -163,6 +72,8 @@ Python History
 * ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
 
 <!--
+http://bdfl-gift.pspython.com/ | PuPPy Annual Benefit
+
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
@@ -346,18 +257,85 @@ Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
 
-## Python Contributing, Release, Workflow
+## Python and Django Contributing Docs
 
-## Python and Django Contributing
-
-CPython Contributing
-* [CPython GitHub](https://github.com/python/cpython)
-* [Bugs](http://bugs.python.org)
+CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
+* [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
+
+Internals
+* [Python Tutor](http://pythontutor.com)
+
+Python Internals- Philip Guo
+* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+
+Python Internals- General
+* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
 
 <!--
-http://pythondev.readthedocs.io/ | Python Development Documentation — Python Development 1.0 documentation
+https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+
+https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
+-->
+
+<!--
+https://cpython-devguide.readthedocs.io/setup/#directory-structure
+https://cpython-devguide.readthedocs.io/compiler/
+https://cpython-devguide.readthedocs.io/en/latest/setup/#directory-structure
+
+https://devguide.python.org/
+https://pythondev.readthedocs.io/ (my most complete website)
+https://pythondev.readthedocs.io/internals.html
+https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
+
+Very Important!!!!!
+https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
+
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
+https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
+https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
+
+https://github.com/emilyemorehouse/cpython-notes
+https://python.zulipchat.com/login/
+https://mail.python.org/mailman3/lists/core-mentorship.python.org/
+https://github.com/mitmproxy/mitmproxy/issues/1381
+https://speakerdeck.com/matrixise/exploring-our-python-interpreter
+https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
+https://twitter.com/jacobian/status/737441987587018752
+
+http://python-history.blogspot.com/. A few highlights:
+http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
+http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
+http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
+
+https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
+http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+http://opensourcebridge.org/sessions/1882
+http://opensourcebridge.org/sessions/1881
+https://github.com/larryhastings/gilectomy
+https://en.wikipedia.org/wiki/Open_addressing
+https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
+https://en.wikipedia.org/wiki/Locality_of_reference
+https://docs.python.org/3.5//c-api/index.html
+
+
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
 https://docs.python.org/devguide/motivations.html
@@ -374,6 +352,12 @@ https://devguide.python.org/committing.html | 16. Committing and Pushing Changes
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
+
+## Python Release and Workflow
+
+CPython Repo and Bugs Dashboard
+* [CPython GitHub](https://github.com/python/cpython)
+* [Bugs](http://bugs.python.org)
 
 Python Status
 * ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
@@ -421,6 +405,24 @@ Core Workflow Tools
 Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
 * [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
+
+<!--
+Workshops
+
+Mariatta- F-Strings
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+
+Mariatta- Bots
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
+https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+-->
 
 <!--
 https://github.com/Mariatta/cookiecutter_sprint_guide
@@ -518,7 +520,20 @@ Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
+Vinta Django Apps Checklist
+* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
+
+Vinta API Checklist
+* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
 <!--
+Python and Django- Contributing- Packaging
+
+DjangoCon Europe 2017 Vinta
+https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
+https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
+https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
+
 https://pip.pypa.io/en/stable/reference/pip_wheel
 
 https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
@@ -707,9 +722,7 @@ djangoproject.com Contributing
 DEPS (Django Enhancement Proposals)
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
-Django Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+Django Tickets
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
