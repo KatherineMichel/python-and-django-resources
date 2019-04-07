@@ -3,9 +3,45 @@
 <!--
 http://bdfl-gift.pspython.com/ | PuPPy Annual Benefit
 
-https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-
-scheme-for-its-undergraduate-cs-program/ | Why MIT now uses python instead of scheme for its undergraduate CS program – cemerick
 
+Very Important!!!!!
+https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
+https://cpython-devguide.readthedocs.io/setup/#directory-structure
+https://cpython-devguide.readthedocs.io/compiler/
+
+https://devguide.python.org/
+https://pythondev.readthedocs.io/ (my most complete website)
+https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
+https://pythondev.readthedocs.io/internals.html
+https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
+https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
+https://github.com/emilyemorehouse/cpython-notes
+https://python.zulipchat.com/login/
+https://mail.python.org/mailman3/lists/core-mentorship.python.org/
+https://github.com/mitmproxy/mitmproxy/issues/1381
+https://speakerdeck.com/matrixise/exploring-our-python-interpreter
+https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
+https://twitter.com/jacobian/status/737441987587018752
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
+http://python-history.blogspot.com/. A few highlights:
+http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
+http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
+http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
+http://www.pgbovine.net/cpython-internals.htm
+https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
+http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+http://opensourcebridge.org/sessions/1882
+http://opensourcebridge.org/sessions/1881
+https://github.com/larryhastings/gilectomy
+https://en.wikipedia.org/wiki/Open_addressing
+https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
+https://en.wikipedia.org/wiki/Locality_of_reference
+https://docs.python.org/3.5//c-api/index.html
+https://cpython-devguide.readthedocs.io/en/latest/setup/#directory-structure
 
 https://lwn.net/ | Welcome to LWN.net [LWN.net]
 
