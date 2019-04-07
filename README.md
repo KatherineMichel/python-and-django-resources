@@ -1,6 +1,9 @@
 # Python and Django- Contributing
 
 <!--
+https://twitter.com/hynek/status/1112870144555040779
+https://dustingram.com/articles/2019/04/02/pypi-as-a-service/
+
 https://lwn.net/ | Welcome to LWN.net [LWN.net]
 
 http://python-notes.curiousefficiency.org
@@ -73,6 +76,7 @@ Python History
 
 <!--
 http://bdfl-gift.pspython.com/ | PuPPy Annual Benefit
+https://www.youtube.com/watch?v=csL8DLXGNlU
 
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
@@ -285,6 +289,8 @@ Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
 <!--
+https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
+
 https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
 https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
 
