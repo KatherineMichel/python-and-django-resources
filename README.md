@@ -489,9 +489,22 @@ output
 * Python data model (Python API)	
 * Python object protocol (C API)	
 
+https://github.com/python/cpython/blob/master/Objects/object.c
+https://docs.python.org/3/c-api/structures.html#c.PyObject_HEAD
+https://docs.python.org/3/c-api/structures.html#c.PyObject
+PyTypeObject (52 members)
+https://docs.python.org/3/c-api/typeobj.html
+Protocols (similar to ABC)
+https://github.com/python/cpython/blob/master/Include/abstract.h
+https://github.com/python/cpython/blob/master/Objects/abstract.c
+
+https://github.com/python/cpython/blob/master/Grammar/Grammar
+https://github.com/python/cpython/blob/master/Programs/python.c
+https://github.com/python/cpython/blob/master/Include/pymem.h
+https://github.com/python/cpython/tree/master/Objects
 https://github.com/python/cpython/blob/master/Include/object.h	
-https://github.com/python/cpython/tree/master/Objects	 
-https://github.com/python/cpython/blob/master/Objects/abstract.c	
+https://github.com/python/cpython/blob/master/Modules/main.c
+
 https://github.com/python/cpython/tree/master/Objects/clinic	
 https://github.com/python/cpython/tree/master/Objects/stringlib	
  PyObject	
