@@ -26,7 +26,6 @@ https://lwn.net/ | Welcome to LWN.net [LWN.net]
 http://python-notes.curiousefficiency.org
 
 Django Notes
-https://code.djangoproject.com/wiki/TitleIndex
 https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
 https://www.python.org/download/releases/2.2/descrintro/#metaclasses | Unifying types and classes in Python 2.2 | Python.org
 https://code.djangoproject.com/wiki/DynamicModels | DynamicModels – Django
@@ -307,11 +306,14 @@ Django GitHub
 
 <!--
 https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
+https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
 
 https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
 
 https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
 https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
 
 https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
 -->
@@ -326,6 +328,7 @@ https://docs.python.org/3/reference/grammar.html
 https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
  1.2. Notation	
 https://docs.python.org/3/reference/introduction.html#notation	
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
 https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
 -->
 
@@ -350,16 +353,14 @@ https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
 https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
 https://github.com/emilyemorehouse/cpython-notes
 
+https://cpython-devguide.readthedocs.io
 https://devguide.python.org/
 https://devguide.python.org/#resources
 https://devguide.python.org/exploring/
 https://devguide.python.org/grammar/
 https://devguide.python.org/compiler/
 https://devguide.python.org/setup/
-
-https://cpython-devguide.readthedocs.io/setup/#directory-structure
-https://cpython-devguide.readthedocs.io/compiler/
-https://cpython-devguide.readthedocs.io/en/latest/setup/#directory-structure
+https://devguide.python.org/setup/#directory-structure
 
 https://pythondev.readthedocs.io/ (my most complete website)
 https://pythondev.readthedocs.io/internals.html
@@ -394,6 +395,7 @@ https://en.wikipedia.org/wiki/Open_addressing
 
 https://github.com/mitmproxy/mitmproxy/issues/1381
 
+Dev
 https://devguide.python.org/#quick-reference
 https://devguide.python.org/#branchstatus
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
@@ -403,9 +405,9 @@ https://devguide.python.org/committing.html | 16. Committing and Pushing Changes
 
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
+Devs
 https://docs.python.org/devguide/motivations.html
 https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
-
 https://python.zulipchat.com
 https://mail.python.org/mailman3/lists/core-mentorship.python.org/
 https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
@@ -413,11 +415,16 @@ https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.htm
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
+
+
+
 <!--
 ## Python and Django Source Code	
 
 https://en.wikipedia.org/wiki/C_(programming_language)
-	
+https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
+https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
+
 https://en.wikipedia.org/wiki/Execution_(computing)		
 https://en.wikipedia.org/wiki/Object_code		
 https://en.wikipedia.org/wiki/Bytecode		
@@ -445,22 +452,32 @@ https://docs.python.org/3/library/inspect.html#code-objects-bit-flags
 https://docs.python.org/3/library/inspect.html#command-line-interface	
  https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
 2. Using the Python Interpreter	
- 
-Django
+
+https://docs.python.org/3/library/marshal.html | marshal — Internal Python object serialization — Python 3.7.3 documentation
+https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal.c at master · python/cpython
+
+Django Source Code
 https://github.com/django/django/blob/master/django/__init__.py	
-https://github.com/django/django/blob/master/django/shortcuts.py	
-https://github.com/django/django/blob/master/django/core/exceptions.py	
 https://github.com/django/django/tree/master/django/apps	
 https://github.com/django/django/blob/master/django/apps/config.py	
-https://github.com/django/django/blob/master/django/apps/registry.py	
+https://github.com/django/django/blob/master/django/apps/registry.py
+https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
 https://github.com/django/django/blob/master/django/urls/conf.py	
-https://github.com/django/django/blob/master/django/urls/resolvers.py	
-https://github.com/django/django/blob/master/django/middleware/common.py	
-https://github.com/django/django/blob/master/django/http/request.py	
+https://github.com/django/django/blob/master/django/urls/resolvers.py
+https://github.com/django/django/blob/master/django/middleware/common.py
+
+https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
+https://github.com/django/django/blob/master/django/http
+https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
 https://github.com/django/django/blob/master/django/http/response.py	
-https://github.com/django/django/blob/master/django/shortcuts.py	
-https://github.com/django/django/blob/master/django/views/generic/base.py	
+
+https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
 https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
+	
+https://github.com/django/django/blob/master/django/shortcuts.py
+https://github.com/django/django/blob/master/django/core/exceptions.py	
+	
 https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
 https://github.com/django/django/blob/master/django/db/models/__init__.py 	
 https://github.com/django/django/blob/master/django/db/models/query.py	
@@ -488,6 +505,10 @@ output
 * Objects/object.c	
 * Python data model (Python API)	
 * Python object protocol (C API)	
+
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/opcode.h | cpython/opcode.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pythonrun.c | cpython/pythonrun.c at master · python/cpython
 
 https://github.com/python/cpython/blob/master/Objects/object.c
 https://docs.python.org/3/c-api/structures.html#c.PyObject_HEAD
@@ -524,6 +545,16 @@ https://eli.thegreenplace.net/ | Eli Bendersky's website
 
 
 <!--
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI HTTP Server for UNIX
+http://gunicorn.org
+
+https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
+https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
+
+
 https://bernsteinbear.com/blog/bytecode-interpreters/ | Bytecode compilers and interpreters | Max Bernstein	
 https://opensource.com/article/18/4/introduction-python-bytecode | An introduction to Python bytecode | Opensource.com	
 
