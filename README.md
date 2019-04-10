@@ -1,10 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://docs.python.org/3/library/collections.html#collections.namedtuple	
-https://docs.python.org/3/library/collections.html#collections.OrderedDict	
-https://docs.python.org/3/library/itertools.html#itertools.chain
-
 https://2019.djangocon.eu/live/
 
 https://members.2019.djangocon.eu/conference/talk/DG7SG8/
@@ -228,17 +224,19 @@ https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - P
 https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
 -->
 
-## Python Mailing Lists, Permissions, Mentors, Diversity
+## Python Mailing Lists, Core Developer Info, Permissions, Mentors, Diversity
 
 Mailing List and Permissions History
 * [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
 * [Permissions History](https://devguide.python.org/developers/#permissions-history)
 * [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
+* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
+* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
 <!--
-https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python.org
-
-https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
+https://python.zulipchat.com
+https://mail.python.org/mailman3/lists/core-mentorship.python.org/
+https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
 -->
 
 Python Mentors
@@ -282,6 +280,36 @@ Python Master/Slave Terminology
 CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
+* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+
+<!--
+https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
+
+https://pythondev.readthedocs.io/ (my most complete website)
+http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
+
+https://devguide.python.org/#quick-reference
+https://devguide.python.org/#branchstatus
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
+
+https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+-->
+
+C Programming Language 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+<!--
+https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
+https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
+
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
 
 Visualizing How Python Works  		
 * [Python Tutor](http://pythontutor.com)
@@ -297,164 +325,28 @@ Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
 Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
 * [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
 
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
+Django Core Mentorship
+* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
 
 <!--
-https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
-https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
-
 https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
 
 https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
 https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
-
-https://groups.google.com/forum/#!forum/django-core-mentorship | (99+) Django Core Mentorship – Google Groups
--->
-
-<!--	
-https://twitter.com/aaronchall/status/1114713624453554176
-
-4.8. Intermezzo: Coding Style	
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
- 10. Full Grammar specification	
-https://docs.python.org/3/reference/grammar.html	
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
- 1.2. Notation	
-https://docs.python.org/3/reference/introduction.html#notation	
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
 -->
 
 <!--
-Very Important!!!!!
-https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
-
-http://python-history.blogspot.com/. A few highlights:
-http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
-http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
-http://python-history.blogspot.com/2010/06/method-resolution-order.html
-http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
-http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
-http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
-
-Guido van Rossum
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
-
-Emily Morehouse
-https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
-https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
-https://github.com/emilyemorehouse/cpython-notes
-
-https://cpython-devguide.readthedocs.io
-https://devguide.python.org/
-https://devguide.python.org/#resources
-https://devguide.python.org/exploring/
-https://devguide.python.org/grammar/
-https://devguide.python.org/compiler/
-https://devguide.python.org/setup/
-https://devguide.python.org/setup/#directory-structure
-
-https://pythondev.readthedocs.io/ (my most complete website)
-https://pythondev.readthedocs.io/internals.html
-https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
-
-http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
-
-https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
-https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
-
-https://speakerdeck.com/matrixise/exploring-our-python-interpreter
-
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
-https://github.com/aosabook/500lines/tree/master/interpreter	
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
- Eli Bendersky	
- 
-https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
-
-Various Topics
-http://opensourcebridge.org/sessions/1881
-http://opensourcebridge.org/sessions/1882
-https://github.com/larryhastings/gilectomy
-https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
-https://en.wikipedia.org/wiki/Locality_of_reference
-https://en.wikipedia.org/wiki/Open_addressing
-
-https://github.com/mitmproxy/mitmproxy/issues/1381
-
-Dev
-https://devguide.python.org/#quick-reference
-https://devguide.python.org/#branchstatus
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
-https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
-https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
-
-https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
-
-Devs
-https://docs.python.org/devguide/motivations.html
-https://devguide.python.org/help/#office-hour | 2. Where to Get Help — Python Developer's Guide
-https://python.zulipchat.com
-https://mail.python.org/mailman3/lists/core-mentorship.python.org/
-https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
-
-https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
--->
-
-
-
-
-<!--
-## Python and Django Source Code	
-
-https://en.wikipedia.org/wiki/C_(programming_language)
-https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
-https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
-
-https://en.wikipedia.org/wiki/Execution_(computing)		
-https://en.wikipedia.org/wiki/Object_code		
-https://en.wikipedia.org/wiki/Bytecode		
-
-https://docs.python.org/3.5//c-api/index.html
-https://github.com/python/cpython/tree/master/Objects
-https://github.com/python/cpython/blob/master/Objects/object.c
-
-3. Data model	
-4. Execution model	
-32.12. dis — Disassembler for Python bytecode	
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions	
-https://docs.python.org/3/library/dis.html#bytecode-analysis	
-https://docs.python.org/3/library/dis.html#analysis-functions	
-https://docs.python.org/3/library/dis.html#opcode-collections	
-https://docs.python.org/3/library/inspect.html#inspect.getmro | 29.12. inspect — Inspect live objects — Python 3.6.5 documentation	
-https://docs.python.org/3/library/inspect.html#types-and-members	
-https://docs.python.org/3/library/inspect.html#retrieving-source-code	
-https://docs.python.org/3/library/inspect.html#introspecting-callables-with-the-signature-object	
-https://docs.python.org/3/library/inspect.html#classes-and-functions	
-https://docs.python.org/3/library/inspect.html#the-interpreter-stack	
-https://docs.python.org/3/library/inspect.html#fetching-attributes-statically	
-https://docs.python.org/3/library/inspect.html#current-state-of-generators-and-coroutines	
-https://docs.python.org/3/library/inspect.html#code-objects-bit-flags	
-https://docs.python.org/3/library/inspect.html#command-line-interface	
- https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
-2. Using the Python Interpreter	
-
-https://docs.python.org/3/library/marshal.html | marshal — Internal Python object serialization — Python 3.7.3 documentation
-https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal.c at master · python/cpython
+https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
+https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
 
 Django Source Code
 https://github.com/django/django/blob/master/django/__init__.py	
@@ -486,14 +378,129 @@ https://github.com/django/django/blob/master/django/contrib/auth/base_user.py |
 https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
+<!--	
+https://twitter.com/aaronchall/status/1114713624453554176
+
+4.8. Intermezzo: Coding Style	
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
+10. Full Grammar specification	
+https://docs.python.org/3/reference/grammar.html	
+https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
+1.2. Notation	
+https://docs.python.org/3/reference/introduction.html#notation	
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+-->
+
+<!--
+Core- Interpreter Design	
+https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
+
+Very Important!!!!!
+https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
+
+https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
+
+Guido van Rossum
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
+
+Emily Morehouse
+https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
+https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
+https://github.com/emilyemorehouse/cpython-notes
+
+https://devguide.python.org/#resources
+https://devguide.python.org/exploring/
+https://devguide.python.org/grammar/
+https://devguide.python.org/compiler/
+https://devguide.python.org/setup/
+https://devguide.python.org/setup/#directory-structure
+
+https://pythondev.readthedocs.io/internals.html
+
+https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
+https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
+
+https://speakerdeck.com/matrixise/exploring-our-python-interpreter
+
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
+https://github.com/aosabook/500lines/tree/master/interpreter	
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
+ Eli Bendersky	
+ 
+https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
+
+http://python-history.blogspot.com/. A few highlights:
+http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
+http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
+http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
+
+Various Topics
+http://opensourcebridge.org/sessions/1881
+http://opensourcebridge.org/sessions/1882
+https://github.com/larryhastings/gilectomy
+https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
+https://en.wikipedia.org/wiki/Locality_of_reference
+https://en.wikipedia.org/wiki/Open_addressing
+
+https://github.com/mitmproxy/mitmproxy/issues/1381
+
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+-->
+
+
+
+
+<!--
+## Python and Django Source Code	
+
+https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
+https://devguide.python.org/gdb/ | 22. gdb Support — Python Developer's Guide
+https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
+
+https://en.wikipedia.org/wiki/Execution_(computing)		
+https://en.wikipedia.org/wiki/Object_code		
+https://en.wikipedia.org/wiki/Bytecode		
+
+3. Data model	
+4. Execution model	
+32.12. dis — Disassembler for Python bytecode	
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions	
+https://docs.python.org/3/library/dis.html#bytecode-analysis	
+https://docs.python.org/3/library/dis.html#analysis-functions	
+https://docs.python.org/3/library/dis.html#opcode-collections	
+https://docs.python.org/3/library/inspect.html#inspect.getmro | 29.12. inspect — Inspect live objects — Python 3.6.5 documentation	
+https://docs.python.org/3/library/inspect.html#types-and-members	
+https://docs.python.org/3/library/inspect.html#retrieving-source-code	
+https://docs.python.org/3/library/inspect.html#introspecting-callables-with-the-signature-object	
+https://docs.python.org/3/library/inspect.html#classes-and-functions	
+https://docs.python.org/3/library/inspect.html#the-interpreter-stack	
+https://docs.python.org/3/library/inspect.html#fetching-attributes-statically	
+https://docs.python.org/3/library/inspect.html#current-state-of-generators-and-coroutines	
+https://docs.python.org/3/library/inspect.html#code-objects-bit-flags	
+https://docs.python.org/3/library/inspect.html#command-line-interface	
+ https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
+2. Using the Python Interpreter	
+
+https://docs.python.org/3/library/marshal.html | marshal — Internal Python object serialization — Python 3.7.3 documentation
+https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal.c at master · python/cpython
+-->
+
 
 
 <!--	
-Core- Interpreter Design	
-https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.7.2 documentation	
 https://fileinfo.com/extension/h | H File Extension - What is an .h file and how do I open it?	
-https://github.com/python/cpython/tree/3.7/Objects | cpython/Objects at 3.7 · python/cpython	
 https://docs.python.org/3/library/pkgutil.html | pkgutil — Package extension utility — Python 3.7.2 documentation	
 
 $ python -m dis program.py	
@@ -506,58 +513,48 @@ output
 * Python data model (Python API)	
 * Python object protocol (C API)	
 
-https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
-https://github.com/python/cpython/blob/master/Include/opcode.h | cpython/opcode.h at master · python/cpython
-https://github.com/python/cpython/blob/master/Python/pythonrun.c | cpython/pythonrun.c at master · python/cpython
-
-https://github.com/python/cpython/blob/master/Objects/object.c
-https://docs.python.org/3/c-api/structures.html#c.PyObject_HEAD
-https://docs.python.org/3/c-api/structures.html#c.PyObject
-PyTypeObject (52 members)
-https://docs.python.org/3/c-api/typeobj.html
-Protocols (similar to ABC)
-https://github.com/python/cpython/blob/master/Include/abstract.h
-https://github.com/python/cpython/blob/master/Objects/abstract.c
-
-https://github.com/python/cpython/blob/master/Grammar/Grammar
-https://github.com/python/cpython/blob/master/Programs/python.c
-https://github.com/python/cpython/blob/master/Include/pymem.h
-https://github.com/python/cpython/tree/master/Objects
-https://github.com/python/cpython/blob/master/Include/object.h	
-https://github.com/python/cpython/blob/master/Modules/main.c
-
-https://github.com/python/cpython/tree/master/Objects/clinic	
-https://github.com/python/cpython/tree/master/Objects/stringlib	
- PyObject	
+PyObject	
 Frames, function calls, basic scope	
 https://docs.python.org/2.4/lib/bytecodes.html	
 https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types	
 https://docs.python.org/3.7/c-api/object.html	
 https://docs.python.org/3.7/c-api/structures.html	
-https://docs.python.org/3.7/c-api/concrete.html	
- Not Sure	
+https://docs.python.org/3.7/c-api/concrete.html		
 https://docs.python.org/3.7/c-api/code.html	
 https://docs.python.org/3/c-api/memory.html	
 https://docs.python.org/2/c-api/int.html	
-https://docs.python.org/2/c-api/type.html#c.PyTypeObject	
-https://eli.thegreenplace.net/ | Eli Bendersky's website	
+https://docs.python.org/2/c-api/type.html#c.PyTypeObject
+https://docs.python.org/3.5//c-api/index.html
+https://docs.python.org/3/c-api/structures.html#c.PyObject_HEAD
+https://docs.python.org/3/c-api/structures.html#c.PyObject
+PyTypeObject (52 members)
+https://docs.python.org/3/c-api/typeobj.html
+
+
+https://github.com/python/cpython/blob/master/Grammar/Grammar
+https://github.com/python/cpython/blob/master/Programs/python.c
+https://github.com/python/cpython/blob/master/Include/pymem.h
+	
+https://github.com/python/cpython/blob/master/Modules/main.c
+
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/opcode.h | cpython/opcode.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pythonrun.c | cpython/pythonrun.c at master · python/cpython
+
+https://github.com/python/cpython/tree/master/Objects
+https://github.com/python/cpython/blob/master/Include/object.h
+https://github.com/python/cpython/blob/master/Objects/object.c
+
+Protocols (similar to ABC)
+https://github.com/python/cpython/blob/master/Include/abstract.h
+https://github.com/python/cpython/blob/master/Objects/abstract.c
+
+https://github.com/python/cpython/tree/master/Objects/clinic	
+https://github.com/python/cpython/tree/master/Objects/stringlib	
 -->
 
 
 <!--
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
-
-WSGI HTTP Server for UNIX
-http://gunicorn.org
-
-https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
-https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
-
-
-https://bernsteinbear.com/blog/bytecode-interpreters/ | Bytecode compilers and interpreters | Max Bernstein	
-https://opensource.com/article/18/4/introduction-python-bytecode | An introduction to Python bytecode | Opensource.com	
-
 http://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-tree-and-ast
 
 ASDL, AST
@@ -571,17 +568,18 @@ https://en.wikipedia.org/wiki/Abstract_syntax_tree | Abstract syntax tree - Wiki
 https://greentreesnakes.readthedocs.io/en/latest/ | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
 https://greentreesnakes.readthedocs.io/en/latest/nodes.html | Meet the Nodes — Green Tree Snakes 1.0 documentation	
 https://python-ast-explorer.com/ | Python AST Explorer	
-
-https://medium.com/simply-scaled/what-s-an-abstract-syntax-tree-ast-how-to-turn-your-python-code-into-one-and-why-you-should-81d6334c1c0f | What’s an Abstract Syntax Tree (AST), how to turn your python code into one, and why you should…	
-https://www.asmeurer.com/brown-water-python/ | Brown Water Python: Better Docs for the Python tokenize Module. — Brown Water Python documentation	
-https://twitter.com/takluyver?lang=en | Thomas Kluyver (@takluyver) | Twitter	
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model	
-https://www.mattlayman.com/blog/2018/decipher-python-ast/ | Deciphering Python: How to use Abstract Syntax Trees (AST) to understand code · Matt Layman	
-https://dev.to/btaskaya/lifecycle-of-a-python-code---cpythons-execution-model-85i | Lifecycle of a Python Code - CPython's Execution Model - DEV Community 👩‍💻👨‍💻	
 -->
 
 <!--	
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI HTTP Server for UNIX
+http://gunicorn.org
+
+https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
+https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
+
 https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
 https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)	
  Compilers	
