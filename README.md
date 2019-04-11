@@ -1,6 +1,9 @@
 # Python and Django- Contributing
 
 <!--
+My CPython Issue and Pull Requests
+http://bugs.python.org/user26332
+
 https://2019.djangocon.eu/live/
 
 https://members.2019.djangocon.eu/conference/talk/DG7SG8/
@@ -9,17 +12,7 @@ https://members.2019.djangocon.eu/conference/talk/GQKCWS/
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
-https://medium.com/mergify/case-study-cpython-development-workflow-9f9ba6fa53a | Case Study: CPython Development Workflow – Mergify – Medium	
-
-"I've literally given up on ideas because I couldn't figure out how to get my dev env together."
-https://twitter.com/jacobian/status/737441987587018752
-
-https://twitter.com/hynek/status/1112870144555040779
-https://dustingram.com/articles/2019/04/02/pypi-as-a-service/
-
-https://lwn.net/ | Welcome to LWN.net [LWN.net]
-
-http://python-notes.curiousefficiency.org
+http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
 Django Notes
 https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
@@ -33,32 +26,7 @@ https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Pytho
 https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas documentation! — Django gotchas 0.1 documentation
 
-
-My CPython Issue and Pull Requests
-http://bugs.python.org/user26332
-
-http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
-
-http://pyfound.blogspot.com/2018/10/pypi-security-and-accessibility-q1-2019.html | Python Software Foundation News: PyPI Security and Accessibility Q1 2019 Request for Information period opens.
-https://www.djangoproject.com/weblog/2018/nov/04/individual-membership-system-cfp/ | DSF Individual membership - call for implementation proposals | Weblog | Django
-
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
-
-
-New functionality
-https://www.python.org/dev/peps/pep-0553/ | PEP 553 -- Built-in breakpoint() | Python.org
-https://www.python.org/dev/peps/pep-3107/ | PEP 3107 -- Function Annotations | Python.org
-https://mail.python.org/pipermail/python-dev/2018-July/154554.html | [Python-Dev] Naming comprehension syntax [was Re: Informal educator feedback on PEP 572 ...]
-https://github.com/python/cpython/pull/8122/files | WIP: use assignment expression in stdlib (combined PR) by vstinner · Pull Request #8122 · python/python
-https://nedbatchelder.com/blog/201605/generator_comprehensions.html | Ned Batchelder: Generator comprehensions
-https://twitter.com/squeaky_pl/status/1014855652362145792 | Squeaky on Twitter: "FYI @VictorStinner opened some pull requests to CPython for __demonstration purposes__ how PEP 572 assignment expression can be used to make Python library code more readable/shorter: https://t.co/Gc5IwdqwD1 https://t.co/IxkNMJvo9G https://t.co/eNPKiRgeI6… https://t.co/SjocXGITSS"
-https://www.python.org/dev/peps/pep-0572/ | PEP 572 -- Assignment Expressions | Python.org
-
-https://twitter.com/freakboy3742/status/999286561626877957 | Russell Keith-Magee on Twitter: "TIL: Python 3.6 f-strings and Dynamic Django querysets are a match made in heaven. It’s kinda obvious when you think about it, but it took @maribedran pointing it out before this 12-year Django core team veteran made the connection. #djangocon"
-
-https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
-
-Setup.py Kenneth Reitz
 -->
 
 ## My Learning Priorities
