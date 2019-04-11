@@ -431,6 +431,23 @@ https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping w
 
 
 <!--
+https://realpython.com
+https://www.geeksforgeeks.org/
+https://www.programiz.com
+https://www.programiz.com/c-programming
+
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+
+https://en.wikipedia.org/wiki/Mutator_method
+https://docs.python.org/3/library/functions.html#setattr
+https://docs.python.org/3/library/functions.html#getattr
+https://docs.python.org/3/library/functions.html#hasattr
+https://docs.python.org/3/library/functions.html#delattr
+https://en.wikipedia.org/wiki/Property_(programming)
+
 ## Python and Django Source Code	
 
 https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
