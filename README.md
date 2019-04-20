@@ -4,11 +4,19 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+https://en.wikipedia.org/wiki/Unix | Unix - Wikipedia
+https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
 https://2019.djangocon.eu/live/
+https://www.youtube.com/watch?v=oAV73PRRWNY | Djangocon 2019 - Europe - Day 3 - YouTube
 
 https://members.2019.djangocon.eu/conference/talk/DG7SG8/
 https://members.2019.djangocon.eu/conference/talk/BHV8UW/
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
+
+https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
@@ -32,6 +40,7 @@ https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh
 ## My Learning Priorities
 
 * Python and Django contributing
+* Django Rest Framework (see Carlton's tutorial)
 * Packaging
 * Mariatta's talks and workshops
 
@@ -78,6 +87,10 @@ Python Rust/WebAssembly
 * [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
 * [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
+
+<!--
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+-->
 
 Survey Results
 * [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018)
@@ -700,14 +713,15 @@ Mariatta- F-Strings
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
 Mariatta- Bots
 * [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
 
+https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
 https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
 https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
 -->
 
 <!--
