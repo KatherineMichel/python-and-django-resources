@@ -154,6 +154,10 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+Repositories under the "python" organization on GitHub
+https://github.com/python/steering-council/issues/9
+https://github.com/django/deps/blob/master/draft/0008-black.rst
+
 https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
 
 https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
