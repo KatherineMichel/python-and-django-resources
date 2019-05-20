@@ -47,6 +47,8 @@ https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development 
 
 Python Software Foundation (PSF)
 * [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
+* [PSF Annual Report 2019](https://www.python.org/psf/annual-report/2019)
+* [PSF Donation Matcher](https://matcher.pyfound.org)
 * [Legacy PSF Website](http://legacy.python.org)
 * [PSF Mission](https://www.python.org/psf/mission)
 * [PSF Bylaws](https://www.python.org/psf/bylaws)
@@ -63,14 +65,8 @@ Positive Python
 
 <!--
 http://pyfound.blogspot.com/ | Python Software Foundation News
-https://www.python.org/psf/annual-report/2019/ | 2019 PSF Annual Report | Python Software Foundation
 
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
-
-PSF Campaign
-https://www.python.org/psf/donations/2019-q2-drive/ | Building the PSF: the Q2 2019 Fundraiser | Python.org
-https://twitter.com/di_codes/status/1128789547398115328 | Dustin Ingram on Twitter: "Also, damn. In light of @easyaspython bringing my goal past 50% in the very first moments of it even existing, if it gets met in the next hour, I'll double my match to $2,000!… https://t.co/a6bY2qJ0S3"
-https://matcher.pyfound.org/ | PSF Donation Matcher
 -->
 
 <!--
@@ -180,11 +176,12 @@ Python Rust/WebAssembly
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
 
 <!--
+https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
+
 https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
 https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
 
-https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
 http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
 https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
 
@@ -468,26 +465,13 @@ Method Resolution Order
 
 <!--
 Potentially new
-https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
-https://github.com/python/cpython/blob/master/Lib/opcode.py | cpython/opcode.py at master · python/cpython
-https://github.com/python/cpython/blob/master/Modules/main.c | cpython/main.c at master · python/cpython
-https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
-https://github.com/python/cpython/blob/master/Python/pythonrun.c#L1063 | cpython/pythonrun.c at master · python/cpython
 https://github.com/python/cpython/ | python/cpython: The Python programming language
 
-https://docs.python.org/3/c-api/ | Python/C API Reference Manual — Python 3.7.3 documentation
 https://pyvideo.org/pycon-us-2012/keynote-david-beazley.html | PyVideo.org · David Beazley Keynote: Tinkering with PyPy
-https://github.com/python/cpython/tree/master/Objects | cpython/Objects at master · python/cpython
-https://docs.python.org/3/library/dis.html#opcode-collections | dis — Disassembler for Python bytecode — Python 3.7.3 documentation
 
 https://news.ycombinator.com/item?id=6745270 | Introduction to the Python Interpreter, Part 1: Function Objects | Hacker News
 https://github.com/amygdalama/python-internals | amygdalama/python-internals: Resources for learning about Python internals and CPython source code
-https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
 https://late.am/post/2012/03/26/exploring-python-code-objects.html | Exploring Python Code Objects « late.am
-
-https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/category/my-projects/pythons-innards/page/1/ | Python’s Innards | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
 
 https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols | Terminal and nonterminal symbols - Wikipedia
 https://en.wikipedia.org/wiki/Production_(computer_science) | Production (computer science) - Wikipedia
@@ -552,6 +536,10 @@ https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
 https://eli.thegreenplace.net/ | Eli Bendersky's website
 https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
 https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
+https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
+
+https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
 
 https://speakerdeck.com/matrixise/exploring-our-python-interpreter
 
@@ -662,7 +650,8 @@ output
 PyObject	
 Frames, function calls, basic scope	
 https://docs.python.org/2.4/lib/bytecodes.html	
-https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types	
+https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types
+https://docs.python.org/3/c-api/ | Python/C API Reference Manual — Python 3.7.3 documentation
 https://docs.python.org/3.7/c-api/object.html	
 https://docs.python.org/3.7/c-api/structures.html	
 https://docs.python.org/3.7/c-api/concrete.html		
@@ -685,7 +674,9 @@ https://github.com/python/cpython/blob/master/Modules/main.c
 
 https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
 https://github.com/python/cpython/blob/master/Include/opcode.h | cpython/opcode.h at master · python/cpython
+https://docs.python.org/3/library/dis.html#opcode-collections | dis — Disassembler for Python bytecode — Python 3.7.3 documentation
 https://github.com/python/cpython/blob/master/Python/pythonrun.c | cpython/pythonrun.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pythonrun.c#L1063 | cpython/pythonrun.c at master · python/cpython
 
 https://github.com/python/cpython/tree/master/Objects
 https://github.com/python/cpython/blob/master/Include/object.h
