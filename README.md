@@ -1,6 +1,24 @@
 # Python and Django- Contributing
 
 <!--
+https://realpython.com
+https://www.geeksforgeeks.org/
+https://www.programiz.com
+https://www.programiz.com/c-programming
+
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+
+https://en.wikipedia.org/wiki/Mutator_method
+https://docs.python.org/3/library/functions.html#setattr
+https://docs.python.org/3/library/functions.html#getattr
+https://docs.python.org/3/library/functions.html#hasattr
+https://docs.python.org/3/library/functions.html#delattr
+https://en.wikipedia.org/wiki/Property_(programming)
+
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -8,6 +26,11 @@ https://en.wikipedia.org/wiki/Unix | Unix - Wikipedia
 https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
 Important! A Heavily Commented Linux Kernel Source Code
 http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
+The People's Programming Language
+https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
+
+https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
@@ -169,6 +192,7 @@ Python Trends
 * [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
 
 Python Rust/WebAssembly
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
 * [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
 * [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
 * [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
@@ -186,8 +210,6 @@ http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | P
 https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
 
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
-
-https://blog.rust-lang.org/2019/04/23/roadmap.html | Rust's 2019 roadmap | Rust Blog
 
 https://webassembly.org/ | WebAssembly
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
@@ -408,6 +430,9 @@ Python Master/Slave Terminology
 
 ## Python Contributing Docs and Info
 
+CPython
+* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+
 CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
@@ -462,29 +487,6 @@ Python Internals- General
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
-
-<!--
-Potentially new
-https://github.com/python/cpython/ | python/cpython: The Python programming language
-
-https://pyvideo.org/pycon-us-2012/keynote-david-beazley.html | PyVideo.org · David Beazley Keynote: Tinkering with PyPy
-
-https://news.ycombinator.com/item?id=6745270 | Introduction to the Python Interpreter, Part 1: Function Objects | Hacker News
-https://github.com/amygdalama/python-internals | amygdalama/python-internals: Resources for learning about Python internals and CPython source code
-https://late.am/post/2012/03/26/exploring-python-code-objects.html | Exploring Python Code Objects « late.am
-
-https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols | Terminal and nonterminal symbols - Wikipedia
-https://en.wikipedia.org/wiki/Production_(computer_science) | Production (computer science) - Wikipedia
-https://www.google.com/search?q=cpython+interpreter+state+and+thread+state&oq=cpython+interpreter+state+and+thread+state&aqs=chrome..69i57.2779j0j7&sourceid=chrome&ie=UTF-8 | cpython interpreter state and thread state - Google Search
-https://www.google.com/search?q=python+-c+option+-m+option&oq=python+-c+option+-m+option&aqs=chrome..69i57j69i64.6947j0j7&sourceid=chrome&ie=UTF-8 | python -c option -m option - Google Search
-https://www.google.com/search?q=python+code+object&oq=python+code+object&aqs=chrome..69i57j69i60l2j0l3.1815j0j7&sourceid=chrome&ie=UTF-8 | python code object - Google Search
-https://www.google.com/search?q=thread+state&oq=thread+state&aqs=chrome..69i57j0l5.263j0j7&sourceid=chrome&ie=UTF-8 | thread state - Google Search
-https://www.google.com/search?q=operand+stack&oq=operand+stack&aqs=chrome..69i57j0l5.263j0j7&sourceid=chrome&ie=UTF-8 | operand stack - Google Search
-
-Core
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
--->
-
 
 <!--	
 https://twitter.com/aaronchall/status/1114713624453554176
@@ -575,28 +577,8 @@ https://github.com/mitmproxy/mitmproxy/issues/1381
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 -->
 
-
-
-
 <!--
-https://realpython.com
-https://www.geeksforgeeks.org/
-https://www.programiz.com
-https://www.programiz.com/c-programming
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
-
-https://en.wikipedia.org/wiki/Mutator_method
-https://docs.python.org/3/library/functions.html#setattr
-https://docs.python.org/3/library/functions.html#getattr
-https://docs.python.org/3/library/functions.html#hasattr
-https://docs.python.org/3/library/functions.html#delattr
-https://en.wikipedia.org/wiki/Property_(programming)
-
-## Python and Django Source Code	
+Python and Django Source Code	
 
 https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
 https://devguide.python.org/gdb/ | 22. gdb Support — Python Developer's Guide
@@ -634,6 +616,8 @@ https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal
 -->
 
 <!--	
+CPython
+
 https://fileinfo.com/extension/h | H File Extension - What is an .h file and how do I open it?	
 https://docs.python.org/3/library/pkgutil.html | pkgutil — Package extension utility — Python 3.7.2 documentation	
 
@@ -665,7 +649,6 @@ https://docs.python.org/3/c-api/structures.html#c.PyObject
 PyTypeObject (52 members)
 https://docs.python.org/3/c-api/typeobj.html
 
-
 https://github.com/python/cpython/blob/master/Grammar/Grammar
 https://github.com/python/cpython/blob/master/Programs/python.c
 https://github.com/python/cpython/blob/master/Include/pymem.h
@@ -691,6 +674,8 @@ https://github.com/python/cpython/tree/master/Objects/stringlib
 -->
 
 <!--
+Abstract Syntax Trees
+
 http://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-tree-and-ast
 
 ASDL, AST
