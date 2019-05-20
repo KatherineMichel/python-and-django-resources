@@ -151,7 +151,15 @@ Django People- Historical
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
 
+Django Fellows
+* [Mariusz Felisiak GitHub](https://github.com/felixxm)
+* [Carlton Gibson GitHub](https://github.com/carltongibson)
+* [Tim Graham GitHub](https://github.com/timgraham)
+
 <!--
+Carlton Gibson and William S. Vincent
+https://djangochat.com/ | Django Chat Podcast
+
 https://people.djangoproject.com
 -->
 
@@ -185,76 +193,10 @@ https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitt
 https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
 -->
 
-## Python Trends and Surveys
-
-Python Trends
+Python Surveys and Trends
 * [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
 * [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
 
-Python Rust/WebAssembly
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-* [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
-* [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
-* [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
-* [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
-* [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
-
-<!--
-https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
-
-https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
-https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
-https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
-
-http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
-https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
-
-https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
-
-https://webassembly.org/ | WebAssembly
-https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
-
-https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://twitter.com/glasnt/status/1127465047188328448 | Katie McLaughlin ✨ on Twitter: "If you have 45 minutes, I strongly urge you to watch @freakboy3742's keynote from @pycon last week. It's amazing, compelling, heart-breaking and heart-warming, and a must watch, even if you don't do Python. https://t.co/UOY2rzscDG"
-
-https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
-
-Larry Hastings Gilectomy
-https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
-https://lwn.net/Articles/754577/
-https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
-
-Walrus Operator
-https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
-https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
--->
-
-<!--	
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
-
-WSGI HTTP Server for UNIX
-http://gunicorn.org
-
-https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
-https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
-
-https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
-https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)	
- Compilers	
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
-* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang Frontend for LLVM](https://clang.llvm.org)	
-https://klee.github.io/ | KLEE	
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
--->
-
-Survey Results
 * [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018)
 
 <!--
@@ -746,68 +688,6 @@ https://github.com/django/django/blob/master/django/contrib/auth/base_user.py |
 https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
-## Django Security
-
-<!--
-https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
--->
-
-<!--
-## Security- General
-    
-Same Origin
-* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
-  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
-https://developers.google.com/web/fundamentals/security/
-
-https://github.com/OWASP
-https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
-
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-
-https://www.owasp.org/index.php/Main_Page
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
-
-https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
-
-https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
-https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
-    
-https://en.wikipedia.org/wiki/Code_injection
-https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
-
-https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
-
-https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
-https://en.wikipedia.org/wiki/Threat_model
--->
-
 ## Python Release and Workflow
 
 CPython Repo and Bugs Dashboard
@@ -862,7 +742,6 @@ Core Workflow Tools
 * [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
 * [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
 * [miss-islington](https://github.com/python/miss-islington)
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
 <!--
 Core PR Tool
@@ -872,74 +751,6 @@ https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for al
 Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
 * [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
-
-<!--
-Workshops
-
-Mariatta- F-Strings
-
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-
-New- Bots
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-https://wiki.python.org/moin/BuildBot | BuildBot - Python Wiki
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
--->
-
-<!--
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
-
-https://mariatta.ca/
-https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
-
-https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
-
-https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
-
-https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
-
-Mariatta
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
-https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
-
-https://github.com/python/miss-islington/issues
-https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
-
-https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
-https://github.com/Mariatta/cloner
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
-https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://github.com/berkerpeksag/cpython-merge-bot
-
-https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
-http://distrowatch.com/table.php?distribution=mint
-https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
-https://github.com/Mariatta/python_versions_and_distros
--->
 
 Sphinx and Django-Sphinx
 * [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
@@ -1164,6 +975,17 @@ https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Co
 
 ## Django
 
+<!--
+DSF Internship
+https://twitter.com/jacobian/status/1121128097082957828 | jacobian on Twitter: "Do you want to get paid to contribute to Django and learn to be a better dev? Great: I’m looking for an intern to implement a new feature for the DSF. You’ll do the work, you’ll get paid, and I’ll be there to support you. Details: https://t.co/2nh3veDXyx; DMs are open for ?s"
+https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/ | Paid Internship Opportunity: Build an App for the DSF | Weblog | Django
+https://docs.google.com/forms/d/e/1FAIpQLSckJl6c-BSsAWsSxCDDnTqVGg7OepPPyAQdp_9gR_L3pNeOEg/viewform | DSF Membership App - Internship Application
+
+https://www.google.com/search?q=Django%E2%80%99s+governance&oq=Django%E2%80%99s+governance&aqs=chrome..69i57.209j0j7&sourceid=chrome&ie=UTF-8 | Django’s governance - Google Search
+
+https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
+-->
+
 Django History
 * [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
 * [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
@@ -1181,16 +1003,6 @@ State of Django
 About Django 
 * [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
 
-Django fellows
-* [Mariusz Felisiak GitHub](https://github.com/felixxm)
-* [Carlton Gibson GitHub](https://github.com/carltongibson)
-* [Tim Graham GitHub](https://github.com/timgraham)
-
-<!--
-Carlton Gibson and William S. Vincent
-https://djangochat.com/ | Django Chat Podcast
--->
-
 Django Software
 * [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
 * [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
@@ -1199,9 +1011,6 @@ djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
-
-DEPS (Django Enhancement Proposals)
-* [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 Django Tickets
 * [Tickets](https://code.djangoproject.com/query)
@@ -1242,35 +1051,6 @@ Dissolving Django Core
 * [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
 * [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
 
-<!--
-Tom Christie
-https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-
-DSF Internship
-https://twitter.com/jacobian/status/1121128097082957828 | jacobian on Twitter: "Do you want to get paid to contribute to Django and learn to be a better dev? Great: I’m looking for an intern to implement a new feature for the DSF. You’ll do the work, you’ll get paid, and I’ll be there to support you. Details: https://t.co/2nh3veDXyx; DMs are open for ?s"
-https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/ | Paid Internship Opportunity: Build an App for the DSF | Weblog | Django
-https://docs.google.com/forms/d/e/1FAIpQLSckJl6c-BSsAWsSxCDDnTqVGg7OepPPyAQdp_9gR_L3pNeOEg/viewform | DSF Membership App - Internship Application
-
-Django Async
-https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
-https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
-https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
-https://share.cutebit.de/dep9.mp4 | https://share.cutebit.de/dep9.mp4
-https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
-https://twitter.com/rixxtr/status/1126611985569914880 | Tobias on Twitter: ""Light reading", @andrewgodwin said.… "
-https://twitter.com/carltongibson/status/1126348311336824833 | Carlton Gibson on Twitter: "My favourite thing about DEPs is the optimistic 
-numbering scheme, with the THREE leading zeros. Oh, and WOOT! 💃… "
-
-https://www.google.com/search?q=Django%E2%80%99s+governance&oq=Django%E2%80%99s+governance&aqs=chrome..69i57.209j0j7&sourceid=chrome&ie=UTF-8 | Django’s governance - Google Search
-
-Django Black
-https://github.com/django/deps/blob/master/draft/0008-black.rst
-https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
-https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
-
-https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
--->
-
 Mentorship
 * [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
 
@@ -1291,4 +1071,396 @@ Django Code of Conduct and CLA
 
 <!--
 https://github.com/django/code-of-conduct
+-->
+
+## Python and Django PEPs and DEPs
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+## Trends
+
+<!--
+* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+Workshops
+
+Mariatta- F-Strings
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+
+New- Bots
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+https://wiki.python.org/moin/BuildBot | BuildBot - Python Wiki
+
+Mariatta- Bots
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
+https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
+https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+-->
+
+<!--
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
+
+https://mariatta.ca/
+https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
+
+https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
+
+https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+
+https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
+
+Mariatta
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
+https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
+http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+
+https://github.com/python/miss-islington/issues
+https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
+
+https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
+https://github.com/Mariatta/cloner
+
+https://zapier.com/ | Zapier | The easiest way to automate your work
+https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
+https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://github.com/berkerpeksag/cpython-merge-bot
+
+https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
+http://distrowatch.com/table.php?distribution=mint
+https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
+https://github.com/Mariatta/python_versions_and_distros
+-->
+
+<!--
+https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
+https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
+https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+
+http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
+https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+Larry Hastings Gilectomy
+https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
+https://lwn.net/Articles/754577/
+https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
+
+Walrus Operator
+https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
+https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
+-->
+
+<!--	
+https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI HTTP Server for UNIX
+http://gunicorn.org
+
+https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
+https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
+
+https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
+https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)	
+ Compilers	
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
+* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
+* [Clang Frontend for LLVM](https://clang.llvm.org)	
+https://klee.github.io/ | KLEE	
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+-->
+
+### Django Black
+
+<!--
+https://github.com/django/deps/blob/master/draft/0008-black.rst
+https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
+https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
+-->
+
+### Python Sync and Async
+
+<!--
+https://wiki.python.org/moin/GlobalInterpreterLock
+
+https://docs.python.org/3/library/asyncio.html
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/multiprocessing.html
+
+https://docs.python.org/3/library/socket.html
+https://docs.python.org/3/library/concurrency.html
+https://docs.python.org/3/library/threading.html
+https://docs.python.org/3/library/queue.html
+-->
+
+<!--
+General
+18. Interprocess Communication and Networking
+
+18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
+
+11.4. Multi-threading
+17.2. multiprocessing — Process-based parallelism
+
+17. Concurrent Execution
+17.1. threading — Thread-based parallelism
+17.7. queue — A synchronized queue class
+
+17.3. The concurrent package
+https://docs.python.org/3/library/concurrent.html
+17.4. concurrent.futures — Launching parallel tasks
+https://docs.python.org/3/library/concurrent.futures.html
+17.5. subprocess — Subprocess management
+https://docs.python.org/3/library/subprocess.html
+17.6. sched — Event scheduler
+https://docs.python.org/3/library/sched.html
+17.8. dummy_threading — Drop-in replacement for the threading module
+https://docs.python.org/3/library/dummy_threading.html
+17.9. _thread — Low-level threading API
+https://docs.python.org/3/library/_thread.html
+17.10. _dummy_thread — Drop-in replacement for the _thread module
+https://docs.python.org/3/library/_dummy_thread.html
+
+Sockets
+
+18.1. socket — Low-level networking interface
+18.2. ssl — TLS/SSL wrapper for socket objects
+https://docs.python.org/3/library/ssl.html
+-->
+
+### Python Sync and Async Tools
+
+<!--
+multiprocessing
+
+https://eventlet.net/
+https://greenlet.readthedocs.io/en/latest/ | greenlet: Lightweight concurrent programming — greenlet 0.4.0 documentation
+https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
+
+asynchronous networking library
+"By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user."
+https://www.tornadoweb.org/en/stable/ | Tornado Web Server — Tornado 5.1.1 documentation
+https://twistedmatrix.com | Twisted
+-->
+
+ASGI (WSGI is for synchronous Python apps, ASGI is for both asynchronous and synchronous apps)
+* [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io)
+* [Channels ASGI](https://channels.readthedocs.io/en/latest/asgi.html)
+
+Uvicorn (ASGI Server)
+* [Uvicorn](http://www.uvicorn.org) and [Uvicorn GitHub](https://github.com/encode/uvicorn)
+
+Starlette (ASGI Framework)
+* [Starlette](https://www.starlette.io) and [Starlette GitHub](https://github.com/encode/starlette)
+
+API Star
+* [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
+* [API Star Discuss](https://discuss.apistar.org)
+
+### Django Sync and Async Tools
+
+"A Django Async Roadmap"
+* ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
+
+Django Channels (Built on ASGI)
+* [Channels](https://channels.readthedocs.io) and [Channels GitHub](https://github.com/django/channels)
+* [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples)
+* [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
+
+Django API Star
+* [Django API Star](https://github.com/lucianoratamero/django_apistar)
+
+<!--
+https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
+https://github.com/TechEmpower/FrameworkBenchmarks | TechEmpower/FrameworkBenchmarks: Source for the TechEmpower Framework Benchmarks project
+
+https://github.com/tomchristie?tab=repositories | tomchristie (Tom Christie) / Repositories
+
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+
+https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
+
+https://www.youtube.com/watch?time_continue=1972&v=-7taKQnndfo | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
+https://github.com/simonw/asgi-scope | simonw/asgi-scope: A tiny application for understanding ASGI scope
+
+https://www.aeracode.org/2018/02/19/python-async-simplified/ | Python & Async Simplified - Aeracode
+http://docs.python-requests.org/en/master/ | Requests: HTTP for Humans™ — Requests 2.21.0 documentation
+https://github.com/encode/requests-async
+https://www.encode.io/articles/hello-asgi/ | Encode
+https://github.com/encode/databases
+
+https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
+https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
+https://github.com/aio-libs/async-timeout | aio-libs/async-timeout: asyncio-compatible timeout class
+
+https://core.telegram.org/
+https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
+
+https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
+http://www.aeracode.org/2017/7/11/towards-channels-20/
+-->
+
+<!--
+salt, ansible
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
+
+Message and Task Queues
+http://mqtt.org/ | MQTT
+http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+http://python-rq.org/
+https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
+https://www.fullstackpython.com/task-queues.html
+https://redis.io/ | Redis
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+
+https://elixir-lang.org/ | Elixir
+
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://realpython.com/python-data-classes/
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+-->
+
+
+<!--
+Tom Christie
+https://members.2019.djangocon.eu/conference/talk/GQKCWS/
+
+Django Async
+https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
+https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
+https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
+https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
+-->
+
+### Python Rust/Assembly
+
+Python Rust/WebAssembly
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+* [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
+* [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
+* [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
+* [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
+* [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
+
+<!--
+https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
+
+https://twitter.com/glasnt/status/1127465047188328448 | Katie McLaughlin ✨ on Twitter: "If you have 45 minutes, I strongly urge you to watch @freakboy3742's keynote from @pycon last week. It's amazing, compelling, heart-breaking and heart-warming, and a must watch, even if you don't do Python. https://t.co/UOY2rzscDG"
+
+https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
+
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+
+https://webassembly.org/ | WebAssembly
+https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
+-->
+
+## Django Security
+
+<!--
+https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
+-->
+
+<!--
+## Security- General
+    
+Same Origin
+* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://developers.google.com/web/fundamentals/security/
+
+https://github.com/OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+
+https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
+
+https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
+https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
+    
+https://en.wikipedia.org/wiki/Code_injection
+https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
+
+https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
+
+https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
+
+https://en.wikipedia.org/wiki/Threat_model
 -->
