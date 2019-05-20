@@ -49,6 +49,7 @@ http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas docu
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
 
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
 
 https://www.google.com/search?q=python+core+developer+mailing+list&oq=python+core+developer+mailing+list&aqs=chrome..69i57j69i64.10729j0j7&sourceid=chrome&ie=UTF-8 | python core developer mailing list - Google Search
 
@@ -163,6 +164,41 @@ https://djangochat.com/ | Django Chat Podcast
 https://people.djangoproject.com
 -->
 
+<!--
+Python Core Developers- Had Met
+* Mariatta, @mariatta
+
+Python Core Developers- Hadn't Met
+* Guido van Rossum, @gvanrossum
+* Barry Warsaw, @pumpichank
+* Brandon Rhodes, @brandon_rhodes
+* Brett Cannon, @brettsky
+* Carol Willing, @WillingCarol
+* Cheryl Sabella, @cherylsabella
+* Christian Heimes, @ChristianHeimes
+* Donald Stufft, @dstufft
+* Emily Morehouse-Valcarcel, @emilyemorehouse
+* Eric Snow, @ericsnowcrntly
+* Kushal Das, @kushaldas
+* Larry Hastings, @LarryHastings
+* Łukasz Langa, @llanga
+* Nick Coghlan, @ncoghlan_dev
+* Raymond Hettinger, @raymondh
+* Stéphane Wirtel, @matrixise
+* Sviatoslove.py, @webKnjaZ
+* T. Wouters, @Yhg1s
+
+Django Core Developers- Had Met
+* Andrew Godwin, @andrewgodwin
+* Simon Willison, @simonw
+* James Bennett, @ubernostrum
+* Sanyam Khurana, @ErSanyamKhurana
+
+Django Core Developers- Hadn't Met
+* Jacob Kaplan-Moss, @jacobian
+* Jannis Leidel, @jezdez
+-->
+
 ## Python General
 
 Python
@@ -216,7 +252,7 @@ Python 2 EOL Websites
 * [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
 * [Python Clock](https://pythonclock.org)
 * [Python 3 Statement](http://python3statement.org)
-* [Python 3 Readiness](https://py3readiness.org)
+* [Python 3 Readiness](https://tiran.github.io/py3readiness)
 * [Python Readiness](https://pyreadiness.org)
 * [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
 * [Python 3 Porting](http://python3porting.com)
@@ -225,6 +261,9 @@ Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
 <!--
+https://caniusepython3.com
+https://github.com/caniusepython3/caniusepython3.com
+
 https://twitter.com/ChristianHeimes/status/1128653119687135232 | Christian Heimes on Twitter: "Since this old thread from September 2018 got resurrected, I decided to update my page. As of today, 1326 of #python top 1400 support Python 3. https://t.co/mZHQyYK6FH… https://t.co/NkuNoi48Wv"
 
 http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
@@ -446,6 +485,30 @@ https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python De
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
+<!-- 
+https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
+
+http://python-history.blogspot.com/. A few highlights:
+http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
+http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
+http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
+
+Various Topics
+http://opensourcebridge.org/sessions/1881
+http://opensourcebridge.org/sessions/1882
+https://github.com/larryhastings/gilectomy
+https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
+https://en.wikipedia.org/wiki/Locality_of_reference
+https://en.wikipedia.org/wiki/Open_addressing
+
+https://github.com/mitmproxy/mitmproxy/issues/1381
+
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+-->
+
 ## CPython Interpreter and Internals
 
 Visualizing How Python Works  		
@@ -511,31 +574,6 @@ https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycp
 https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
  Eli Bendersky	
  -->
-
-
-<!-- 
-https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
-
-http://python-history.blogspot.com/. A few highlights:
-http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
-http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
-http://python-history.blogspot.com/2010/06/method-resolution-order.html
-http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
-http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
-http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
-
-Various Topics
-http://opensourcebridge.org/sessions/1881
-http://opensourcebridge.org/sessions/1882
-https://github.com/larryhastings/gilectomy
-https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
-https://en.wikipedia.org/wiki/Locality_of_reference
-https://en.wikipedia.org/wiki/Open_addressing
-
-https://github.com/mitmproxy/mitmproxy/issues/1381
-
-https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
--->
 
 <!--
 Python and Django Source Code	
