@@ -1,6 +1,184 @@
 # Python and Django- Contributing
 
 <!--
+PSF
+https://pycon.org/ | https://pycon.org
+https://www.python.org/psf/ | Python Software Foundation | Python Software Foundation
+https://www.python.org/psf/annual-report/2019/ | 2019 PSF Annual Report | Python Software Foundation
+https://www.python.org/psf/donations/2019-q2-drive/ | Building the PSF: the Q2 2019 Fundraiser | Python.org
+
+PSF Campaign
+https://twitter.com/di_codes/status/1128789547398115328 | Dustin Ingram on Twitter: "Also, damn. In light of @easyaspython bringing my goal past 50% in the very first moments of it even existing, if it gets met in the next hour, I'll double my match to $2,000!… https://t.co/a6bY2qJ0S3"
+https://matcher.pyfound.org/ | PSF Donation Matcher
+
+Very Important!
+https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
+
+Python 3
+https://twitter.com/ChristianHeimes/status/1128653119687135232 | Christian Heimes on Twitter: "Since this old thread from September 2018 got resurrected, I decided to update my page. As of today, 1326 of #python top 1400 support Python 3. https://t.co/mZHQyYK6FH… https://t.co/NkuNoi48Wv"
+
+EBNF
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://docs.python.org/3/reference/grammar.html | 10. Full Grammar specification — Python 3.7.3 documentation
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+https://www.google.com/search?q=ebnf+python&oq=ebnf+python&aqs=chrome..69i57j0l3.10128j0j7&sourceid=chrome&ie=UTF-8 | ebnf python - Google Search
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+
+https://devguide.python.org/fixingissues/ | 9. Fixing “easy” Issues (and Beyond) — Python Developer's Guide
+https://devguide.python.org/experts/ | 21. Experts Index — Python Developer's Guide
+https://devguide.python.org/help/ | 2. Where to Get Help — Python Developer's Guide
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Lib/opcode.py | cpython/opcode.py at master · python/cpython
+https://github.com/python/cpython/blob/master/Modules/main.c | cpython/main.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pythonrun.c#L1063 | cpython/pythonrun.c at master · python/cpython
+https://github.com/python/cpython/ | python/cpython: The Python programming language
+https://docs.python.org/3/c-api/ | Python/C API Reference Manual — Python 3.7.3 documentation
+https://www.google.com/search?q=cpython+interpreter+state+and+thread+state&oq=cpython+interpreter+state+and+thread+state&aqs=chrome..69i57.2779j0j7&sourceid=chrome&ie=UTF-8 | cpython interpreter state and thread state - Google Search
+https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
+https://www.google.com/search?q=python+-c+option+-m+option&oq=python+-c+option+-m+option&aqs=chrome..69i57j69i64.6947j0j7&sourceid=chrome&ie=UTF-8 | python -c option -m option - Google Search
+https://en.wikipedia.org/wiki/Parse_tree | Parse tree - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_syntax_tree | Abstract syntax tree - Wikipedia
+https://www.google.com/search?q=python+code+object&oq=python+code+object&aqs=chrome..69i57j69i60l2j0l3.1815j0j7&sourceid=chrome&ie=UTF-8 | python code object - Google Search
+https://pyvideo.org/pycon-us-2012/keynote-david-beazley.html | PyVideo.org · David Beazley Keynote: Tinkering with PyPy
+https://late.am/post/2012/03/26/exploring-python-code-objects.html | Exploring Python Code Objects « late.am
+https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
+https://en.wikipedia.org/wiki/Bytecode | Bytecode - Wikipedia
+https://www.google.com/search?q=thread+state&oq=thread+state&aqs=chrome..69i57j0l5.263j0j7&sourceid=chrome&ie=UTF-8 | thread state - Google Search
+https://github.com/python/cpython/tree/master/Objects | cpython/Objects at master · python/cpython
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+https://bugs.python.org/issue?@startwith=50&@pagesize=50&@columns=id,activity,title,creator,assignee,status,type,message_count&@sort=-activity&@filter=status&status=1,3 | List of issues - Python tracker
+https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/communication/ | 12. Following Python’s Development — Python Developer's Guide
+https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python Developer's Guide
+https://devguide.python.org/coredev/ | 14. How to Become a Core Developer — Python Developer's Guide
+https://devguide.python.org/pullrequest/ | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://docs.python.org/3/reference/expressions.html#expression-lists | 6. Expressions — Python 3.7.3 documentation
+https://docs.python.org/3/reference/simple_stmts.html#the-yield-statement | 7. Simple statements — Python 3.7.3 documentation
+https://www.google.com/search?q=Python%E2%80%99s+internals+aknin&oq=Python%E2%80%99s+internals+aknin&aqs=chrome..69i57.2479j0j7&sourceid=chrome&ie=UTF-8 | Python’s internals aknin - Google Search
+https://news.ycombinator.com/item?id=6745270 | Introduction to the Python Interpreter, Part 1: Function Objects | Hacker News
+https://github.com/amygdalama/python-internals | amygdalama/python-internals: Resources for learning about Python internals and CPython source code
+https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
+https://docs.python.org/3/library/dis.html#opcode-collections | dis — Disassembler for Python bytecode — Python 3.7.3 documentation
+https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols | Terminal and nonterminal symbols - Wikipedia
+https://en.wikipedia.org/wiki/Production_(computer_science) | Production (computer science) - Wikipedia
+https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
+https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
+https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
+https://bugs.python.org/ | List of issues - Python tracker
+https://tech.blog.aknin.name/category/my-projects/pythons-innards/page/1/ | Python’s Innards | NIL: .to write(1) ~ help:about
+https://en.wikipedia.org/wiki/Parse_tree | Parse tree - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual_machines | Virtual machine - Wikipedia
+https://www.google.com/search?q=operand+stack&oq=operand+stack&aqs=chrome..69i57j0l5.263j0j7&sourceid=chrome&ie=UTF-8 | operand stack - Google Search
+https://www.google.com/search?q=thread+state&oq=thread+state&aqs=chrome..69i57j0l5.251j0j7&sourceid=chrome&ie=UTF-8 | thread state - Google Search
+
+Core PR Tool
+https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
+
+Core
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+https://www.google.com/search?q=python+steering+council&oq=python+steering+council&aqs=chrome..69i57j69i60l3j0l2.4881j0j7&sourceid=chrome&ie=UTF-8 | python steering council - Google Search
+
+https://www.google.com/search?q=python+core+developer+mailing+list&oq=python+core+developer+mailing+list&aqs=chrome..69i57j69i64.10729j0j7&sourceid=chrome&ie=UTF-8 | python core developer mailing list - Google Search
+
+Keynote
+https://twitter.com/glasnt/status/1127465047188328448 | Katie McLaughlin ✨ on Twitter: "If you have 45 minutes, I strongly urge you to watch @freakboy3742's keynote from @pycon last week. It's amazing, compelling, heart-breaking and heart-warming, and a must watch, even if you don't do Python. https://t.co/UOY2rzscDG"
+https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
+
+Django Sprint
+https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
+https://t.co/XhmAKJbJks"
+https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
+
+DSF Internship
+https://twitter.com/jacobian/status/1121128097082957828 | jacobian on Twitter: "Do you want to get paid to contribute to Django and learn to be a better dev? Great: I’m looking for an intern to implement a new feature for the DSF. You’ll do the work, you’ll get paid, and I’ll be there to support you. Details: https://t.co/2nh3veDXyx; DMs are open for ?s"
+https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/ | Paid Internship Opportunity: Build an App for the DSF | Weblog | Django
+https://docs.google.com/forms/d/e/1FAIpQLSckJl6c-BSsAWsSxCDDnTqVGg7OepPPyAQdp_9gR_L3pNeOEg/viewform | DSF Membership App - Internship Application
+
+Django Async
+https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
+https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
+https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
+https://share.cutebit.de/dep9.mp4 | https://share.cutebit.de/dep9.mp4
+https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
+https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
+https://twitter.com/rixxtr/status/1126611985569914880 | Tobias on Twitter: ""Light reading", @andrewgodwin said.… "
+https://twitter.com/carltongibson/status/1126348311336824833 | Carlton Gibson on Twitter: "My favourite thing about DEPs is the optimistic 
+numbering scheme, with the THREE leading zeros. Oh, and WOOT! 💃… "
+
+https://www.google.com/search?q=Django%E2%80%99s+governance&oq=Django%E2%80%99s+governance&aqs=chrome..69i57.209j0j7&sourceid=chrome&ie=UTF-8 | Django’s governance - Google Search
+
+Django Black
+https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
+https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
+
+https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
+
+https://pycon.blogspot.com/2019/02/pycon-2020-2021-location.html | PyCon 2020-2021 Location
+
+https://us.pycon.org/newcomer | Page not found · GitHub Pages
+https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/about/ | About PyCon | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/schedule/tutorials/ | Tutorials Schedule | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/about/volunteers/ | Volunteering On-Site | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/sponsors/jobs/ | PyCon Jobs Fair | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/dinners/ | Evening Dinners | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/speaker/profile/13/ | Eric Ma | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/hatchery/maintainers/ | Maintainers Summit | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/community/sprints/ | Development Sprints | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/newcomer_orientation/ | Newcomer Orientation | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/keynote-speakers/ | Keynote Speakers | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/about/staff/ | Staff Information | PyCon 2019 in Cleveland, Ohio
+https://github.com/pycon-mentored-sprints/2019-pycon-mentored-sprint | pycon-mentored-sprints/2019-pycon-mentored-sprint: Online Resources for 2019 PyCon Mentored Sprint for Diverse Beginners
+
+PyCon Slides
+https://github.com/PyCon/2019-slides | Page not found · GitHub
+https://speakerdeck.com/pycon2019 | Presentations by PyCon 2019 - Speaker Deck
+
+Summit
+http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
+https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
+http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
+https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
+
+GitHub Issues
+https://www.python.org/dev/peps/pep-0588/ | PEP 588 -- GitHub Issues Migration Plan | Python.org
+https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev] PEP 581 (Using GitHub issues for CPython) is accepted
+
+https://www.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org
+https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
+https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
+https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+
+Bots
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+https://wiki.python.org/moin/BuildBot | BuildBot - Python Wiki
+
+Packaging
+https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
+https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
+https://pydist.com/blog/distributions-vs-releases | PyDist – Blog
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 19.1.1 documentation
+https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
+
+GIL
+https://www.google.com/search?q=larry+hastings+gilectomy&oq=larry+hastings+gilectomy&aqs=chrome..69i57.3118j1j7&sourceid=chrome&ie=UTF-8 | larry hastings gilectomy - Google Search
+https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
+
+Walrus Operator
+https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
+https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
+
+Very important!!!!!!!
+https://github.com/python-leap/book | python-leap/book: Lightweight Enterprise Application Architecture Patterns with Python, the Book
+
+TDD
+https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
+
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
