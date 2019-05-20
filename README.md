@@ -242,13 +242,6 @@ Python Authorities
 * [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
 * [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
 
-Python- PEP
-* [PEP Index](https://www.python.org/dev/peps)
-* [Legacy PEP Index](https://legacy.python.org/dev/peps)
-
-PEP Template
-* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
-
 Python and Django Governance and BDFL
 * [PEP 8016- The Steering Council Model (Accepted)](https://www.python.org/dev/peps/pep-8016)
 * [PEP 8016- The Steering Council Model (Runner Up)](https://www.python.org/dev/peps/pep-8012)
@@ -364,11 +357,61 @@ https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
 
 Mentorship
 https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
+
+https://mariatta.ca/
+https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
+http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
+https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
+
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
+
+https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
+http://distrowatch.com/table.php?distribution=mint
+https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
+https://github.com/Mariatta/python_versions_and_distros
 -->
 
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
+
+## Python Notation
+
+<!--	
+https://twitter.com/aaronchall/status/1114713624453554176
+
+4.8. Intermezzo: Coding Style	
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
+10. Full Grammar specification	
+https://docs.python.org/3/reference/grammar.html	
+https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
+1.2. Notation	
+https://docs.python.org/3/reference/introduction.html#notation	
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
+## C Programming Language 
+
+C Programming Language 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+<!--
+https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
+https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
+
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
 
 ## Python Contributing Docs and Info
 
@@ -403,18 +446,7 @@ https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python De
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
-C Programming Language 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-<!--
-https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
-https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
-
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
--->
+## CPython Interpreter and Internals
 
 Visualizing How Python Works  		
 * [Python Tutor](http://pythontutor.com)
@@ -430,24 +462,15 @@ Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
-<!--	
-https://twitter.com/aaronchall/status/1114713624453554176
-
-4.8. Intermezzo: Coding Style	
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
-10. Full Grammar specification	
-https://docs.python.org/3/reference/grammar.html	
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
-1.2. Notation	
-https://docs.python.org/3/reference/introduction.html#notation	
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
-
 <!--
+https://devguide.python.org/#resources
+https://devguide.python.org/exploring/
+https://devguide.python.org/grammar/
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/setup/
+https://devguide.python.org/setup/#directory-structure
+
 Core- Interpreter Design	
 https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
 
@@ -464,14 +487,6 @@ Emily Morehouse
 https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
 https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
 https://github.com/emilyemorehouse/cpython-notes
-
-https://devguide.python.org/#resources
-https://devguide.python.org/exploring/
-https://devguide.python.org/grammar/
-https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://devguide.python.org/setup/
-https://devguide.python.org/setup/#directory-structure
 
 https://pythondev.readthedocs.io/internals.html
 
@@ -495,7 +510,10 @@ https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Mach
 https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
 https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
  Eli Bendersky	
- 
+ -->
+
+
+<!-- 
 https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
 
 http://python-history.blogspot.com/. A few highlights:
@@ -759,6 +777,19 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
+https://github.com/python/miss-islington/issues
+https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
+
+https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
+https://github.com/Mariatta/cloner
+
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
 https://pypi.python.org/pypi/blurb
@@ -1075,20 +1106,33 @@ https://github.com/django/code-of-conduct
 
 ## Python and Django PEPs and DEPs
 
+PEPs
+* [PEP Index](https://www.python.org/dev/peps)
+* [Legacy PEP Index](https://legacy.python.org/dev/peps)
+
+PEP Template
+* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
+
 DEPs (Django Enhancement Proposals)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 ## Trends
 
 <!--
+https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
+https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
+https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+
+http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
+https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+-->
+
+### Bots
+
+<!--
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-Workshops
-
-Mariatta- F-Strings
-
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 
 New- Bots
 https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
@@ -1103,38 +1147,8 @@ https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robo
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 
 https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
--->
-
-<!--
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
-
-https://mariatta.ca/
-https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
-
-https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
-
-https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
 
 https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
-
-Mariatta
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
-https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
-
-https://github.com/python/miss-islington/issues
-https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
-
-https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
-https://github.com/Mariatta/cloner
 
 https://zapier.com/ | Zapier | The easiest way to automate your work
 https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
@@ -1143,32 +1157,16 @@ https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHu
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
 https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
 https://github.com/berkerpeksag/cpython-merge-bot
-
-https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
-http://distrowatch.com/table.php?distribution=mint
-https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
-https://github.com/Mariatta/python_versions_and_distros
 -->
+
+### F-Strings
 
 <!--
-https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
-https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
-https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
-
-http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
-https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-Larry Hastings Gilectomy
-https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
-https://lwn.net/Articles/754577/
-https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
-
-Walrus Operator
-https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
-https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
+
+
 
 <!--	
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
@@ -1200,6 +1198,22 @@ https://github.com/dlvm-team/ | DLVM
 https://github.com/django/deps/blob/master/draft/0008-black.rst
 https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
 https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
+-->
+
+### Python Gilectomy
+
+<!--
+Larry Hastings Gilectomy
+https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
+https://lwn.net/Articles/754577/
+https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
+-->
+
+### Python Walrus Operator
+
+<!--
+https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
+https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
 -->
 
 ### Python Sync and Async
@@ -1295,6 +1309,17 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
+Tom Christie
+https://members.2019.djangocon.eu/conference/talk/GQKCWS/
+
+Django Async
+https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
+https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
+https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
+https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
+-->
+
+<!--
 https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
 https://github.com/TechEmpower/FrameworkBenchmarks | TechEmpower/FrameworkBenchmarks: Source for the TechEmpower Framework Benchmarks project
 
@@ -1366,18 +1391,6 @@ JavaScript
 Promises
 EcmaScript 2017- async and await keyword
 setTimeout, setInterval, and setImmediate (Node.js only) 
--->
-
-
-<!--
-Tom Christie
-https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-
-Django Async
-https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
-https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
-https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
-https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
 -->
 
 ### Python Rust/Assembly
