@@ -157,6 +157,8 @@ Django Fellows
 * [Carlton Gibson GitHub](https://github.com/carltongibson)
 * [Tim Graham GitHub](https://github.com/timgraham)
 
+Notable Blogs
+
 <!--
 Carlton Gibson and William S. Vincent
 https://djangochat.com/ | Django Chat Podcast
@@ -165,6 +167,35 @@ https://people.djangoproject.com
 -->
 
 <!--
+Django committers: The original team
+* Simon Willison
+https://simonwillison.net
+* Jacob Kaplan-Moss
+https://jacobian.org
+* Adrian Holovaty
+http://www.holovaty.com
+* Wilson Miner
+https://wilsonminer.com
+
+* Andrew Godwin
+https://www.aeracode.org
+
+* James Bennett ✔️
+https://www.b-list.org
+
+* Nick Coghlan 📌
+http://python-notes.curiousefficiency.org
+
+Adam Johnson
+https://adamj.eu
+Aymeric Augustin
+https://myks.org/en
+
+Trey Hunner
+https://treyhunner.com
+Lacey Williams Henschel
+https://www.laceyhenschel.com
+
 Python Core Developers- Had Met
 * Mariatta, @mariatta
 
