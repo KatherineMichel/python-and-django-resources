@@ -117,6 +117,7 @@ http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software F
 Django Software Foundation
 * [DSF Community](https://www.djangoproject.com/community)
 * [DSF News & Events](https://www.djangoproject.com/weblog)
+* [DSF Foundation](https://www.djangoproject.com/foundation)
 * [DSF Fundraising](https://www.djangoproject.com/fundraising)
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
@@ -124,10 +125,6 @@ Django Software Foundation Individual Membership
 * [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
 
 <!--
-https://www.djangoproject.com/foundation/
-
-https://www.djangoproject.com/weblog/2018/nov/27/dsf-board-why-stand/ | The DSF Board elections - what about you? | Weblog | Django
-
 https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/ | Fret Free -- Introduction to Django and the Django Software Foundation
 -->
 
@@ -157,7 +154,13 @@ Django Fellows
 * [Carlton Gibson GitHub](https://github.com/carltongibson)
 * [Tim Graham GitHub](https://github.com/timgraham)
 
-Notable Blogs
+Notable Blogs- Django Original Team
+* [Simon Willison](https://simonwillison.net)
+* [Jacob Kaplan-Moss](https://jacobian.org)
+* [Adrian Holovaty](http://www.holovaty.com)
+* [Wilson Miner](https://wilsonminer.com)
+
+Notable Blogs- Django Core Devs
 
 <!--
 Carlton Gibson and William S. Vincent
@@ -167,21 +170,13 @@ https://people.djangoproject.com
 -->
 
 <!--
-Django committers: The original team
-* Simon Willison
-https://simonwillison.net
-* Jacob Kaplan-Moss
-https://jacobian.org
-* Adrian Holovaty
-http://www.holovaty.com
-* Wilson Miner
-https://wilsonminer.com
-
 * Andrew Godwin
 https://www.aeracode.org
 
 * James Bennett ✔️
 https://www.b-list.org
+
+* Jannis Leidel, @jezdez
 
 * Nick Coghlan 📌
 http://python-notes.curiousefficiency.org
@@ -193,8 +188,7 @@ https://myks.org/en
 
 Trey Hunner
 https://treyhunner.com
-Lacey Williams Henschel
-https://www.laceyhenschel.com
+Lacey
 
 Python Core Developers- Had Met
 * Mariatta, @mariatta
@@ -213,21 +207,63 @@ Python Core Developers- Hadn't Met
 * Kushal Das, @kushaldas
 * Larry Hastings, @LarryHastings
 * Łukasz Langa, @llanga
-* Nick Coghlan, @ncoghlan_dev
 * Raymond Hettinger, @raymondh
 * Stéphane Wirtel, @matrixise
 * Sviatoslove.py, @webKnjaZ
 * T. Wouters, @Yhg1s
+-->
 
-Django Core Developers- Had Met
-* Andrew Godwin, @andrewgodwin
-* Simon Willison, @simonw
-* James Bennett, @ubernostrum
-* Sanyam Khurana, @ErSanyamKhurana
+## High Performance Python
 
-Django Core Developers- Hadn't Met
-* Jacob Kaplan-Moss, @jacobian
-* Jannis Leidel, @jezdez
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+High Performance Python- Engineering Blogs
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
+Major Organizations and Projects that Use Django
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
+
+<!--
+Carl Meyer talk
+
+https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 -->
 
 ## Python General
