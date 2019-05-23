@@ -76,9 +76,11 @@ Python Software Foundation (PSF)
 * [Legacy PSF Website](http://legacy.python.org)
 * [PSF Mission](https://www.python.org/psf/mission)
 * [PSF Bylaws](https://www.python.org/psf/bylaws)
+* [PSF Newsletter](https://www.python.org/psf/newsletter)
 
 Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
+* ["Who is allowed to vote?"](https://www.python.org/psf/membership/#who-is-allowed-to-vote)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 Community
@@ -94,8 +96,6 @@ http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Pyt
 -->
 
 <!--
-https://www.python.org/psf/newsletter/ | PSF Newsletter Signup | Python Software Foundation
-
 https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
 
 https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
@@ -104,10 +104,6 @@ https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
-
-http://pyfound.blogspot.com.au/2015/02/enroll-as-psf-voting-member.html
-PSF Managing/Contributing Membership Self-Certification
-https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform
 
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 -->
@@ -161,6 +157,8 @@ Notable Blogs- Django Original Team
 * [Wilson Miner](https://wilsonminer.com)
 
 Notable Blogs- Django Core Devs
+* [Andrew Godwin](https://www.aeracode.org)
+* [James Bennett](https://www.b-list.org)
 
 <!--
 Carlton Gibson and William S. Vincent
@@ -170,12 +168,6 @@ https://people.djangoproject.com
 -->
 
 <!--
-* Andrew Godwin
-https://www.aeracode.org
-
-* James Bennett ✔️
-https://www.b-list.org
-
 * Jannis Leidel, @jezdez
 
 * Nick Coghlan 📌
