@@ -1,6 +1,9 @@
 # Python and Django- Contributing
 
 <!--
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://twitter.com/treyhunner/status/1130862509362171905
+
 https://realpython.com
 https://www.geeksforgeeks.org/
 https://www.programiz.com
@@ -170,6 +173,8 @@ https://people.djangoproject.com
 <!--
 * Jannis Leidel, @jezdez
 
+https://snarky.ca
+
 * Nick Coghlan 📌
 http://python-notes.curiousefficiency.org
 
@@ -221,6 +226,19 @@ High Performance Python- Engineering Blogs
 * [Uber](https://eng.uber.com)
 * [Zapier](https://zapier.com/engineering)
 
+<!--
+Carl Meyer talk
+
+https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
+
 Major Organizations and Projects that Use Django
 * [18F GitHub](https://github.com/18F)  
 * [Dallas Morning News (The)](https://github.com/DallasMorningNews)
@@ -245,19 +263,6 @@ http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
-<!--
-Carl Meyer talk
-
-https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
--->
-
 ## Python General
 
 Python
@@ -275,11 +280,9 @@ Python History
 * [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
 * [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
 * ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
+* [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
-http://bdfl-gift.pspython.com/ | PuPPy Annual Benefit
-https://www.youtube.com/watch?v=csL8DLXGNlU
-
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
@@ -476,25 +479,6 @@ https://github.com/Mariatta/python_versions_and_distros
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
-
-## Python Notation
-
-<!--	
-https://twitter.com/aaronchall/status/1114713624453554176
-
-4.8. Intermezzo: Coding Style	
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
-10. Full Grammar specification	
-https://docs.python.org/3/reference/grammar.html	
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
-1.2. Notation	
-https://docs.python.org/3/reference/introduction.html#notation	
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
 
 ## C Programming Language 
 
