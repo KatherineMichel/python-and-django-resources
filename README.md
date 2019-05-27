@@ -1,60 +1,26 @@
 # Python and Django- Contributing
 
 <!--
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/treyhunner/status/1130862509362171905
-
-https://realpython.com
-https://www.geeksforgeeks.org/
-https://www.programiz.com
-https://www.programiz.com/c-programming
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
-
-https://en.wikipedia.org/wiki/Mutator_method
-https://docs.python.org/3/library/functions.html#setattr
-https://docs.python.org/3/library/functions.html#getattr
-https://docs.python.org/3/library/functions.html#hasattr
-https://docs.python.org/3/library/functions.html#delattr
-https://en.wikipedia.org/wiki/Property_(programming)
-
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-https://en.wikipedia.org/wiki/Unix | Unix - Wikipedia
-https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+Season of Docs
+https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
-The People's Programming Language
-https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
+https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/ | Who put Python in the Windows 10 May 2019 Update? | Python
+
+https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 
 https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
-Django Notes
-https://code.djangoproject.com/wiki/NewbieMistakes | NewbieMistakes – Django
-https://www.python.org/download/releases/2.2/descrintro/#metaclasses | Unifying types and classes in Python 2.2 | Python.org
-https://code.djangoproject.com/wiki/DynamicModels | DynamicModels – Django
-https://code.djangoproject.com/wiki/DevModelCreation | DevModelCreation – Django
-
-https://docs.python.org/3/reference/import.html#open-issues | 5. The import system — Python 3.7.0 documentation
-
-https://docs.python.org/2/howto/doanddont.html | Idioms and Anti-Idioms in Python — Python 2.7.15 documentation
-https://docs.python-guide.org/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
-http://django-gotchas.readthedocs.io/en/latest/ | Welcome to Django gotchas documentation! — Django gotchas 0.1 documentation
-
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
-
 https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-https://www.google.com/search?q=python+core+developer+mailing+list&oq=python+core+developer+mailing+list&aqs=chrome..69i57j69i64.10729j0j7&sourceid=chrome&ie=UTF-8 | python core developer mailing list - Google Search
 
 Very important!!!!!!!
 https://github.com/python-leap/book | python-leap/book: Lightweight Enterprise Application Architecture Patterns with Python, the Book
@@ -283,6 +249,9 @@ Python History
 * [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
+The People's Programming Language
+https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
+
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
@@ -421,6 +390,8 @@ Mailing List and Permissions History
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
 <!--
+python core developer mailing list - Google Search
+
 https://python.zulipchat.com
 https://mail.python.org/mailman3/lists/core-mentorship.python.org/
 https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
@@ -480,21 +451,6 @@ Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
 
-## C Programming Language 
-
-C Programming Language 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-<!--
-https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
-https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
-
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
--->
-
 ## Python Contributing Docs and Info
 
 CPython
@@ -527,6 +483,79 @@ https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python De
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
+
+## C Programming Language 
+
+C Programming Language 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+<!--
+https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
+https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
+
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
+
+
+
+<!--	
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
+https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
+https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
+https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
+
+https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+
+https://en.wikipedia.org/wiki/Unix | Unix - Wikipedia
+https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
+
+https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
+	
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
+* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
+* [Clang C Language Frontend for LLVM](https://clang.llvm.org)	
+
+https://klee.github.io/ | KLEE	
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+GNU
+https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)
+
+Clang
+https://github.com/llvm-mirror/clang | llvm-mirror/clang: Mirror of official clang git repository located at http://llvm.org/git/clang. Updated every five minutes.
+https://en.wikipedia.org/wiki/Clang | Clang - Wikipedia
+
+Linux and Unix
+https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
+https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
+https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
+
+C Language
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 | Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books
+https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf | The C Programming Language (Second Edition)
+
+Apple
+https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
+https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
+https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
+
+https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
+-->
+
 
 <!-- 
 https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
@@ -747,8 +776,7 @@ Django Core Mentorship
 <!--
 https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
 
-https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
 -->
@@ -1200,6 +1228,8 @@ DEPs (Django Enhancement Proposals)
 ## Trends
 
 <!--
+https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
+
 https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
 https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
@@ -1208,6 +1238,16 @@ http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | P
 https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
 
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+-->
+
+### Python and Django Black
+
+<!--
+https://twitter.com/llanga/status/1123980466292445190 | Łukasz Langa on Twitter: "Black, your uncompromising #Python code formatter, was a project created with the community in mind from Day 1. Today we moved it under the PSF umbrella. It's now available on GitHub under https://t.co/64rq0cawTP. You install and use it just like before. 1/2"
+
+https://github.com/django/deps/blob/master/draft/0008-black.rst
+https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
+https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
 -->
 
 ### Bots
@@ -1247,43 +1287,20 @@ https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
 
-
-
-<!--	
-https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
-
-WSGI HTTP Server for UNIX
-http://gunicorn.org
-
-https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
-https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
-
-https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
-https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)	
- Compilers	
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
-* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang Frontend for LLVM](https://clang.llvm.org)	
-https://klee.github.io/ | KLEE	
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
--->
-
-### Django Black
+### Python Gilectomy and Multi-Core
 
 <!--
-https://github.com/django/deps/blob/master/draft/0008-black.rst
-https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
-https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
--->
+https://pythoncapi.readthedocs.io/roadmap.html | Roadmap for a new Python C API — pythoncapi 0.1 documentation
+https://pythoncapi.readthedocs.io/runtime.html | Reorganize Python “runtime” — pythoncapi 0.1 documentation
+https://mail.python.org/archives/list/capi-sig@python.org/message/VKKNX4ECZTCRGYMAJJA4VWPVXC257W62/ | Mailman 3 [capi-sig] Re: [capi-sig]How to access the various levels of runtime state (e.g. PyInterpreterState, _PyRuntimeState)? - capi-sig - python.org
 
-### Python Gilectomy
+https://github.com/ericsnowcurrently/multi-core-python | ericsnowcurrently/multi-core-python: Enabling CPython multi-core parallelism via subinterpreters.
+https://www.python.org/dev/peps/pep-0554/ | PEP 554 -- Multiple Interpreters in the Stdlib | Python.org
+https://en.wikipedia.org/wiki/Communicating_sequential_processes | Communicating sequential processes - Wikipedia
 
-<!--
+https://twitter.com/raymondh/status/1100151553879470080 | Raymond Hettinger on Twitter: "#python 3.8 news: The second alpha release out today. Please try it out. One major feature that we've needed for a long time is shared memory for multiprocessing. Our story for multi-core just got a lot better ;-) Thank you Davin Potts! https://t.co/3GBUtiYCPn"
+https://twitter.com/dontusethiscode/status/1130240042457288705 | James Powell on Twitter: "Pure* Python sub-interpreters without all the hard work of @ericsnowcrntly's PEP-554 (https://t.co/w6aNg3SINI) (Don't actually do this… or do; it's none of my business.)… https://t.co/ZoYRyT58dI"
+
 Larry Hastings Gilectomy
 https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
 https://lwn.net/Articles/754577/
@@ -1293,6 +1310,7 @@ https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Pyth
 ### Python Walrus Operator
 
 <!--
+https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
 https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
 https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
 -->
@@ -1398,6 +1416,7 @@ https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on T
 https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
 https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
 https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
+https://twitter.com/jacobian/status/1126557544934182913 | jacobian on Twitter: "Dear Microsoft, Instagram, Google, and other big names in the Python community: Django is going async. This is a huge opportunity for you to sponsor this work and be a hero. A few hundred thousand will buy this massive feature and more goodwill then you can possibly imagine.… https://t.co/z022PF653K"
 -->
 
 <!--
@@ -1495,66 +1514,4 @@ https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on T
 
 https://webassembly.org/ | WebAssembly
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
--->
-
-## Django Security
-
-<!--
-https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
--->
-
-<!--
-## Security- General
-    
-Same Origin
-* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
-  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
-https://developers.google.com/web/fundamentals/security/
-
-https://github.com/OWASP
-https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
-
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-
-https://www.owasp.org/index.php/Main_Page
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
-
-https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
-
-https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
-https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
-    
-https://en.wikipedia.org/wiki/Code_injection
-https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
-
-https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
-
-https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
-https://en.wikipedia.org/wiki/Threat_model
 -->
