@@ -129,7 +129,17 @@ Notable Blogs- Django Core Devs
 * [Andrew Godwin](https://www.aeracode.org)
 * [James Bennett](https://www.b-list.org)
 
+People
+* [Andrew Godwin GitHub](https://github.com/andrewgodwin)
+* [Eric V. Smith GitHub](https://github.com/ericvsmith)
+* [Tom Christie GitHub](https://github.com/tomchristie)
+
 <!--
+* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
+* [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
+* [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
+* [Raymond Hettinger Talks YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
+
 Carlton Gibson and William S. Vincent
 https://djangochat.com/ | Django Chat Podcast
 
@@ -139,6 +149,7 @@ https://people.djangoproject.com
 <!--
 * Jannis Leidel, @jezdez
 
+* Brett Cannon, @brettsky
 https://snarky.ca
 
 * Nick Coghlan 📌
@@ -149,18 +160,10 @@ https://adamj.eu
 Aymeric Augustin
 https://myks.org/en
 
-Trey Hunner
-https://treyhunner.com
-Lacey
-
-Python Core Developers- Had Met
 * Mariatta, @mariatta
-
-Python Core Developers- Hadn't Met
 * Guido van Rossum, @gvanrossum
 * Barry Warsaw, @pumpichank
 * Brandon Rhodes, @brandon_rhodes
-* Brett Cannon, @brettsky
 * Carol Willing, @WillingCarol
 * Cheryl Sabella, @cherylsabella
 * Christian Heimes, @ChristianHeimes
@@ -409,8 +412,6 @@ Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
 * ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
 
 <!--
-https://twitter.com/mariatta/status/1084526997466828800 | Mariatta 🤦 on Twitter: "I appreciate people reaching out and asking me how they can contribute to Python. Thank you for your interest and enthusiasm! This might sound like a "quick question" to you but I've answered this at #PyConUS2018, and it is 45 minutes long: https://t.co/r6eY0tDNTm (1/3)"
-
 What is a Python Core Developer?
 https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
@@ -499,6 +500,105 @@ https://learncodethehardway.org/c/
 http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
 -->
 
+<!-- 
+https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
+
+http://python-history.blogspot.com/. A few highlights:
+http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
+http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
+http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
+
+Various Topics
+http://opensourcebridge.org/sessions/1881
+http://opensourcebridge.org/sessions/1882
+https://github.com/larryhastings/gilectomy
+https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
+https://en.wikipedia.org/wiki/Locality_of_reference
+https://en.wikipedia.org/wiki/Open_addressing
+
+https://github.com/mitmproxy/mitmproxy/issues/1381
+
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+-->
+
+## Computer Internals
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+CPU and Instruction Set
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+Machine Code and Assembly Language
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 
 <!--	
@@ -554,31 +654,38 @@ https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
 https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
 
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
--->
 
-
-<!-- 
-https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%201.ipynb
-
-http://python-history.blogspot.com/. A few highlights:
-http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
-http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
-http://python-history.blogspot.com/2010/06/method-resolution-order.html
-http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
-http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
-http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
-
-Various Topics
-http://opensourcebridge.org/sessions/1881
-http://opensourcebridge.org/sessions/1882
-https://github.com/larryhastings/gilectomy
-https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
-https://en.wikipedia.org/wiki/Locality_of_reference
-https://en.wikipedia.org/wiki/Open_addressing
-
-https://github.com/mitmproxy/mitmproxy/issues/1381
-
-https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
+https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
+https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
+https://en.wikipedia.org/wiki/Computer_architecture | Computer architecture - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
+http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
+https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
+https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
+https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
+https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
+https://en.wikipedia.org/wiki/Binary_number | Binary number - Wikipedia
+https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
 -->
 
 ## CPython Interpreter and Internals
