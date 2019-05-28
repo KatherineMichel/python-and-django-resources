@@ -135,6 +135,19 @@ People
 * [Tom Christie GitHub](https://github.com/tomchristie)
 
 <!--
+* [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
+* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
+* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+
+Python- Books (See also: Data Science books)
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
+* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
+* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
+
+* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
+
 * [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
 * [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
 * [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
