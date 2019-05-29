@@ -506,6 +506,9 @@ C Programming Language
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
 
 <!--
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 | Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books
+https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf | The C Programming Language (Second Edition)
+
 https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
 https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
 
@@ -527,7 +530,6 @@ http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
 Various Topics
 http://opensourcebridge.org/sessions/1881
 http://opensourcebridge.org/sessions/1882
-https://github.com/larryhastings/gilectomy
 https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
 https://en.wikipedia.org/wiki/Locality_of_reference
 https://en.wikipedia.org/wiki/Open_addressing
@@ -539,51 +541,7 @@ https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping w
 
 ## Computer Internals
 
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-CPU and Instruction Set
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-Machine Code and Assembly Language
-* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
-* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
-* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
+<!--
 Shells
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
@@ -612,9 +570,102 @@ YAML
 
 Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+-->
 
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+CPU and Instruction Set
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+Machine Code and Assembly Language
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+<!--
+https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
+-->
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+<!--
+https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
+-->
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+<!--
+https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
+https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
+-->
+
+Linux
+* [Linux GitHub](https://github.com/torvalds/linux)
+
+<!--
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
+-->
+
+Compiler
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
+* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
+* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
+* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+Apple
+https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
+https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
+https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
+
 https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
 https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
 http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
@@ -628,77 +679,28 @@ https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scot
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
 
-https://en.wikipedia.org/wiki/Unix | Unix - Wikipedia
-https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
-
-
 https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
 	
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
-* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang C Language Frontend for LLVM](https://clang.llvm.org)	
-
-https://klee.github.io/ | KLEE	
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-GNU
-https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)
-
-Clang
-https://github.com/llvm-mirror/clang | llvm-mirror/clang: Mirror of official clang git repository located at http://llvm.org/git/clang. Updated every five minutes.
-https://en.wikipedia.org/wiki/Clang | Clang - Wikipedia
-
-Linux and Unix
-https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
-https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
-https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
-
-C Language
-https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 | Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books
-https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf | The C Programming Language (Second Edition)
-
-Apple
-https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
-https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
-https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
-
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
-https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
-https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
-https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
-https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
-https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
-https://en.wikipedia.org/wiki/Computer_architecture | Computer architecture - Wikipedia
 https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
-https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
-https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
 http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
-https://en.wikipedia.org/wiki/Assembly_language | Assembly language - Wikipedia
-https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
 https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
 https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
 https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
 https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
-https://en.wikipedia.org/wiki/Binary_number | Binary number - Wikipedia
-https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
-https://en.wikipedia.org/wiki/ASCII
-https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
-https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
-https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
+
 https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
 https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
-https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
-https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
-https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
 https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
 https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
 -->
 
 ## CPython Interpreter and Internals
@@ -1410,6 +1412,8 @@ https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun
 ### Python Gilectomy and Multi-Core
 
 <!--
+https://github.com/larryhastings/gilectomy
+
 https://pythoncapi.readthedocs.io/roadmap.html | Roadmap for a new Python C API — pythoncapi 0.1 documentation
 https://pythoncapi.readthedocs.io/runtime.html | Reorganize Python “runtime” — pythoncapi 0.1 documentation
 https://mail.python.org/archives/list/capi-sig@python.org/message/VKKNX4ECZTCRGYMAJJA4VWPVXC257W62/ | Mailman 3 [capi-sig] Re: [capi-sig]How to access the various levels of runtime state (e.g. PyInterpreterState, _PyRuntimeState)? - capi-sig - python.org
@@ -1425,6 +1429,47 @@ Larry Hastings Gilectomy
 https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
 https://lwn.net/Articles/754577/
 https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
+-->
+
+## Data Classes
+
+Data Classes
+* [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
+
+<!--
+https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
+-->
+
+## Static Typing
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+<!--
+https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
+https://en.wikipedia.org/wiki/Duck_typing
+-->
+
+Type Hints
+* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
+* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
+
+Static Typing Tools
+* [Python Mypy GitHub](https://github.com/python/mypy)
+* [Python Typeshed GitHub](https://github.com/python/typeshed)
+* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
+* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
+* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
+* [Google: Pytype GitHub](https://github.com/google/pytype)
+* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
+* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
+
+<!--
+http://mypy.readthedocs.io
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
 -->
 
 ### Python Walrus Operator
