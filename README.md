@@ -12,7 +12,54 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
+https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
+
+https://devchecklists.com/django-apps-checklist/en/ | Devchecklists | Django Apps Checklist
+https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
+https://devchecklists.com/python-api-checklist/ | Devchecklists | Python API Checklist
+https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
+https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
+https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
+
+Elections
+https://twitter.com/di_codes/status/1137014831805095937
+https://www.python.org/nominations/elections/ | Elections | Python.org
+https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/ | Nomination for | Python.org
+https://www.youtube.com/watch?v=sORneSQNOmc&feature=youtu.be | (1) python.org self nomination demonstration - YouTube
+http://pyfound.blogspot.com/search?updated-max=2019-06-03T21:26:00-04:00&max-results=2 | Python Software Foundation News
+http://pyfound.blogspot.com/ | Python Software Foundation News
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
+https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
+
+Steering Committee
+https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
+
+Black
+https://twitter.com/di_codes/status/1125778236930174977 | Dustin Ingram on Twitter: "Relevant discussion if you haven't seen it: https://t.co/SvRNE5beNj… "
+
+https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
+
+https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
+https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
+https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
+https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+
+https://pyfound.blogspot.com
+https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
+https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
+
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/ | Who put Python in the Windows 10 May 2019 Update? | Python
+
+https://pythoninsider.blogspot.com/2019/05/use-two-factor-auth-to-improve-your.html | Python Insider: Use two-factor auth to improve your PyPI account's security
+
+PyPi
+http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html | Python Software Foundation News: Redesigning the Python Package Index
+
+Packages
+https://pypi.org/classifiers/ | Classifiers · PyPI
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
 
 https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 
@@ -25,7 +72,8 @@ https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh
 https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
 
 Very important!!!!!!!
-https://github.com/python-leap/book | python-leap/book: Lightweight Enterprise Application Architecture Patterns with Python, the Book
+https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
+https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
 
 TDD
 https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
