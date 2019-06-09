@@ -14,6 +14,8 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
 
+http://python-gsoc.org/ | Python GSoC – Splash
+
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
 
 https://devchecklists.com/django-apps-checklist/en/ | Devchecklists | Django Apps Checklist
