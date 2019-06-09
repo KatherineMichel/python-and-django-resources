@@ -18,27 +18,6 @@ http://python-gsoc.org/ | Python GSoC – Splash
 
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
 
-https://devchecklists.com/django-apps-checklist/en/ | Devchecklists | Django Apps Checklist
-https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
-https://devchecklists.com/python-api-checklist/ | Devchecklists | Python API Checklist
-https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
-https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
-https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
-
-Elections
-https://twitter.com/di_codes/status/1137014831805095937
-https://www.python.org/nominations/elections/ | Elections | Python.org
-https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/ | Nomination for | Python.org
-https://www.youtube.com/watch?v=sORneSQNOmc&feature=youtu.be | (1) python.org self nomination demonstration - YouTube
-http://pyfound.blogspot.com/search?updated-max=2019-06-03T21:26:00-04:00&max-results=2 | Python Software Foundation News
-http://pyfound.blogspot.com/ | Python Software Foundation News
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
-https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
-
-Steering Committee
-https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
-
 Black
 https://twitter.com/di_codes/status/1125778236930174977 | Dustin Ingram on Twitter: "Relevant discussion if you haven't seen it: https://t.co/SvRNE5beNj… "
 
@@ -50,20 +29,12 @@ https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:ov
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 
-https://pyfound.blogspot.com
-https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
-https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
-
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/ | Who put Python in the Windows 10 May 2019 Update? | Python
 
 https://pythoninsider.blogspot.com/2019/05/use-two-factor-auth-to-improve-your.html | Python Insider: Use two-factor auth to improve your PyPI account's security
 
 PyPi
 http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html | Python Software Foundation News: Redesigning the Python Package Index
-
-Packages
-https://pypi.org/classifiers/ | Classifiers · PyPI
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
 
 https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 
@@ -393,6 +364,19 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+Elections
+https://twitter.com/di_codes/status/1137014831805095937
+https://www.python.org/nominations/elections/ | Elections | Python.org
+https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/ | Nomination for | Python.org
+https://www.youtube.com/watch?v=sORneSQNOmc&feature=youtu.be | (1) python.org self nomination demonstration - YouTube
+http://pyfound.blogspot.com/search?updated-max=2019-06-03T21:26:00-04:00&max-results=2 | Python Software Foundation News
+http://pyfound.blogspot.com/ | Python Software Foundation News
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
+https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
+
+Steering Committee
+https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
+
 Repositories under the "python" organization on GitHub
 https://github.com/python/steering-council/issues/9
 
@@ -435,6 +419,9 @@ Python Core Sprint 2016
 * [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
+https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
+https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
+
 http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
 
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
@@ -1244,12 +1231,31 @@ Core Packaging Utilities
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
 Vinta Django Apps Checklist
-* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)
 
 Vinta API Checklist
-* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
 <!--
+https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
+
+DjangoCon Europe 2017 Vinta
+https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
+https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
+https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
+https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
+
+https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
+https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
+
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+
+https://pypi.org/classifiers/ | Classifiers · PyPI
+
+
+
 New- Packaging
 https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
 https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
@@ -1260,11 +1266,6 @@ https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to ke
 
 <!--
 Python and Django- Contributing- Packaging
-
-DjangoCon Europe 2017 Vinta
-https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
-https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
-https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
 
 https://pip.pypa.io/en/stable/reference/pip_wheel
 
