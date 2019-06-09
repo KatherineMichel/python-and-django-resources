@@ -12,6 +12,8 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
+https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
+
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
 
 https://devchecklists.com/django-apps-checklist/en/ | Devchecklists | Django Apps Checklist
@@ -389,8 +391,6 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
-https://www.google.com/search?q=python+steering+council&oq=python+steering+council&aqs=chrome..69i57j69i60l3j0l2.4881j0j7&sourceid=chrome&ie=UTF-8 | python steering council - Google Search
-
 Repositories under the "python" organization on GitHub
 https://github.com/python/steering-council/issues/9
 
