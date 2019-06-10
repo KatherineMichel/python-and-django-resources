@@ -31,11 +31,6 @@ https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7
 
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/ | Who put Python in the Windows 10 May 2019 Update? | Python
 
-https://pythoninsider.blogspot.com/2019/05/use-two-factor-auth-to-improve-your.html | Python Insider: Use two-factor auth to improve your PyPI account's security
-
-PyPi
-http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html | Python Software Foundation News: Redesigning the Python Package Index
-
 https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 
 https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
@@ -420,7 +415,6 @@ Python Core Sprint 2016
 
 <!--
 https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
-https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
 
 http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
 
@@ -1243,44 +1237,11 @@ DjangoCon Europe 2017 Vinta
 https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
 https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
 https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
-
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
-https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
-
-https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
-https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
-
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-
-https://pypi.org/classifiers/ | Classifiers · PyPI
-
-
-
-New- Packaging
-https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
-https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
-https://pydist.com/blog/distributions-vs-releases | PyDist – Blog
-https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 19.1.1 documentation
-https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 -->
 
 <!--
-Python and Django- Contributing- Packaging
-
-https://pip.pypa.io/en/stable/reference/pip_wheel
-
-https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
-
-https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
-
-https://test.pypi.org/ | TestPyPI – the Python Package Index · TestPyPI
-https://packaging.python.org/guides/using-testpypi/ | Using TestPyPI — Python Packaging User Guide
-
-https://docs.python.org/3/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
-https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
-https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
+https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
 
 https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
@@ -1291,6 +1252,45 @@ https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package 
 https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
 https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
 https://www.python.org/dev/peps/pep-0517/
+
+https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
+
+https://test.pypi.org/ | TestPyPI – the Python Package Index · TestPyPI
+https://packaging.python.org/guides/using-testpypi/ | Using TestPyPI — Python Packaging User Guide
+
+Wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
+https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
+https://pip.pypa.io/en/stable/reference/pip_wheel
+
+Sample project
+https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
+https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
+
+https://pypi.org/classifiers/ | Classifiers · PyPI
+
+2FA
+https://pythoninsider.blogspot.com/2019/05/use-two-factor-auth-to-improve-your.html | Python Insider: Use two-factor auth to improve your PyPI account's security
+https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
+
+
+
+New- Packaging
+https://pydist.com/blog/distributions-vs-releases | PyDist – Blog
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 19.1.1 documentation
+https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
+-->
+
+<!--
+https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
+
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+https://docs.python.org/3/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
 
 https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
 https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
@@ -1305,21 +1305,12 @@ https://packaging.python.org/tutorials/distributing-packages/#project-urls
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
 https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
 
-https://www.youtube.com/watch?v=AQsZsgJ30AE
-
-https://www.youtube.com/watch?v=EdD6Ifjlle4 | DjangoCon US 2018 - Packaging Django Apps for Distribution on PyPI by Laura Hampton - YouTube
-
-https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
-
-https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
-
 Tools
 https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/#requirements-files
 
 pip is the The PyPA recommended tool for installing Python packages.
 https://packaging.python.org/guides/tool-recommendations/
-
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
 
 http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
@@ -1354,6 +1345,12 @@ PyPi History
 Dustin Ingram
 * ["Inside the Cheeseshop: How Python Packaging Works" (PyCon 2018)](https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop)
 * ["PyPI is dead. Long live PyPI!"](https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi)
+
+<!--
+https://www.youtube.com/watch?v=AQsZsgJ30AE
+https://www.youtube.com/watch?v=EdD6Ifjlle4 | DjangoCon US 2018 - Packaging Django Apps for Distribution on PyPI by Laura Hampton - YouTube
+https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
+-->
 
 Tutorials
 * [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
