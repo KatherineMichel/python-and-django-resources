@@ -687,13 +687,6 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
 Apple
 https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
 https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
@@ -718,7 +711,6 @@ https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP S
 
 https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
 http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
-https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
 https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
 https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
 https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
@@ -743,6 +735,28 @@ CPU versus IO
 <!--
 https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
 https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
+
+https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
+https://en.wikipedia.org/wiki/Thread_(computing)
+https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
+https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
+
+https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Async/await
+https://en.wikipedia.org/wiki/Futures_and_promises
+https://en.wikipedia.org/wiki/Coroutine
+https://en.wikipedia.org/wiki/Asynchronous_I/O
+https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
+https://en.wikipedia.org/wiki/Asynchronous_system
+https://en.wikipedia.org/wiki/Asynchronous_communication
+
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)
+https://en.wikipedia.org/wiki/Concurrent_computing
+https://en.wikipedia.org/wiki/Parallel_computing
+
+https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
+https://en.wikipedia.org/wiki/Multiprocessing
+https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 -->
 
 CAP Theorem
@@ -766,9 +780,6 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 <!--
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-https://en.wikipedia.org/wiki/Stack_(abstract_data_type) | Stack (abstract data type) - Wikipedia
-
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
@@ -778,22 +789,15 @@ https://en.wikipedia.org/wiki/Rate_limiting
 
 https://en.wikipedia.org/wiki/Cache_(computing)
 
-https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
-https://en.wikipedia.org/wiki/Control-flow_graph | Control-flow graph - Wikipedia
-https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
 
 
-https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Engineering
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
-https://en.wikipedia.org/wiki/Bytecode | Bytecode - Wikipedia
-https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
 http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
 
 https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
 https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
 https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
 https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
-https://en.wikipedia.org/wiki/Concurrency_(computer_science) | Concurrency (computer science) - Wikipedia
 https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 
@@ -819,114 +823,28 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
 https://en.wikipedia.org/wiki/Cron
 
-https://en.wikipedia.org/wiki/Webhook
 
 
-https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
-https://en.wikipedia.org/wiki/Thread_(computing)
-https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
-https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
-
-https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
-https://en.wikipedia.org/wiki/Async/await
-https://en.wikipedia.org/wiki/Futures_and_promises
-https://en.wikipedia.org/wiki/Coroutine
-https://en.wikipedia.org/wiki/Asynchronous_I/O
-https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
-https://en.wikipedia.org/wiki/Asynchronous_system
-https://en.wikipedia.org/wiki/Asynchronous_communication
-
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)
-https://en.wikipedia.org/wiki/Concurrent_computing
-https://en.wikipedia.org/wiki/Parallel_computing
-
-
-https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
-https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/Performance_tuning
 
+https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+
 https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-
-
-https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
-https://en.wikipedia.org/wiki/Multiprocessing
+https://en.wikipedia.org/wiki/Webhook
 
 https://en.wikipedia.org/wiki/WebSocket
 https://en.wikipedia.org/wiki/Network_socket
 
+https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Engineering
+
+https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
-https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
 -->
-
-## CPython Interpreter and Internals
-
-Visualizing How Python Works  		
-* [Python Tutor](http://pythontutor.com)
-
-Python Internals- Philip Guo
-* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
-
-Python Internals- General
-* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
-
-<!--
-https://devguide.python.org/#resources
-https://devguide.python.org/exploring/
-https://devguide.python.org/grammar/
-https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://devguide.python.org/setup/
-https://devguide.python.org/setup/#directory-structure
-
-Core- Interpreter Design	
-https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
-
-Very Important!!!!!
-https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
-
-https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
-
-Guido van Rossum
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
-
-Emily Morehouse
-https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
-https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
-https://github.com/emilyemorehouse/cpython-notes
-
-https://pythondev.readthedocs.io/internals.html
-
-https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
-https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
-https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
-
-https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
-
-https://speakerdeck.com/matrixise/exploring-our-python-interpreter
-
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
-https://github.com/aosabook/500lines/tree/master/interpreter	
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
- Eli Bendersky	
- -->
 
 <!--
 Python and Django Source Code	
@@ -934,6 +852,10 @@ Python and Django Source Code
 https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
 https://devguide.python.org/gdb/ | 22. gdb Support — Python Developer's Guide
 https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
+
+https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
+https://en.wikipedia.org/wiki/Control-flow_graph | Control-flow graph - Wikipedia
+https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
 
 https://en.wikipedia.org/wiki/Execution_(computing)		
 https://en.wikipedia.org/wiki/Object_code		
@@ -1023,6 +945,72 @@ https://github.com/python/cpython/blob/master/Objects/abstract.c
 https://github.com/python/cpython/tree/master/Objects/clinic	
 https://github.com/python/cpython/tree/master/Objects/stringlib	
 -->
+
+## CPython Interpreter and Internals
+
+Visualizing How Python Works  		
+* [Python Tutor](http://pythontutor.com)
+
+Python Internals- Philip Guo
+* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+
+Python Internals- General
+* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+<!--
+https://devguide.python.org/#resources
+https://devguide.python.org/exploring/
+https://devguide.python.org/grammar/
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/setup/
+https://devguide.python.org/setup/#directory-structure
+
+Core- Interpreter Design	
+https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
+
+Very Important!!!!!
+https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
+
+https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
+
+Guido van Rossum
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
+
+Emily Morehouse
+https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
+https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
+https://github.com/emilyemorehouse/cpython-notes
+
+https://pythondev.readthedocs.io/internals.html
+
+https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
+https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
+https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
+
+https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
+
+https://speakerdeck.com/matrixise/exploring-our-python-interpreter
+
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
+https://github.com/aosabook/500lines/tree/master/interpreter	
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
+ Eli Bendersky	
+ -->
 
 <!--
 Abstract Syntax Trees
