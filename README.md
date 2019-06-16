@@ -779,7 +779,7 @@ Distributed and Parallel Computing
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
-<!--
+
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
