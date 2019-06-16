@@ -1,7 +1,9 @@
 # Python and Django- Contributing
 
 <!--
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
@@ -18,9 +20,6 @@ http://python-gsoc.org/ | Python GSoC – Splash
 
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
 
-Black
-https://twitter.com/di_codes/status/1125778236930174977 | Dustin Ingram on Twitter: "Relevant discussion if you haven't seen it: https://t.co/SvRNE5beNj… "
-
 https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
 
 https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
@@ -30,8 +29,6 @@ https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on T
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/ | Who put Python in the Windows 10 May 2019 Update? | Python
-
-https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 
 https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 
@@ -45,13 +42,6 @@ Very important!!!!!!!
 https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
 https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
 -->
-
-## My Learning Priorities
-
-* Python and Django contributing
-* Django Rest Framework (see Carlton's tutorial)
-* Packaging
-* Mariatta's talks and workshops
 
 ## Python Software Foundation (PSF)
 
@@ -150,31 +140,6 @@ People
 * [Andrew Godwin GitHub](https://github.com/andrewgodwin)
 * [Eric V. Smith GitHub](https://github.com/ericvsmith)
 * [Tom Christie GitHub](https://github.com/tomchristie)
-
-<!--
-* [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
-* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
-* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
-
-Python- Books (See also: Data Science books)
-* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
-* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
-* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
-* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
-* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
-
-* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
-
-* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
-* [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
-* [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
-* [Raymond Hettinger Talks YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
-
-Carlton Gibson and William S. Vincent
-https://djangochat.com/ | Django Chat Podcast
-
-https://people.djangoproject.com
--->
 
 <!--
 * Jannis Leidel, @jezdez
@@ -282,6 +247,8 @@ Python History
 * [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
+https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
+
 The People's Programming Language
 https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
 
@@ -367,15 +334,15 @@ https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | Pyth
 https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
 
 Steering Committee
+https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
 https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
 
 Repositories under the "python" organization on GitHub
 https://github.com/python/steering-council/issues/9
+https://twitter.com/di_codes/status/1125778236930174977 | Dustin Ingram on Twitter: "Relevant discussion if you haven't seen it: https://t.co/SvRNE5beNj… "
 
 https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
 
-https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
- 
 https://discuss.python.org/t/2019-steering-council-election-results/824 | 2019 Steering Council Election Results - Committers - Discussions on Python.org
 https://mail.python.org/pipermail/python-committers/2019-February/006520.html | [python-committers] 2019 Steering Council Election Results
 https://twitter.com/ThePSF/status/1092452576266801152 | Python Software on Twitter: "The Python Core Developers have elected their first Steering Council! @pumpichank, @brettsky, @WillingCarol, @gvanrossum, and @ncoghlan_dev will lead the project under the specifications in PEP 13. https://t.co/cN2wDLh5uH https://t.co/hCOahJQSWY"
@@ -809,17 +776,331 @@ https://github.com/django/django/blob/master/django/contrib/auth/base_user.py |
 https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
+## Important Concepts
+
+<!--
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
+
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
+-->
+
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+
+<!--
+## Programming Concepts and Tools
+
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
+
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+-->
+
+
+<!--
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+-->
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+CPU and Instruction Set
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+Machine Code and Assembly Language
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+<!--
+https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
+-->
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+<!--
+https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
+-->
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+<!--
+https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
+https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
+-->
+
+Linux
+* [Linux GitHub](https://github.com/torvalds/linux)
+
+<!--
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
+-->
+
+Compiler
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
+* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
+* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
+* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
+
+<!--	
+Apple
+https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
+https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
+https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
+https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
+https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
+https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
+
+https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+
+https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
+	
+https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
+
+https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
+https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
+https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
+https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
+https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
+
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+-->
+
+CPU versus IO
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [Input/Output Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+
+<!--
+https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
+https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
+
+https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
+https://en.wikipedia.org/wiki/Thread_(computing)
+https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
+https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
+
+https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Async/await
+https://en.wikipedia.org/wiki/Futures_and_promises
+https://en.wikipedia.org/wiki/Coroutine
+https://en.wikipedia.org/wiki/Asynchronous_I/O
+https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
+https://en.wikipedia.org/wiki/Asynchronous_system
+https://en.wikipedia.org/wiki/Asynchronous_communication
+
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)
+https://en.wikipedia.org/wiki/Concurrent_computing
+https://en.wikipedia.org/wiki/Parallel_computing
+
+https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
+https://en.wikipedia.org/wiki/Multiprocessing
+https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
+-->
+
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+
+Database Principles
+* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
+* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
+* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Throttling_process_(computing)
+https://en.wikipedia.org/wiki/Bandwidth_throttling
+https://en.wikipedia.org/wiki/Throughput
+https://en.wikipedia.org/wiki/Rate_limiting
+
+https://en.wikipedia.org/wiki/Cache_(computing)
+
+
+
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
+
+https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
+https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
+https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
+https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+
+
+
+AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Event-driven_messaging
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+https://en.wikipedia.org/wiki/Cron
+
+
+
+https://en.wikipedia.org/wiki/Performance_tuning
+
+https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Webhook
+
+https://en.wikipedia.org/wiki/WebSocket
+https://en.wikipedia.org/wiki/Network_socket
+
+https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Engineering
+
+https://en.wikipedia.org/wiki/Pareto_principle
+https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
+-->
+
 ## Python Release and Workflow
 
 CPython Repo and Bugs Dashboard
 * [CPython GitHub](https://github.com/python/cpython)
 * [Bugs](http://bugs.python.org)
-
-<!--
-GitHub Issues
-https://www.python.org/dev/peps/pep-0588/ | PEP 588 -- GitHub Issues Migration Plan | Python.org
-https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev] PEP 581 (Using GitHub issues for CPython) is accepted
--->
 
 Python Status
 * ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
@@ -872,6 +1153,12 @@ https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for al
 Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
 * [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
+
+<!--
+GitHub Issues
+https://www.python.org/dev/peps/pep-0588/ | PEP 588 -- GitHub Issues Migration Plan | Python.org
+https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev] PEP 581 (Using GitHub issues for CPython) is accepted
+-->
 
 Sphinx and Django-Sphinx
 * [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
@@ -937,11 +1224,6 @@ Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
-Vinta Django Apps Checklist
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)
-
-Vinta API Checklist
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
 <!--
 https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
