@@ -1,6 +1,18 @@
 # Python and Django- Contributing
 
 <!--
+http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
+https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
+
+https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+
+https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
+
+http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
+
+https://github.blog/2019-05-31-maintainer-spotlight-mariatta-wijaya/ | Maintainer spotlight: Mariatta Wijaya - The GitHub Blog
+https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
+
 Python Environment
 * [xkcd: Python Environment](https://xkcd.com/1987)
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
