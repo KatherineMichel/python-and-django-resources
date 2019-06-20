@@ -13,10 +13,6 @@ http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html 
 https://github.blog/2019-05-31-maintainer-spotlight-mariatta-wijaya/ | Maintainer spotlight: Mariatta Wijaya - The GitHub Blog
 https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
 
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -430,6 +426,10 @@ CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
 <!--
 https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
