@@ -10,19 +10,18 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
-https://twitter.com/brettsky/status/1141114303736475648 | Brett Cannon on Twitter: "Ever wanted to help fund the development and maintenance of the Python language and/or CPython interpreter? Now you can! 😊https://t.co/WAfwLmRxtm (we also have a matching "Sponsor"button now at https://t.co/0iHX4YRK9b that takes you to the same page)"
+https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
+
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
+https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
 
 https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
 
-https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
-
-https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
-
-https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
+https://packaging.python.org/guides/migrating-to-pypi-org/ | Migrating to PyPI.org — Python Packaging User Guide
 
 https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
-
-https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
@@ -309,7 +308,21 @@ https://twitter.com/aymericaugustin/status/1074751907195949056 | Aymeric Augusti
 
 https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
 https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
+
+https://twitter.com/brettsky/status/1141114303736475648 | Brett Cannon on Twitter: "Ever wanted to help fund the development and maintenance of the Python language and/or CPython interpreter? Now you can! 😊https://t.co/WAfwLmRxtm (we also have a matching "Sponsor"button now at https://t.co/0iHX4YRK9b that takes you to the same page)"
 -->
+
+## Python and Django PEPs and DEPs
+
+PEPs
+* [PEP Index](https://www.python.org/dev/peps)
+* [Legacy PEP Index](https://legacy.python.org/dev/peps)
+
+PEP Template
+* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 ## Python Summits and Sprints
 
@@ -463,6 +476,8 @@ C Programming Language
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
 
 <!--
+https://en.wikipedia.org/wiki/C_standard_library | C standard library - Wikipedia
+
 https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 | Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books
 https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf | The C Programming Language (Second Edition)
 
@@ -900,7 +915,10 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
+
 https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
+https://github.com/gaborbernat/pugs | gaborbernat/pugs: random pug quote provider
 https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
 
 https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
@@ -1175,21 +1193,11 @@ Django Code of Conduct and CLA
 https://github.com/django/code-of-conduct
 -->
 
-## Python and Django PEPs and DEPs
-
-PEPs
-* [PEP Index](https://www.python.org/dev/peps)
-* [Legacy PEP Index](https://legacy.python.org/dev/peps)
-
-PEP Template
-* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
-
-DEPs (Django Enhancement Proposals)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-
 ## Trends
 
 <!--
+https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
+
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
 https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
@@ -1282,6 +1290,14 @@ https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Inde
 -->
 
 ## Static Typing
+
+<!--
+## Type
+
+https://docs.python.org/3/library/weakref.html
+https://docs.python.org/3/library/typing.html
+https://docs.python.org/3/library/types.html
+-->
 
 Strong and Weak Typing
 * [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
@@ -1426,6 +1442,8 @@ https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django A
 https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
 https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
 https://twitter.com/jacobian/status/1126557544934182913 | jacobian on Twitter: "Dear Microsoft, Instagram, Google, and other big names in the Python community: Django is going async. This is a huge opportunity for you to sponsor this work and be a hero. A few hundred thousand will buy this massive feature and more goodwill then you can possibly imagine.… https://t.co/z022PF653K"
+
+https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
 -->
 
 <!--
