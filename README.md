@@ -1,18 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
-https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
-
-https://github.com/python/cpython/pulls | Pull Requests · python/cpython
-
-https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
-
-http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
-
-https://github.blog/2019-05-31-maintainer-spotlight-mariatta-wijaya/ | Maintainer spotlight: Mariatta Wijaya - The GitHub Blog
-https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -22,21 +10,23 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
+https://twitter.com/brettsky/status/1141114303736475648 | Brett Cannon on Twitter: "Ever wanted to help fund the development and maintenance of the Python language and/or CPython interpreter? Now you can! 😊https://t.co/WAfwLmRxtm (we also have a matching "Sponsor"button now at https://t.co/0iHX4YRK9b that takes you to the same page)"
+
+https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
+
+https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
+
+https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
+
+https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+
+https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
+
 https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
-
-https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
-
-https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
-https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
-https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
-https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-
-https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/ | Who put Python in the Windows 10 May 2019 Update? | Python
 
 https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 
@@ -257,6 +247,7 @@ http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — P
 Dropping Support
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
+https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
 ## Python Governance
@@ -278,6 +269,8 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/jannis-leidel/ | Nomination for | Python.org
+
 Elections
 https://twitter.com/di_codes/status/1137014831805095937
 https://www.python.org/nominations/elections/ | Elections | Python.org
@@ -358,6 +351,12 @@ Mailing List and Permissions History
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
 <!--
+http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
+https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
+
+https://discuss.python.org/t/vote-to-promote-paul-ganssle-as-a-core-developer/1826 | Vote to promote Paul Ganssle as a core developer - Committers - Discussions on Python.org
+https://twitter.com/VictorStinner/status/1140544348171448320 | Victor Stinner 🐍 on Twitter: "Pablo Galindo @pyblogsal & me proposed to promote Paul Ganssle @pganssle as a core developer. Pablo wrote a great message listing all Paul's contributions to Python: https://t.co/RmFZFFMODI Core devs had 1 week to vote and voted in favor of the promotion. Welcome aboard Paul! 🥳"
+
 python core developer mailing list - Google Search
 
 https://python.zulipchat.com
@@ -398,6 +397,8 @@ https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [pyth
 
 https://mariatta.ca/
 https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+https://github.blog/2019-05-31-maintainer-spotlight-mariatta-wijaya/ | Maintainer spotlight: Mariatta Wijaya - The GitHub Blog
+https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
 https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
@@ -761,6 +762,20 @@ Release Managers
 Python Performance
 
 <!--
+https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
+
+https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
+https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
+https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
+https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+
+https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
+https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
+
+https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
+https://twitter.com/phoikoi/status/1137219834402336768 | Peter Hull on Twitter: "Just gonna leave this here for you all to ponder: #deprecation #macos #python… "
+
 https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
 
 https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
@@ -795,6 +810,7 @@ Issues PEP
 
 <!--
 GitHub Issues
+http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
 https://www.python.org/dev/peps/pep-0588/ | PEP 588 -- GitHub Issues Migration Plan | Python.org
 https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev] PEP 581 (Using GitHub issues for CPython) is accepted
 -->
@@ -806,6 +822,11 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
+https://github.com/bitprophet/alabaster | bitprophet/alabaster: Lightweight, configurable Sphinx theme. Now the Sphinx default!
+https://docs.python-guide.org/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
+https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
+https://github.com/realpython/python-guide | realpython/python-guide: Python best practices guidebook, written for humans.
+
 https://github.com/python/miss-islington/issues
 https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
 
@@ -1046,6 +1067,8 @@ python.org Contributing
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
 
 <!--
+https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
+https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
 https://github.com/python/pycon-code-of-conduct
 https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
 -->
@@ -1053,6 +1076,8 @@ https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Co
 ## Django
 
 <!--
+https://github.com/django/djangoproject.com/pull/912 | add docker for local development by mjhea0 · Pull Request #912 · django/djangoproject.com
+
 DSF Internship
 https://twitter.com/jacobian/status/1121128097082957828 | jacobian on Twitter: "Do you want to get paid to contribute to Django and learn to be a better dev? Great: I’m looking for an intern to implement a new feature for the DSF. You’ll do the work, you’ll get paid, and I’ll be there to support you. Details: https://t.co/2nh3veDXyx; DMs are open for ?s"
 https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/ | Paid Internship Opportunity: Build an App for the DSF | Weblog | Django
@@ -1173,8 +1198,6 @@ https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hook
 
 http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
 https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
 -->
 
 ### Python and Django Black
@@ -1252,6 +1275,9 @@ Data Classes
 * [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
 
 <!--
+https://docs.python.org/3/library/dataclasses.html | dataclasses — Data Classes — Python 3.7.3 documentation
+https://github.com/ericvsmith/dataclasses | ericvsmith/dataclasses
+
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
 -->
 
@@ -1388,6 +1414,9 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
+https://twitter.com/andrewgodwin/status/1141743503036149760 | Andrew Godwin on Twitter: "It's in! Django 3.0 will speak ASGI, though remain mostly a sync framework (well, unless I get the "async down to views" stuff done before feature freeze...) And the Async DEP goes to the Technical Board very soon, once it reforms after the current election process.… https://t.co/nQxof6cDx7"
+https://github.com/django/django/pull/11209 | Fixed #30451 -- Added ASGI handler and coroutine-safety. by andrewgodwin · Pull Request #11209 · django/django
+
 Tom Christie
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
 
@@ -1428,49 +1457,6 @@ https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram 
 
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
 http://www.aeracode.org/2017/7/11/towards-channels-20/
--->
-
-<!--
-salt, ansible
-http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
-
-Message and Task Queues
-http://mqtt.org/ | MQTT
-http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-http://python-rq.org/
-https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
-https://www.fullstackpython.com/task-queues.html
-https://redis.io/ | Redis
-
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-
-https://elixir-lang.org/ | Elixir
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-https://realpython.com/python-data-classes/
-
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
-Node.js
-Event-driven, asynchronous IO
-
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
 -->
 
 ### Python Rust/Assembly
