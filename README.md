@@ -5,6 +5,7 @@ My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
 Season of Docs
+https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
 https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
 https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
@@ -12,13 +13,11 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
 
-https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
+https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
 
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
 https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
 https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
-
-https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
 
 https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
 https://packaging.python.org/guides/migrating-to-pypi-org/ | Migrating to PyPI.org — Python Packaging User Guide
@@ -63,6 +62,9 @@ Community
 
 Positive Python
 * [#positivepython](http://www.positivepython.org/twitter.html)
+
+Sponsor Python
+* [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
 
 <!--
 http://pyfound.blogspot.com/ | Python Software Foundation News
@@ -286,10 +288,6 @@ Steering Committee
 https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
 https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
 
-Repositories under the "python" organization on GitHub
-https://github.com/python/steering-council/issues/9
-https://twitter.com/di_codes/status/1125778236930174977 | Dustin Ingram on Twitter: "Relevant discussion if you haven't seen it: https://t.co/SvRNE5beNj… "
-
 https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
 
 https://discuss.python.org/t/2019-steering-council-election-results/824 | 2019 Steering Council Election Results - Committers - Discussions on Python.org
@@ -310,8 +308,6 @@ https://twitter.com/aymericaugustin/status/1074751907195949056 | Aymeric Augusti
 
 https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
 https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
-
-https://twitter.com/brettsky/status/1141114303736475648 | Brett Cannon on Twitter: "Ever wanted to help fund the development and maintenance of the Python language and/or CPython interpreter? Now you can! 😊https://t.co/WAfwLmRxtm (we also have a matching "Sponsor"button now at https://t.co/0iHX4YRK9b that takes you to the same page)"
 -->
 
 ## Python and Django PEPs and DEPs
@@ -325,6 +321,24 @@ PEP Template
 
 DEPs (Django Enhancement Proposals)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+### Python and Django Black
+
+Repos Under "Python" GitHub Organization
+* [Python Steering Committee: "Repositories under the "python" organization on GitHub"](https://github.com/python/steering-council/issues/9)
+* [Dustin Ingram: "Relevant discussion"](https://twitter.com/di_codes/status/1125778236930174977)
+
+Black Moving Under "Python" GitHub Organization
+* [Łukasz Langa Tweet](https://twitter.com/llanga/status/1123980466292445190)
+
+DEP 0008: Formatting Code with Black
+* [Accepted: DEP 0008: Formatting Code with Black](https://github.com/django/deps/blob/master/accepted/0008-black.rst)
+* [Andrew Godwin Tweet](https://twitter.com/andrewgodwin/status/1127027840296177666)
+* [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
+
+<!--
+pipenv
+-->
 
 ## Python Summits and Sprints
 
@@ -475,18 +489,16 @@ https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-8
 C Programming Language 
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+* [Learn to Code the Hard Way- C](https://learncodethehardway.org/c) 
+* [C Standard Library Wikipedia](https://en.wikipedia.org/wiki/C_standard_library) 
 
 <!--
-https://en.wikipedia.org/wiki/C_standard_library | C standard library - Wikipedia
-
 https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 | Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books
 https://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf | The C Programming Language (Second Edition)
 
 https://www.geeksforgeeks.org/c-language-set-1-introduction/ | C Language Introduction - GeeksforGeeks
 https://www.tutorialspoint.com/cprogramming/c_overview.htm | C Language Overview
 
-https://learncodethehardway.org/c/
 http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
 -->
 
@@ -714,8 +726,6 @@ Django Core Mentorship
 <!--
 https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
 
-https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
-
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
 -->
 
@@ -781,6 +791,7 @@ Python Performance
 <!--
 https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
 
+https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
 https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
 https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
 https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
@@ -1200,6 +1211,7 @@ https://github.com/django/code-of-conduct
 
 <!--
 https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
+https://twitter.com/glasnt/status/1127465047188328448 | Katie McLaughlin ✨ on Twitter: "If you have 45 minutes, I strongly urge you to watch @freakboy3742's keynote from @pycon last week. It's amazing, compelling, heart-breaking and heart-warming, and a must watch, even if you don't do Python. https://t.co/UOY2rzscDG"
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
@@ -1209,16 +1221,6 @@ https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hook
 
 http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
 https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
--->
-
-### Python and Django Black
-
-<!--
-https://twitter.com/llanga/status/1123980466292445190 | Łukasz Langa on Twitter: "Black, your uncompromising #Python code formatter, was a project created with the community in mind from Day 1. Today we moved it under the PSF umbrella. It's now available on GitHub under https://t.co/64rq0cawTP. You install and use it just like before. 1/2"
-
-https://github.com/django/deps/blob/master/draft/0008-black.rst
-https://twitter.com/andrewgodwin/status/1127027840296177666 | Andrew Godwin on Twitter: "The Django Technical Board has voted, and DEP 0008 (formatting using Black) has been accepted! We're going to wait until Black hits a stable release, and then we'll move over. More here: https://t.co/vKu1Hum6fL"
-https://twitter.com/llanga/status/1127075906286002176 | Łukasz Langa on Twitter: "Imagine a world where the most used Web frameworks in #Python all share the same code style. I'm not crying, you're crying.… https://t.co/nDii5tSIHd"
 -->
 
 ### Bots
@@ -1421,8 +1423,20 @@ API Star
 
 ### Django Sync and Async Tools
 
+Async Added to Django 3.0
+* [Andrew's Tweet](https://twitter.com/andrewgodwin/status/1141743503036149760)
+* [PR: "Added ASGI handler and coroutine-safety"](https://github.com/django/django/pull/11209)
+
+Async DEP
+* [DEP 0009: Async-capable Django](https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst)
+* [Django Async DEP Mailing List](https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg)
+
 "A Django Async Roadmap"
+* [DjangoCon Europe 2018: "Taking Django Async" by Andrew Godwin](https://www.youtube.com/watch?time_continue=1972&v=-7taKQnndfo)
 * ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
+
+Django Async- General
+* [Jacob Kaplan-Moss Tweet](https://twitter.com/jacobian/status/1126557544934182913)
 
 Django Channels (Built on ASGI)
 * [Channels](https://channels.readthedocs.io) and [Channels GitHub](https://github.com/django/channels)
@@ -1433,18 +1447,10 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
-https://twitter.com/andrewgodwin/status/1141743503036149760 | Andrew Godwin on Twitter: "It's in! Django 3.0 will speak ASGI, though remain mostly a sync framework (well, unless I get the "async down to views" stuff done before feature freeze...) And the Async DEP goes to the Technical Board very soon, once it reforms after the current election process.… https://t.co/nQxof6cDx7"
-https://github.com/django/django/pull/11209 | Fixed #30451 -- Added ASGI handler and coroutine-safety. by andrewgodwin · Pull Request #11209 · django/django
-
 Tom Christie
+Sketching out a Django redesign.
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-
-Django Async
-https://twitter.com/andrewgodwin/status/1126520638284238848 | Andrew Godwin on Twitter: "If you would like some light reading, the first draft of my DEP to bring async into Django is up: https://t.co/iT3HvnOW7D Mailing list post: https://t.co/1lylYuYGng"
-https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg | Django Async DEP - Google Groups
-https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst | deps/0009-async.rst at async · andrewgodwin/deps
-https://github.com/andrewgodwin/deps | andrewgodwin/deps: Django Enhancement Proposals
-https://twitter.com/jacobian/status/1126557544934182913 | jacobian on Twitter: "Dear Microsoft, Instagram, Google, and other big names in the Python community: Django is going async. This is a huge opportunity for you to sponsor this work and be a hero. A few hundred thousand will buy this massive feature and more goodwill then you can possibly imagine.… https://t.co/z022PF653K"
+https://www.youtube.com/watch?v=u8GSFEg5lnU
 
 https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
 -->
@@ -1459,7 +1465,6 @@ https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Bas
 
 https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
 
-https://www.youtube.com/watch?time_continue=1972&v=-7taKQnndfo | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
 https://github.com/simonw/asgi-scope | simonw/asgi-scope: A tiny application for understanding ASGI scope
 
 https://www.aeracode.org/2018/02/19/python-async-simplified/ | Python & Async Simplified - Aeracode
@@ -1492,8 +1497,6 @@ Python Rust/WebAssembly
 
 <!--
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
-
-https://twitter.com/glasnt/status/1127465047188328448 | Katie McLaughlin ✨ on Twitter: "If you have 45 minutes, I strongly urge you to watch @freakboy3742's keynote from @pycon last week. It's amazing, compelling, heart-breaking and heart-warming, and a must watch, even if you don't do Python. https://t.co/UOY2rzscDG"
 
 https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
 
