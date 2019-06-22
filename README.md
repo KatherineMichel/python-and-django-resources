@@ -10,6 +10,8 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
+https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
+
 https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
 
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
@@ -943,6 +945,7 @@ https://pip.pypa.io/en/stable/reference/pip_wheel
 
 Sample project
 https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
+https://github.com/crwilcox/my-pypi-package/blob/master/.circleci/config.yml | my-pypi-package/config.yml at master · crwilcox/my-pypi-package
 https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
 
 https://pypi.org/classifiers/ | Classifiers · PyPI
