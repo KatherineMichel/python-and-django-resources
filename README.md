@@ -19,9 +19,6 @@ https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: Gi
 https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
 https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
 
-https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
-https://packaging.python.org/guides/migrating-to-pypi-org/ | Migrating to PyPI.org — Python Packaging User Guide
-
 https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
 
 http://python-gsoc.org/ | Python GSoC – Splash
@@ -521,8 +518,6 @@ https://en.wikipedia.org/wiki/Locality_of_reference
 https://en.wikipedia.org/wiki/Open_addressing
 
 https://github.com/mitmproxy/mitmproxy/issues/1381
-
-https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 -->
 
 ## Computer Internals
@@ -844,14 +839,16 @@ https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev]
 -->
 
 Sphinx and Django-Sphinx
-* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
 * [Sphinx](http://sphinx-doc.org)  
+* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
+* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
 * [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
+* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
-https://github.com/bitprophet/alabaster | bitprophet/alabaster: Lightweight, configurable Sphinx theme. Now the Sphinx default!
-https://docs.python-guide.org/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+
 https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
 https://github.com/realpython/python-guide | realpython/python-guide: Python best practices guidebook, written for humans.
 
@@ -897,6 +894,10 @@ Python- Official Packaging Info
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 
+TestPyPI
+* [TestPyPI](https://test.pypi.org)
+* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
+
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
@@ -928,11 +929,11 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
-https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
+https://pypi.org/classifiers/ | Classifiers · PyPI
+https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
 
-https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
-https://github.com/gaborbernat/pugs | gaborbernat/pugs: random pug quote provider
-https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
+
+https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
 
 https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
@@ -946,9 +947,6 @@ https://www.python.org/dev/peps/pep-0517/
 
 https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
 
-https://test.pypi.org/ | TestPyPI – the Python Package Index · TestPyPI
-https://packaging.python.org/guides/using-testpypi/ | Using TestPyPI — Python Packaging User Guide
-
 Wheels
 https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
 https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
@@ -957,11 +955,12 @@ https://pip.pypa.io/en/stable/reference/pip_wheel
 Sample project
 https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
 https://github.com/crwilcox/my-pypi-package/blob/master/.circleci/config.yml | my-pypi-package/config.yml at master · crwilcox/my-pypi-package
-https://github.com/pypa/sampleproject/blob/master/setup.py | sampleproject/setup.py at master · pypa/sampleproject
 
-https://pypi.org/classifiers/ | Classifiers · PyPI
+https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
+https://github.com/gaborbernat/pugs | gaborbernat/pugs: random pug quote provider
+https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
 
-2FA
+Improvements
 https://pythoninsider.blogspot.com/2019/05/use-two-factor-auth-to-improve-your.html | Python Insider: Use two-factor auth to improve your PyPI account's security
 https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a PyPI-friendly README — Python Packaging User Guide
 
@@ -969,7 +968,6 @@ https://packaging.python.org/guides/making-a-pypi-friendly-readme/ | Making a Py
 
 New- Packaging
 https://pydist.com/blog/distributions-vs-releases | PyDist – Blog
-https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 19.1.1 documentation
 https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 -->
 
@@ -1074,6 +1072,7 @@ https://github.com/twoscoops/Creating-and-Distributing-Python-Packages | twoscoo
 https://courses.twoscoopspress.com/courses/take/creating-and-distributing-python-packages | Two Scoops Press
 
 New PyPI
+https://packaging.python.org/guides/migrating-to-pypi-org/ | Migrating to PyPI.org — Python Packaging User Guide
 http://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html | Python Software Foundation News: Python package maintainers, help test the new PyPI!
 https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1wvCm_cLddg/viewform | Conducting user tests on PyPI
 https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
