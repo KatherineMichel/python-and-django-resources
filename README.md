@@ -1513,6 +1513,10 @@ Python Rust/WebAssembly
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
 
 <!--
+https://twitter.com/indygreg/status/1143187250743668736
+https://twitter.com/di_codes/status/1143973324961304576
+https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
+
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
 
 https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
