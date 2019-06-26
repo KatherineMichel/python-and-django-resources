@@ -1297,6 +1297,8 @@ https://docs.python.org/3/library/dataclasses.html | dataclasses — Data Classe
 https://github.com/ericvsmith/dataclasses | ericvsmith/dataclasses
 
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
+
+https://realpython.com/python-data-classes/
 -->
 
 ## Static Typing
@@ -1370,6 +1372,7 @@ General
 
 11.4. Multi-threading
 17.2. multiprocessing — Process-based parallelism
+https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
 
 17. Concurrent Execution
 17.1. threading — Thread-based parallelism
@@ -1399,19 +1402,6 @@ https://docs.python.org/3/library/ssl.html
 
 ### Python Sync and Async Tools
 
-<!--
-multiprocessing
-
-https://eventlet.net/
-https://greenlet.readthedocs.io/en/latest/ | greenlet: Lightweight concurrent programming — greenlet 0.4.0 documentation
-https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
-
-asynchronous networking library
-"By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user."
-https://www.tornadoweb.org/en/stable/ | Tornado Web Server — Tornado 5.1.1 documentation
-https://twistedmatrix.com | Twisted
--->
-
 ASGI (WSGI is for synchronous Python apps, ASGI is for both asynchronous and synchronous apps)
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io)
 * [Channels ASGI](https://channels.readthedocs.io/en/latest/asgi.html)
@@ -1425,6 +1415,19 @@ Starlette (ASGI Framework)
 API Star
 * [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
 * [API Star Discuss](https://discuss.apistar.org)
+
+Tornado and Twisted
+* [Tornado (asynchronous networking library)](https://www.tornadoweb.org)
+* [Twisted](https://twistedmatrix.com)
+
+Eventlet and Greenlet
+* [Eventlet](https://eventlet.net)
+* [Greenlet](https://greenlet.readthedocs.io)
+* [gevent-socketio](https://learn-gevent-socketio.readthedocs.io)
+
+<!--
+https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
+-->
 
 ### Django Sync and Async Tools
 
