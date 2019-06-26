@@ -847,10 +847,14 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
+https://github.com/sphinx-doc/sphinx
+
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
 https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
 https://github.com/realpython/python-guide | realpython/python-guide: Python best practices guidebook, written for humans.
+
+https://github.com/bots-for-humanity
 
 https://github.com/python/miss-islington/issues
 https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
@@ -1163,6 +1167,8 @@ Your Framework Needs You
 * [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
 
 <!--
+https://data.djangoproject.com/
+
 https://members.2019.djangocon.eu/conference/talk/DG7SG8/
 https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
 
@@ -1446,6 +1452,15 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
+https://github.com/pirate/django-http2-middleware
+
+https://github.com/django/django/pull/11209/files
+
+https://simonwillison.net/2019/Jun/23/datasette-asgi/
+https://github.com/simonw/datasette/issues/272
+https://twitter.com/simonw/status/1143019211771404288
+https://twitter.com/andrewgodwin/status/1143026705033916417
+
 Tom Christie
 Sketching out a Django redesign.
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
