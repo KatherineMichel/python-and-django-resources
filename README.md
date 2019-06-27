@@ -142,11 +142,9 @@ People
 <!--
 * Jannis Leidel, @jezdez
 
-* Brett Cannon, @brettsky
-https://snarky.ca
+* [Brett Cannon](https://snarky.ca)
+* [Nick Coghlan](http://python-notes.curiousefficiency.org)
 
-* Nick Coghlan 📌
-http://python-notes.curiousefficiency.org
 
 Adam Johnson
 https://adamj.eu
@@ -335,6 +333,7 @@ DEP 0008: Formatting Code with Black
 
 <!--
 pipenv
+https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies
 -->
 
 ## Python Summits and Sprints
@@ -839,7 +838,7 @@ https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev]
 -->
 
 Sphinx and Django-Sphinx
-* [Sphinx](http://sphinx-doc.org)  
+* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
 * [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
 * [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
 * [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
@@ -847,8 +846,6 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
-https://github.com/sphinx-doc/sphinx
-
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
 https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
@@ -1216,7 +1213,6 @@ https://github.com/django/code-of-conduct
 
 <!--
 https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
-https://twitter.com/glasnt/status/1127465047188328448 | Katie McLaughlin ✨ on Twitter: "If you have 45 minutes, I strongly urge you to watch @freakboy3742's keynote from @pycon last week. It's amazing, compelling, heart-breaking and heart-warming, and a must watch, even if you don't do Python. https://t.co/UOY2rzscDG"
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
