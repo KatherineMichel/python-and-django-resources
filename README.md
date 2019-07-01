@@ -21,6 +21,13 @@ https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift
 
 https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
 
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
+
+https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
+https://blog.rust-lang.org/2019/05/23/Rust-1.35.0.html | Announcing Rust 1.35.0 | Rust Blog
+https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
+https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
+
 http://python-gsoc.org/ | Python GSoC – Splash
 
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
