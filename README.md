@@ -13,6 +13,19 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 https://twitter.com/brettsky/status/830527537105113088?lang=en | Brett Cannon on Twitter: "It's as true today as when I first said it at @pycon 2014: "I came for the language but I stay for the community"… "
 
+https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
+https://speed.python.org/ | Python Speed Center
+https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
+https://cython.org/ | Cython: C-Extensions for Python
+https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
+https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+https://pypi.org/project/poetry/ | poetry · PyPI
+https://poetry.eustace.io/ | Poetry - Python dependency management and packaging made easy.
+https://pipxproject.github.io/pipx/ | pipx
+http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
+
 Updates
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
@@ -963,6 +976,9 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://twitter.com/di_codes/status/1135628015147388928 | Dustin Ingram on Twitter: "Ever wondered what is going on when you `pip install numpy` and it downloads some file with a name like `numpy-1.16.4-cp37-cp37m-manylinux1_x86_64.whl `? This is a built distribution, and @brettsky just published a great explanation of what every part of that filename means.… https://t.co/yJAXS13a2J"
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/ | The challenges in designing a library for PEP 425 (aka wheel tags)
+
 https://pypi.org/project/check-manifest/ | check-manifest · PyPI
 
 https://pypi.org/classifiers/ | Classifiers · PyPI
