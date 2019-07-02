@@ -13,6 +13,9 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
 
+https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
+https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
+
 https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
 
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
@@ -412,6 +415,7 @@ What is a Python Core Developer?
 https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
 
+https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
 http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
 https://realpython.com/interview-emily-morehouse/ | Python Community Interview With Emily Morehouse – Real Python
 
@@ -726,8 +730,6 @@ Django Core Mentorship
 
 <!--
 https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
 -->
 
 <!--
@@ -844,20 +846,7 @@ https://www.python.org/dev/peps/pep-0588/ | PEP 588 -- GitHub Issues Migration P
 https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev] PEP 581 (Using GitHub issues for CPython) is accepted
 -->
 
-Sphinx and Django-Sphinx
-* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
-* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
-* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
-* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
-
 <!--
-https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
-
-https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
-https://github.com/realpython/python-guide | realpython/python-guide: Python best practices guidebook, written for humans.
-
 https://github.com/bots-for-humanity
 
 https://github.com/python/miss-islington/issues
@@ -872,6 +861,26 @@ https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
 https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
 https://github.com/Mariatta/cloner
+-->
+
+## Docs
+
+Sphinx and Django-Sphinx
+* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
+* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
+* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
+* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
+
+<!--
+https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#how-the-documentation-is-organized | Writing documentation | Django documentation | Django
+
+https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
+https://github.com/realpython/python-guide | realpython/python-guide: Python best practices guidebook, written for humans.
 
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
@@ -1171,6 +1180,10 @@ Your Framework Needs You
 * [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
 
 <!--
+https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
+https://docs.djangoproject.com/en/2.2/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
+
 https://data.djangoproject.com/
 
 https://members.2019.djangocon.eu/conference/talk/DG7SG8/
@@ -1320,6 +1333,8 @@ Strong and Weak Typing
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
+https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
+
 https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
 https://en.wikipedia.org/wiki/Duck_typing
 -->
@@ -1415,6 +1430,10 @@ Uvicorn (ASGI Server)
 Starlette (ASGI Framework)
 * [Starlette](https://www.starlette.io) and [Starlette GitHub](https://github.com/encode/starlette)
 
+<!--
+https://github.com/tartiflette/tartiflette-starlette | tartiflette/tartiflette-starlette: ASGI support for the Tartiflette GraphQL engine
+-->
+
 API Star
 * [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
 * [API Star Discuss](https://discuss.apistar.org)
@@ -1458,6 +1477,12 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
+https://www.aeracode.org/2019/03/20/asgi-30/ | ASGI 3.0 - Aeracode
+
+https://github.com/aiortc/aioquic | aiortc/aioquic: QUIC implementation in Python
+https://twitter.com/_tomchristie/status/1131617638793269248 | Tom Christie on Twitter: "Really excited about the potential of this one. First steps towards HTTP/3 support for Python servers and clients.… "
+
+https://github.com/encode/httpcore | encode/httpcore
 https://github.com/pirate/django-http2-middleware
 
 https://github.com/django/django/pull/11209/files
