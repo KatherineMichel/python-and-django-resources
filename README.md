@@ -36,6 +36,8 @@ https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/
 
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
 
@@ -372,8 +374,6 @@ DEP 0008: Formatting Code with Black
 * [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
 
 <!--
-https://github.com/kennethreitz/white | kennethreitz/white: The Black code formatter, but brighter (PEP8–inspired).
-
 pipenv
 https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies
 -->
