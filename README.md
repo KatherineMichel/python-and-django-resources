@@ -195,9 +195,6 @@ Positive Python
 Sponsor Python
 * [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
 
-"I came for the language but I stay for the community..."
-* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
-
 <!--
 https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
 
@@ -233,6 +230,28 @@ https://github.com/python/pycon-code-of-conduct
 
 https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
 -->
+
+## Python and Django History
+
+Python: "I came for the language but I stay for the community..."
+* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
+
+Django History
+* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
+* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
+* [Django Birthday Event](https://djangobirthday.com)
+* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
+* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
+* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
+* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
+
+State of Django
+* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
+* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
+* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
+
+About Django 
+* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
 
 ## PSF and DSF People and Members
 
@@ -608,7 +627,6 @@ http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
 Various Topics
 http://opensourcebridge.org/sessions/1881
 http://opensourcebridge.org/sessions/1882
-https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
 https://en.wikipedia.org/wiki/Locality_of_reference
 https://en.wikipedia.org/wiki/Open_addressing
 
@@ -785,6 +803,8 @@ Sequential Versus Random (Direct) Access
 
 <!--
 https://leanpub.com/insidethepythonvirtualmachine/read
+
+https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
 
 https://en.wikipedia.org/wiki/CPython | CPython - Wikipedia
 https://en.wikibooks.org/wiki/Category:Book:Microprocessor_Design | Category:Book:Microprocessor Design - Wikibooks, open books for an open world
@@ -1074,8 +1094,6 @@ https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configu
 https://pythoninsider.blogspot.com/
 
 https://speed.python.org/ | Python Speed Center
-
-https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
 
 https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
 https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
@@ -1417,23 +1435,6 @@ https://github.com/django/djangoproject.com/pull/912 | add docker for local deve
 https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
 -->
 
-Django History
-* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
-* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
-* [Django Birthday Event](https://djangobirthday.com)
-* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
-* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
-* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
-* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
-
-State of Django
-* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
-* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
-* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
-
-About Django 
-* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
-
 Django Software
 * [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
 * [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
@@ -1470,6 +1471,7 @@ Carlton Gibson's Talks
 <!--
 ### New Releases
 https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
+https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
 
 https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
 https://www.djangoproject.com/download/#supported-versions
@@ -1561,6 +1563,7 @@ https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo,
 
 https://zapier.com/ | Zapier | The easiest way to automate your work
 https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
+
 https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
 https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
@@ -1585,11 +1588,12 @@ https://pythoncapi.readthedocs.io/runtime.html | Reorganize Python “runtime”
 https://mail.python.org/archives/list/capi-sig@python.org/message/VKKNX4ECZTCRGYMAJJA4VWPVXC257W62/ | Mailman 3 [capi-sig] Re: [capi-sig]How to access the various levels of runtime state (e.g. PyInterpreterState, _PyRuntimeState)? - capi-sig - python.org
 
 https://github.com/ericsnowcurrently/multi-core-python | ericsnowcurrently/multi-core-python: Enabling CPython multi-core parallelism via subinterpreters.
+https://twitter.com/dontusethiscode/status/1130240042457288705 | James Powell on Twitter: "Pure* Python sub-interpreters without all the hard work of @ericsnowcrntly's PEP-554 (https://t.co/w6aNg3SINI) (Don't actually do this… or do; it's none of my business.)… https://t.co/ZoYRyT58dI"
+
 https://www.python.org/dev/peps/pep-0554/ | PEP 554 -- Multiple Interpreters in the Stdlib | Python.org
 https://en.wikipedia.org/wiki/Communicating_sequential_processes | Communicating sequential processes - Wikipedia
 
 https://twitter.com/raymondh/status/1100151553879470080 | Raymond Hettinger on Twitter: "#python 3.8 news: The second alpha release out today. Please try it out. One major feature that we've needed for a long time is shared memory for multiprocessing. Our story for multi-core just got a lot better ;-) Thank you Davin Potts! https://t.co/3GBUtiYCPn"
-https://twitter.com/dontusethiscode/status/1130240042457288705 | James Powell on Twitter: "Pure* Python sub-interpreters without all the hard work of @ericsnowcrntly's PEP-554 (https://t.co/w6aNg3SINI) (Don't actually do this… or do; it's none of my business.)… https://t.co/ZoYRyT58dI"
 
 Larry Hastings Gilectomy
 https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
