@@ -16,23 +16,6 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
 https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
 
-https://en.wikipedia.org/wiki/Common_Gateway_Interface | Common Gateway Interface - Wikipedia
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
-
-WSGI HTTP Server for UNIX
-http://gunicorn.org
-
-https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
-https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
-
-Benchmarks and Specifications
-https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
-https://speed.python.org/ | Python Speed Center
-
-https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
-
 Tools
 https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
@@ -41,8 +24,6 @@ https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar H
 https://pypi.org/project/poetry/ | poetry · PyPI
 https://poetry.eustace.io/ | Poetry - Python dependency management and packaging made easy.
 https://pipxproject.github.io/pipx/ | pipx
-
-http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
 
 Updates
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
@@ -932,10 +913,6 @@ Django Core Mentorship
 * [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
 
 <!--
-https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
--->
-
-<!--
 https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
 https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
 
@@ -995,6 +972,8 @@ Release Managers
 Python Performance
 
 <!--
+https://speed.python.org/ | Python Speed Center
+
 https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
 
 https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
@@ -1004,6 +983,7 @@ https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:ov
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 
+http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
 https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
 
@@ -1323,9 +1303,11 @@ python.org Contributing
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
 
 <!--
-https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
 https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
+
+https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
 https://github.com/python/pycon-code-of-conduct
+
 https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
 -->
 
@@ -1335,11 +1317,7 @@ https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Co
 https://github.com/django/djangoproject.com/pull/912 | add docker for local development by mjhea0 · Pull Request #912 · django/djangoproject.com
 
 DSF Internship
-https://twitter.com/jacobian/status/1121128097082957828 | jacobian on Twitter: "Do you want to get paid to contribute to Django and learn to be a better dev? Great: I’m looking for an intern to implement a new feature for the DSF. You’ll do the work, you’ll get paid, and I’ll be there to support you. Details: https://t.co/2nh3veDXyx; DMs are open for ?s"
 https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/ | Paid Internship Opportunity: Build an App for the DSF | Weblog | Django
-https://docs.google.com/forms/d/e/1FAIpQLSckJl6c-BSsAWsSxCDDnTqVGg7OepPPyAQdp_9gR_L3pNeOEg/viewform | DSF Membership App - Internship Application
-
-https://www.google.com/search?q=Django%E2%80%99s+governance&oq=Django%E2%80%99s+governance&aqs=chrome..69i57.209j0j7&sourceid=chrome&ie=UTF-8 | Django’s governance - Google Search
 
 https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
 -->
@@ -1384,11 +1362,14 @@ Django, Releases, Announcements, and Roadmaps
 * [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
 * [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
 
-Your Framework Needs You
-* [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
+Carlton Gibson's Talks
+* [Carlton Gibson: Your Framework Needs You (DjangoCon US 2018](https://2018.djangocon.us/talk/your-web-framework-needs-you)
+* [Carlton Gibson: Feeding the Pony: Contributing back to Django & How to make that work for you DjangoCon Europe 2019](https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/)
 
 <!--
 ### New Releases
+https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
+
 https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
 https://www.djangoproject.com/download/#supported-versions
 https://docs.djangoproject.com/en/2.2/releases/
@@ -1400,22 +1381,17 @@ https://docs.djangoproject.com/en/2.2/releases/1.11/
 https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
 https://docs.djangoproject.com/en/2.2/internals/release-process/
 https://docs.djangoproject.com/en/2.2/internals/deprecation/
--->
 
-<!--
 https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
 https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
 https://docs.djangoproject.com/en/2.2/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
+-->
 
+<!--
 https://data.djangoproject.com/
-
-https://members.2019.djangocon.eu/conference/talk/DG7SG8/
-https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
 
 Django Docs
 https://members.2019.djangocon.eu/conference/talk/BHV8UW/
-
-https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/ | Feeding the Pony: Contributing back to Django & How to make that work for you • DjangoCon Europe 2019
 
 Django Sprint
 https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
@@ -1445,12 +1421,8 @@ https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates �
 -->
 
 Django Code of Conduct and CLA
-* [Django Code of Conduct](https://www.djangoproject.com/conduct)
+* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
-
-<!--
-https://github.com/django/code-of-conduct
--->
 
 ## Trends
 
@@ -1526,7 +1498,7 @@ https://lwn.net/Articles/754577/
 https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
 -->
 
-## Data Classes
+### Data Classes
 
 Data Classes
 * [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
@@ -1540,7 +1512,7 @@ https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Inde
 https://realpython.com/python-data-classes/
 -->
 
-## Static Typing
+### Static Typing
 
 <!--
 ## Type
@@ -1588,6 +1560,26 @@ http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Myp
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
 https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
 https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
+-->
+
+### HTTP
+
+Common Gateway Interface
+* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI
+* [Gunicorn (WSGI HTTP Server for UNIX)](http://gunicorn.org)
+* [WSGI Read the Docs](https://wsgi.readthedocs.io)
+* [uWSGI: Setting up Django and your web server with uWSGI and nginx](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html)
+
+<!--
+Benchmarks and Specifications
+https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
+
+https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 -->
 
 ### Python Sync and Async
