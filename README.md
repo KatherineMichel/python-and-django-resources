@@ -13,21 +13,18 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
-https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
-https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
+http://python-gsoc.org/ | Python GSoC – Splash
 
 Tools
 https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
 https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
 https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-https://pypi.org/project/poetry/ | poetry · PyPI
-https://poetry.eustace.io/ | Poetry - Python dependency management and packaging made easy.
-https://pipxproject.github.io/pipx/ | pipx
 
 Updates
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
+https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
 
@@ -62,10 +59,6 @@ https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 
 https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
 https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
 
-http://python-gsoc.org/ | Python GSoC – Splash
-
-https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
-
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
@@ -87,6 +80,8 @@ Python Software Foundation (PSF)
 * [PSF Mission](https://www.python.org/psf/mission)
 * [PSF Bylaws](https://www.python.org/psf/bylaws)
 * [PSF Newsletter](https://www.python.org/psf/newsletter)
+* [PSF Awards](https://www.python.org/community/awards/psf-awards/)
+* [PSF Mailing List Info](https://mail.python.org/mailman/listinfo)
 
 Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
@@ -95,6 +90,8 @@ Python- Members
 
 Community
 * [Python Community](https://www.python.org/community)
+* [PSF Community Resources](https://github.com/python/psf-community-resources)
+* [PSF Community Info Page](https://mail.python.org/mailman/listinfo/psf-community)
 
 Positive Python
 * [#positivepython](http://www.positivepython.org/twitter.html)
@@ -102,19 +99,13 @@ Positive Python
 Sponsor Python
 * [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
 
+"I came for the language but I stay for the community..."
+* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
+
 <!--
-http://pyfound.blogspot.com/ | Python Software Foundation News
+https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
 
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
-
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-
-https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
-
-https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
-https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
-
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
 
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 -->
@@ -170,53 +161,31 @@ Notable Blogs- Django Core Devs
 * [Andrew Godwin](https://www.aeracode.org)
 * [James Bennett](https://www.b-list.org)
 
-People
+People (List to be continued...)
 * [Andrew Godwin GitHub](https://github.com/andrewgodwin)
 * [Eric V. Smith GitHub](https://github.com/ericvsmith)
 * [Tom Christie GitHub](https://github.com/tomchristie)
-
-<!--
-* Jannis Leidel, @jezdez
-
+* [Adam Johnson](https://adamj.eu)
+* [Aymeric Augustin](https://myks.org/en)
+* [Barry Warsaw](https://barry.warsaw.us/)
+* [Brandon Rhodes](https://rhodesmill.org/brandon/)
 * [Brett Cannon](https://snarky.ca)
+* [Carol Willing](https://www.willingconsulting.com/)
+* [Emily Morehouse-Valcarcel](https://emilyemorehouse.com/)
+* [Guido van Rossum](https://gvanrossum.github.io/)
+* [Kushal Das](https://kushaldas.in/)
+* [Łukasz Langa](http://lukasz.langa.pl/)
+* [Mariatta](https://mariatta.ca/)
 * [Nick Coghlan](http://python-notes.curiousefficiency.org)
-
-
-Adam Johnson
-https://adamj.eu
-Aymeric Augustin
-https://myks.org/en
-
-* Mariatta, @mariatta
-* Guido van Rossum, @gvanrossum
-* Barry Warsaw, @pumpichank
-* Brandon Rhodes, @brandon_rhodes
-* Carol Willing, @WillingCarol
-* Cheryl Sabella, @cherylsabella
-* Christian Heimes, @ChristianHeimes
-* Donald Stufft, @dstufft
-* Emily Morehouse-Valcarcel, @emilyemorehouse
-* Eric Snow, @ericsnowcrntly
-* Kushal Das, @kushaldas
-* Larry Hastings, @LarryHastings
-* Łukasz Langa, @llanga
-* Raymond Hettinger, @raymondh
-* Stéphane Wirtel, @matrixise
-* Sviatoslove.py, @webKnjaZ
-* T. Wouters, @Yhg1s
--->
+* [Raymond Hettinger](https://rhettinger.wordpress.com/)
+* [Stéphane Wirtel](https://wirtel.be/)
+* [Sviatoslove.py](https://webknjaz.me/)
 
 ## Python General
 
 Python
 * [Python Front Page](https://wiki.python.org/moin)
 * [Python GitHub](https://github.com/python)
-
-<!--
-https://pythoninsider.blogspot.com/
-
-https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
--->
 
 Python History
 * [The History of Python](http://python-history.blogspot.com)
@@ -226,31 +195,23 @@ Python History
 * [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
-https://twitter.com/brettsky/status/830527537105113088?lang=en | Brett Cannon on Twitter: "It's as true today as when I first said it at @pycon 2014: "I came for the language but I stay for the community"… "
-
-https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
-
-The People's Programming Language
-https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
-
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
 
 https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
 https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
+
+https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 -->
 
-Python Surveys and Trends
+Python Trends
 * [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
 * [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
 
-* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018)
-
-<!--
-* [JetBrains Python Developers Survey (2018)](https://www.jetbrains.com/research/devecosystem-2018/python) and [JetBrains Python Developers Survey (2018) GitHub](https://github.com/python/python-dev-survey)
-* [JetBrains PPython Developers Survey (2017)](https://www.jetbrains.com/research/python-developers-survey-2017)
--->
+Python Surveys
+* [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
+* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
 
 ## Python 2 or 3, Python 2 EoL
 
@@ -268,16 +229,12 @@ Python 2 EOL Websites
 * [Python Readiness](https://pyreadiness.org)
 * [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
 * [Python 3 Porting](http://python3porting.com)
+* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
 Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
 <!--
-https://caniusepython3.com
-https://github.com/caniusepython3/caniusepython3.com
-
-https://twitter.com/ChristianHeimes/status/1128653119687135232 | Christian Heimes on Twitter: "Since this old thread from September 2018 got resurrected, I decided to update my page. As of today, 1326 of #python top 1400 support Python 3. https://t.co/mZHQyYK6FH… https://t.co/NkuNoi48Wv"
-
 http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
 
 Dropping Support
@@ -313,9 +270,6 @@ https://twitter.com/di_codes/status/1137014831805095937
 https://www.python.org/nominations/elections/ | Elections | Python.org
 https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/ | Nomination for | Python.org
 https://www.youtube.com/watch?v=sORneSQNOmc&feature=youtu.be | (1) python.org self nomination demonstration - YouTube
-http://pyfound.blogspot.com/search?updated-max=2019-06-03T21:26:00-04:00&max-results=2 | Python Software Foundation News
-http://pyfound.blogspot.com/ | Python Software Foundation News
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
 https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
 
 Steering Committee
@@ -370,10 +324,8 @@ DEP 0008: Formatting Code with Black
 * [Andrew Godwin Tweet](https://twitter.com/andrewgodwin/status/1127027840296177666)
 * [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
 
-<!--
 pipenv
-https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies
--->
+* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
 
 ## Python Summits and Sprints
 
@@ -390,8 +342,6 @@ Python Core Sprint 2016
 * [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
 
 <!--
-https://mail.python.org/pipermail/python-committers/2018-March/005253.html | [python-committers] Save the date: Core developer sprints
-
 https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
 
 http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
@@ -463,7 +413,6 @@ https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [pyth
 https://mariatta.ca/
 https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
 https://github.blog/2019-05-31-maintainer-spotlight-mariatta-wijaya/ | Maintainer spotlight: Mariatta Wijaya - The GitHub Blog
-https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
 https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
 https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
 https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
@@ -666,26 +615,28 @@ https://python-ast-explorer.com/ | Python AST Explorer
 Memory
 * [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
 
+Stack
+* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
+* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
+
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+
+* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
+* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
+
 Dynamic Data Structures
+https://en.wikipedia.org/wiki/Dynamization
 
-https://en.wikipedia.org/wiki/Address_space
-https://en.wikipedia.org/wiki/Memory_address
-
-https://en.wikipedia.org/wiki/Recursion_(computer_science)
-https://en.wikipedia.org/wiki/Recursion | Recursion - Wikipedia
-https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers | Call stack - Wikipedia
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-https://en.wikipedia.org/wiki/Stack-based_memory_allocation
-
-https://en.wikipedia.org/wiki/Pointer_(computer_programming)
-https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
 
 Sequential Versus Random (Direct) Access
 * [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
 * [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-
-Sequential Access List
-Random (Direct) Access List
+* Sequential Access List
+* Random (Direct) Access List
 -->
 
 <!--
@@ -721,6 +672,8 @@ https://en.wikipedia.org/wiki/Global_interpreter_lock | Global interpreter lock 
 https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
 https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
+
+https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
 
 https://devguide.python.org/compiler/
 
@@ -972,6 +925,8 @@ Release Managers
 Python Performance
 
 <!--
+https://pythoninsider.blogspot.com/
+
 https://speed.python.org/ | Python Speed Center
 
 https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
@@ -1057,6 +1012,8 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
+https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
+
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
@@ -1200,12 +1157,16 @@ https://packaging.python.org/tutorials/distributing-packages/#project-urls
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
 https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
 
+
 Tools
+https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://pypi.org/project/poetry/ | poetry · PyPI
+https://poetry.eustace.io/ | Poetry - Python dependency management and packaging made easy.
+https://pipxproject.github.io/pipx/ | pipx
+https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
+
 https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
 https://pip.pypa.io/en/stable/user_guide/#requirements-files
-
-pip is the The PyPA recommended tool for installing Python packages.
-https://packaging.python.org/guides/tool-recommendations/
 
 http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
@@ -1303,8 +1264,6 @@ python.org Contributing
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
 
 <!--
-https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
-
 https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
 https://github.com/python/pycon-code-of-conduct
 
