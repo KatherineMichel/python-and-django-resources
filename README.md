@@ -622,6 +622,25 @@ https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a
  Eli Bendersky	
 -->
 
+### Python Notation
+
+<!--	
+https://twitter.com/aaronchall/status/1114713624453554176
+
+4.8. Intermezzo: Coding Style	
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
+10. Full Grammar specification	
+https://docs.python.org/3/reference/grammar.html	
+https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
+1.2. Notation	
+https://docs.python.org/3/reference/introduction.html#notation	
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
 ## Computer Internals
 
 Kenneth Reitz Advice to Me 
@@ -684,6 +703,7 @@ https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database | Metasploit Pr
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
 https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
 https://en.wikipedia.org/wiki/Program_counter | Program counter - Wikipedia
 https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
 
@@ -700,7 +720,9 @@ https://en.wikipedia.org/wiki/Bytecode
 https://en.wikipedia.org/wiki/Free_variables_and_bound_variables | Free variables and bound variables - Wikipedia
 https://en.wikipedia.org/wiki/Codec | Codec - Wikipedia
 https://en.wikipedia.org/wiki/Global_interpreter_lock | Global interpreter lock - Wikipedia
+https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
 https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
+https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 
 https://devguide.python.org/compiler/
 
@@ -1347,6 +1369,21 @@ Django, Releases, Announcements, and Roadmaps
 
 Your Framework Needs You
 * [Carlton Gibson: Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you)
+
+<!--
+### New Releases
+https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
+https://www.djangoproject.com/download/#supported-versions
+https://docs.djangoproject.com/en/2.2/releases/
+https://docs.djangoproject.com/en/2.2/releases/2.2/
+https://docs.djangoproject.com/en/2.2/releases/2.1/
+https://docs.djangoproject.com/en/2.2/releases/2.0/
+https://docs.djangoproject.com/en/2.2/releases/1.11/
+
+https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
+https://docs.djangoproject.com/en/2.2/internals/release-process/
+https://docs.djangoproject.com/en/2.2/internals/deprecation/
+-->
 
 <!--
 https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
