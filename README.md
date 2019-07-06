@@ -64,56 +64,6 @@ https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter:
 -->
 
 <!--
-### CPython
-
-https://github.com/python/cpython/pulls | Pull Requests · python/cpython
-
-Python Language Summits
-* [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
-
-CPython
-* [CPython GitHub](https://github.com/python/cpython)
-* [CPython Dev Guide](https://devguide.python.org)
-* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-* [Bugs](http://bugs.python.org)
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-Django Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-
-### Python Internals
-
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-### Python and Django Packages
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
-
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
- Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
 ### High Performance Python
 
 Python Success Stories
@@ -163,93 +113,6 @@ Major Organizations and Projects that Use Django
 http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
-
-## Python Software Foundation (PSF)
-
-Python Software Foundation (PSF)
-* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
-* [PSF Annual Report 2019](https://www.python.org/psf/annual-report/2019)
-* [PSF Donation Matcher](https://matcher.pyfound.org)
-* [Legacy PSF Website](http://legacy.python.org)
-* [PSF Mission](https://www.python.org/psf/mission)
-* [PSF Bylaws](https://www.python.org/psf/bylaws)
-* [PSF Newsletter](https://www.python.org/psf/newsletter)
-* [PSF Awards](https://www.python.org/community/awards/psf-awards/)
-* [PSF Mailing List Info](https://mail.python.org/mailman/listinfo)
-
-Python- Members
-* [PSF Membership FAQ](https://www.python.org/psf/membership)
-* ["Who is allowed to vote?"](https://www.python.org/psf/membership/#who-is-allowed-to-vote)
-* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-Community
-* [Python Community](https://www.python.org/community)
-* [PSF Community Resources](https://github.com/python/psf-community-resources)
-* [PSF Community Info Page](https://mail.python.org/mailman/listinfo/psf-community)
-
-Positive Python
-* [#positivepython](http://www.positivepython.org/twitter.html)
-
-Sponsor Python
-* [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
-
-<!--
-https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
-
-http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
-
-http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
--->
-
-## Django Software Foundation
-
-Django Software Foundation
-* [DSF Community](https://www.djangoproject.com/community)
-* [DSF News & Events](https://www.djangoproject.com/weblog)
-* [DSF Foundation](https://www.djangoproject.com/foundation)
-* [DSF Fundraising](https://www.djangoproject.com/fundraising)
-* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
-
-Django Software Foundation Individual Membership
-* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
-
-History
-* [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
-
-## Codes of Conduct and CLA
-
-Django Code of Conduct and CLA
-* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
-
-<!--
-https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
-https://github.com/python/pycon-code-of-conduct
-
-https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
--->
-
-## Python and Django History
-
-Python: "I came for the language but I stay for the community..."
-* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
-
-Django History
-* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
-* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
-* [Django Birthday Event](https://djangobirthday.com)
-* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
-* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
-* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
-* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
-
-State of Django
-* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
-* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
-* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
-
-About Django 
-* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
 
 ## PSF and DSF People and Members
 
@@ -455,6 +318,9 @@ pipenv
 
 ## Python Summits and Sprints
 
+
+### CPython
+
 Python Language Summits
 * [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
 * [The 2018 Python Language Summit](https://lwn.net/Articles/754152)
@@ -542,20 +408,33 @@ Python Master/Slave Terminology
 CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
+CPython Bugs Dashboard
+* [Bugs](http://bugs.python.org)
+
 CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
+Python Status
+* ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
+* [Python Status](https://status.python.org)
+* [Python Status History](https://status.python.org/history)
 
 <!--
-Reality
-https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
-https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "
-https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+ https://travis-ci.org/python/cpython/
+-->
+
+Release
+* [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+Release Managers
+* ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
+
+<!--
+https://github.com/python/cpython/pulls | Pull Requests · python/cpython
 
 https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
 
@@ -577,6 +456,147 @@ https://devguide.python.org/fixingissues/ | 9. Fixing “easy” Issues (and Bey
 https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python Developer's Guide
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+-->
+
+<!--
+Core PR Tool
+https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
+-->
+
+Issues PEP
+* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
+* [PEP 581 -- Using GitHub Issues for CPython is Accepted](https://mail.python.org/pipermail/python-dev/2019-May/157399.html)
+* [PEP 588 -- GitHub Issues Migration Plan](https://www.python.org/dev/peps/pep-0588/)
+* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
+
+CPython GitHub Migration
+* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
+* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
+
+Core Workflow Tools
+* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
+* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
+* [miss-islington](https://github.com/python/miss-islington)
+
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
+
+<!--
+https://github.com/bots-for-humanity
+
+https://github.com/python/miss-islington/issues
+https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
+
+https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
+https://github.com/Mariatta/cloner
+-->
+
+<!--
+Python Performance
+
+https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
+
+https://pythoninsider.blogspot.com/
+
+https://speed.python.org/ | Python Speed Center
+
+https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
+https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
+https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
+https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
+https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+
+http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
+https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
+https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
+
+https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
+https://twitter.com/phoikoi/status/1137219834402336768 | Peter Hull on Twitter: "Just gonna leave this here for you all to ponder: #deprecation #macos #python… "
+
+https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
+
+https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
+
+https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
+https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
+
+Regression Test Suite For Python Core Developers
+26.8. test — Regression tests package for Python
+https://docs.python.org/3/library/test.html
+26.9. test.support — Utilities for the Python test suite
+https://docs.python.org/3/library/test.html#module-test.support
+-->
+
+## Django Contributing Docs and Info
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+
+Django Software
+* [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
+* [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
+
+Django Tickets
+* [Tickets](https://code.djangoproject.com/query)
+* [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
+
+Release Cadence
+* [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
+
+Django, Releases, Announcements, and Roadmaps
+* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
+* [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
+* [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
+* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
+* [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
+* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
+
+Django Core Mentorship
+* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
+* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
+
+Django Developers Mailing Lists, Forum and Slack
+* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+* [Django Developers Slack](https://django-developers.herokuapp.com)
+
+<!--
+https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
+https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Mentorship - Google Groups
+https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
+-->
+
+<!--
+### New Releases
+https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
+https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
+
+https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
+https://www.djangoproject.com/download/#supported-versions
+https://docs.djangoproject.com/en/2.2/releases/
+
+https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
+https://docs.djangoproject.com/en/2.2/internals/release-process/
+https://docs.djangoproject.com/en/2.2/internals/deprecation/
+
+https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
+https://docs.djangoproject.com/en/2.2/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
 -->
 
 ## C Programming Language 
@@ -617,7 +637,29 @@ https://en.wikipedia.org/wiki/Open_addressing
 https://github.com/mitmproxy/mitmproxy/issues/1381
 -->
 
+## Python Notation
+
+<!--	
+https://twitter.com/aaronchall/status/1114713624453554176
+
+4.8. Intermezzo: Coding Style	
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
+10. Full Grammar specification	
+https://docs.python.org/3/reference/grammar.html	
+https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
+1.2. Notation	
+https://docs.python.org/3/reference/introduction.html#notation	
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
 ## CPython Interpreter and Internals
+
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
 Visualizing How Python Works  		
 * [Python Tutor](http://pythontutor.com)
@@ -678,48 +720,6 @@ https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Mach
 https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
 https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
  Eli Bendersky	
--->
-
-### Python Notation
-
-<!--	
-https://twitter.com/aaronchall/status/1114713624453554176
-
-4.8. Intermezzo: Coding Style	
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
-10. Full Grammar specification	
-https://docs.python.org/3/reference/grammar.html	
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
-1.2. Notation	
-https://docs.python.org/3/reference/introduction.html#notation	
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
-
-## Computer Internals
-
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
-
-<!--
-Abstract Syntax Trees
-
-http://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-tree-and-ast
-
-ASDL, AST
-https://eli.thegreenplace.net/2014/06/04/using-asdl-to-describe-asts-in-compilers | Using ASDL to describe ASTs in compilers - Eli Bendersky's website	
-
-https://greentreesnakes.readthedocs.io | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
-https://greentreesnakes.readthedocs.io/en/latest/nodes.html | Meet the Nodes — Green Tree Snakes 1.0 documentation	
-https://python-ast-explorer.com/ | Python AST Explorer	
 -->
 
 ## Data Types, Data Structures, and Algorithms
@@ -784,6 +784,16 @@ Sequential Versus Random (Direct) Access
 * Sequential Access List
 * Random (Direct) Access List
 -->
+
+## Python Source
+
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 <!--
 https://leanpub.com/insidethepythonvirtualmachine/read
@@ -962,10 +972,7 @@ https://docs.python.org/3/library/marshal.html | marshal — Internal Python obj
 https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal.c at master · python/cpython
 -->
 
-
 <!--	
-CPython
-
 https://fileinfo.com/extension/h | H File Extension - What is an .h file and how do I open it?	
 https://docs.python.org/3/library/pkgutil.html | pkgutil — Package extension utility — Python 3.7.2 documentation	
 
@@ -1001,17 +1008,20 @@ https://github.com/python/cpython/tree/master/Objects/clinic
 https://github.com/python/cpython/tree/master/Objects/stringlib	
 -->
 
-## Django Contributing Docs and Info
+<!--
+Abstract Syntax Trees
 
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
+http://stackoverflow.com/questions/5026517/whats-the-difference-between-parse-tree-and-ast
 
-Django and Python Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+ASDL, AST
+https://eli.thegreenplace.net/2014/06/04/using-asdl-to-describe-asts-in-compilers | Using ASDL to describe ASTs in compilers - Eli Bendersky's website	
 
-Django Core Mentorship
-* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
+https://greentreesnakes.readthedocs.io | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
+https://greentreesnakes.readthedocs.io/en/latest/nodes.html | Meet the Nodes — Green Tree Snakes 1.0 documentation	
+https://python-ast-explorer.com/ | Python AST Explorer	
+-->
+
+## Django Source
 
 <!--
 https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
@@ -1045,108 +1055,6 @@ https://github.com/django/django/blob/master/django/db/models/query.py
 https://github.com/django/django/blob/master/django/db/models/query.py#L337	
 https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
 https://github.com/django/django/blob/master/django/db/models/lookups.py
--->
-
-## Python Release and Workflow
-
-CPython Repo and Bugs Dashboard
-* [CPython GitHub](https://github.com/python/cpython)
-* [Bugs](http://bugs.python.org)
-
-Python Status
-* ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
-* [Python Status](https://status.python.org)
-* [Python Status History](https://status.python.org/history)
-
-<!--
- https://travis-ci.org/python/cpython/
--->
-
-Release
-* [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
-* [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
-* [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
-
-Release Managers
-* ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
-
-Python Performance
-
-<!--
-https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
-
-https://pythoninsider.blogspot.com/
-
-https://speed.python.org/ | Python Speed Center
-
-https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
-https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
-https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
-https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
-https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-
-http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
-https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
-https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
-
-https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
-https://twitter.com/phoikoi/status/1137219834402336768 | Peter Hull on Twitter: "Just gonna leave this here for you all to ponder: #deprecation #macos #python… "
-
-https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
-
-https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
-
-https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
-https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
-
-Regression Test Suite For Python Core Developers
-26.8. test — Regression tests package for Python
-https://docs.python.org/3/library/test.html
-26.9. test.support — Utilities for the Python test suite
-https://docs.python.org/3/library/test.html#module-test.support
--->
-
-CPython GitHub Migration
-* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
-* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
-
-Core Workflow Tools
-* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
-* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
-* [miss-islington](https://github.com/python/miss-islington)
-
-<!--
-Core PR Tool
-https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
--->
-
-Issues PEP
-* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
-* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
-
-<!--
-GitHub Issues
-http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
-https://www.python.org/dev/peps/pep-0588/ | PEP 588 -- GitHub Issues Migration Plan | Python.org
-https://mail.python.org/pipermail/python-dev/2019-May/157399.html | [Python-Dev] PEP 581 (Using GitHub issues for CPython) is accepted
--->
-
-<!--
-https://github.com/bots-for-humanity
-
-https://github.com/python/miss-islington/issues
-https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
-
-https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
-https://github.com/Mariatta/cloner
 -->
 
 ## Docs
@@ -1199,14 +1107,20 @@ Python- Official Packaging Info
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 
-TestPyPI
-* [TestPyPI](https://test.pypi.org)
-* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+ Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
+
+TestPyPI
+* [TestPyPI](https://test.pypi.org)
+* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
 
 Package Helpers
 * [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
@@ -1217,12 +1131,6 @@ Python- Packages/Libraries
 Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
- Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
 <!--
 https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
@@ -1304,7 +1212,6 @@ https://packaging.python.org/tutorials/distributing-packages/#project-urls
 
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
 https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
-
 
 Tools
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
@@ -1400,50 +1307,7 @@ https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
 https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
 -->
 
-## python.org Contributing
-
-python.org Contributing
-* [python.org GitHub](https://github.com/python/pythondotorg)
-* [python.org Issues](https://github.com/python/pythondotorg/issues)
-* [python.org Staging](https://staging.python.org)
-* [python.org Read the Docs](https://pythondotorg.readthedocs.io)
-* [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
-* [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
-* [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
-
-## Django
-
-<!--
-https://github.com/django/djangoproject.com/pull/912 | add docker for local development by mjhea0 · Pull Request #912 · django/djangoproject.com
-
-https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
--->
-
-Django Software
-* [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
-* [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
-
-djangoproject.com Contributing
-* [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
-* [code.djangoproject.com](https://code.djangoproject.com)
-* [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
-
-Django Tickets
-* [Tickets](https://code.djangoproject.com/query)
-* [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
-
-Release Cadence
-* [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
-
-Django, Releases, Announcements, and Roadmaps
-* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
-* [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
-* [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
-* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
-* [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
-* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
+## Django- General
 
 DSF Internship
 * [DSF Internship](https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/)
@@ -1451,24 +1315,6 @@ DSF Internship
 Carlton Gibson's Talks
 * [Carlton Gibson: Your Framework Needs You (DjangoCon US 2018](https://2018.djangocon.us/talk/your-web-framework-needs-you)
 * [Carlton Gibson: Feeding the Pony: Contributing back to Django & How to make that work for you DjangoCon Europe 2019](https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/)
-
-<!--
-### New Releases
-https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
-https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
-
-https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
-https://www.djangoproject.com/download/#supported-versions
-https://docs.djangoproject.com/en/2.2/releases/
-
-https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
-https://docs.djangoproject.com/en/2.2/internals/release-process/
-https://docs.djangoproject.com/en/2.2/internals/deprecation/
-
-https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
-https://docs.djangoproject.com/en/2.2/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
--->
 
 <!--
 https://data.djangoproject.com/
@@ -1489,18 +1335,113 @@ Dissolving Django Core
 * [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
 * [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
 
-Mentorship
-* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
+<!--
+https://github.com/django/djangoproject.com/pull/912 | add docker for local development by mjhea0 · Pull Request #912 · django/djangoproject.com
 
-Django Developers Mailing Lists, Forum and Slack
-* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-* [Django Developers Slack](https://django-developers.herokuapp.com)
+https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
+-->
+
+## python.org and djangoproject.com Contributing
+
+python.org Contributing
+* [python.org GitHub](https://github.com/python/pythondotorg)
+* [python.org Issues](https://github.com/python/pythondotorg/issues)
+* [python.org Staging](https://staging.python.org)
+* [python.org Read the Docs](https://pythondotorg.readthedocs.io)
+* [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
+* [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
+* [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
+
+djangoproject.com Contributing
+* [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
+* [code.djangoproject.com](https://code.djangoproject.com)
+* [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
+
+## Python Software Foundation (PSF)
+
+Python Software Foundation (PSF)
+* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
+* [PSF Annual Report 2019](https://www.python.org/psf/annual-report/2019)
+* [PSF Donation Matcher](https://matcher.pyfound.org)
+* [Legacy PSF Website](http://legacy.python.org)
+* [PSF Mission](https://www.python.org/psf/mission)
+* [PSF Bylaws](https://www.python.org/psf/bylaws)
+* [PSF Newsletter](https://www.python.org/psf/newsletter)
+* [PSF Awards](https://www.python.org/community/awards/psf-awards/)
+* [PSF Mailing List Info](https://mail.python.org/mailman/listinfo)
+
+Python- Members
+* [PSF Membership FAQ](https://www.python.org/psf/membership)
+* ["Who is allowed to vote?"](https://www.python.org/psf/membership/#who-is-allowed-to-vote)
+* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+Community
+* [Python Community](https://www.python.org/community)
+* [PSF Community Resources](https://github.com/python/psf-community-resources)
+* [PSF Community Info Page](https://mail.python.org/mailman/listinfo/psf-community)
+
+Positive Python
+* [#positivepython](http://www.positivepython.org/twitter.html)
+
+Sponsor Python
+* [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
 
 <!--
-https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
-https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Mentorship - Google Groups
-https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
+https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
+
+http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
+-->
+
+## Django Software Foundation
+
+Django Software Foundation
+* [DSF Community](https://www.djangoproject.com/community)
+* [DSF News & Events](https://www.djangoproject.com/weblog)
+* [DSF Foundation](https://www.djangoproject.com/foundation)
+* [DSF Fundraising](https://www.djangoproject.com/fundraising)
+* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
+
+Django Software Foundation Individual Membership
+* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
+History
+* [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
+
+## Python and Django History
+
+Python: "I came for the language but I stay for the community..."
+* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
+
+Django History
+* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
+* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
+* [Django Birthday Event](https://djangobirthday.com)
+* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
+* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
+* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
+* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
+
+State of Django
+* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
+* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
+* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
+
+About Django 
+* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
+
+## Codes of Conduct and CLA
+
+Django Code of Conduct and CLA
+* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+<!--
+https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
+https://github.com/python/pycon-code-of-conduct
+
+https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
 -->
 
 ## Trends
