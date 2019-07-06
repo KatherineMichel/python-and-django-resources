@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -12,9 +14,26 @@ https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
+
+https://en.wikipedia.org/wiki/Common_Gateway_Interface | Common Gateway Interface - Wikipedia
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI HTTP Server for UNIX
+http://gunicorn.org
+
+https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
+https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
+
+Benchmarks and Specifications
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
 https://speed.python.org/ | Python Speed Center
-https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
+
+https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
+
+Tools
 https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
 https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
@@ -22,6 +41,7 @@ https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar H
 https://pypi.org/project/poetry/ | poetry · PyPI
 https://poetry.eustace.io/ | Poetry - Python dependency management and packaging made easy.
 https://pipxproject.github.io/pipx/ | pipx
+
 http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
 
 Updates
@@ -105,9 +125,7 @@ Sponsor Python
 http://pyfound.blogspot.com/ | Python Software Foundation News
 
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
--->
 
-<!--
 https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
 
 https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
@@ -132,9 +150,8 @@ Django Software Foundation
 Django Software Foundation Individual Membership
 * [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
 
-<!--
-https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/ | Fret Free -- Introduction to Django and the Django Software Foundation
--->
+History
+* [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
 
 ## PSF and DSF People and Members
 
@@ -215,7 +232,7 @@ Python
 * [Python GitHub](https://github.com/python)
 
 <!--
-https://pythoninsider.blogspot.com/ | Python Insider: Python 3.7.2rc1 and 3.6.8rc1 now available for testing
+https://pythoninsider.blogspot.com/
 
 https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
 -->
