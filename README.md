@@ -15,12 +15,6 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
-Tools
-https://cython.org/ | Cython: C-Extensions for Python
-https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
-https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
 Updates
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
@@ -28,6 +22,7 @@ https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitt
 https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
 https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
 
+Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 
 https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
@@ -41,8 +36,6 @@ https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Tw
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
-
-https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
 
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
 https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
@@ -124,6 +117,19 @@ Django Software Foundation Individual Membership
 
 History
 * [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
+
+## Codes of Conduct and CLA
+
+Django Code of Conduct and CLA
+* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+<!--
+https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
+https://github.com/python/pycon-code-of-conduct
+
+https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
+-->
 
 ## PSF and DSF People and Members
 
@@ -925,6 +931,8 @@ Release Managers
 Python Performance
 
 <!--
+https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
+
 https://pythoninsider.blogspot.com/
 
 https://speed.python.org/ | Python Speed Center
@@ -1263,13 +1271,6 @@ python.org Contributing
 * [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
 
-<!--
-https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
-https://github.com/python/pycon-code-of-conduct
-
-https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
--->
-
 ## Django
 
 <!--
@@ -1379,13 +1380,15 @@ https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Men
 https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
 -->
 
-Django Code of Conduct and CLA
-* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
-
 ## Trends
 
 <!--
+Tools
+https://cython.org/ | Cython: C-Extensions for Python
+https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
+https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+
 https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
