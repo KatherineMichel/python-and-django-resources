@@ -66,9 +66,7 @@ https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter:
 <!--
 ### CPython
 
-<!--
 https://github.com/python/cpython/pulls | Pull Requests · python/cpython
--->
 
 Python Language Summits
 * [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
@@ -496,9 +494,6 @@ Mailing List and Permissions History
 http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
 https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
 
-https://discuss.python.org/t/vote-to-promote-paul-ganssle-as-a-core-developer/1826 | Vote to promote Paul Ganssle as a core developer - Committers - Discussions on Python.org
-https://twitter.com/VictorStinner/status/1140544348171448320 | Victor Stinner 🐍 on Twitter: "Pablo Galindo @pyblogsal & me proposed to promote Paul Ganssle @pganssle as a core developer. Pablo wrote a great message listing all Paul's contributions to Python: https://t.co/RmFZFFMODI Core devs had 1 week to vote and voted in favor of the promotion. Welcome aboard Paul! 🥳"
-
 python core developer mailing list - Google Search
 
 https://python.zulipchat.com
@@ -524,34 +519,18 @@ https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya -
 
 https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
 http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
-https://realpython.com/interview-emily-morehouse/ | Python Community Interview With Emily Morehouse – Real Python
 
 https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18 | Steering Council nomination: Emily Morehouse - Users - Discussions on Python.org
 https://twitter.com/emilyemorehouse/status/1086682866094723078 | Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events, an anonymous user account appeared to challenge my nomination and credentials, suggesting three males to replace me. Friendly reminder that it’s not easy being a woman in tech, and these things happen all the time. https://t.co/8YIe1WDqTF"
-
-Mentoring
-https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "
-https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
-
-https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
 
 Mentorship
 https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
 
 https://mariatta.ca/
 https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
-https://github.blog/2019-05-31-maintainer-spotlight-mariatta-wijaya/ | Maintainer spotlight: Mariatta Wijaya - The GitHub Blog
-https://realpython.com/interview-mariatta-wijaya/ | Python Community Interview With Mariatta Wijaya – Real Python
-https://www.blog.pythonlibrary.org/2017/09/25/pydev-of-the-week-mariatta-wijaya/ | PyDev of the Week: Mariatta Wijaya | The Mouse Vs. The Python
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 
 https://github.com/Mariatta/cookiecutter_sprint_guide
 https://github.com/Mariatta/pep_cookiecutter
-
-https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
-http://distrowatch.com/table.php?distribution=mint
-https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
-https://github.com/Mariatta/python_versions_and_distros
 -->
 
 Python Master/Slave Terminology
@@ -573,6 +552,11 @@ Python Environment
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
 <!--
+Reality
+https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
+https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "
+https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+
 https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
 
 https://pythondev.readthedocs.io/ (my most complete website)
@@ -1687,13 +1671,18 @@ https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP S
 
 ### Python Sync and Async
 
-* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
-* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
-* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
+* [Tom Christie: Sketching out a Django Redesign (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
+
+Subroutine and Coroutine
 * [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
 * [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+
+* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
+* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
+
+* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
 * [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
-* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
 
 Non-Blocking
 * [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
@@ -1708,7 +1697,12 @@ Asynchrony
 * [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
 * [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
 
+Parallel Computing
+* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
+
 <!--
+https://members.2019.djangocon.eu/conference/talk/GQKCWS/
+
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
 
 https://wiki.python.org/moin/GlobalInterpreterLock
@@ -1763,6 +1757,11 @@ https://docs.python.org/3/library/ssl.html
 
 ASGI (WSGI is for synchronous Python apps, ASGI is for both asynchronous and synchronous apps)
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io)
+* [ASGI 3.0](https://www.aeracode.org/2019/03/20/asgi-30/)
+* [Hello ASGI](https://www.encode.io/articles/hello-asgi/)
+* [ASGI Scope GitHub](https://github.com/simonw/asgi-scope/)
+
+Channels ASGI
 * [Channels ASGI](https://channels.readthedocs.io/en/latest/asgi.html)
 
 Uvicorn (ASGI Server)
@@ -1774,6 +1773,9 @@ Starlette (ASGI Framework)
 <!--
 https://github.com/tartiflette/tartiflette-starlette | tartiflette/tartiflette-starlette: ASGI support for the Tartiflette GraphQL engine
 -->
+
+asigram
+* [asigram ASGI/Telegram Protocol Server GitHub](https://github.com/andrewgodwin/asgigram/)
 
 API Star
 * [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
@@ -1818,7 +1820,9 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
-https://www.aeracode.org/2019/03/20/asgi-30/ | ASGI 3.0 - Aeracode
+https://github.com/django/asgiref/blob/master/specs/www.rst
+
+https://core.telegram.org/
 
 https://github.com/aiortc/aioquic | aiortc/aioquic: QUIC implementation in Python
 https://twitter.com/_tomchristie/status/1131617638793269248 | Tom Christie on Twitter: "Really excited about the potential of this one. First steps towards HTTP/3 support for Python servers and clients.… "
@@ -1828,16 +1832,13 @@ https://github.com/pirate/django-http2-middleware
 
 https://github.com/django/django/pull/11209/files
 
+Datasette ASGI port
 https://simonwillison.net/2019/Jun/23/datasette-asgi/
 https://github.com/simonw/datasette/issues/272
 https://twitter.com/simonw/status/1143019211771404288
 https://twitter.com/andrewgodwin/status/1143026705033916417
 
-Tom Christie
-Sketching out a Django redesign.
-https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-https://www.youtube.com/watch?v=u8GSFEg5lnU
-
+ASGI 3.0 and Uvicorn
 https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
 -->
 
@@ -1851,21 +1852,15 @@ https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Bas
 
 https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
 
-https://github.com/simonw/asgi-scope | simonw/asgi-scope: A tiny application for understanding ASGI scope
-
 https://www.aeracode.org/2018/02/19/python-async-simplified/ | Python & Async Simplified - Aeracode
-http://docs.python-requests.org/en/master/ | Requests: HTTP for Humans™ — Requests 2.21.0 documentation
 https://github.com/encode/requests-async
-https://www.encode.io/articles/hello-asgi/ | Encode
+http://docs.python-requests.org/en/master/ | Requests: HTTP for Humans™ — Requests 2.21.0 documentation
 https://github.com/encode/databases
 
 https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
 https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
 https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
 https://github.com/aio-libs/async-timeout | aio-libs/async-timeout: asyncio-compatible timeout class
-
-https://core.telegram.org/
-https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
 
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
 http://www.aeracode.org/2017/7/11/towards-channels-20/
