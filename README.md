@@ -63,6 +63,109 @@ https://github.com/python-leap/book | python-leap/book: Pythonic Application Arc
 https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
 -->
 
+<!--
+### CPython
+
+<!--
+https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+-->
+
+Python Language Summits
+* [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
+
+CPython
+* [CPython GitHub](https://github.com/python/cpython)
+* [CPython Dev Guide](https://devguide.python.org)
+* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+* [Bugs](http://bugs.python.org)
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Django Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+
+### Python Internals
+
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+
+### Python and Django Packages
+
+Django
+* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+
+Python Docs- Packaging
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+Python- Official Packaging Info
+* [Sample Project](https://github.com/pypa/sampleproject)
+* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging Guides](https://packaging.python.org/guides) 
+* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+
+Python- Wheel (versus Egg!)
+* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+ Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+### High Performance Python
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+High Performance Python- Engineering Blogs
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
+Carl Meyer talk
+
+https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+
+Major Organizations and Projects that Use Django
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
+
 ## Python Software Foundation (PSF)
 
 Python Software Foundation (PSF)
@@ -615,6 +718,41 @@ https://eli.thegreenplace.net/2014/06/04/using-asdl-to-describe-asts-in-compiler
 https://greentreesnakes.readthedocs.io | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
 https://greentreesnakes.readthedocs.io/en/latest/nodes.html | Meet the Nodes — Green Tree Snakes 1.0 documentation	
 https://python-ast-explorer.com/ | Python AST Explorer	
+-->
+
+## Data Types, Data Structures, and Algorithms
+
+Data Type
+* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type)
+
+Abstract Data Type and Data Structures
+* [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
+* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
+* [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
+
+Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+<!--
+https://en.wikipedia.org/wiki/Algorithmic_paradigm
+https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+https://en.wikipedia.org/wiki/Dynamic_programming
+https://www.geeksforgeeks.org/dynamic-programming/
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
+https://en.wikipedia.org/wiki/List_of_algorithms
 -->
 
 <!--
@@ -1276,9 +1414,6 @@ python.org Contributing
 <!--
 https://github.com/django/djangoproject.com/pull/912 | add docker for local development by mjhea0 · Pull Request #912 · django/djangoproject.com
 
-DSF Internship
-https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/ | Paid Internship Opportunity: Build an App for the DSF | Weblog | Django
-
 https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
 -->
 
@@ -1319,8 +1454,14 @@ Django, Releases, Announcements, and Roadmaps
 * [Django Releases](https://docs.djangoproject.com/en/stable/releases)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
+* [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
 * [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
+* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
+* [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
 * [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
+
+DSF Internship
+* [DSF Internship](https://www.djangoproject.com/weblog/2019/apr/24/internship-opportunity-dsf-app/)
 
 Carlton Gibson's Talks
 * [Carlton Gibson: Your Framework Needs You (DjangoCon US 2018](https://2018.djangocon.us/talk/your-web-framework-needs-you)
@@ -1333,10 +1474,6 @@ https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
 https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
 https://www.djangoproject.com/download/#supported-versions
 https://docs.djangoproject.com/en/2.2/releases/
-https://docs.djangoproject.com/en/2.2/releases/2.2/
-https://docs.djangoproject.com/en/2.2/releases/2.1/
-https://docs.djangoproject.com/en/2.2/releases/2.0/
-https://docs.djangoproject.com/en/2.2/releases/1.11/
 
 https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
 https://docs.djangoproject.com/en/2.2/internals/release-process/
@@ -1546,7 +1683,30 @@ https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP S
 
 ### Python Sync and Async
 
+* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
+* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
+* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
+
+Non-Blocking
+* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+
+Concurrency
+* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
+
+Asynchrony
+* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
+* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
+* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
+* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
+
 <!--
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+
 https://wiki.python.org/moin/GlobalInterpreterLock
 
 https://docs.python.org/3/library/asyncio.html
