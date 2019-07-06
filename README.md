@@ -11,8 +11,6 @@ https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Deve
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 
-https://twitter.com/brettsky/status/830527537105113088?lang=en | Brett Cannon on Twitter: "It's as true today as when I first said it at @pycon 2014: "I came for the language but I stay for the community"… "
-
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
 https://speed.python.org/ | Python Speed Center
@@ -59,7 +57,7 @@ https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner �
 https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 
 https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
-https://blog.rust-lang.org/2019/05/23/Rust-1.35.0.html | Announcing Rust 1.35.0 | Rust Blog
+https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
 https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
 https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
 
@@ -230,6 +228,8 @@ Python History
 * [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
+https://twitter.com/brettsky/status/830527537105113088?lang=en | Brett Cannon on Twitter: "It's as true today as when I first said it at @pycon 2014: "I came for the language but I stay for the community"… "
+
 https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 
 The People's Programming Language
@@ -624,6 +624,10 @@ https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a
 
 ## Computer Internals
 
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
@@ -655,24 +659,13 @@ Random (Direct) Access List
 -->
 
 <!--
-https://en.wikipedia.org/wiki/Functional_programming | Functional programming - Wikipedia
+https://leanpub.com/insidethepythonvirtualmachine/read
 
 https://en.wikipedia.org/wiki/CPython | CPython - Wikipedia
-https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
-https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia
 https://en.wikibooks.org/wiki/Category:Book:Microprocessor_Design | Category:Book:Microprocessor Design - Wikibooks, open books for an open world
 https://en.wikibooks.org/wiki/Microprocessor_Design/Instruction_Decoder | Microprocessor Design/Instruction Decoder - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Stack_machine | Stack machine - Wikipedia
 https://en.wikipedia.org/wiki/Stack_machine#Virtual_stack_machines | Stack machine - Wikipedia
-https://en.wikipedia.org/wiki/Execution_(computing)		
-https://simple.wikipedia.org/wiki/Process_(computing) | Process (computing) - Simple English Wikipedia, the free encyclopedia
-https://simple.wikipedia.org/wiki/Thread_(computer_science) | Thread (computer science) - Simple English Wikipedia, the free encyclopedia
-https://en.wikipedia.org/wiki/Thread_(computing) | Thread (computing) - Wikipedia
-https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
-https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
-https://en.wikipedia.org/wiki/Von_Neumann_architecture | Von Neumann architecture - Wikipedia
-https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
-https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture | Computer architecture - Wikipedia
 https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database | Metasploit Project - Wikipedia
 
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
@@ -938,7 +931,6 @@ Python Performance
 
 <!--
 https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
-https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
 
 https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
 https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
