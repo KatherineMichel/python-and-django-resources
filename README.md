@@ -559,25 +559,205 @@ https://en.wikipedia.org/wiki/Open_addressing
 https://github.com/mitmproxy/mitmproxy/issues/1381
 -->
 
-## Computer Internals
+## CPython Interpreter and Internals
+
+Visualizing How Python Works  		
+* [Python Tutor](http://pythontutor.com)
+
+Python Internals- Philip Guo
+* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+
+Python Internals- General
+* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
 
 <!--
+https://devguide.python.org/#resources
+https://devguide.python.org/exploring/
+https://devguide.python.org/grammar/
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://devguide.python.org/setup/
+https://devguide.python.org/setup/#directory-structure
+
+Core- Interpreter Design	
+https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
+
+Very Important!!!!!
+https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
+
+https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
+https://pyvideo.org/pycon-us-2012/stepping-through-cpython.html | PyVideo.org · Stepping Through CPython
+
+Guido van Rossum
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
+
+Emily Morehouse
+https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
+https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
+https://github.com/emilyemorehouse/cpython-notes
+
+https://pythondev.readthedocs.io/internals.html
+
+https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
+
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
+https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
+https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
+
+https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
+https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
+
+https://speakerdeck.com/matrixise/exploring-our-python-interpreter
+
+https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
+https://github.com/aosabook/500lines/tree/master/interpreter	
+http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
+https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
+https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
+https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
+https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
+ Eli Bendersky	
+-->
+
+## Computer Internals
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+<!--
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
+Dynamic Data Structures
+
+https://en.wikipedia.org/wiki/Address_space
+https://en.wikipedia.org/wiki/Memory_address
+
+https://en.wikipedia.org/wiki/Recursion_(computer_science)
+https://en.wikipedia.org/wiki/Recursion | Recursion - Wikipedia
+https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers | Call stack - Wikipedia
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+https://en.wikipedia.org/wiki/Stack-based_memory_allocation
+
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+
+Sequential Access List
+Random (Direct) Access List
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Functional_programming | Functional programming - Wikipedia
+
+https://en.wikipedia.org/wiki/CPython | CPython - Wikipedia
+https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
+https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia
+https://en.wikibooks.org/wiki/Category:Book:Microprocessor_Design | Category:Book:Microprocessor Design - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Microprocessor_Design/Instruction_Decoder | Microprocessor Design/Instruction Decoder - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Stack_machine | Stack machine - Wikipedia
+https://en.wikipedia.org/wiki/Stack_machine#Virtual_stack_machines | Stack machine - Wikipedia
+https://en.wikipedia.org/wiki/Execution_(computing)		
+https://simple.wikipedia.org/wiki/Process_(computing) | Process (computing) - Simple English Wikipedia, the free encyclopedia
+https://simple.wikipedia.org/wiki/Thread_(computer_science) | Thread (computer science) - Simple English Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Thread_(computing) | Thread (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
+https://en.wikipedia.org/wiki/Von_Neumann_architecture | Von Neumann architecture - Wikipedia
+https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
+https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture | Computer architecture - Wikipedia
+https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database | Metasploit Project - Wikipedia
+
+https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
+https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
+https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Program_counter | Program counter - Wikipedia
+https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
+
+https://en.wikipedia.org/wiki/Tree_(data_structure) | Tree (data structure) - Wikipedia 
+https://en.wikipedia.org/wiki/Parse_tree | Parse tree - Wikipedia
+https://en.wikipedia.org/wiki/Syntax_tree | Syntax tree - Wikipedia
+https://en.wikipedia.org/wiki/Abstract_syntax_tree | Abstract syntax tree - Wikipedia
+https://en.wikipedia.org/wiki/Symbol_table | Symbol table - Wikipedia
+https://en.wikipedia.org/wiki/Control-flow_graph | Control-flow graph - Wikipedia
+https://en.wikipedia.org/wiki/Short-circuit_evaluation | Short-circuit evaluation - Wikipedia
+https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
+https://en.wikipedia.org/wiki/Bytecode		
+
+https://en.wikipedia.org/wiki/Free_variables_and_bound_variables | Free variables and bound variables - Wikipedia
+https://en.wikipedia.org/wiki/Codec | Codec - Wikipedia
+https://en.wikipedia.org/wiki/Global_interpreter_lock | Global interpreter lock - Wikipedia
+https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
+
+https://github.com/python/cpython/blob/master/Include/opcode.h | cpython/opcode.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Objects/object.c | cpython/object.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/pymem.h | cpython/pymem.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Modules/main.c | cpython/main.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Programs/python.c | cpython/python.c at master · python/cpython
+https://github.com/python/cpython/tree/master/Objects | cpython/Objects at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/opcode.h | cpython/opcode.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pythonrun.c | cpython/pythonrun.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/ceval.c | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/object.h#L104 | cpython/object.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Objects/object.c | cpython/object.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/abstract.h | cpython/abstract.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Objects/abstract.c | cpython/abstract.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Grammar/Grammar | cpython/Grammar at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/ceval.c#L734 | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pylifecycle.c | cpython/pylifecycle.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Parser/Python.asdl | cpython/Python.asdl at master · python/cpython
+https://github.com/python/cpython/blob/master/Parser/token.c | cpython/token.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/node.h | cpython/node.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/graminit.h | cpython/graminit.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/token.h | cpython/token.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/symtable.c | cpython/symtable.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/ceval.c#L4039 | cpython/ceval.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/pythonrun.c | cpython/pythonrun.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Objects/abstract.c | cpython/abstract.c at master · python/cpython
+https://github.com/python/cpython/blob/master/Objects/frameobject.c | cpython/frameobject.c at master · python/cpython
+https://github.com/python/cpython/tree/master/Objects | cpython/Objects at master · python/cpython
+https://github.com/python/cpython/blob/master/Include/frameobject.h#L16 | cpython/frameobject.h at master · python/cpython
+https://github.com/python/cpython/blob/master/Python/bltinmodule.c | cpython/bltinmodule.c at master · python/cpython
+
+https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.7.4rc2 documentation
+https://docs.python.org/3.7/library/parser.html | parser — Access Python parse trees — Python 3.7.4rc2 documentation
+https://docs.python.org/3.6/library/parser.html#module-parse | 32.1. parser — Access Python parse trees — Python 3.6.9 documentation
+https://docs.python.org/3/library/token.html | token — Constants used with Python parse trees — Python 3.7.4rc2 documentation
+https://docs.python.org/3.7/library/symtable.html | symtable — Access to the compiler’s symbol tables — Python 3.7.4rc2 documentation
+
+https://docs.python.org/3/reference/datamodel.html#customizing-class-creation | 3. Data model — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/datamodel.html#determining-the-appropriate-metaclass | 3. Data model — Python 3.7.4rc2 documentation
+
+
+https://docs.python.org/3.6/c-api/typeobj.html#c.PyTypeObject.tp_traverse | Type Objects — Python 3.6.9 documentation
+https://docs.python.org/3/library/python.html | Python Runtime Services — Python 3.7.4rc2 documentation
+https://docs.python.org/3.7/c-api/memory.html | Memory Management — Python 3.7.4rc2 documentation
+https://docs.python.org/3.6/c-api/typeobj.html | Type Objects — Python 3.6.9 documentation
+https://docs.python.org/3/howto/descriptor.html | Descriptor HowTo Guide — Python 3.7.4rc2 documentation
+https://docs.python.org/3.6/library/functions.html#compile | 2. Built-in Functions — Python 3.6.9 documentation
+
+https://docs.python.org/3/extending/ | Extending and Embedding the Python Interpreter — Python 3.7.4rc1 documentation
+https://docs.python.org/3/c-api/structures.html#c.PyObject | Common Object Structures — Python 3.7.4rc2 documentation
+https://docs.python.org/3.6/using/cmdline.html | 1. Command line and environment — Python 3.6.9 documentation
+
+
 Python and Django Source Code	
 
 https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
 https://devguide.python.org/gdb/ | 22. gdb Support — Python Developer's Guide
 https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
-
-https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
-https://en.wikipedia.org/wiki/Control-flow_graph | Control-flow graph - Wikipedia
-https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
-
-https://en.wikipedia.org/wiki/Execution_(computing)		
-https://en.wikipedia.org/wiki/Object_code		
-https://en.wikipedia.org/wiki/Bytecode		
-https://en.wikipedia.org/wiki/Parse_tree | Parse tree - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_syntax_tree | Abstract syntax tree - Wikipedia
-https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual_machines | Virtual machine - Wikipedia
 
 3. Data model	
 4. Execution model	
@@ -586,6 +766,7 @@ https://docs.python.org/3/library/dis.html#python-bytecode-instructions
 https://docs.python.org/3/library/dis.html#bytecode-analysis	
 https://docs.python.org/3/library/dis.html#analysis-functions	
 https://docs.python.org/3/library/dis.html#opcode-collections	
+
 https://docs.python.org/3/library/inspect.html#inspect.getmro | 29.12. inspect — Inspect live objects — Python 3.6.5 documentation	
 https://docs.python.org/3/library/inspect.html#types-and-members	
 https://docs.python.org/3/library/inspect.html#retrieving-source-code	
@@ -603,6 +784,7 @@ https://docs.python.org/3/library/marshal.html | marshal — Internal Python obj
 https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal.c at master · python/cpython
 -->
 
+
 <!--	
 CPython
 
@@ -614,7 +796,7 @@ compiler -> bytecode
 bytecode -> python interpreter (interpreter is written in C language)	
 output	
 (compiler/interpreter run together, bytecode is assembly language/instruction set, each bytecode is called an opcode)	
- * Include/object.h	
+* Include/object.h	
 * Objects/object.c	
 * Python data model (Python API)	
 * Python object protocol (C API)	
@@ -661,72 +843,6 @@ https://github.com/python/cpython/tree/master/Objects/clinic
 https://github.com/python/cpython/tree/master/Objects/stringlib	
 -->
 
-## CPython Interpreter and Internals
-
-Visualizing How Python Works  		
-* [Python Tutor](http://pythontutor.com)
-
-Python Internals- Philip Guo
-* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
-
-Python Internals- General
-* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
-
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
-
-<!--
-https://devguide.python.org/#resources
-https://devguide.python.org/exploring/
-https://devguide.python.org/grammar/
-https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://devguide.python.org/setup/
-https://devguide.python.org/setup/#directory-structure
-
-Core- Interpreter Design	
-https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
-
-Very Important!!!!!
-https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
-
-https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
-
-Guido van Rossum
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
-
-Emily Morehouse
-https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
-https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
-https://github.com/emilyemorehouse/cpython-notes
-
-https://pythondev.readthedocs.io/internals.html
-
-https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
-
-https://eli.thegreenplace.net/ | Eli Bendersky's website
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
-https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
-https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
-
-https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
-
-https://speakerdeck.com/matrixise/exploring-our-python-interpreter
-
-https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
-https://github.com/aosabook/500lines/tree/master/interpreter	
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
-https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
- Eli Bendersky	
- -->
-
 <!--
 Abstract Syntax Trees
 
@@ -740,7 +856,7 @@ https://docs.python.org/3/library/token.html | token — Constants used with Pyt
 https://docs.python.org/3/library/ast.html#abstract-grammar | ast — Abstract Syntax Trees — Python 3.7.2 documentation	
 https://en.wikipedia.org/wiki/Abstract_syntax_tree | Abstract syntax tree - Wikipedia	
 
-https://greentreesnakes.readthedocs.io/en/latest/ | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
+https://greentreesnakes.readthedocs.io | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
 https://greentreesnakes.readthedocs.io/en/latest/nodes.html | Meet the Nodes — Green Tree Snakes 1.0 documentation	
 https://python-ast-explorer.com/ | Python AST Explorer	
 -->
@@ -821,6 +937,7 @@ Release Managers
 Python Performance
 
 <!--
+https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
 https://www.djangoproject.com/weblog/2019/jun/03/security-releases/ | Django security releases issued: 2.2.2, 2.1.9 and 1.11.21 | Weblog | Django
 
 https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
