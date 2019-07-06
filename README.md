@@ -170,38 +170,6 @@ People (List to be continued...)
 * [Stéphane Wirtel](https://wirtel.be/)
 * [Sviatoslove.py](https://webknjaz.me/)
 
-## Python General
-
-Python
-* [Python Front Page](https://wiki.python.org/moin)
-* [Python GitHub](https://github.com/python)
-
-Python History
-* [The History of Python](http://python-history.blogspot.com)
-* [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
-* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
-* ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
-* [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
-
-<!--
-http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
-http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
-http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
-
-https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
-https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
-
-https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
--->
-
-Python Trends
-* [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
-* [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
-
-Python Surveys
-* [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
-* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
-
 ## Python 2 or 3, Python 2 EoL
 
 Python 2 or 3
@@ -232,176 +200,6 @@ https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
 https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
-
-## Python Governance
-
-Python Authorities
-* [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
-* [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
-* [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
-* [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
-
-Python and Django Governance and BDFL
-* [PEP 8016- The Steering Council Model (Accepted)](https://www.python.org/dev/peps/pep-8016)
-* [PEP 8016- The Steering Council Model (Runner Up)](https://www.python.org/dev/peps/pep-8012)
-* [Python Governance Vote (December 2018)](https://discuss.python.org/t/python-governance-vote-december-2018-results/546)
-* [PEP 8010- The Technical Leader Governance Model (Rejected)](https://www.python.org/dev/peps/pep-8010)
-* [PEP 572 and decision-making in Python](https://lwn.net/Articles/757713)
-* [Transfer of Power](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
-* [Moratorium on Governance Decisions](https://mail.python.org/pipermail/python-committers/2018-July/005935.html)
-* [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
-
-<!--
-https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/jannis-leidel/ | Nomination for | Python.org
-
-Elections
-https://twitter.com/di_codes/status/1137014831805095937
-https://www.python.org/nominations/elections/ | Elections | Python.org
-https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/ | Nomination for | Python.org
-https://www.youtube.com/watch?v=sORneSQNOmc&feature=youtu.be | (1) python.org self nomination demonstration - YouTube
-https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
-
-Steering Committee
-https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
-https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
-
-https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
-
-https://discuss.python.org/t/2019-steering-council-election-results/824 | 2019 Steering Council Election Results - Committers - Discussions on Python.org
-https://mail.python.org/pipermail/python-committers/2019-February/006520.html | [python-committers] 2019 Steering Council Election Results
-https://twitter.com/ThePSF/status/1092452576266801152 | Python Software on Twitter: "The Python Core Developers have elected their first Steering Council! @pumpichank, @brettsky, @WillingCarol, @gvanrossum, and @ncoghlan_dev will lead the project under the specifications in PEP 13. https://t.co/cN2wDLh5uH https://t.co/hCOahJQSWY"
-
-PEP 8100 -- January 2019 steering council election
-https://www.python.org/dev/peps/pep-8100/
-https://discuss.python.org/t/steering-council-nomination-mariatta/670
-
-https://snarky.ca/an-update-on-pythons-governance
-https://lwn.net/Articles/775105
-
-https://twitter.com/llanga/status/1074704443222958081 | Łukasz Langa on Twitter: "The governance race is over. I am very happy to see PEP 8016 win and PEP 8012 take the second place. The two are complementary. 1/4"
-https://twitter.com/brettsky/status/1074690504682426368 | Brett Cannon on Twitter: "PEP 8016 won, so next step is an election for council membership that will take 4 weeks to hold and needs a start date to be scheduled… https://t.co/W9tM3aGc2J"
-
-https://twitter.com/aymericaugustin/status/1074751907195949056 | Aymeric Augustin on Twitter: ""Substantial text was copied shamelessly from The Django project's governance document." It looks like https://t.co/QN7JaoXdFI just became my biggest contribution to Python :-)… https://t.co/CsC0LoxMRz"
-
-https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
-https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
--->
-
-## Python and Django PEPs and DEPs
-
-PEPs
-* [PEP Index](https://www.python.org/dev/peps)
-* [Legacy PEP Index](https://legacy.python.org/dev/peps)
-
-PEP Template
-* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
-
-DEPs (Django Enhancement Proposals)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-
-### Python and Django Black
-
-Repos Under "Python" GitHub Organization
-* [Python Steering Committee: "Repositories under the "python" organization on GitHub"](https://github.com/python/steering-council/issues/9)
-* [Dustin Ingram: "Relevant discussion"](https://twitter.com/di_codes/status/1125778236930174977)
-
-Black Moving Under "Python" GitHub Organization
-* [Łukasz Langa Tweet](https://twitter.com/llanga/status/1123980466292445190)
-
-DEP 0008: Formatting Code with Black
-* [Accepted: DEP 0008: Formatting Code with Black](https://github.com/django/deps/blob/master/accepted/0008-black.rst)
-* [Andrew Godwin Tweet](https://twitter.com/andrewgodwin/status/1127027840296177666)
-* [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
-
-pipenv
-* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
-
-## Python Summits and Sprints
-
-
-### CPython
-
-Python Language Summits
-* [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
-* [The 2018 Python Language Summit](https://lwn.net/Articles/754152)
-
-Python Core Sprint 2018
-* [Python Blog "CPython Core Developer Sprint 2018"](http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html)
-* [Mariatta: Part 1](https://mariatta.ca/core-sprint-2018-part-1.html) and [Mariatta: Part 2](https://mariatta.ca/core-sprint-2018-part-2.html)
-* [Victor Stinner](https://twitter.com/VictorStinner/status/1041219533439217665)
-
-Python Core Sprint 2016
-* [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
-
-<!--
-https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
-
-http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
--->
-
-Python Sprints
-* [Python Sprints](https://python-sprints.github.io)
-
-<!--
-https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
-https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
--->
-
-## Python Mailing Lists, Core Developer Info, Permissions, Mentors, Diversity
-
-Mailing List and Permissions History
-* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
-* [Permissions History](https://devguide.python.org/developers/#permissions-history)
-* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
-* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
-* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
-
-<!--
-http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
-https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
-
-python core developer mailing list - Google Search
-
-https://python.zulipchat.com
-https://mail.python.org/mailman3/lists/core-mentorship.python.org/
-https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
--->
-
-Python Mentors
-* [Python Mentors](http://pythonmentors.com)
-
-Mentoring and diversity for Python (2018)
-* [Mentoring and diversity for Python](https://lwn.net/Articles/757950)
-
-Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
-* [Python Mentorship for Women](https://twitter.com/mariatta/status/737689052736978945)
-* [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
-* ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
-
-<!--
-What is a Python Core Developer?
-https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
-https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
-
-https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
-http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
-
-https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18 | Steering Council nomination: Emily Morehouse - Users - Discussions on Python.org
-https://twitter.com/emilyemorehouse/status/1086682866094723078 | Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events, an anonymous user account appeared to challenge my nomination and credentials, suggesting three males to replace me. Friendly reminder that it’s not easy being a woman in tech, and these things happen all the time. https://t.co/8YIe1WDqTF"
-
-Mentorship
-https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
-
-https://mariatta.ca/
-https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
-
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
--->
-
-Python Master/Slave Terminology
-* [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
-* [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
 
 ## Python Contributing Docs and Info
 
@@ -483,6 +281,11 @@ Python Environment
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
 <!--
+Reality	 
+https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/	-->
+https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "	
+https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+
 https://github.com/bots-for-humanity
 
 https://github.com/python/miss-islington/issues
@@ -535,6 +338,29 @@ https://docs.python.org/3/library/test.html
 26.9. test.support — Utilities for the Python test suite
 https://docs.python.org/3/library/test.html#module-test.support
 -->
+
+## Python Mailing Lists, Core Developer Info, Permissions, Mentors, Diversity
+
+Mailing List and Permissions History
+* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
+* [Permissions History](https://devguide.python.org/developers/#permissions-history)
+* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
+* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
+* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
+
+<!--
+http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
+https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
+
+python core developer mailing list - Google Search
+
+https://python.zulipchat.com
+https://mail.python.org/mailman3/lists/core-mentorship.python.org/
+https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
+-->
+
+Python Mentors
+* [Python Mentors](http://pythonmentors.com)
 
 ## Django Contributing Docs and Info
 
@@ -1307,6 +1133,41 @@ https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
 https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
 -->
 
+## Diversity
+
+Mentoring and diversity for Python (2018)
+* [Mentoring and diversity for Python](https://lwn.net/Articles/757950)
+
+Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
+* [Python Mentorship for Women](https://twitter.com/mariatta/status/737689052736978945)
+* [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
+* ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
+
+<!--
+What is a Python Core Developer?
+https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
+https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
+
+https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
+http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
+
+https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18 | Steering Council nomination: Emily Morehouse - Users - Discussions on Python.org
+https://twitter.com/emilyemorehouse/status/1086682866094723078 | Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events, an anonymous user account appeared to challenge my nomination and credentials, suggesting three males to replace me. Friendly reminder that it’s not easy being a woman in tech, and these things happen all the time. https://t.co/8YIe1WDqTF"
+
+Mentorship
+https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
+
+https://mariatta.ca/
+https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
+
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
+-->
+
+Python Master/Slave Terminology
+* [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
+* [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
+
 ## Django- General
 
 DSF Internship
@@ -1356,6 +1217,19 @@ djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
 * [code.djangoproject.com](https://code.djangoproject.com)
 * [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
+
+## Codes of Conduct and CLA
+
+Django Code of Conduct and CLA
+* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+<!--
+https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
+https://github.com/python/pycon-code-of-conduct
+
+https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
+-->
 
 ## Python Software Foundation (PSF)
 
@@ -1431,18 +1305,148 @@ State of Django
 About Django 
 * [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
 
-## Codes of Conduct and CLA
+## Python General
 
-Django Code of Conduct and CLA
-* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+Python
+* [Python Front Page](https://wiki.python.org/moin)
+* [Python GitHub](https://github.com/python)
+
+Python History
+* [The History of Python](http://python-history.blogspot.com)
+* [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
+* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
+* ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
+* [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
-https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
-https://github.com/python/pycon-code-of-conduct
+http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
+http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
+http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
 
-https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
+https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
+https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
+
+https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
 -->
+
+Python Trends
+* [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
+* [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
+
+Python Surveys
+* [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
+* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
+
+## Python Governance
+
+Python Authorities
+* [Python Packaging Authority (PyPA)](https://pypa.io) and [Python Packaging Authority GitHub](https://github.com/pypa) 
+* [Python Authority Authority (PyAA) GitHub](https://github.com/pyaa)
+* [Python Code Quality Authority (PyCQA) GitHub](https://github.com/PyCQA) and [Python Code Quality Authority (PyCQA) GitLab](https://gitlab.com/groups/pycqa)
+* [Python Cryptographic Authority (PyCA) GitHub](https://github.com/pyca)
+
+Python and Django Governance and BDFL
+* [PEP 8016- The Steering Council Model (Accepted)](https://www.python.org/dev/peps/pep-8016)
+* [PEP 8016- The Steering Council Model (Runner Up)](https://www.python.org/dev/peps/pep-8012)
+* [Python Governance Vote (December 2018)](https://discuss.python.org/t/python-governance-vote-december-2018-results/546)
+* [PEP 8010- The Technical Leader Governance Model (Rejected)](https://www.python.org/dev/peps/pep-8010)
+* [PEP 572 and decision-making in Python](https://lwn.net/Articles/757713)
+* [Transfer of Power](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
+* [Moratorium on Governance Decisions](https://mail.python.org/pipermail/python-committers/2018-July/005935.html)
+* [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
+
+<!--
+https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/jannis-leidel/ | Nomination for | Python.org
+
+Elections
+https://twitter.com/di_codes/status/1137014831805095937
+https://www.python.org/nominations/elections/ | Elections | Python.org
+https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/ | Nomination for | Python.org
+https://www.youtube.com/watch?v=sORneSQNOmc&feature=youtu.be | (1) python.org self nomination demonstration - YouTube
+https://wiki.python.org/moin/PythonSoftwareFoundation | PythonSoftwareFoundation - Python Wiki
+
+Steering Committee
+https://github.com/python/steering-council | python/steering-council: Communications from the Steering Council
+https://github.com/python/steering-council/blob/master/updates/2019-02-26_steering-council-update.md | steering-council/2019-02-26_steering-council-update.md at master · python/steering-council
+
+https://www.europython-society.org/post/182445627020/announcing-the-guido-van-rossum-core-developer | EuroPython Society — Announcing the Guido van Rossum Core Developer...
+
+https://discuss.python.org/t/2019-steering-council-election-results/824 | 2019 Steering Council Election Results - Committers - Discussions on Python.org
+https://mail.python.org/pipermail/python-committers/2019-February/006520.html | [python-committers] 2019 Steering Council Election Results
+https://twitter.com/ThePSF/status/1092452576266801152 | Python Software on Twitter: "The Python Core Developers have elected their first Steering Council! @pumpichank, @brettsky, @WillingCarol, @gvanrossum, and @ncoghlan_dev will lead the project under the specifications in PEP 13. https://t.co/cN2wDLh5uH https://t.co/hCOahJQSWY"
+
+PEP 8100 -- January 2019 steering council election
+https://www.python.org/dev/peps/pep-8100/
+https://discuss.python.org/t/steering-council-nomination-mariatta/670
+
+https://snarky.ca/an-update-on-pythons-governance
+https://lwn.net/Articles/775105
+
+https://twitter.com/llanga/status/1074704443222958081 | Łukasz Langa on Twitter: "The governance race is over. I am very happy to see PEP 8016 win and PEP 8012 take the second place. The two are complementary. 1/4"
+https://twitter.com/brettsky/status/1074690504682426368 | Brett Cannon on Twitter: "PEP 8016 won, so next step is an election for council membership that will take 4 weeks to hold and needs a start date to be scheduled… https://t.co/W9tM3aGc2J"
+
+https://twitter.com/aymericaugustin/status/1074751907195949056 | Aymeric Augustin on Twitter: ""Substantial text was copied shamelessly from The Django project's governance document." It looks like https://t.co/QN7JaoXdFI just became my biggest contribution to Python :-)… https://t.co/CsC0LoxMRz"
+
+https://groups.google.com/forum/#!topic/django-developers/8b-wxEzWO3c/discussion
+https://github.com/django/django/pull/2947 | Team organization by aaugustin · Pull Request #2947 · django/django
+-->
+
+## Python and Django PEPs and DEPs
+
+PEPs
+* [PEP Index](https://www.python.org/dev/peps)
+* [Legacy PEP Index](https://legacy.python.org/dev/peps)
+
+PEP Template
+* [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+## Python Summits and Sprints
+
+Python Language Summits
+* [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
+* [The 2018 Python Language Summit](https://lwn.net/Articles/754152)
+
+Python Core Sprint 2018
+* [Python Blog "CPython Core Developer Sprint 2018"](http://pyfound.blogspot.com/2018/09/cpython-core-developer-sprint-2018.html)
+* [Mariatta: Part 1](https://mariatta.ca/core-sprint-2018-part-1.html) and [Mariatta: Part 2](https://mariatta.ca/core-sprint-2018-part-2.html)
+* [Victor Stinner](https://twitter.com/VictorStinner/status/1041219533439217665)
+
+Python Core Sprint 2016
+* [Lukasz Langa: Diversity on the Python Sprint in September](http://lukasz.langa.pl/12/diversity-python-sprint-september)
+
+<!--
+https://pyfound.blogspot.com/2019/06/python-language-summit-lightning-talks-part-2.html | Python Software Foundation News: Python Language Summit Lightning Talks, Part 2
+
+http://pycon.blogspot.com/2016/05/how-to-get-ready-for-pycon-development.html
+-->
+
+Python Sprints
+* [Python Sprints](https://python-sprints.github.io)
+
+<!--
+https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
+https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
+-->
+
+### Python and Django Black
+
+Repos Under "Python" GitHub Organization
+* [Python Steering Committee: "Repositories under the "python" organization on GitHub"](https://github.com/python/steering-council/issues/9)
+* [Dustin Ingram: "Relevant discussion"](https://twitter.com/di_codes/status/1125778236930174977)
+
+Black Moving Under "Python" GitHub Organization
+* [Łukasz Langa Tweet](https://twitter.com/llanga/status/1123980466292445190)
+
+DEP 0008: Formatting Code with Black
+* [Accepted: DEP 0008: Formatting Code with Black](https://github.com/django/deps/blob/master/accepted/0008-black.rst)
+* [Andrew Godwin Tweet](https://twitter.com/andrewgodwin/status/1127027840296177666)
+* [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
+
+pipenv
+* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
 
 ## Trends
 
