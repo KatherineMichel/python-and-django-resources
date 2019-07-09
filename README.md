@@ -15,6 +15,10 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
+https://microsoft.github.io/language-server-protocol/specification
+https://github.com/Microsoft/python-language-server
+https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
 Updates
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
