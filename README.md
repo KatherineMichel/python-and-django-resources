@@ -1518,9 +1518,9 @@ https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun
 
 ### Python Gilectomy and Multi-Core
 
-<!--
-https://github.com/larryhastings/gilectomy
+* [Gilectomy](https://github.com/larryhastings/gilectomy/)
 
+<!--
 https://pythoncapi.readthedocs.io/roadmap.html | Roadmap for a new Python C API — pythoncapi 0.1 documentation
 https://pythoncapi.readthedocs.io/runtime.html | Reorganize Python “runtime” — pythoncapi 0.1 documentation
 https://mail.python.org/archives/list/capi-sig@python.org/message/VKKNX4ECZTCRGYMAJJA4VWPVXC257W62/ | Mailman 3 [capi-sig] Re: [capi-sig]How to access the various levels of runtime state (e.g. PyInterpreterState, _PyRuntimeState)? - capi-sig - python.org
@@ -1592,13 +1592,11 @@ http://mypy-lang.blogspot.com | The Mypy Blog
 
 <!--
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
-https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
-https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
 -->
 
-## Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
+## Third Party Helpers
 
-Asynchronous Task Queue/Job Queue, Distributed Message Passing
+Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
 * [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
 * [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
 * [RQ (Redis Queue)](http://python-rq.org/)
@@ -1606,9 +1604,40 @@ Asynchronous Task Queue/Job Queue, Distributed Message Passing
 * [Redis](https://redis.io/)
 * [Memcached](https://memcached.org/)
 
+DJ Static, DJ Database URL
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records, Requests (HTTP for Humans), Requests HTML
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+* [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
+
 <!--
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
 https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
 https://www.fullstackpython.com/task-queues.html
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://urllib3.readthedocs.io/en/latest/
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+https://github.com/kennethreitz/pip-purge
+
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+
+https://github.com/kennethreitz/homebrew-pythons
+
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 -->
 
 ### HTTP
@@ -1738,6 +1767,22 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
+https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
+http://www.aeracode.org/2017/7/11/towards-channels-20/
+
+https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
+
+ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
+
+https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
+
+https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
+
+https://github.com/jacobian/demo-thing
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+-->
+
+<!--
 https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
 
 https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
@@ -1754,14 +1799,29 @@ https://github.com/pirate/django-http2-middleware
 
 https://github.com/django/django/pull/11209/files
 
+ASGI 3.0 and Uvicorn
+https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
+
 Datasette ASGI port
 https://simonwillison.net/2019/Jun/23/datasette-asgi/
 https://github.com/simonw/datasette/issues/272
 https://twitter.com/simonw/status/1143019211771404288
 https://twitter.com/andrewgodwin/status/1143026705033916417
 
-ASGI 3.0 and Uvicorn
-https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
+Datasette- Glitch
+https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
+https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
+
+Datasette
+https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
+https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
+https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
+https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 <!--
@@ -1783,9 +1843,6 @@ https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4
 https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
 https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
 https://github.com/aio-libs/async-timeout | aio-libs/async-timeout: asyncio-compatible timeout class
-
-https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
-http://www.aeracode.org/2017/7/11/towards-channels-20/
 -->
 
 ### Python Rust/Assembly
