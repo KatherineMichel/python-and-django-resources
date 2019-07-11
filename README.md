@@ -15,6 +15,11 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
+https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
+https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
+https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
+
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
@@ -1550,14 +1555,6 @@ https://realpython.com/python-data-classes/
 
 ### Static Typing
 
-<!--
-## Type
-
-https://docs.python.org/3/library/weakref.html
-https://docs.python.org/3/library/typing.html
-https://docs.python.org/3/library/types.html
--->
-
 Strong and Weak Typing
 * [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
@@ -1655,51 +1652,6 @@ https://members.2019.djangocon.eu/conference/talk/GQKCWS/
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
 
 https://wiki.python.org/moin/GlobalInterpreterLock
-
-https://docs.python.org/3/library/asyncio.html
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/multiprocessing.html
-
-https://docs.python.org/3/library/socket.html
-https://docs.python.org/3/library/concurrency.html
-https://docs.python.org/3/library/threading.html
-https://docs.python.org/3/library/queue.html
--->
-
-<!--
-General
-18. Interprocess Communication and Networking
-
-18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-
-11.4. Multi-threading
-17.2. multiprocessing — Process-based parallelism
-https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
-
-17. Concurrent Execution
-17.1. threading — Thread-based parallelism
-17.7. queue — A synchronized queue class
-
-17.3. The concurrent package
-https://docs.python.org/3/library/concurrent.html
-17.4. concurrent.futures — Launching parallel tasks
-https://docs.python.org/3/library/concurrent.futures.html
-17.5. subprocess — Subprocess management
-https://docs.python.org/3/library/subprocess.html
-17.6. sched — Event scheduler
-https://docs.python.org/3/library/sched.html
-17.8. dummy_threading — Drop-in replacement for the threading module
-https://docs.python.org/3/library/dummy_threading.html
-17.9. _thread — Low-level threading API
-https://docs.python.org/3/library/_thread.html
-17.10. _dummy_thread — Drop-in replacement for the _thread module
-https://docs.python.org/3/library/_dummy_thread.html
-
-Sockets
-
-18.1. socket — Low-level networking interface
-18.2. ssl — TLS/SSL wrapper for socket objects
-https://docs.python.org/3/library/ssl.html
 -->
 
 ### Python Sync and Async Tools
@@ -1769,6 +1721,10 @@ Django API Star
 * [Django API Star](https://github.com/lucianoratamero/django_apistar)
 
 <!--
+https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
+
+https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
+
 https://github.com/django/asgiref/blob/master/specs/www.rst
 
 https://core.telegram.org/
