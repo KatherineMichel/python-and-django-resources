@@ -1604,11 +1604,13 @@ Python- PEP 3333 (Python Web Server Gateway Interface)
 * [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
 
 WSGI
-* [Gunicorn (WSGI HTTP Server for UNIX)](http://gunicorn.org)
+* [Gunicorn (Python WSGI HTTP Server for UNIX)](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn), and [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
 * [WSGI Read the Docs](https://wsgi.readthedocs.io)
 * [uWSGI: Setting up Django and your web server with uWSGI and nginx](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html)
 
 <!--
+* [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
+
 Benchmarks and Specifications
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
 
@@ -1683,7 +1685,7 @@ API Star
 * [API Star Discuss](https://discuss.apistar.org)
 
 Tornado and Twisted
-* [Tornado (asynchronous networking library)](https://www.tornadoweb.org)
+* [Tornado (asynchronous networking library)](https://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
 * [Twisted](https://twistedmatrix.com)
 
 Eventlet and Greenlet
