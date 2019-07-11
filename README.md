@@ -1545,7 +1545,6 @@ Data Classes
 * [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
 
 <!--
-https://docs.python.org/3/library/dataclasses.html | dataclasses — Data Classes — Python 3.7.3 documentation
 https://github.com/ericvsmith/dataclasses | ericvsmith/dataclasses
 
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
@@ -1555,16 +1554,16 @@ https://realpython.com/python-data-classes/
 
 ### Static Typing
 
+Duck Typing
+* [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
+
 Strong and Weak Typing
 * [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
 * [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
-https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
-
 https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
-https://en.wikipedia.org/wiki/Duck_typing
 -->
 
 Type Hints
@@ -1582,9 +1581,11 @@ Static Typing Tools
 * [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
 <!--
+https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
+
 http://mypy.readthedocs.io
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
+http://mypy-lang.blogspot.com | The Mypy Blog
 -->
 
 ### Python Walrus Operator
@@ -1593,6 +1594,21 @@ http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Myp
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
 https://twitter.com/emilyemorehouse/status/1121096591438303234 | Emily Morehouse-Valcarcel on Twitter: "They’re heeeeeeeere! #WalrusOperator #PyCon2019… "
 https://twitter.com/gvanrossum/status/1127058445662744576 | Guido van Rossum on Twitter: "I'm doing some research and I wonder -- who coined the name "walrus operator" for ":="? Since it has stuck we might as well know its history. The first use I found in my email archive was July 3rd 2018."
+-->
+
+## Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
+
+Asynchronous Task Queue/Job Queue, Distributed Message Passing
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+<!--
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
 -->
 
 ### HTTP
@@ -1606,11 +1622,10 @@ Python- PEP 3333 (Python Web Server Gateway Interface)
 WSGI
 * [Gunicorn (Python WSGI HTTP Server for UNIX)](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn), and [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
 * [WSGI Read the Docs](https://wsgi.readthedocs.io)
+* [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
 * [uWSGI: Setting up Django and your web server with uWSGI and nginx](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html)
 
 <!--
-* [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
-
 Benchmarks and Specifications
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
 
