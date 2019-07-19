@@ -1,8 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -15,51 +13,17 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
-https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
-https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
-https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
-
-Updates
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
-https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
-https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
-https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
-https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
 
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
-
-https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
-https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
-https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
-https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
 
 https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
-
-https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
-
-https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
-
-https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
-https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
-https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
-https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
@@ -72,8 +36,7 @@ https://github.com/python-leap/book | python-leap/book: Pythonic Application Arc
 https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
 -->
 
-<!--
-### High Performance Python
+## High Performance Python and Django
 
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
@@ -89,6 +52,9 @@ High Performance Python- Engineering Blogs
 * [Uber](https://eng.uber.com)
 * [Zapier](https://zapier.com/engineering)
 
+<!--
+Bloomberg
+
 Carl Meyer talk
 
 https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
@@ -99,6 +65,7 @@ https://lwn.net/Articles/758159/
 https://www.youtube.com/watch?v=H4SS9yVWJYA
 
 https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
 
 Major Organizations and Projects that Use Django
 * [18F GitHub](https://github.com/18F)  
@@ -119,6 +86,7 @@ Major Organizations and Projects that Use Django
 * [Wharton GitHub](https://github.com/wharton)
 * [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
 
+<!--
 http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
@@ -201,6 +169,10 @@ Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
 <!--
+https://pypi.org/project/six/ | six · PyPI
+
+https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
+
 http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
 
 Dropping Support
@@ -358,6 +330,8 @@ Mailing List and Permissions History
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
 <!--
+https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
+
 http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
 https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
 
@@ -470,25 +444,6 @@ https://en.wikipedia.org/wiki/Locality_of_reference
 https://en.wikipedia.org/wiki/Open_addressing
 
 https://github.com/mitmproxy/mitmproxy/issues/1381
--->
-
-## Python Notation
-
-<!--	
-https://twitter.com/aaronchall/status/1114713624453554176
-
-4.8. Intermezzo: Coding Style	
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
-10. Full Grammar specification	
-https://docs.python.org/3/reference/grammar.html	
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
-1.2. Notation	
-https://docs.python.org/3/reference/introduction.html#notation	
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
 -->
 
 ## CPython Interpreter and Internals
@@ -628,9 +583,15 @@ Kenneth Reitz Advice to Me
 
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 <!--
+https://nedbatchelder.com/blog/200709/pythons_super_considered_harmful.html | Ned Batchelder: Python’s super (considered harmful)
+Co-operative multiple inheritance
+https://en.wikipedia.org/wiki/Dependency_injection | Dependency injection - Wikipedia
+
+
 https://leanpub.com/insidethepythonvirtualmachine/read
 
 https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
@@ -642,7 +603,6 @@ https://en.wikipedia.org/wiki/Stack_machine | Stack machine - Wikipedia
 https://en.wikipedia.org/wiki/Stack_machine#Virtual_stack_machines | Stack machine - Wikipedia
 https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database | Metasploit Project - Wikipedia
 
-https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
 https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
 https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
@@ -775,7 +735,6 @@ https://docs.python.org/3/c-api/structures.html#c.PyObject | Common Object Struc
 https://docs.python.org/3.6/using/cmdline.html | 1. Command line and environment — Python 3.6.9 documentation
 
 
-
 Python and Django Source Code	
 
 https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
@@ -803,6 +762,7 @@ https://docs.python.org/3/library/inspect.html#command-line-interface
  https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
 2. Using the Python Interpreter	
 
+https://en.wikipedia.org/wiki/Unmarshalling | Unmarshalling - Wikipedia
 https://docs.python.org/3/library/marshal.html | marshal — Internal Python object serialization — Python 3.7.3 documentation
 https://github.com/python/cpython/blob/master/Python/marshal.c | cpython/marshal.c at master · python/cpython
 -->
@@ -977,6 +937,8 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+
 https://twitter.com/di_codes/status/1135628015147388928 | Dustin Ingram on Twitter: "Ever wondered what is going on when you `pip install numpy` and it downloads some file with a name like `numpy-1.16.4-cp37-cp37m-manylinux1_x86_64.whl `? This is a built distribution, and @brettsky just published a great explanation of what every part of that filename means.… https://t.co/yJAXS13a2J"
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/ | The challenges in designing a library for PEP 425 (aka wheel tags)
 
@@ -1440,7 +1402,7 @@ https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - P
 https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
 -->
 
-### Python and Django Black
+### Python Tools and Official Status
 
 Repos Under "Python" GitHub Organization
 * [Python Steering Committee: "Repositories under the "python" organization on GitHub"](https://github.com/python/steering-council/issues/9)
@@ -1457,9 +1419,24 @@ DEP 0008: Formatting Code with Black
 pipenv
 * [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
 
+<!--
+Kenneth and PSF
+https://github.com/not-kennethreitz/team/issues/21#issuecomment-512560246 | find a new home for all repos · Issue #21 · not-kennethreitz/team
+https://twitter.com/kennethreitz/status/1151557495099404289 | Kenneth ☤ Reitz on Twitter: "@pystar Maybe you’d be a good owner for Responder :)" / Twitter
+
+https://github.com/psf | Python Software Foundation
+https://github.com/pyfound | pyfound
+https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
+https://www.python.org/psf/github/ | Python Software Foundation GitHub Organization | Python Software Foundation
+-->
+
 ## Trends
 
 <!--
+https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
+
+https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
+
 Tools
 https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
@@ -1856,10 +1833,17 @@ Python Rust/WebAssembly
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
 
 <!--
+https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
+https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
+https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
+https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
+
 https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html | Rust is not a good C replacement | Drew DeVault’s Blog
 
-https://twitter.com/indygreg/status/1143187250743668736
+https://twitter.com/andrewgodwin/status/1143982061524418560 | Twitter
 https://twitter.com/di_codes/status/1143973324961304576
+https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/ | Gregory Szorc's Digital Home | Building Standalone Python Applications with PyOxidizer
+https://twitter.com/indygreg/status/1143187250743668736 | indygreg on Twitter: "I'm excited to announce the initial release of PyOxidizer - a utility for producing standalone Python applications and which empowers Python and Rust to leverage each other! https://t.co/qZ5Wpjthkn"
 https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
 
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
