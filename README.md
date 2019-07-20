@@ -13,11 +13,6 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
-
-
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
-
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 
@@ -34,61 +29,6 @@ https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitte
 Very important!!!!!!!
 https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
 https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
--->
-
-## High Performance Python and Django
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-High Performance Python- Engineering Blogs
-* [Dropbox](https://blogs.dropbox.com)
-* [Google](https://developers.googleblog.com)
-* [Instagram](https://engineering.instagram.com)
-* [Netflix](https://medium.com/netflix-techblog)
-* [Quora](https://engineering.quora.com)
-* [Reddit](https://redditblog.com)
-* [Spotify](https://labs.spotify.com)
-* [Uber](https://eng.uber.com)
-* [Zapier](https://zapier.com/engineering)
-
-<!--
-Bloomberg
-
-Carl Meyer talk
-
-https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
--->
-
-Major Organizations and Projects that Use Django
-* [18F GitHub](https://github.com/18F)  
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Disqus](https://github.com/disqus)
-* [Instagram GitHub](https://github.com/instagram)  
-* [Knight Foundation](http://www.knightfoundation.org/apps)  
-* [Mozilla GitHub](https://github.com/mozilla)
-* [National Geographic GitHub](https://github.com/natgeo)  
-* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-* [PBS GitHub](https://github.com/pbs)  
-* [Pinterest GitHub](https://github.com/pinterest)  
-* [Rdio GitHub](https://github.com/rdio)  
-* [Reddit GitHub](https://github.com/reddit)  
-* [Rover GitHub](https://github.com/roverdotcom)
-* [StyleSeat GitHub](https://github.com/styleseat) 
-* [The Spokesman Review](http://www.spokesman.com)
-* [Wharton GitHub](https://github.com/wharton)
-* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
-
-<!--
-http://www.spokesman.com/staff/
-http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
 ## PSF and DSF People and Members
@@ -147,6 +87,103 @@ People (List to be continued...)
 * [Stéphane Wirtel](https://wirtel.be/)
 * [Sviatoslove.py](https://webknjaz.me/)
 
+## High Performance Python and Django
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+High Performance Python- Engineering Blogs
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
+<!--
+Bloomberg
+
+Carl Meyer talk
+
+https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
+
+Major Organizations and Projects that Use Django
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
+
+## Releases
+
+<!--
+Python Insider
+https://blog.python.org
+https://pythoninsider.blogspot.com/
+https://discuss.python.org Discussions on Python.org
+https://www.python.org/downloads
+
+https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
+https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+
+http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
+https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
+https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
+
+https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
+https://twitter.com/phoikoi/status/1137219834402336768 | Peter Hull on Twitter: "Just gonna leave this here for you all to ponder: #deprecation #macos #python… "
+-->
+
+## Performance
+
+<!--
+Performance
+
+https://speed.python.org/ | Python Speed Center
+
+https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
+
+https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
+
+https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
+https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
+
+Regression Test Suite For Python Core Developers
+26.8. test — Regression tests package for Python
+https://docs.python.org/3/library/test.html
+26.9. test.support — Utilities for the Python test suite
+https://docs.python.org/3/library/test.html#module-test.support
+-->
+
 ## Python 2 or 3, Python 2 EoL
 
 Python 2 or 3
@@ -171,6 +208,8 @@ Django and Python 3
 <!--
 https://pypi.org/project/six/ | six · PyPI
 
+https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
+
 https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
 
 http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
@@ -182,13 +221,29 @@ https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule 
 https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
-## Python Contributing Docs and Info
+## High Level CPython and Django Contributing Info
 
 CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 CPython Bugs Dashboard
 * [Bugs](http://bugs.python.org)
+
+<!--
+https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+
+Core PR Tool
+https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
+-->
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+<!--
+https://github.com/django/django/pulls | Pull Requests
+-->
+
+## Python Contributing Docs and Info
 
 CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
@@ -201,6 +256,8 @@ Python Status
 * [Python Status History](https://status.python.org/history)
 
 <!--
+https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
+
  https://travis-ci.org/python/cpython/
 -->
 
@@ -213,9 +270,8 @@ Release Managers
 * ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
 <!--
-https://github.com/python/cpython/pulls | Pull Requests · python/cpython
-
-https://cpython-core-tutorial.readthedocs.io/en/latest/ (my draft tutorial)
+Draft tutorial
+https://cpython-core-tutorial.readthedocs.io/en/latest/
 
 https://pythondev.readthedocs.io/ (my most complete website)
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
@@ -237,10 +293,12 @@ https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python De
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
-<!--
-Core PR Tool
-https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
--->
+## Workflow Choices and Tools
+
+Core Workflow Tools
+* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
+* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
+* [miss-islington](https://github.com/python/miss-islington)
 
 Issues PEP
 * [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
@@ -252,18 +310,13 @@ CPython GitHub Migration
 * ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
 * ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
 
-Core Workflow Tools
-* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
-* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
-* [miss-islington](https://github.com/python/miss-islington)
-
 Python Environment
 * [xkcd: Python Environment](https://xkcd.com/1987)
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
 <!--
 Reality	 
-https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/	-->
+https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
 https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "	
 https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
 
@@ -273,7 +326,6 @@ https://github.com/python/miss-islington/issues
 https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
 
 https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
 https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
 https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
 https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
@@ -281,43 +333,6 @@ https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
 https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
 https://github.com/Mariatta/cloner
--->
-
-<!--
-Python Performance
-
-https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
-
-https://pythoninsider.blogspot.com/
-
-https://speed.python.org/ | Python Speed Center
-
-https://blog.python.org/2019/06/python-374rc1-and-369rc1-are-now.html | Python Insider: Python 3.7.4rc1 and 3.6.9rc1 are now available
-https://discuss.python.org/t/python-3-8-0b1-available-for-testing/1815 | Python 3.8.0b1 available for testing - Committers - Discussions on Python.org
-https://www.python.org/downloads/release/python-380a4/ | Python Release Python 3.8.0a4 | Python.org
-https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
-https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-
-http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
-https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
-https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
-
-https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
-https://twitter.com/phoikoi/status/1137219834402336768 | Peter Hull on Twitter: "Just gonna leave this here for you all to ponder: #deprecation #macos #python… "
-
-https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
-
-https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
-
-https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
-https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
-
-Regression Test Suite For Python Core Developers
-26.8. test — Regression tests package for Python
-https://docs.python.org/3/library/test.html
-26.9. test.support — Utilities for the Python test suite
-https://docs.python.org/3/library/test.html#module-test.support
 -->
 
 ## Python Mailing Lists, Core Developer Info, Permissions, Mentors, Diversity
@@ -346,9 +361,6 @@ Python Mentors
 * [Python Mentors](http://pythonmentors.com)
 
 ## Django Contributing Docs and Info
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
 
 Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
@@ -596,12 +608,10 @@ https://leanpub.com/insidethepythonvirtualmachine/read
 
 https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
 
-https://en.wikipedia.org/wiki/CPython | CPython - Wikipedia
 https://en.wikibooks.org/wiki/Category:Book:Microprocessor_Design | Category:Book:Microprocessor Design - Wikibooks, open books for an open world
 https://en.wikibooks.org/wiki/Microprocessor_Design/Instruction_Decoder | Microprocessor Design/Instruction Decoder - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Stack_machine | Stack machine - Wikipedia
 https://en.wikipedia.org/wiki/Stack_machine#Virtual_stack_machines | Stack machine - Wikipedia
-https://en.wikipedia.org/wiki/Metasploit_Project#Opcode_Database | Metasploit Project - Wikipedia
 
 https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
 https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
@@ -707,8 +717,15 @@ https://github.com/python/cpython/blob/master/Python/bltinmodule.c | cpython/blt
 https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
+
 https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
 https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+
+https://docs.python.org/3/library/inspect.html	
+		
+https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
+2. Using the Python Interpreter	
+
 
 Abstract Syntax Trees
 https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.7.4rc2 documentation
@@ -740,27 +757,6 @@ Python and Django Source Code
 https://wiki.python.org/moin/DebuggingWithGdb | DebuggingWithGdb - Python Wiki
 https://devguide.python.org/gdb/ | 22. gdb Support — Python Developer's Guide
 https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
-
-3. Data model	
-4. Execution model	
-32.12. dis — Disassembler for Python bytecode	
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions	
-https://docs.python.org/3/library/dis.html#bytecode-analysis	
-https://docs.python.org/3/library/dis.html#analysis-functions	
-https://docs.python.org/3/library/dis.html#opcode-collections	
-
-https://docs.python.org/3/library/inspect.html#inspect.getmro | 29.12. inspect — Inspect live objects — Python 3.6.5 documentation	
-https://docs.python.org/3/library/inspect.html#types-and-members	
-https://docs.python.org/3/library/inspect.html#retrieving-source-code	
-https://docs.python.org/3/library/inspect.html#introspecting-callables-with-the-signature-object	
-https://docs.python.org/3/library/inspect.html#classes-and-functions	
-https://docs.python.org/3/library/inspect.html#the-interpreter-stack	
-https://docs.python.org/3/library/inspect.html#fetching-attributes-statically	
-https://docs.python.org/3/library/inspect.html#current-state-of-generators-and-coroutines	
-https://docs.python.org/3/library/inspect.html#code-objects-bit-flags	
-https://docs.python.org/3/library/inspect.html#command-line-interface	
- https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
-2. Using the Python Interpreter	
 
 https://en.wikipedia.org/wiki/Unmarshalling | Unmarshalling - Wikipedia
 https://docs.python.org/3/library/marshal.html | marshal — Internal Python object serialization — Python 3.7.3 documentation
@@ -1234,7 +1230,7 @@ Sponsor Python
 <!--
 https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
 
-http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+http://pyfound.blogspot.com/2019/07/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 -->
@@ -1479,7 +1475,10 @@ https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo,
 https://zapier.com/ | Zapier | The easiest way to automate your work
 https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
 
+https://sans-io.readthedocs.io/ | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
 https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://gidgethub.readthedocs.io/en/latest/ | gidgethub — An async library for calling GitHub’s API — gidgethub documentation
 https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
 https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
