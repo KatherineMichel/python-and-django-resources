@@ -14,6 +14,7 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 http://python-gsoc.org/ | Python GSoC – Splash
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
 https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
 
@@ -236,7 +237,7 @@ https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library o
 ## High Level CPython and Django Contributing Info
 
 CPython
-* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+* [CPython GitHub](https://github.com/python/cpython) and [CPython Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 CPython Bugs Dashboard
 * [Bugs](http://bugs.python.org)
@@ -1746,6 +1747,8 @@ Eventlet and Greenlet
 * [gevent-socketio](https://learn-gevent-socketio.readthedocs.io)
 
 <!--
+https://github.com/timofurrer/awesome-asyncio | timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources
+
 https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
 -->
 
