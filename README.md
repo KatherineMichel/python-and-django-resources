@@ -13,6 +13,19 @@ https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season
 
 http://python-gsoc.org/ | Python GSoC – Splash
 
+https://famicol.in/language_checklist.html | Programming Language Checklist
+
+https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
+
+Linux
+https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
+https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
+http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
+https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
+http://man7.org/linux/man-pages/ | Linux man pages online
+https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 
@@ -154,6 +167,8 @@ https://www.python.org/downloads
 https://docs.python.org/dev/whatsnew/
 https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.7.4rc2 documentation
 
+https://twitter.com/hroncok/status/1147223223572058114 | Miro Hrončok on Twitter: "Thanks @EnCuKou @ncoghlan_dev @pumpichank @brettsky @WillingCarol https://t.co/o6JEQ5K1Ie This is a huge step forward in #Python 3 adoption on Linux!… https://t.co/GB8rcVQEYq"
+
 https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
@@ -226,9 +241,10 @@ CPython
 CPython Bugs Dashboard
 * [Bugs](http://bugs.python.org)
 
-<!--
-https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+CPython Pull Requests
+* [CPython Pull Requests](https://github.com/python/cpython/pulls)
 
+<!--
 Core PR Tool
 https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
 -->
@@ -236,9 +252,8 @@ https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for al
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
-<!--
-https://github.com/django/django/pulls | Pull Requests
--->
+Django Pull Requests
+* [Django Pull Requests](https://github.com/django/django/pulls)
 
 ## Python Contributing Docs and Info
 
@@ -412,7 +427,8 @@ https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django sec
 
 https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
 https://www.djangoproject.com/download/#supported-versions
-https://docs.djangoproject.com/en/2.2/releases/
+
+https://docs.djangoproject.com/en/dev/releases/
 
 https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
 https://docs.djangoproject.com/en/2.2/internals/release-process/
@@ -1603,6 +1619,8 @@ Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
 * [Memcached](https://memcached.org/)
 
 <!--
+https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
+
 http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
 
 https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
@@ -1712,6 +1730,7 @@ https://github.com/tartiflette/tartiflette-starlette | tartiflette/tartiflette-s
 
 asigram
 * [asigram ASGI/Telegram Protocol Server GitHub](https://github.com/andrewgodwin/asgigram/)
+* [Telegram APIs](https://core.telegram.org/)
 
 API Star
 * [API Star Docs](https://docs.apistar.com) and [API Star GitHub](https://github.com/encode/apistar)
@@ -1741,6 +1760,9 @@ Async Added to Django 3.0
 * [Django ASGI handler](https://github.com/django/django/blob/master/django/core/handlers/asgi.py)
 
 <!--
+https://twitter.com/andrewgodwin/status/1143026705033916417
+https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
+
 https://twitter.com/simonw/status/1151832243242803203 | Simon Willison on Twitter: "Some beautifully commented code https://t.co/Opj8S4hCSd" / Twitter
 https://github.com/django/django/compare/master...andrewgodwin:async_views | Comparing django:master...andrewgodwin:async_views · django/django
 
@@ -1784,15 +1806,12 @@ Django API Star
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
 
-https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
-
 https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
 
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
 
-https://core.telegram.org/
 
 
 https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
