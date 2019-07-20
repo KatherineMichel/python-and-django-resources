@@ -1907,6 +1907,5 @@ https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | 
 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 
-https://webassembly.org/ | WebAssembly
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
 -->
