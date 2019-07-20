@@ -1809,6 +1809,7 @@ Django API Star
 https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
 https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
 
+http://libuv.org/
 https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
 
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
