@@ -656,9 +656,9 @@ https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikiped
 https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 
+
 https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
 
-https://devguide.python.org/compiler/
 
 Parse source code into a parse tree (Parser/pgen.c)
 https://github.com/python/cpython/blob/master/Parser/pgen/pgen.py
@@ -1422,6 +1422,15 @@ https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitte
 
 ### Python Tools and Official Status
 
+PSF Repos
+* [Python Software Foundation GitHub Organization](https://www.python.org/psf/github/)
+* [PSF GitHub](https://github.com/psf)
+* [PyFound GitHub](https://github.com/pyfound)
+
+Kenneth Reitz Repos
+* ["I’m looking for some new owners for some of my repositories."](https://twitter.com/kennethreitz/status/1151551174925049858)
+* [Ernest's Response](https://github.com/not-kennethreitz/team/issues/21#issuecomment-512560246)
+
 Repos Under "Python" GitHub Organization
 * [Python Steering Committee: "Repositories under the "python" organization on GitHub"](https://github.com/python/steering-council/issues/9)
 * [Dustin Ingram: "Relevant discussion"](https://twitter.com/di_codes/status/1125778236930174977)
@@ -1447,15 +1456,6 @@ Records, Requests (HTTP for Humans), Requests HTML
 * [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
 
 <!--
-Kenneth and PSF
-https://github.com/not-kennethreitz/team/issues/21#issuecomment-512560246 | find a new home for all repos · Issue #21 · not-kennethreitz/team
-https://twitter.com/kennethreitz/status/1151551174925049858 | Kenneth ☤ Reitz on Twitter: "@pystar Maybe you’d be a good owner for Responder :)" / Twitter
-
-https://github.com/psf | Python Software Foundation
-https://github.com/pyfound | pyfound
-https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-https://www.python.org/psf/github/ | Python Software Foundation GitHub Organization | Python Software Foundation
-
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
 https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
