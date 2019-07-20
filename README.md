@@ -151,6 +151,9 @@ https://pythoninsider.blogspot.com/
 https://discuss.python.org Discussions on Python.org
 https://www.python.org/downloads
 
+https://docs.python.org/dev/whatsnew/
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.7.4rc2 documentation
+
 https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
@@ -176,12 +179,6 @@ https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Sl
 
 https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
 https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
-
-Regression Test Suite For Python Core Developers
-26.8. test — Regression tests package for Python
-https://docs.python.org/3/library/test.html
-26.9. test.support — Utilities for the Python test suite
-https://docs.python.org/3/library/test.html#module-test.support
 -->
 
 ## Python 2 or 3, Python 2 EoL
@@ -291,6 +288,12 @@ https://devguide.python.org/fixingissues/ | 9. Fixing “easy” Issues (and Bey
 https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python Developer's Guide
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+
+Regression Test Suite For Python Core Developers
+26.8. test — Regression tests package for Python
+https://docs.python.org/3/library/test.html
+26.9. test.support — Utilities for the Python test suite
+https://docs.python.org/3/library/test.html#module-test.support
 -->
 
 ## Workflow Choices and Tools
@@ -1145,6 +1148,8 @@ Carlton Gibson's Talks
 * [Carlton Gibson: Feeding the Pony: Contributing back to Django & How to make that work for you DjangoCon Europe 2019](https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/)
 
 <!--
+https://djangochat.com/ | Django Chat Podcast
+
 https://data.djangoproject.com/
 
 Django Docs
@@ -1415,15 +1420,32 @@ DEP 0008: Formatting Code with Black
 pipenv
 * [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
 
+DJ Static, DJ Database URL
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records, Requests (HTTP for Humans), Requests HTML
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+* [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
+
 <!--
 Kenneth and PSF
 https://github.com/not-kennethreitz/team/issues/21#issuecomment-512560246 | find a new home for all repos · Issue #21 · not-kennethreitz/team
-https://twitter.com/kennethreitz/status/1151557495099404289 | Kenneth ☤ Reitz on Twitter: "@pystar Maybe you’d be a good owner for Responder :)" / Twitter
+https://twitter.com/kennethreitz/status/1151551174925049858 | Kenneth ☤ Reitz on Twitter: "@pystar Maybe you’d be a good owner for Responder :)" / Twitter
 
 https://github.com/psf | Python Software Foundation
 https://github.com/pyfound | pyfound
 https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
 https://www.python.org/psf/github/ | Python Software Foundation GitHub Organization | Python Software Foundation
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+https://github.com/kennethreitz/homebrew-pythons
 -->
 
 ## Trends
@@ -1580,15 +1602,6 @@ Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
 * [Redis](https://redis.io/)
 * [Memcached](https://memcached.org/)
 
-DJ Static, DJ Database URL
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Records, Requests (HTTP for Humans), Requests HTML
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
-* [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
-
 <!--
 http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
 
@@ -1600,23 +1613,29 @@ https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpi
 
 https://urllib3.readthedocs.io/en/latest/
 
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-https://github.com/kennethreitz/pip-purge
-
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-
-https://github.com/kennethreitz/homebrew-pythons
-
 https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
 -->
 
-### HTTP
+### WSGI
 
 Common Gateway Interface
 * [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
@@ -1633,13 +1652,9 @@ WSGI
 <!--
 Benchmarks and Specifications
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
-
-https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 -->
 
 ### Python Sync and Async
-
-* [Tom Christie: Sketching out a Django Redesign (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
 
 Subroutine and Coroutine
 * [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
@@ -1669,8 +1684,6 @@ Parallel Computing
 * [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
 
 <!--
-https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
 
 https://wiki.python.org/moin/GlobalInterpreterLock
@@ -1719,9 +1732,20 @@ https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | G
 
 ### Django Sync and Async Tools
 
+Sketching out a Django Redesign
+* [Tom Christie: Sketching out a Django Redesign (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
+
 Async Added to Django 3.0
 * [Andrew's Tweet](https://twitter.com/andrewgodwin/status/1141743503036149760)
 * [PR: "Added ASGI handler and coroutine-safety"](https://github.com/django/django/pull/11209)
+* [Django ASGI handler](https://github.com/django/django/blob/master/django/core/handlers/asgi.py)
+
+<!--
+https://twitter.com/simonw/status/1151832243242803203 | Simon Willison on Twitter: "Some beautifully commented code https://t.co/Opj8S4hCSd" / Twitter
+https://github.com/django/django/compare/master...andrewgodwin:async_views | Comparing django:master...andrewgodwin:async_views · django/django
+
+https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
+-->
 
 Async DEP
 * [DEP 0009: Async-capable Django](https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst)
@@ -1731,6 +1755,10 @@ Async DEP
 * [DjangoCon Europe 2018: "Taking Django Async" by Andrew Godwin](https://www.youtube.com/watch?time_continue=1972&v=-7taKQnndfo)
 * ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
 
+<!--
+https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
+-->
+
 Django Async- General
 * [Jacob Kaplan-Moss Tweet](https://twitter.com/jacobian/status/1126557544934182913)
 
@@ -1739,18 +1767,9 @@ Django Channels (Built on ASGI)
 * [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
-Django API Star
-* [Django API Star](https://github.com/lucianoratamero/django_apistar)
-
 <!--
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
 http://www.aeracode.org/2017/7/11/towards-channels-20/
-
-https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
-
-ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
-
-https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
 
 https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
 
@@ -1758,22 +1777,53 @@ https://github.com/jacobian/demo-thing
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 -->
 
+Django API Star
+* [Django API Star](https://github.com/lucianoratamero/django_apistar)
+
 <!--
+https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
+https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
+
 https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
 
 https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
 
-https://github.com/django/asgiref/blob/master/specs/www.rst
+https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
+
+https://members.2019.djangocon.eu/conference/talk/GQKCWS/
 
 https://core.telegram.org/
 
-https://github.com/aiortc/aioquic | aiortc/aioquic: QUIC implementation in Python
-https://twitter.com/_tomchristie/status/1131617638793269248 | Tom Christie on Twitter: "Really excited about the potential of this one. First steps towards HTTP/3 support for Python servers and clients.… "
 
+https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
+https://github.com/TechEmpower/FrameworkBenchmarks | TechEmpower/FrameworkBenchmarks: Source for the TechEmpower Framework Benchmarks project
+
+https://github.com/tomchristie?tab=repositories | tomchristie (Tom Christie) / Repositories
+
+https://www.aeracode.org/2018/02/19/python-async-simplified/ | Python & Async Simplified - Aeracode
+https://github.com/encode/requests-async
+http://docs.python-requests.org/en/master/ | Requests: HTTP for Humans™ — Requests 2.21.0 documentation
+https://github.com/encode/databases
+
+https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
+https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
+https://github.com/aio-libs/async-timeout | aio-libs/async-timeout: asyncio-compatible timeout class
+
+https://github.com/python-http/python-http.org
+https://github.com/python-http/discussions | python-http/discussions: Public discussions for the Python HTTP Working Group
 https://github.com/encode/httpcore | encode/httpcore
 https://github.com/pirate/django-http2-middleware
 
-https://github.com/django/django/pull/11209/files
+https://github.com/encode/http3 | encode/http3: A next generation HTTP client, for Python 3. 🦋
+
+HTTP/3
+https://github.com/aiortc/aioquic | aiortc/aioquic: QUIC implementation in Python
+https://twitter.com/_tomchristie/status/1131617638793269248 | Tom Christie on Twitter: "Really excited about the potential of this one. First steps towards HTTP/3 support for Python servers and clients.… "
+
+https://github.com/django/asgiref | django/asgiref: ASGI in-memory channel layer
+https://github.com/django/asgiref/commit/2d29f99cba65c25870aa90f74cbeb694ef7e7445 | Add a thread_sensitive mode to SyncToAsync · django/asgiref@2d29f99
+https://github.com/django/asgiref/blob/master/specs/www.rst
 
 ASGI 3.0 and Uvicorn
 https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
@@ -1783,6 +1833,9 @@ https://simonwillison.net/2019/Jun/23/datasette-asgi/
 https://github.com/simonw/datasette/issues/272
 https://twitter.com/simonw/status/1143019211771404288
 https://twitter.com/andrewgodwin/status/1143026705033916417
+
+https://twitter.com/webology/status/1148090478149230593 | Twitter
+https://simonwillison.net/2019/Jul/14/sso-asgi/ | Single sign-on against GitHub using ASGI middleware
 
 Datasette- Glitch
 https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
@@ -1798,27 +1851,6 @@ https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for laz
 http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
 https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
--->
-
-<!--
-https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
-https://github.com/TechEmpower/FrameworkBenchmarks | TechEmpower/FrameworkBenchmarks: Source for the TechEmpower Framework Benchmarks project
-
-https://github.com/tomchristie?tab=repositories | tomchristie (Tom Christie) / Repositories
-
-https://www.python.org/dev/peps/pep-3119/ | PEP 3119 -- Introducing Abstract Base Classes | Python.org
-
-https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and await syntax | Python.org
-
-https://www.aeracode.org/2018/02/19/python-async-simplified/ | Python & Async Simplified - Aeracode
-https://github.com/encode/requests-async
-http://docs.python-requests.org/en/master/ | Requests: HTTP for Humans™ — Requests 2.21.0 documentation
-https://github.com/encode/databases
-
-https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
-https://github.com/aio-libs/aiohttp | aio-libs/aiohttp: Asynchronous HTTP client/server framework for asyncio and Python
-https://github.com/aio-libs/aiohttp-demos | aio-libs/aiohttp-demos: Demos for aiohttp project
-https://github.com/aio-libs/async-timeout | aio-libs/async-timeout: asyncio-compatible timeout class
 -->
 
 ### Python Rust/Assembly
