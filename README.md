@@ -1880,7 +1880,6 @@ https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create a
 ### Python Rust/Assembly
 
 Python Rust/WebAssembly
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
 * [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
 * [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
 * [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
@@ -1889,7 +1888,6 @@ Python Rust/WebAssembly
 
 <!--
 https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
-https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
 https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
 https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
 
