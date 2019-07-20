@@ -1656,8 +1656,9 @@ https://github.com/graphql-python | GraphQL Python
 
 ### WSGI
 
-Common Gateway Interface
+Common Gateway Interface and WSGI (Web Server API)
 * [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
 
 Python- PEP 3333 (Python Web Server Gateway Interface)
 * [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
