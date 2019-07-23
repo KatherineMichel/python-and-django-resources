@@ -1536,6 +1536,10 @@ https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun
 * [Gilectomy](https://github.com/larryhastings/gilectomy/)
 
 <!--
+Implementations
+* [Python Alternate Implementations](https://docs.python.org/3/reference/introduction.html#alternate-implementations)
+* [Intel® Python Distribution (GIL)](https://software.intel.com/en-us/distribution-for-python)
+
 https://pythoncapi.readthedocs.io/roadmap.html | Roadmap for a new Python C API — pythoncapi 0.1 documentation
 https://pythoncapi.readthedocs.io/runtime.html | Reorganize Python “runtime” — pythoncapi 0.1 documentation
 https://mail.python.org/archives/list/capi-sig@python.org/message/VKKNX4ECZTCRGYMAJJA4VWPVXC257W62/ | Mailman 3 [capi-sig] Re: [capi-sig]How to access the various levels of runtime state (e.g. PyInterpreterState, _PyRuntimeState)? - capi-sig - python.org
@@ -1906,4 +1910,22 @@ https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
+-->
+
+WebAssembly
+* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
+<!--
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+
+https://www.rust-lang.org/ | Rust programming language
+https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
+
+https://webassembly.org/ | WebAssembly
+https://en.wikipedia.org/wiki/WebAssembly | WebAssembly - Wikipedia
+https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
+
+WebAssembly
+https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
 -->
