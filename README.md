@@ -16,6 +16,10 @@ http://python-gsoc.org/ | Python GSoC – Splash
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
+https://microsoft.github.io/language-server-protocol/specification
+https://github.com/Microsoft/python-language-server
+https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
 https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
 
 Linux
@@ -37,8 +41,6 @@ https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
-
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
 
 Very important!!!!!!!
 https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
@@ -1910,22 +1912,4 @@ https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
--->
-
-WebAssembly
-* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-
-<!--
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-
-https://www.rust-lang.org/ | Rust programming language
-https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
-
-https://webassembly.org/ | WebAssembly
-https://en.wikipedia.org/wiki/WebAssembly | WebAssembly - Wikipedia
-https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
-
-WebAssembly
-https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
-https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
 -->
