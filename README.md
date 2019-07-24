@@ -42,6 +42,7 @@ https://github.com/ovh | OVH
 https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
 https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+https://elixir-lang.org/ | Elixir
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
