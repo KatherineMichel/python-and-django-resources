@@ -31,6 +31,18 @@ https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
 http://man7.org/linux/man-pages/ | Linux man pages online
 https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
 
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 
@@ -1658,6 +1670,9 @@ https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching Gi
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
+
+See also: Data Science
+https://github.com/keen/cohorts
 -->
 
 ### WSGI
