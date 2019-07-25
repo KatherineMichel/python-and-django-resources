@@ -16,6 +16,7 @@ http://python-gsoc.org/ | Python GSoC – Splash
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
