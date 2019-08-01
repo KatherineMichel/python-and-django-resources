@@ -1,6 +1,21 @@
 # Python and Django- Contributing
 
 <!--
+https://mail.python.org/mm3/archives/list/distutils-sig@python.org/thread/QT7SKORCF6OKWO3OVP5KO6XNGU2AR6TU/ | Mailman 3 Handing over default BDFL-Delegate responsibilities for packaging interoperability PEPs to Paul Moore - Distutils-SIG - python.org
+https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
+https://twitter.com/llanga/status/1001919374716948480 | Łukasz Langa on Twitter: "If you are really attached to your string quotes and that attachment was the one thing blocking you from adopting Black, the uncompromising #python code formatter, look here: https://t.co/q3QhYBeiru (Note that Black's recommendation on the matter doesn't change.)"
+https://github.com/FlipperPA/django-dep-default-project | FlipperPA/django-dep-default-project: A Django Enhancement Proposal (DEP) to make the default project more friendly to newcomers.
+https://twitter.com/randal_olson/status/958389805259214849 | Randy Olson on Twitter: "One of the major reasons that #Python has been so successful is because it's an easy language to develop in and understand. Even if Python is sometimes slower than other languages, programmer time is always more expensive than compute time. https://t.co/x3rJHLrmvK #programming… https://t.co/TYhF2J4vfJ"
+https://github.com/ambv/black/commit/8ebbd268880f15834b70910a6dc61e1ee7596b7c | Add --skip-string-normalization · ambv/black@8ebbd26
+https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - RHD Blog
+https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
+https://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/ | YAPF - Yet Another Python Formatter - Eli Bendersky's website
+https://twitter.com/zzzeek/status/1080934145239461890 | mike bayer on Twitter: "flake8 does not read from pyproject.toml, black does not read from setup.cfg. this is going well"
+https://twitter.com/WillingCarol/status/1062231087743565824 | Carol Willing on Twitter: "Take the best of both: Use recommonmark to convert markdown in Sphinx. While I do like rst for all its cross-linking, markdown is easier for new users and contributors.… https://t.co/c0s4NAFvf3"
+
+https://leanpub.com/insidethepythonvirtualmachine/read | Read Inside The Python Virtual Machine | Leanpub
+
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
@@ -351,6 +366,7 @@ Python Environment
 
 <!--
 Reality	 
+https://twitter.com/carltongibson/status/1135628987106025478 | Carlton Gibson on Twitter: "I have to force push about 8 times every time I do anything. At all. Ever.… "
 https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
 https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "	
 https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
