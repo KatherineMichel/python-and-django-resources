@@ -1,12 +1,39 @@
 # Python and Django- Contributing
 
 <!--
-https://mail.python.org/mm3/archives/list/distutils-sig@python.org/thread/QT7SKORCF6OKWO3OVP5KO6XNGU2AR6TU/ | Mailman 3 Handing over default BDFL-Delegate responsibilities for packaging interoperability PEPs to Paul Moore - Distutils-SIG - python.org
-https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
+https://twitter.com/TalEinat/status/1156898504884785157
+https://twitter.com/gvanrossum/status/1156984705771683840
+
+https://twitter.com/anthonypjshaw/status/1153188759065657345
+
+https://devguide.python.org/#contributing
+https://twitter.com/mariatta/status/1154436363946737664
+
+peg parser
+https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
+https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
+https://en.wikipedia.org/wiki/Parsing_expression_grammar
+https://github.com/gvanrossum/pegen
+
+https://pipxproject.github.io/pipx/
+
+Black
 https://twitter.com/llanga/status/1001919374716948480 | Łukasz Langa on Twitter: "If you are really attached to your string quotes and that attachment was the one thing blocking you from adopting Black, the uncompromising #python code formatter, look here: https://t.co/q3QhYBeiru (Note that Black's recommendation on the matter doesn't change.)"
-https://github.com/FlipperPA/django-dep-default-project | FlipperPA/django-dep-default-project: A Django Enhancement Proposal (DEP) to make the default project more friendly to newcomers.
-https://twitter.com/randal_olson/status/958389805259214849 | Randy Olson on Twitter: "One of the major reasons that #Python has been so successful is because it's an easy language to develop in and understand. Even if Python is sometimes slower than other languages, programmer time is always more expensive than compute time. https://t.co/x3rJHLrmvK #programming… https://t.co/TYhF2J4vfJ"
 https://github.com/ambv/black/commit/8ebbd268880f15834b70910a6dc61e1ee7596b7c | Add --skip-string-normalization · ambv/black@8ebbd26
+https://twitter.com/llanga/status/1153417052302053378
+https://twitter.com/llanga/status/1153417050024550401
+
+https://mail.python.org/mm3/archives/list/distutils-sig@python.org/thread/QT7SKORCF6OKWO3OVP5KO6XNGU2AR6TU/ | Mailman 3 Handing over default BDFL-Delegate responsibilities for packaging interoperability PEPs to Paul Moore - Distutils-SIG - python.org
+https://twitter.com/brettsky/status/1154908949956554752
+
+DEP
+https://github.com/FlipperPA/django-dep-default-project | FlipperPA/django-dep-default-project: A Django Enhancement Proposal (DEP) to make the default project more friendly to newcomers.
+
+
+
+https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
+
+https://twitter.com/randal_olson/status/958389805259214849 | Randy Olson on Twitter: "One of the major reasons that #Python has been so successful is because it's an easy language to develop in and understand. Even if Python is sometimes slower than other languages, programmer time is always more expensive than compute time. https://t.co/x3rJHLrmvK #programming… https://t.co/TYhF2J4vfJ"
 https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - RHD Blog
 https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
 https://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/ | YAPF - Yet Another Python Formatter - Eli Bendersky's website
@@ -1197,6 +1224,8 @@ Carlton Gibson's Talks
 * [Carlton Gibson: Feeding the Pony: Contributing back to Django & How to make that work for you DjangoCon Europe 2019](https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/)
 
 <!--
+https://twitter.com/weatheredpup/status/1157171428904488961
+
 https://djangochat.com/ | Django Chat Podcast
 
 https://data.djangoproject.com/
@@ -1803,6 +1832,8 @@ Async Added to Django 3.0
 * [Django ASGI handler](https://github.com/django/django/blob/master/django/core/handlers/asgi.py)
 
 <!--
+https://twitter.com/andrewgodwin/status/1157170693508759553
+
 https://twitter.com/andrewgodwin/status/1143026705033916417
 https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
 
