@@ -1,6 +1,27 @@
 # Python and Django- Contributing
 
 <!--
+Guido
+https://us.pycon.org/2016/schedule/presentation/2266/
+
+Russel Keith-magee
+https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
+
+https://www.youtube.com/watch?v=-7taKQnndfo&t=783s | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
+https://speakerdeck.com/andrewgodwin/concurrency-to-channels | Concurrency to Channels // Speaker Deck
+https://speakerdeck.com/andrewgodwin/a-brief-history-of-channels
+
+https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
+
+https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
+
+https://2018.djangocontent.eu/hd/talk/MUAVUD/ | Growing old gracefully: on being a career programmer. :: DjangoCon Europe 2018 :: pretalx
+
+https://speakerdeck.com/crwilcox/pycon-2019-shipping-your-first-python-package-and-automating-future-publishing?slide=14 | PyCon 2019 - Shipping your first Python package and automating future publishing - Speaker Deck
+https://www.youtube.com/watch?v=P3dY3uDmnkU | Chris Wilcox - Shipping your first Python package and automating future publishing - PyCon 2019 - YouTube
+
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
 
