@@ -1,15 +1,16 @@
 # Python and Django- Contributing
 
 <!--
-Guido
-https://us.pycon.org/2016/schedule/presentation/2266/
+https://2019.pycon-au.org/talks/just-add-await-retrofitting-async-into-django | PyCon AU 2019 | Just Add Await: Retrofitting Async Into Django
 
 Russel Keith-magee
 https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
+https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
 
-https://www.youtube.com/watch?v=-7taKQnndfo&t=783s | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
-https://speakerdeck.com/andrewgodwin/concurrency-to-channels | Concurrency to Channels // Speaker Deck
-https://speakerdeck.com/andrewgodwin/a-brief-history-of-channels
+Guido
+https://us.pycon.org/2016/schedule/presentation/2266/
+
+http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/ | Top 20 EuroPython 2019 talks - Michał Karzyński
 
 https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
 
@@ -18,9 +19,6 @@ https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-b
 https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
 
 https://2018.djangocontent.eu/hd/talk/MUAVUD/ | Growing old gracefully: on being a career programmer. :: DjangoCon Europe 2018 :: pretalx
-
-https://speakerdeck.com/crwilcox/pycon-2019-shipping-your-first-python-package-and-automating-future-publishing?slide=14 | PyCon 2019 - Shipping your first Python package and automating future publishing - Speaker Deck
-https://www.youtube.com/watch?v=P3dY3uDmnkU | Chris Wilcox - Shipping your first Python package and automating future publishing - PyCon 2019 - YouTube
 
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
@@ -200,6 +198,8 @@ High Performance Python- Engineering Blogs
 Bloomberg
 
 Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
 
 https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
 https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
@@ -1066,6 +1066,8 @@ https://pip.pypa.io/en/stable/reference/pip_wheel
 Sample project
 https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
 https://github.com/crwilcox/my-pypi-package/blob/master/.circleci/config.yml | my-pypi-package/config.yml at master · crwilcox/my-pypi-package
+https://speakerdeck.com/crwilcox/pycon-2019-shipping-your-first-python-package-and-automating-future-publishing?slide=14 | PyCon 2019 - Shipping your first Python package and automating future publishing - Speaker Deck
+https://www.youtube.com/watch?v=P3dY3uDmnkU | Chris Wilcox - Shipping your first Python package and automating future publishing - PyCon 2019 - YouTube
 
 https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
 https://github.com/gaborbernat/pugs | gaborbernat/pugs: random pug quote provider
@@ -1873,6 +1875,8 @@ Async DEP
 * ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
 
 <!--
+https://www.youtube.com/watch?v=-7taKQnndfo&t=783s | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
+
 https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
 -->
 
@@ -1885,6 +1889,9 @@ Django Channels (Built on ASGI)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+https://speakerdeck.com/andrewgodwin/concurrency-to-channels | Concurrency to Channels // Speaker Deck
+https://speakerdeck.com/andrewgodwin/a-brief-history-of-channels
+
 https://www.aeracode.org/2018/02/02/channels-20/ | Channels 2.0 - Aeracode
 http://www.aeracode.org/2017/7/11/towards-channels-20/
 
