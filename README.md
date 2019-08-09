@@ -1249,6 +1249,7 @@ Carlton Gibson's Talks
 <!--
 https://twitter.com/weatheredpup/status/1157171428904488961
 
+Carlton Gibson and William S. Vincent
 https://djangochat.com/ | Django Chat Podcast
 
 https://data.djangoproject.com/
