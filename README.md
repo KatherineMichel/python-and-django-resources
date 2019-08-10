@@ -1667,6 +1667,7 @@ Strong and Weak Typing
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
+https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
 https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
 -->
 
