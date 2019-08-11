@@ -1,32 +1,15 @@
 # Python and Django- Contributing
 
 <!--
-https://2019.pycon-au.org/talks/just-add-await-retrofitting-async-into-django | PyCon AU 2019 | Just Add Await: Retrofitting Async Into Django
-
-Russel Keith-magee
-https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
-https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
+pip
+https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
+https://pypi.org/project/pip/ | pip · PyPI
 
 Guido
 https://us.pycon.org/2016/schedule/presentation/2266/
 
-http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/ | Top 20 EuroPython 2019 talks - Michał Karzyński
-
-https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
-
-https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
-
-https://2018.djangocontent.eu/hd/talk/MUAVUD/ | Growing old gracefully: on being a career programmer. :: DjangoCon Europe 2018 :: pretalx
-
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
-
-https://twitter.com/anthonypjshaw/status/1153188759065657345
-
-https://devguide.python.org/#contributing
-https://twitter.com/mariatta/status/1154436363946737664
 
 peg parser
 https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
@@ -34,21 +17,23 @@ https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
 https://en.wikipedia.org/wiki/Parsing_expression_grammar
 https://github.com/gvanrossum/pegen
 
+http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/ | Top 20 EuroPython 2019 talks - Michał Karzyński
+
+https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
+
+https://twitter.com/anthonypjshaw/status/1153188759065657345
+
+
+
+https://devguide.python.org/#contributing
+https://twitter.com/mariatta/status/1154436363946737664
+
 https://pipxproject.github.io/pipx/
 
-Black
-https://twitter.com/llanga/status/1001919374716948480 | Łukasz Langa on Twitter: "If you are really attached to your string quotes and that attachment was the one thing blocking you from adopting Black, the uncompromising #python code formatter, look here: https://t.co/q3QhYBeiru (Note that Black's recommendation on the matter doesn't change.)"
-https://github.com/ambv/black/commit/8ebbd268880f15834b70910a6dc61e1ee7596b7c | Add --skip-string-normalization · ambv/black@8ebbd26
-https://twitter.com/llanga/status/1153417052302053378
-https://twitter.com/llanga/status/1153417050024550401
 
-https://mail.python.org/mm3/archives/list/distutils-sig@python.org/thread/QT7SKORCF6OKWO3OVP5KO6XNGU2AR6TU/ | Mailman 3 Handing over default BDFL-Delegate responsibilities for packaging interoperability PEPs to Paul Moore - Distutils-SIG - python.org
 https://twitter.com/brettsky/status/1154908949956554752
-
-DEP
-https://github.com/FlipperPA/django-dep-default-project | FlipperPA/django-dep-default-project: A Django Enhancement Proposal (DEP) to make the default project more friendly to newcomers.
-
-
 
 https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
 
@@ -1043,6 +1028,9 @@ https://pypi.org/project/check-manifest/ | check-manifest · PyPI
 https://pypi.org/classifiers/ | Classifiers · PyPI
 https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
 
+https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
+https://pypi.org/project/keyring/ | keyring · PyPI
+
 
 https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
 
@@ -1118,6 +1106,7 @@ https://github.com/dephell/dephell | dephell/dephell: Python project management.
 https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
 https://pip.pypa.io/en/stable/user_guide/#requirements-files
 
+https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
 http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
 https://github.com/pypa/pipfile#the-concept
@@ -1247,6 +1236,8 @@ Carlton Gibson's Talks
 * [Carlton Gibson: Feeding the Pony: Contributing back to Django & How to make that work for you DjangoCon Europe 2019](https://2019.djangocon.eu/talks/feeding-the-pony-contributing-back-to-django-how-t/)
 
 <!--
+https://2018.djangocontent.eu/hd/talk/MUAVUD/ | Growing old gracefully: on being a career programmer. :: DjangoCon Europe 2018 :: pretalx
+
 https://twitter.com/weatheredpup/status/1157171428904488961
 
 Carlton Gibson and William S. Vincent
@@ -1430,6 +1421,8 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+https://mail.python.org/mm3/archives/list/distutils-sig@python.org/thread/QT7SKORCF6OKWO3OVP5KO6XNGU2AR6TU/ | Mailman 3 Handing over default BDFL-Delegate responsibilities for packaging interoperability PEPs to Paul Moore - Distutils-SIG - python.org
+
 https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/jannis-leidel/ | Nomination for | Python.org
 
 Elections
@@ -1476,6 +1469,10 @@ PEP Template
 
 DEPs (Django Enhancement Proposals)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+<!--
+https://github.com/FlipperPA/django-dep-default-project | FlipperPA/django-dep-default-project: A Django Enhancement Proposal (DEP) to make the default project more friendly to newcomers.
+-->
 
 ## Python Summits and Sprints
 
@@ -1527,6 +1524,14 @@ DEP 0008: Formatting Code with Black
 * [Accepted: DEP 0008: Formatting Code with Black](https://github.com/django/deps/blob/master/accepted/0008-black.rst)
 * [Andrew Godwin Tweet](https://twitter.com/andrewgodwin/status/1127027840296177666)
 * [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
+
+<!--
+Black
+https://twitter.com/llanga/status/1001919374716948480 | Łukasz Langa on Twitter: "If you are really attached to your string quotes and that attachment was the one thing blocking you from adopting Black, the uncompromising #python code formatter, look here: https://t.co/q3QhYBeiru (Note that Black's recommendation on the matter doesn't change.)"
+https://github.com/ambv/black/commit/8ebbd268880f15834b70910a6dc61e1ee7596b7c | Add --skip-string-normalization · ambv/black@8ebbd26
+https://twitter.com/llanga/status/1153417052302053378
+https://twitter.com/llanga/status/1153417050024550401
+-->
 
 pipenv
 * [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
@@ -1848,6 +1853,14 @@ https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | G
 
 ### Django Sync and Async Tools
 
+<!--
+Russel Keith-magee
+https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
+https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
+
+https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
+-->
+
 Sketching out a Django Redesign
 * [Tom Christie: Sketching out a Django Redesign (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
 
@@ -1877,6 +1890,8 @@ Async DEP
 * ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
 
 <!--
+https://2019.pycon-au.org/talks/just-add-await-retrofitting-async-into-django | PyCon AU 2019 | Just Add Await: Retrofitting Async Into Django
+
 https://www.youtube.com/watch?v=-7taKQnndfo&t=783s | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
 
 https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
@@ -1916,7 +1931,6 @@ https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-
 
 
 https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
@@ -2000,8 +2014,6 @@ https://twitter.com/indygreg/status/1143187250743668736 | indygreg on Twitter: "
 https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
 
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
-
-https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 
