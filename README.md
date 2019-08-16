@@ -481,6 +481,8 @@ Django Developers Mailing Lists, Forum and Slack
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 
 <!--
+https://people.djangoproject.com
+
 https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
 https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Mentorship - Google Groups
 https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
@@ -684,9 +686,11 @@ Method Resolution Order
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 <!--
-https://nedbatchelder.com/blog/200709/pythons_super_considered_harmful.html | Ned Batchelder: Python’s super (considered harmful)
-Co-operative multiple inheritance
-https://en.wikipedia.org/wiki/Dependency_injection | Dependency injection - Wikipedia
+https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
+https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
+https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+https://django-advanced-training.readthedocs.io/en/latest/features/class-based-views/ | Class based views - Advanced Django Training
 
 
 https://leanpub.com/insidethepythonvirtualmachine/read
