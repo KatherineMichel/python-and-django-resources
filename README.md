@@ -1,11 +1,13 @@
 # Python and Django- Contributing
 
 <!--
-Seeking a new maintainer for packaging.python.org and Twine.
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/M7VRNT5KP4YQ6UPVI4MN4IIWM2Z3IXCH/
+OpenSSL
 
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
+
+Seeking a new maintainer for packaging.python.org and Twine.
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/M7VRNT5KP4YQ6UPVI4MN4IIWM2Z3IXCH/
 
 "Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
 https://www.youtube.com/watch?v=HHrVBKZLolg
@@ -35,22 +37,8 @@ https://leanpub.com/insidethepythonvirtualmachine/read | Read Inside The Python 
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-Season of Docs
-https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
-https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
-https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
-
-http://python-gsoc.org/ | Python GSoC – Splash
-
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
-
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
 
 https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
 
@@ -113,6 +101,10 @@ Django People- Historical
 * [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
 * [Django Organization Repo People](https://github.com/orgs/django/people)
 
+<!--
+https://people.djangoproject.com
+-->
+
 Django Fellows
 * [Mariusz Felisiak GitHub](https://github.com/felixxm)
 * [Carlton Gibson GitHub](https://github.com/carltongibson)
@@ -142,7 +134,7 @@ People (List to be continued...)
 * [Guido van Rossum](https://gvanrossum.github.io/)
 * [Kushal Das](https://kushaldas.in/)
 * [Łukasz Langa](http://lukasz.langa.pl/)
-* [Mariatta](https://mariatta.ca/)
+* [Mariatta](https://mariatta.ca/) and [Mariatta Slideshare](https://www.slideshare.net/MariattaWijaya)
 * [Nick Coghlan](http://python-notes.curiousefficiency.org)
 * [Raymond Hettinger](https://rhettinger.wordpress.com/)
 * [Stéphane Wirtel](https://wirtel.be/)
@@ -171,7 +163,7 @@ Carl Meyer talk
 https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
 Talks
 
-https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
 https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
 
 Python 3 at Facebook 
@@ -207,43 +199,31 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ## Releases
 
+By OS
+* [The Microsoft Store Package](https://docs.python.org/3.7/using/windows.html#windows-store)
+* ["Who put Python in the Windows 10 May 2019 Update?"](https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/)
+* ["Future versions of macOS won't include scripting language runtimes by default... "](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_beta_5_release_notes)
+
 <!--
-Python Insider
-https://blog.python.org
-https://pythoninsider.blogspot.com/
-https://discuss.python.org Discussions on Python.org
 https://www.python.org/downloads
 
 https://docs.python.org/dev/whatsnew/
 https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.7.4rc2 documentation
 
+Python Insider
+https://blog.python.org
+https://pythoninsider.blogspot.com/
+https://discuss.python.org Discussions on Python.org
+
+
 https://twitter.com/hroncok/status/1147223223572058114 | Miro Hrončok on Twitter: "Thanks @EnCuKou @ncoghlan_dev @pumpichank @brettsky @WillingCarol https://t.co/o6JEQ5K1Ie This is a huge step forward in #Python 3 adoption on Linux!… https://t.co/GB8rcVQEYq"
 
-https://www.microsoft.com/en-us/p/python-38-beta/9mssztt1n39l?activetab=pivot:overviewtab | Get Python 3.8 (Beta) - Microsoft Store
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 
 http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
-https://docs.python.org/3/using/windows.html | 3. Using Python on Windows — Python 3.7.3 documentation
-https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
 
 https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
-https://twitter.com/phoikoi/status/1137219834402336768 | Peter Hull on Twitter: "Just gonna leave this here for you all to ponder: #deprecation #macos #python… "
--->
-
-## Performance
-
-<!--
-Performance
-
-https://speed.python.org/ | Python Speed Center
-
-https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
-
-https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
-
-https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
-https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
 -->
 
 ## Python 2 or 3, Python 2 EoL
@@ -267,10 +247,10 @@ Python 2 EOL Websites
 Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
-<!--
-https://www.harihareswara.net/sumana/2019/08/05/0
-https://twitter.com/ChangesetLLC/status/1158381487496015872
+Changeset Python 2 Sunsetting Initiative
+* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
 
+<!--
 https://pypi.org/project/six/ | six · PyPI
 
 https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
@@ -286,7 +266,7 @@ https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule 
 https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
-## High Level CPython and Django Contributing Info
+## Python Contributing Info and Docs
 
 CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython Wikipedia](http://en.wikipedia.org/wiki/CPython) 
@@ -296,19 +276,7 @@ CPython Bugs Dashboard
 
 CPython Pull Requests
 * [CPython Pull Requests](https://github.com/python/cpython/pulls)
-
-<!--
-Core PR Tool
-https://github.com/CuriousLearner/pulls | CuriousLearner/pulls: Get Files for all open Pull Requests
--->
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-Django Pull Requests
-* [Django Pull Requests](https://github.com/django/django/pulls)
-
-## Python Contributing Docs and Info
+* [Core PR Tool](https://github.com/CuriousLearner/pulls)
 
 CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
@@ -319,12 +287,7 @@ Python Status
 * ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
 * [Python Status](https://status.python.org)
 * [Python Status History](https://status.python.org/history)
-
-<!--
-https://github.com/python/psf-salt | python/psf-salt: PSF infrastructure configuration
-
- https://travis-ci.org/python/cpython/
--->
+* [CPython Travis CI](https://travis-ci.org/python/cpython/)
 
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
@@ -348,23 +311,89 @@ https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Dev
 https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
 
-https://devguide.python.org/experts/ | 21. Experts Index — Python Developer's Guide
-https://devguide.python.org/help/ | 2. Where to Get Help — Python Developer's Guide
-https://devguide.python.org/communication/ | 12. Following Python’s Development — Python Developer's Guide
-
 https://devguide.python.org/fixingissues/ | 9. Fixing “easy” Issues (and Beyond) — Python Developer's Guide
 https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python Developer's Guide
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+-->
 
+## CPython Experts, Mailing Lists, Core Developer Info, Permissions, Mentors
+
+CPython Experts Index
+* [CPython Experts Index](https://devguide.python.org/experts/)
+
+Mailing List and Permissions History
+* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
+* [Permissions History](https://devguide.python.org/developers/#permissions-history)
+* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
+* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
+* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
+
+<!--
+https://devguide.python.org/help/ | 2. Where to Get Help — Python Developer's Guide
+https://devguide.python.org/communication/ | 12. Following Python’s Development — Python Developer's Guide
+-->
+
+Core Developer Perspectives
+* [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
+
+<!--
+What is a Python Core Developer?
+https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
+https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
+
+https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
+http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
+
+https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
+
+http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
+https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
+
+python core developer mailing list - Google Search
+
+https://python.zulipchat.com
+https://mail.python.org/mailman3/lists/core-mentorship.python.org/
+https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
+-->
+
+Python Mentors
+* [Python Mentors](http://pythonmentors.com)
+
+Python Google Summer of Code
+* [Python Google Summer of Code](http://python-gsoc.org/)
+
+<!--
+Season of Docs
+https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
+https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
+-->
+
+## Python Performance and Testing
+
+<!--
 Regression Test Suite For Python Core Developers
 26.8. test — Regression tests package for Python
 https://docs.python.org/3/library/test.html
 26.9. test.support — Utilities for the Python test suite
 https://docs.python.org/3/library/test.html#module-test.support
+
+Performance
+
+https://speed.python.org/ | Python Speed Center
+
+https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
+
+https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
+
+https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
+https://github.com/python/performance | python/performance: Python Performance Benchmark Suite
 -->
 
-## Workflow Choices and Tools
+## CPython Workflow Choices and Tools
 
 Core Workflow Tools
 * [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
@@ -383,15 +412,16 @@ CPython GitHub Migration
 
 Python Environment
 * [xkcd: Python Environment](https://xkcd.com/1987)
+* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
-<!--
-Reality	 
-https://twitter.com/carltongibson/status/1135628987106025478 | Carlton Gibson on Twitter: "I have to force push about 8 times every time I do anything. At all. Ever.… "
-https://snarky.ca/deconstructing-xkcd-com-1987/ | Deconstructing xkcd.com/1987/
-https://twitter.com/gvanrossum/status/1072535194131984386 | Guido van Rossum on Twitter: "All the time! Just now I had to look up how re.split() works with optional capturing groups in the regex.… "	
-https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+Reality
+* [Guido van Rossum: "All the time! Just now I had to... "](https://twitter.com/gvanrossum/status/1072535194131984386)
+* [Jacob Kaplan-Moss: "I've literally given up on ideas... "](https://twitter.com/jacobian/status/737441987587018752 )
+* [Carlton Gibson: "I have to force push about 8 times every time... "](https://twitter.com/carltongibson/status/1135628987106025478)
 
+<!--
+Mariatta Tools
 https://github.com/bots-for-humanity
 
 https://github.com/python/miss-islington/issues
@@ -405,37 +435,18 @@ https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
 https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
 https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
 https://github.com/Mariatta/cloner
+
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
 -->
 
-## Python Mailing Lists, Core Developer Info, Permissions, Mentors, Diversity
+## Django Contributing Info and Docs
 
-Mailing List and Permissions History
-* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
-* [Permissions History](https://devguide.python.org/developers/#permissions-history)
-* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
-* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
-* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
 
-<!--
-Raymond Hettinger, "Being a Core Developer in Python", PyBay2016
-https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U
-
-https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
-
-http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
-https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
-
-python core developer mailing list - Google Search
-
-https://python.zulipchat.com
-https://mail.python.org/mailman3/lists/core-mentorship.python.org/
-https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
--->
-
-Python Mentors
-* [Python Mentors](http://pythonmentors.com)
-
-## Django Contributing Docs and Info
+Django Pull Requests
+* [Django Pull Requests](https://github.com/django/django/pulls)
 
 Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
@@ -449,18 +460,36 @@ Django Tickets
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
+Django Roadmaps
+* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
+* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
+
+Release Process
+* [Django’s Release Process](https://docs.djangoproject.com/en/dev/internals/release-process/)
+
 Release Cadence
 * [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
 
-Django, Releases, Announcements, and Roadmaps
-* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
+Django Blog and Announcements
+* [Django Blog](https://www.djangoproject.com/weblog/)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
+
+New Releases
+* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
+
+Release Notes
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
 * [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
 * [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
 * [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
 * [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
-* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+* [Supported Versions Policy](https://docs.djangoproject.com/en/dev/internals/release-process/#supported-versions-policy)
+
+Depreciation
+* [Depreciation](https://docs.djangoproject.com/en/dev/internals/deprecation/)
 
 Django Core Mentorship
 * [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
@@ -475,30 +504,18 @@ Django Developers Mailing Lists, Forum and Slack
 Django: Creating a new "Triage & Review Team"
 https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion
 
-https://people.djangoproject.com
-
 https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
 https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Mentorship - Google Groups
 https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
 -->
 
 <!--
-### New Releases
-https://www.djangoproject.com/weblog/2019/apr/01/django-22-released/
-https://www.djangoproject.com/weblog/2019/jul/01/security-releases/ | Django security releases issued: 2.2.3, 2.1.10 and 1.11.22 | Weblog | Django
-
-https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
-https://www.djangoproject.com/download/#supported-versions
-
-https://docs.djangoproject.com/en/dev/releases/
-
-https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
-https://docs.djangoproject.com/en/2.2/internals/release-process/
-https://docs.djangoproject.com/en/2.2/internals/deprecation/
+Upgrading Django to a newer version
+https://docs.djangoproject.com/en/dev/howto/upgrade-version/
+https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
+https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
 
 https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
-https://docs.djangoproject.com/en/2.2/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
 -->
 
 ## C Programming Language 
@@ -636,7 +653,6 @@ https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | P
 https://docs.python.org/3/library/stdtypes.html#class.__mro__
 https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
 https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
-https://django-advanced-training.readthedocs.io/en/latest/features/class-based-views/ | Class based views - Advanced Django Training
 
 
 https://leanpub.com/insidethepythonvirtualmachine/read
@@ -883,27 +899,20 @@ https://github.com/django/django/blob/master/django/contrib/auth/base_user.py |
 https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
-## Docs
+## CPython and Django Docs
 
-Sphinx and Django-Sphinx
-* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
-* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
-* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
-* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
+CPython Docs
+* [About These Documents](https://docs.python.org/3/about.html)
+
+Django Docs
+* [Writing Documentation](https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/)
+* [Writing Documentation: How Documentation is Organized](https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#how-the-documentation-is-organized)
 
 <!--
 https://devguide.python.org/#contributing
 https://twitter.com/mariatta/status/1154436363946737664
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
-
-https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
-
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#how-the-documentation-is-organized | Writing documentation | Django documentation | Django
 
 https://docs.python-guide.org/writing/style/ | Code Style — The Hitchhiker's Guide to Python
 https://github.com/realpython/python-guide | realpython/python-guide: Python best practices guidebook, written for humans.
@@ -1153,30 +1162,23 @@ Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
 * [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
 * ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
 
-<!--
-What is a Python Core Developer?
-https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
-https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
+Mariatta's Talk
+* [Mentorship: Mariatta's Talk](https://mail.python.org/pipermail/python-committers/2018-May/005389.html)
 
-https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
-http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
-
-https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18 | Steering Council nomination: Emily Morehouse - Users - Discussions on Python.org
-https://twitter.com/emilyemorehouse/status/1086682866094723078 | Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events, an anonymous user account appeared to challenge my nomination and credentials, suggesting three males to replace me. Friendly reminder that it’s not easy being a woman in tech, and these things happen all the time. https://t.co/8YIe1WDqTF"
-
-Mentorship
-https://mail.python.org/pipermail/python-committers/2018-May/005389.html | [python-committers] Proposing Mark Shannon to be a core developer
-
-https://mariatta.ca/
-https://www.slideshare.net/MariattaWijaya | Mariatta Wijaya, Flawed & disordered at Platform engineer | SlideShare
-
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
--->
+Trolling
+* [Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events... "](https://twitter.com/emilyemorehouse/status/1086682866094723078)
+* [Steering Council Nomination: Emily Morehouse](https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18)
 
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
+
+<!--
+Django Mentored Sprint
+https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
+https://t.co/XhmAKJbJks"
+https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
+-->
 
 ## Django- General
 
@@ -1190,20 +1192,8 @@ Carlton Gibson's Talks
 <!--
 https://2018.djangocontent.eu/hd/talk/MUAVUD/ | Growing old gracefully: on being a career programmer. :: DjangoCon Europe 2018 :: pretalx
 
+"@rixxtr says the first step to contributing to Django: acquire a ticket. Except... there are currently 1300 tickets and you click "view tickets" not "search" #PyConAU"
 https://twitter.com/weatheredpup/status/1157171428904488961
-
-Carlton Gibson and William S. Vincent
-https://djangochat.com/ | Django Chat Podcast
-
-https://data.djangoproject.com/
-
-Django Docs
-https://members.2019.djangocon.eu/conference/talk/BHV8UW/
-
-Django Sprint
-https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
-https://t.co/XhmAKJbJks"
-https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
 -->
 
 Dissolving Django Core
@@ -1237,16 +1227,16 @@ djangoproject.com Contributing
 
 ## Codes of Conduct and CLA
 
+PSF Code of Conduct Working Group
+* [PSF Code of Conduct Working Group](https://mail.python.org/pipermail/psf-community/2018-April/000488.html)
+
 Django Code of Conduct and CLA
 * [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
 
-<!--
-https://us.pycon.org/2019/about/code-of-conduct/ | Code of Conduct | PyCon 2019 in Cleveland, Ohio
-https://github.com/python/pycon-code-of-conduct
+## Python Software Foundation (PSF) Infrastructure
 
-https://mail.python.org/pipermail/psf-community/2018-April/000488.html | [PSF-Community] PSF Code of Conduct Work Group: call for membership applications
--->
+* [PSF Infrastructure Configuration GitHub](https://github.com/python/psf-salt)
 
 ## Python Software Foundation (PSF)
 
@@ -1512,6 +1502,8 @@ https://github.com/kennethreitz/homebrew-pythons
 ## Trends
 
 <!--
+https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
+
 https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
 
 https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
@@ -1521,8 +1513,6 @@ https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
 https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
 https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
@@ -1536,15 +1526,14 @@ https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zone
 
 ### Bots
 
+Mariatta- Bots
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
 <!--
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
 New- Bots
 https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-https://wiki.python.org/moin/BuildBot | BuildBot - Python Wiki
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
 
 https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
 https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
