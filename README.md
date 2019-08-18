@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+My CPython Issue and Pull Requests
+http://bugs.python.org/user26332
+
+
 OpenSSL
 
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
@@ -33,9 +37,6 @@ https://twitter.com/WillingCarol/status/1062231087743565824 | Carol Willing on T
 
 https://leanpub.com/insidethepythonvirtualmachine/read | Read Inside The Python Virtual Machine | Leanpub
 
-
-My CPython Issue and Pull Requests
-http://bugs.python.org/user26332
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
@@ -72,8 +73,6 @@ https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: Gi
 https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
-
-https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
 Very important!!!!!!!
 https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
@@ -1188,6 +1187,7 @@ Carlton Gibson's Talks
 <!--
 https://2018.djangocontent.eu/hd/talk/MUAVUD/ | Growing old gracefully: on being a career programmer. :: DjangoCon Europe 2018 :: pretalx
 
+https://www.youtube.com/watch?time_continue=4&v=xlbxa3rw5cw
 "@rixxtr says the first step to contributing to Django: acquire a ticket. Except... there are currently 1300 tickets and you click "view tickets" not "search" #PyConAU"
 https://twitter.com/weatheredpup/status/1157171428904488961
 -->
@@ -1301,10 +1301,7 @@ Python Sprints
 * [Python Sprints](https://python-sprints.github.io)
 
 <!--
-https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
-
 https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
-https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
 -->
 
 ### Python Tools and Official Status
@@ -1476,6 +1473,8 @@ Python History
 * [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
 
 <!--
+https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
+
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
 http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
 http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
