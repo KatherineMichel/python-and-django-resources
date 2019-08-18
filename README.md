@@ -1,11 +1,11 @@
 # Python and Django- Contributing
 
 <!--
+Seeking a new maintainer for packaging.python.org and Twine.
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/M7VRNT5KP4YQ6UPVI4MN4IIWM2Z3IXCH/
+
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
-
-Raymond Hettinger, "Being a Core Developer in Python", PyBay2016
-https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U
 
 "Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
 https://www.youtube.com/watch?v=HHrVBKZLolg
@@ -14,21 +14,13 @@ pip
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
 https://pypi.org/project/pip/ | pip · PyPI
 
-Guido- Type Annotations
-https://us.pycon.org/2016/schedule/presentation/2266/
-
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
 
 http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/ | Top 20 EuroPython 2019 talks - Michał Karzyński
 
 
-https://pipxproject.github.io/pipx/
-
-
 https://twitter.com/brettsky/status/1154908949956554752
-
-https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
 
 https://twitter.com/randal_olson/status/958389805259214849 | Randy Olson on Twitter: "One of the major reasons that #Python has been so successful is because it's an easy language to develop in and understand. Even if Python is sometimes slower than other languages, programmer time is always more expensive than compute time. https://t.co/x3rJHLrmvK #programming… https://t.co/TYhF2J4vfJ"
 https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - RHD Blog
@@ -425,6 +417,9 @@ Mailing List and Permissions History
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
 <!--
+Raymond Hettinger, "Being a Core Developer in Python", PyBay2016
+https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U
+
 https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
 
 http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
@@ -477,6 +472,9 @@ Django Developers Mailing Lists, Forum and Slack
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 
 <!--
+Django: Creating a new "Triage & Review Team"
+https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion
+
 https://people.djangoproject.com
 
 https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
@@ -1452,6 +1450,8 @@ Python Sprints
 * [Python Sprints](https://python-sprints.github.io)
 
 <!--
+https://t.co/vKIj9ZxFkT Please add it to our sprints page on the https://t.co/Wc1vN0gUrM wiki: https://t.co/gztlBuCjN6 Thanks."
+
 https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
 https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitter: "Want to run a sprint at EuroPython 2018 
 -->
@@ -1645,6 +1645,9 @@ Static Typing Tools
 * [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
 <!--
+Guido- Type Annotations
+https://us.pycon.org/2016/schedule/presentation/2266/
+
 https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
 
 http://mypy.readthedocs.io
