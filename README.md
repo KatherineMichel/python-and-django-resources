@@ -1814,6 +1814,9 @@ Async Added to Django 3.0
 * [Django ASGI handler](https://github.com/django/django/blob/master/django/core/handlers/asgi.py)
 
 <!--
+https://twitter.com/andrewgodwin/status/1153030952915890177
+https://groups.google.com/forum/#!msg/django-developers/5CVsR9FSqmg/UiswdhLECAAJ
+
 https://twitter.com/andrewgodwin/status/1157170693508759553
 http://aeracode.org/2018/02/19/python-async-simplified/
 https://code.djangoproject.com/wiki/AsyncProject
