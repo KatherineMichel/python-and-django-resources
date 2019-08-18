@@ -199,31 +199,24 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ## Releases
 
+General
+* [Downloads](https://www.python.org/downloads)
+* [What's New](https://docs.python.org/dev/whatsnew/)
+
 By OS
 * [The Microsoft Store Package](https://docs.python.org/3.7/using/windows.html#windows-store)
 * ["Who put Python in the Windows 10 May 2019 Update?"](https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/)
 * ["Future versions of macOS won't include scripting language runtimes by default... "](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_beta_5_release_notes)
+* ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
-https://www.python.org/downloads
-
-https://docs.python.org/dev/whatsnew/
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.7.4rc2 documentation
-
 Python Insider
 https://blog.python.org
 https://pythoninsider.blogspot.com/
 https://discuss.python.org Discussions on Python.org
 
-
-https://twitter.com/hroncok/status/1147223223572058114 | Miro Hrončok on Twitter: "Thanks @EnCuKou @ncoghlan_dev @pumpichank @brettsky @WillingCarol https://t.co/o6JEQ5K1Ie This is a huge step forward in #Python 3 adoption on Linux!… https://t.co/GB8rcVQEYq"
-
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-
-http://techrights.org/2019/02/06/microsoft-as-a-snake/ | The Evolution of Microsoft Embracing Python Like a Python Snake | Techrights
-
-https://mjtsai.com/blog/2019/06/04/scripting-languages-to-be-removed/ | Michael Tsai - Blog - Scripting Languages to Be Removed
 -->
 
 ## Python 2 or 3, Python 2 EoL
@@ -252,8 +245,6 @@ Changeset Python 2 Sunsetting Initiative
 
 <!--
 https://pypi.org/project/six/ | six · PyPI
-
-https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
 
 https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
 
@@ -329,32 +320,35 @@ Mailing List and Permissions History
 * [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
+Help and Communication
+* [Where to Get Help](https://devguide.python.org/help/)
+* [Communication](https://devguide.python.org/communication/)
+
 <!--
-https://devguide.python.org/help/ | 2. Where to Get Help — Python Developer's Guide
-https://devguide.python.org/communication/ | 12. Following Python’s Development — Python Developer's Guide
+https://python.zulipchat.com
 -->
 
 Core Developer Perspectives
 * [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
+* [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/)
 
 <!--
 What is a Python Core Developer?
 https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
 
-https://twitter.com/pytexas/status/1117069047135440896 | PyTexas on Twitter: "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
-http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/ | My Path to Becoming a Python Core Developer
-
-https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
+"My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
+https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s
 
 http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
 https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
 
 python core developer mailing list - Google Search
 
-https://python.zulipchat.com
 https://mail.python.org/mailman3/lists/core-mentorship.python.org/
 https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
+
+https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
 -->
 
 Python Mentors
@@ -380,8 +374,6 @@ Regression Test Suite For Python Core Developers
 https://docs.python.org/3/library/test.html
 26.9. test.support — Utilities for the Python test suite
 https://docs.python.org/3/library/test.html#module-test.support
-
-Performance
 
 https://speed.python.org/ | Python Speed Center
 
@@ -452,6 +444,20 @@ Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
 * [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
 
+Django Core Mentorship
+* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
+* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
+
+Django Developers Mailing Lists, Forum and Slack
+* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+* [Django Developers Slack](https://django-developers.herokuapp.com)
+
+<!--
+Django: Creating a new "Triage & Review Team"
+https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion
+-->
+
 Django Software
 * [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
 * [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
@@ -459,6 +465,10 @@ Django Software
 Django Tickets
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
+
+<!--
+https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
+-->
 
 Django Roadmaps
 * [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
@@ -491,30 +501,12 @@ Supported Versions
 Depreciation
 * [Depreciation](https://docs.djangoproject.com/en/dev/internals/deprecation/)
 
-Django Core Mentorship
-* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
-* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
-
-Django Developers Mailing Lists, Forum and Slack
-* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-* [Django Developers Slack](https://django-developers.herokuapp.com)
+Upgrading and Choices
+* [Upgrading Django to a Newer Version](https://docs.djangoproject.com/en/dev/howto/upgrade-version/)
+* [What Python Version Should I Use with Django](https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django)
+* [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
 
 <!--
-Django: Creating a new "Triage & Review Team"
-https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion
-
-https://groups.google.com/forum/#!forum/django-announce | (99+) django-announce – Google Groups
-https://groups.google.com/forum/#!forum/django-core-mentorship | Django Core Mentorship - Google Groups
-https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
--->
-
-<!--
-Upgrading Django to a newer version
-https://docs.djangoproject.com/en/dev/howto/upgrade-version/
-https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django
-https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version | FAQ: Installation | Django documentation | Django
-
 https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
 -->
 
@@ -542,9 +534,6 @@ https://github.com/willingc/pyladies-cpython/blob/master/Notes%20on%20Lecture%20
 http://python-history.blogspot.com/. A few highlights:
 http://python-history.blogspot.com/2013/11/the-history-of-bool-true-and-false.html
 http://python-history.blogspot.com/2013/11/story-of-none-true-false.html
-http://python-history.blogspot.com/2010/06/method-resolution-order.html
-http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
-http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
 http://python-history.blogspot.com/2009/03/dynamically-loaded-modules.html
 
 Various Topics
@@ -649,10 +638,17 @@ Method Resolution Order
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 <!--
-https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
-https://docs.python.org/3/library/stdtypes.html#class.__mro__
+https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
 https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
 https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+
+http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
+
+https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
 
 
 https://leanpub.com/insidethepythonvirtualmachine/read
@@ -1209,141 +1205,6 @@ https://github.com/django/djangoproject.com/pull/912 | add docker for local deve
 https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
 -->
 
-## python.org and djangoproject.com Contributing
-
-python.org Contributing
-* [python.org GitHub](https://github.com/python/pythondotorg)
-* [python.org Issues](https://github.com/python/pythondotorg/issues)
-* [python.org Staging](https://staging.python.org)
-* [python.org Read the Docs](https://pythondotorg.readthedocs.io)
-* [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
-* [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
-* [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
-
-djangoproject.com Contributing
-* [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
-* [code.djangoproject.com](https://code.djangoproject.com)
-* [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
-
-## Codes of Conduct and CLA
-
-PSF Code of Conduct Working Group
-* [PSF Code of Conduct Working Group](https://mail.python.org/pipermail/psf-community/2018-April/000488.html)
-
-Django Code of Conduct and CLA
-* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
-
-## Python Software Foundation (PSF) Infrastructure
-
-* [PSF Infrastructure Configuration GitHub](https://github.com/python/psf-salt)
-
-## Python Software Foundation (PSF)
-
-Python Software Foundation (PSF)
-* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
-* [PSF Annual Report 2019](https://www.python.org/psf/annual-report/2019)
-* [PSF Donation Matcher](https://matcher.pyfound.org)
-* [Legacy PSF Website](http://legacy.python.org)
-* [PSF Mission](https://www.python.org/psf/mission)
-* [PSF Bylaws](https://www.python.org/psf/bylaws)
-* [PSF Newsletter](https://www.python.org/psf/newsletter)
-* [PSF Awards](https://www.python.org/community/awards/psf-awards/)
-* [PSF Mailing List Info](https://mail.python.org/mailman/listinfo)
-
-Python- Members
-* [PSF Membership FAQ](https://www.python.org/psf/membership)
-* ["Who is allowed to vote?"](https://www.python.org/psf/membership/#who-is-allowed-to-vote)
-* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-Community
-* [Python Community](https://www.python.org/community)
-* [PSF Community Resources](https://github.com/python/psf-community-resources)
-* [PSF Community Info Page](https://mail.python.org/mailman/listinfo/psf-community)
-
-Positive Python
-* [#positivepython](http://www.positivepython.org/twitter.html)
-
-Sponsor Python
-* [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
-
-<!--
-https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
-
-http://pyfound.blogspot.com/2019/07/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
-
-http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
--->
-
-## Django Software Foundation
-
-Django Software Foundation
-* [DSF Community](https://www.djangoproject.com/community)
-* [DSF News & Events](https://www.djangoproject.com/weblog)
-* [DSF Foundation](https://www.djangoproject.com/foundation)
-* [DSF Fundraising](https://www.djangoproject.com/fundraising)
-* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
-
-Django Software Foundation Individual Membership
-* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
-
-History
-* [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
-
-## Python and Django History
-
-Python: "I came for the language but I stay for the community..."
-* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
-
-Django History
-* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
-* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
-* [Django Birthday Event](https://djangobirthday.com)
-* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
-* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
-* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
-* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
-
-State of Django
-* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
-* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
-* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
-
-About Django 
-* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
-
-## Python General
-
-Python
-* [Python Front Page](https://wiki.python.org/moin)
-* [Python GitHub](https://github.com/python)
-
-Python History
-* [The History of Python](http://python-history.blogspot.com)
-* [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
-* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
-* ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
-* [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
-
-<!--
-http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
-http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
-http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
-
-https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
-https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
-
-https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
--->
-
-Python Trends
-* [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
-* [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
-
-Python Surveys
-* [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
-* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
-
 ## Python Governance
 
 Python Authorities
@@ -1448,6 +1309,9 @@ https://twitter.com/europython/status/1019172899654119424 | EuroPython on Twitte
 
 ### Python Tools and Official Status
 
+PSF Infrastructure Configuration
+* [PSF Infrastructure Configuration GitHub](https://github.com/python/psf-salt)
+
 PSF Repos
 * [Python Software Foundation GitHub Organization](https://www.python.org/psf/github/)
 * [PSF GitHub](https://github.com/psf)
@@ -1498,6 +1362,139 @@ https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: 
 https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
 https://github.com/kennethreitz/homebrew-pythons
 -->
+
+## Python Software Foundation (PSF)
+
+Python Software Foundation (PSF)
+* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
+* [PSF Annual Report 2019](https://www.python.org/psf/annual-report/2019)
+* [PSF Donation Matcher](https://matcher.pyfound.org)
+* [Legacy PSF Website](http://legacy.python.org)
+* [PSF Mission](https://www.python.org/psf/mission)
+* [PSF Bylaws](https://www.python.org/psf/bylaws)
+* [PSF Newsletter](https://www.python.org/psf/newsletter)
+* [PSF Awards](https://www.python.org/community/awards/psf-awards/)
+* [PSF Mailing List Info](https://mail.python.org/mailman/listinfo)
+
+Python- Members
+* [PSF Membership FAQ](https://www.python.org/psf/membership)
+* ["Who is allowed to vote?"](https://www.python.org/psf/membership/#who-is-allowed-to-vote)
+* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+Community
+* [Python Community](https://www.python.org/community)
+* [PSF Community Resources](https://github.com/python/psf-community-resources)
+* [PSF Community Info Page](https://mail.python.org/mailman/listinfo/psf-community)
+
+Positive Python
+* [#positivepython](http://www.positivepython.org/twitter.html)
+
+Sponsor Python
+* [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
+
+<!--
+https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
+
+http://pyfound.blogspot.com/2019/07/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
+-->
+
+## Django Software Foundation
+
+Django Software Foundation
+* [DSF Community](https://www.djangoproject.com/community)
+* [DSF News & Events](https://www.djangoproject.com/weblog)
+* [DSF Foundation](https://www.djangoproject.com/foundation)
+* [DSF Fundraising](https://www.djangoproject.com/fundraising)
+* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
+
+Django Software Foundation Individual Membership
+* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
+History
+* [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
+
+## python.org and djangoproject.com Contributing
+
+python.org Contributing
+* [python.org GitHub](https://github.com/python/pythondotorg)
+* [python.org Issues](https://github.com/python/pythondotorg/issues)
+* [python.org Staging](https://staging.python.org)
+* [python.org Read the Docs](https://pythondotorg.readthedocs.io)
+* [python.org Read the Docs Install](https://pythondotorg.readthedocs.io/install.html) and [python.org Read the Docs Contributing](https://pythondotorg.readthedocs.io/contributing.html)
+* [Couldn't set up local environment](https://github.com/python/pythondotorg/issues/987)
+* [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
+
+djangoproject.com Contributing
+* [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
+* [code.djangoproject.com](https://code.djangoproject.com)
+* [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
+
+## Codes of Conduct and CLA
+
+PSF Code of Conduct Working Group
+* [PSF Code of Conduct Working Group](https://mail.python.org/pipermail/psf-community/2018-April/000488.html)
+
+Django Code of Conduct and CLA
+* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+## Python and Django History
+
+Python: "I came for the language but I stay for the community..."
+* [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
+
+Django History
+* [Jul 13, 2005 "Created basic repository structure"](https://github.com/django/django/commit/d6ded0e91bcdd2a8f7a221f6a5552a33fe545359)
+* [Born in the LFK](https://pyvideo.org/django-birthday/born-in-the-lfk.html)
+* [Django Birthday Event](https://djangobirthday.com)
+* [Django Project Tweet: Happy 10th Birthday Django](https://twitter.com/djangoproject/status/620639689599516672)
+* [Django Project Blog: Happy 10th Birthday Django](https://www.djangoproject.com/weblog/2015/jul/13/happy-10th-birthday-django)
+* [LJWorld: Happy Birthday Django](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django)
+* [LJWorld Redesign](http://www2.ljworld.com/news/2018/jun/26/redesign-ljworld)
+
+State of Django
+* [State of Django Panel (DjangoCon US 2018)](https://2018.djangocon.us/talk/state-of-django-panel)
+* [State of Django Panel Video (DjangoCon US 2018)](https://www.youtube.com/watch?v=TrAFQW7Wza0&t=356s)
+* [Jacob Kaplan-Moss State of Django (PyCon 2009)](https://www.slideshare.net/jacobian/state-of-django)
+
+About Django 
+* [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
+
+## Python General
+
+Python
+* [Python Front Page](https://wiki.python.org/moin)
+* [Python GitHub](https://github.com/python)
+
+Python History
+* [The History of Python](http://python-history.blogspot.com)
+* [Guido van Rossum: BDFL Python 3 retrospective, PyCascades 2018](https://www.youtube.com/watch?v=Oiw23yfqQy8)
+* [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword) in which Guido van Rossum explains how and why Python came into existence.
+* ["The Python Way"](https://mail.python.org/pipermail/python-list/1999-June/001951.html)
+* [PuPPy Annual Benefit](http://bdfl-gift.pspython.com) and [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg YouTube](https://www.youtube.com/watch?v=csL8DLXGNlU)
+
+<!--
+http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
+http://python-history.blogspot.com/2009/01/introduction-and-overview.html | The History of Python: Introduction and Overview
+http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The History of Python: A Brief Timeline of Python
+
+https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
+https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
+
+https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
+-->
+
+## Python Trends and Surveys
+
+Python Trends
+* [Stack Overflow Post: the incredible growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
+* [Hackernoon: "Could Python’s Popularity Outperform JavaScript in the Next Five Years?"](https://hackernoon.com/could-pythons-popularity-outperform-javascript-in-the-next-five-years-abed4e307224)
+
+Python Surveys
+* [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
+* [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
 
 ## Trends
 
