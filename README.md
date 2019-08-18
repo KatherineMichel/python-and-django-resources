@@ -23,7 +23,6 @@ https://pypi.org/project/pip/ | pip · PyPI
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
 
-http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/ | Top 20 EuroPython 2019 talks - Michał Karzyński
 
 
 https://twitter.com/brettsky/status/1154908949956554752
@@ -198,6 +197,13 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ## Releases
 
+<!--
+Python Insider
+https://blog.python.org
+https://pythoninsider.blogspot.com/
+https://discuss.python.org Discussions on Python.org
+-->
+
 General
 * [Downloads](https://www.python.org/downloads)
 * [What's New](https://docs.python.org/dev/whatsnew/)
@@ -209,11 +215,6 @@ By OS
 * ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
-Python Insider
-https://blog.python.org
-https://pythoninsider.blogspot.com/
-https://discuss.python.org Discussions on Python.org
-
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 -->
@@ -507,6 +508,9 @@ Upgrading and Choices
 
 <!--
 https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
+
+"Pony, Cat, and Paw: Getting Started with the Open Source Menagerie" - Tobias Kunze (PyCon AU 2019)
+https://www.youtube.com/watch?time_continue=4&v=xlbxa3rw5cw
 -->
 
 ## C Programming Language 
@@ -1147,34 +1151,6 @@ https://bigquery.cloud.google.com/table/the-psf:pypi.downloads | Google BigQuery
 https://mail.python.org/pipermail/distutils-sig/2013-June/021344.html | [Distutils] Download Counts on PyPI
 -->
 
-## Diversity
-
-Mentoring and diversity for Python (2018)
-* [Mentoring and diversity for Python](https://lwn.net/Articles/757950)
-
-Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
-* [Python Mentorship for Women](https://twitter.com/mariatta/status/737689052736978945)
-* [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
-* ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
-
-Mariatta's Talk
-* [Mentorship: Mariatta's Talk](https://mail.python.org/pipermail/python-committers/2018-May/005389.html)
-
-Trolling
-* [Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events... "](https://twitter.com/emilyemorehouse/status/1086682866094723078)
-* [Steering Council Nomination: Emily Morehouse](https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18)
-
-Python Master/Slave Terminology
-* [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
-* [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
-
-<!--
-Django Mentored Sprint
-https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
-https://t.co/XhmAKJbJks"
-https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
--->
-
 ## Django- General
 
 DSF Internship
@@ -1436,6 +1412,34 @@ PSF Code of Conduct Working Group
 Django Code of Conduct and CLA
 * [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
 * [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+
+## Diversity
+
+Mentoring and diversity for Python (2018)
+* [Mentoring and diversity for Python](https://lwn.net/Articles/757950)
+
+Python Mentorship for Women (Guido van Rossum), Female Core Devs (2016)
+* [Python Mentorship for Women](https://twitter.com/mariatta/status/737689052736978945)
+* [Mariatta and Allison Randal](https://twitter.com/matrixise/status/865678978677223429)
+* ["Imposter syndrome is real"](https://twitter.com/KatiMichel/status/865740929512071168)
+
+Mariatta's Talk
+* [Mentorship: Mariatta's Talk](https://mail.python.org/pipermail/python-committers/2018-May/005389.html)
+
+Trolling
+* [Emily Morehouse-Valcarcel on Twitter: "In a sadly unsurprising turn of events... "](https://twitter.com/emilyemorehouse/status/1086682866094723078)
+* [Steering Council Nomination: Emily Morehouse](https://discuss.python.org/t/steering-council-nomination-emily-morehouse/686/18)
+
+Python Master/Slave Terminology
+* [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
+* [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
+
+<!--
+Django Mentored Sprint
+https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
+https://t.co/XhmAKJbJks"
+https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
+-->
 
 ## Python and Django History
 
