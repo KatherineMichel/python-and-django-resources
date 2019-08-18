@@ -1,6 +1,15 @@
 # Python and Django- Contributing
 
 <!--
+Keynote: Python 2020 - Łukasz Langa - PyLondinium19
+https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
+
+Raymond Hettinger, "Being a Core Developer in Python", PyBay2016
+https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U
+
+"Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
+https://www.youtube.com/watch?v=HHrVBKZLolg
+
 pip
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
 https://pypi.org/project/pip/ | pip · PyPI
@@ -559,6 +568,7 @@ https://twitter.com/anthonypjshaw/status/1153188759065657345
 https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
 https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
 https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
+https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893
 
 https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
 
