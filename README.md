@@ -5,30 +5,14 @@ pip
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
 https://pypi.org/project/pip/ | pip · PyPI
 
-Guido
+Guido- Type Annotations
 https://us.pycon.org/2016/schedule/presentation/2266/
 
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
 
-peg parser
-https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
-https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
-https://en.wikipedia.org/wiki/Parsing_expression_grammar
-https://github.com/gvanrossum/pegen
-
 http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/ | Top 20 EuroPython 2019 talks - Michał Karzyński
 
-https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
-
-https://twitter.com/anthonypjshaw/status/1153188759065657345
-
-
-
-https://devguide.python.org/#contributing
-https://twitter.com/mariatta/status/1154436363946737664
 
 https://pipxproject.github.io/pipx/
 
@@ -283,6 +267,9 @@ Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
 <!--
+https://www.harihareswara.net/sumana/2019/08/05/0
+https://twitter.com/ChangesetLLC/status/1158381487496015872
+
 https://pypi.org/project/six/ | six · PyPI
 
 https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
@@ -561,6 +548,20 @@ Python Internals- General
 * [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
 
 <!--
+peg parser
+https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
+https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
+https://en.wikipedia.org/wiki/Parsing_expression_grammar
+https://github.com/gvanrossum/pegen
+
+https://twitter.com/anthonypjshaw/status/1153188759065657345
+
+https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
+
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
+
 https://devguide.python.org/#resources
 https://devguide.python.org/exploring/
 https://devguide.python.org/grammar/
@@ -885,6 +886,10 @@ Sphinx and Django-Sphinx
 * [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
 
 <!--
+https://devguide.python.org/#contributing
+https://twitter.com/mariatta/status/1154436363946737664
+https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
+
 https://docs.python.org/3/about.html | About these documents — Python 3.6.5 documentation
 
 https://docs.python.org/devguide/docquality.html?highlight=sphinx | 6. Helping with Documentation — Python Developer's Guide
@@ -898,8 +903,6 @@ https://github.com/realpython/python-guide | realpython/python-guide: Python bes
 Doc/build/html/index.html - Google Search
 https://github.com/python/core-workflow/issues/174 | pip install blurb successfully installs with Python < 3.5 · Issue #174 · python/core-workflow
 https://pypi.python.org/pypi/blurb
-
-https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
 -->
 
 ## Python and Django Git Assistance
@@ -1812,6 +1815,8 @@ Async Added to Django 3.0
 
 <!--
 https://twitter.com/andrewgodwin/status/1157170693508759553
+http://aeracode.org/2018/02/19/python-async-simplified/
+https://code.djangoproject.com/wiki/AsyncProject
 
 https://twitter.com/andrewgodwin/status/1143026705033916417
 https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
