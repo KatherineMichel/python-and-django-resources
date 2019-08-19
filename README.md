@@ -333,16 +333,11 @@ Help and Communication
 Core Developer Perspectives
 * [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
 * [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/)
+* [Mariatta Wijaya "What is a Python Core Developer?" (North Bay Python)](https://www.youtube.com/watch?v=xvft-_8djUI) and [Mariatta Wijaya "What is a Python Core Developer?" (PyCon 2018)](https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be)
 
 <!--
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
-
-North Bay Python
-What is a Python Core Developer?
-https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
-Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018
-https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
 
 "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
 https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s
@@ -583,6 +578,8 @@ Types of Parsers
 * [Parsing Expression Grammar Wikipedia](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 
 <!--
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
+
 peg parser
 https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
 https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
@@ -610,10 +607,6 @@ https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of 
 https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
 https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
 https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893
-
-
-
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
 
 Very Important!!!!!
 https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
