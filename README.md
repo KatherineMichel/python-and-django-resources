@@ -4,15 +4,17 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+To watch
+"Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
+https://www.youtube.com/watch?v=HHrVBKZLolg
+
+https://twitter.com/roguelynn/status/1149616135664357377 | __root__ on Twitter: "Slides, write up, and code for my advanced asyncio talk at #EuroPython: https://t.co/KSR90bnn9t - thanks all for coming to my talk! <3 #EuroPython2019"
+https://github.com/Netflix/chaosmonkey | Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+
+
 
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
-
-Seeking a new maintainer for packaging.python.org and Twine.
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/M7VRNT5KP4YQ6UPVI4MN4IIWM2Z3IXCH/
-
-"Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
-https://www.youtube.com/watch?v=HHrVBKZLolg
 
 pip
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
@@ -20,12 +22,6 @@ https://pypi.org/project/pip/ | pip · PyPI
 
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
-
-https://twitter.com/roguelynn/status/1149616135664357377 | __root__ on Twitter: "Slides, write up, and code for my advanced asyncio talk at #EuroPython: https://t.co/KSR90bnn9t - thanks all for coming to my talk! <3 #EuroPython2019"
-https://github.com/Netflix/chaosmonkey | Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-
-https://ep2019.europython.eu/talks/VJsGhga-build-your-python-extensions-with-rust/ | Build your Python Extensions with Rust! & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://github.com/pganssle-talks/europython-2019-rust-extensions | pganssle-talks/europython-2019-rust-extensions: Talk given at EuroPython 2019 on building Python extensions with Rust
 
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
 https://www.openssl.org/ | /index.html
@@ -42,18 +38,6 @@ https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python
 https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
 https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
 https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
-
-https://www.amazon.com/exec/obidos/tg/detail/-/0201100886/104-0162389-6419108 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
-
-Guided Tour
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--Aa3JxpUCv8jV2bO0P8tDYiBzAg-XY7KgFGn88zMNivGJ4Jzv | Yet another guided tour of CPython – Dropbox Paper
-https://paper.dropbox.com/doc/CPython-Guide--Aa1mwXuBRoch5~KfnC6Kkb9oAg-m7BQyPth6AIDUdZ6EmBNM | CPython Guide – Dropbox Paper
-
-Internals
-https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
-https://twitter.com/anthonypjshaw/status/1108136998324174849 | Anthony Shaw on Twitter: "Right!! The Cpython source code article is 50% done. I’ve had to practically memorise the C API for the parser, AST, tokenizer, pythonrun.c to get this far. But it’s all become clear now!!! Just need to explain the compiler and ceval.c How hard can that be?… https://t.co/V4Cfp4ClxF"
-
-https://wiki.python.org/psf/PackagingWG | PackagingWG - PSF Wiki
 
 
 
@@ -597,22 +581,17 @@ Python Internals- Philip Guo
 Python Internals- General
 * [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
 
+Types of Parsers
+* [LL Parser Wikipedia](https://en.wikipedia.org/wiki/LL_parser)
+* [Top-Down Parsing Wikipedia](https://en.wikipedia.org/wiki/Top-down_parsing)
+* [Parsing Expression Grammar Wikipedia](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
+
 <!--
 peg parser
 https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
 https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
-https://en.wikipedia.org/wiki/Parsing_expression_grammar
 https://github.com/gvanrossum/pegen
 https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
-
-https://twitter.com/anthonypjshaw/status/1153188759065657345
-
-https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
-https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893
-
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
 
 https://devguide.python.org/#resources
 https://devguide.python.org/exploring/
@@ -625,15 +604,31 @@ https://devguide.python.org/setup/#directory-structure
 Core- Interpreter Design	
 https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
 
+Internals
+https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
+https://twitter.com/anthonypjshaw/status/1108136998324174849 | Anthony Shaw on Twitter: "Right!! The Cpython source code article is 50% done. I’ve had to practically memorise the C API for the parser, AST, tokenizer, pythonrun.c to get this far. But it’s all become clear now!!! Just need to explain the compiler and ceval.c How hard can that be?… https://t.co/V4Cfp4ClxF"
+
+https://twitter.com/anthonypjshaw/status/1153188759065657345
+
+https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
+https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893
+
+
+
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
+
 Very Important!!!!!
 https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
 
 https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
 https://pyvideo.org/pycon-us-2012/stepping-through-cpython.html | PyVideo.org · Stepping Through CPython
 
-Guido van Rossum
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--AawmKdby8hJiAxFThbSAoJQfAg-XY7KgFGn88zMNivGJ4Jzv
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython-XY7KgFGn88zMNivGJ4Jzv
+
+Guided Tour
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--Aa3JxpUCv8jV2bO0P8tDYiBzAg-XY7KgFGn88zMNivGJ4Jzv | Yet another guided tour of CPython – Dropbox Paper
+https://paper.dropbox.com/doc/CPython-Guide--Aa1mwXuBRoch5~KfnC6Kkb9oAg-m7BQyPth6AIDUdZ6EmBNM | CPython Guide – Dropbox Paper
 
 Emily Morehouse
 https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
@@ -670,24 +665,49 @@ Kenneth Reitz Advice to Me
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
+Trees, Symbol Table, Control Flow Graph
+* [Tree Data Structure Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
+* [Parse Tree Wikipedia](https://en.wikipedia.org/wiki/Parse_tree)
+* [Syntax Tree Wikipedia](https://en.wikipedia.org/wiki/Syntax_tree )
+* [Abstract Syntax Tree Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+* [Symbol Tree Wikipedia](https://en.wikipedia.org/wiki/Symbol_table)
+* [Control Flow Graph Wikipedia](https://en.wikipedia.org/wiki/Control-flow_graph)
+
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 * [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
+Avoiding Race Condition, Mutex or Semaphore, Global Interpreter Lock (GIL)
+* [Race Condition- Software Wikipedia](https://en.wikipedia.org/wiki/Race_condition#Software)
+* [Mutual Exclusion (Mutex) Wikipedia](https://en.wikipedia.org/wiki/Mutual_exclusion)
+* [Semaphore Wikipedia](https://en.wikipedia.org/wiki/Semaphore_(programming))
+* [Global Interpreter Lock (GIL) Wikipedia](https://en.wikipedia.org/wiki/Global_interpreter_lock)
+
+Reference Counting and Garbage Collection
+* [Reference Counting Wikipedia](https://en.wikipedia.org/wiki/Reference_counting)
+* [Garbage Collection Wikipedia](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
+
 <!--
+https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
+https://en.wikipedia.org/wiki/Bytecode		
+https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
+https://en.wikipedia.org/wiki/Program_counter | Program counter - Wikipedia
+
 https://www.geeksforgeeks.org/mutex-vs-semaphore/ | Mutex vs Semaphore - GeeksforGeeks
-https://en.wikipedia.org/wiki/Mutual_exclusion | Mutual exclusion - Wikipedia
-https://en.wikipedia.org/wiki/Semaphore_(programming) | Semaphore (programming) - Wikipedia
 https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual | Virtual machine - Wikipedia
 
-
+New Style
 https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
 https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
 http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
 
+MRO
 http://python-history.blogspot.com/2010/06/method-resolution-order.html
 https://docs.python.org/3/library/stdtypes.html#class.__mro__
+
+Super
 https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
 
 http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka.html
@@ -705,27 +725,11 @@ https://en.wikipedia.org/wiki/Stack_machine | Stack machine - Wikipedia
 https://en.wikipedia.org/wiki/Stack_machine#Virtual_stack_machines | Stack machine - Wikipedia
 
 https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
-https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
-https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
-https://en.wikipedia.org/wiki/Program_counter | Program counter - Wikipedia
-https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
 
-https://en.wikipedia.org/wiki/Tree_(data_structure) | Tree (data structure) - Wikipedia 
-https://en.wikipedia.org/wiki/Parse_tree | Parse tree - Wikipedia
-https://en.wikipedia.org/wiki/Syntax_tree | Syntax tree - Wikipedia
-https://en.wikipedia.org/wiki/Abstract_syntax_tree | Abstract syntax tree - Wikipedia
-https://en.wikipedia.org/wiki/Symbol_table | Symbol table - Wikipedia
-https://en.wikipedia.org/wiki/Control-flow_graph | Control-flow graph - Wikipedia
 https://en.wikipedia.org/wiki/Short-circuit_evaluation | Short-circuit evaluation - Wikipedia
-https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
-https://en.wikipedia.org/wiki/Bytecode		
 
 https://en.wikipedia.org/wiki/Free_variables_and_bound_variables | Free variables and bound variables - Wikipedia
 https://en.wikipedia.org/wiki/Codec | Codec - Wikipedia
-https://en.wikipedia.org/wiki/Global_interpreter_lock | Global interpreter lock - Wikipedia
-https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
-https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
-https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 
 
 https://docs.python.org/2.0/ext/refcounts.html | 1.10 Reference Counts
@@ -906,6 +910,15 @@ https://python-ast-explorer.com/ | Python AST Explorer
 ## Django Source
 
 <!--
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
+https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
+https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
+https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
+
+
 https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
 https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
 
@@ -924,8 +937,11 @@ https://github.com/django/django/blob/master/django/http
 https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
 https://github.com/django/django/blob/master/django/http/response.py	
 
+https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
 https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
 https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
 https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
 	
 https://github.com/django/django/blob/master/django/shortcuts.py
@@ -1019,6 +1035,11 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://wiki.python.org/psf/PackagingWG | PackagingWG - PSF Wiki
+
+Seeking a new maintainer for packaging.python.org and Twine.
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/M7VRNT5KP4YQ6UPVI4MN4IIWM2Z3IXCH/
+
 https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
 
 https://twitter.com/di_codes/status/1135628015147388928 | Dustin Ingram on Twitter: "Ever wondered what is going on when you `pip install numpy` and it downloads some file with a name like `numpy-1.16.4-cp37-cp37m-manylinux1_x86_64.whl `? This is a built distribution, and @brettsky just published a great explanation of what every part of that filename means.… https://t.co/yJAXS13a2J"
