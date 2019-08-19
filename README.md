@@ -20,15 +20,6 @@ pip
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
 https://pypi.org/project/pip/ | pip · PyPI
 
-https://twitter.com/TalEinat/status/1156898504884785157
-https://twitter.com/gvanrossum/status/1156984705771683840
-
-https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
-https://www.openssl.org/ | /index.html
-https://python-security.readthedocs.io/ | Python Security — Python Security 0.0 documentation
-https://speakerdeck.com/tiran/europython-2019-auditing-hooks-and-security-transparency-for-cpython | EuroPython 2019: Auditing hooks and security transparency for CPython - Speaker Deck
-https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
-
 https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
 https://pypy.org/ | PyPy - Welcome to PyPy
 
@@ -49,8 +40,6 @@ https://github.com/pypa/integration-test | pypa/integration-test: ensure core pa
 https://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/ | YAPF - Yet Another Python Formatter - Eli Bendersky's website
 https://twitter.com/zzzeek/status/1080934145239461890 | mike bayer on Twitter: "flake8 does not read from pyproject.toml, black does not read from setup.cfg. this is going well"
 https://twitter.com/WillingCarol/status/1062231087743565824 | Carol Willing on Twitter: "Take the best of both: Use recommonmark to convert markdown in Sphinx. While I do like rst for all its cross-linking, markdown is easier for new users and contributors.… https://t.co/c0s4NAFvf3"
-
-https://leanpub.com/insidethepythonvirtualmachine/read | Read Inside The Python Virtual Machine | Leanpub
 
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
@@ -351,6 +340,9 @@ Core Developer Perspectives
 * [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/)
 
 <!--
+https://twitter.com/TalEinat/status/1156898504884785157
+https://twitter.com/gvanrossum/status/1156984705771683840
+
 What is a Python Core Developer?
 https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
@@ -384,9 +376,16 @@ https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 -->
 
-## Python Performance and Testing
+## Python Performance, Testing, Security
 
 <!--
+https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
+
+https://www.openssl.org/ | /index.html
+https://python-security.readthedocs.io/ | Python Security — Python Security 0.0 documentation
+https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+https://speakerdeck.com/tiran/europython-2019-auditing-hooks-and-security-transparency-for-cpython | EuroPython 2019: Auditing hooks and security transparency for CPython - Speaker Deck
+
 Regression Test Suite For Python Core Developers
 26.8. test — Regression tests package for Python
 https://docs.python.org/3/library/test.html
@@ -673,6 +672,13 @@ Trees, Symbol Table, Control Flow Graph
 * [Symbol Tree Wikipedia](https://en.wikipedia.org/wiki/Symbol_table)
 * [Control Flow Graph Wikipedia](https://en.wikipedia.org/wiki/Control-flow_graph)
 
+Code
+* [Byte Code Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
+* [Object Code Wikipedia](https://en.wikipedia.org/wiki/Object_code)
+* [Opcode Wikipedia](https://en.wikipedia.org/wiki/Opcode)
+* [Opcode Table Wikipedia](https://en.wikipedia.org/wiki/Opcode_table)
+* [Program Counter Wikipedia](https://en.wikipedia.org/wiki/Program_counter)
+
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 * [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
@@ -689,12 +695,6 @@ Reference Counting and Garbage Collection
 * [Garbage Collection Wikipedia](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 
 <!--
-https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
-https://en.wikipedia.org/wiki/Bytecode		
-https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
-https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
-https://en.wikipedia.org/wiki/Program_counter | Program counter - Wikipedia
-
 https://www.geeksforgeeks.org/mutex-vs-semaphore/ | Mutex vs Semaphore - GeeksforGeeks
 https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual | Virtual machine - Wikipedia
 
