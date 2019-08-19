@@ -5,8 +5,6 @@ My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
 
-OpenSSL
-
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
 
@@ -22,6 +20,40 @@ https://pypi.org/project/pip/ | pip · PyPI
 
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
+
+https://twitter.com/roguelynn/status/1149616135664357377 | __root__ on Twitter: "Slides, write up, and code for my advanced asyncio talk at #EuroPython: https://t.co/KSR90bnn9t - thanks all for coming to my talk! <3 #EuroPython2019"
+https://github.com/Netflix/chaosmonkey | Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+
+https://ep2019.europython.eu/talks/VJsGhga-build-your-python-extensions-with-rust/ | Build your Python Extensions with Rust! & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://github.com/pganssle-talks/europython-2019-rust-extensions | pganssle-talks/europython-2019-rust-extensions: Talk given at EuroPython 2019 on building Python extensions with Rust
+
+https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+https://www.openssl.org/ | /index.html
+https://python-security.readthedocs.io/ | Python Security — Python Security 0.0 documentation
+https://speakerdeck.com/tiran/europython-2019-auditing-hooks-and-security-transparency-for-cpython | EuroPython 2019: Auditing hooks and security transparency for CPython - Speaker Deck
+https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
+
+https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
+https://pypy.org/ | PyPy - Welcome to PyPy
+
+Blogs
+https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
+https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html | 27 languages to improve your Python | Curious Efficiency
+https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
+https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
+https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
+
+https://www.amazon.com/exec/obidos/tg/detail/-/0201100886/104-0162389-6419108 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
+
+Guided Tour
+https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--Aa3JxpUCv8jV2bO0P8tDYiBzAg-XY7KgFGn88zMNivGJ4Jzv | Yet another guided tour of CPython – Dropbox Paper
+https://paper.dropbox.com/doc/CPython-Guide--Aa1mwXuBRoch5~KfnC6Kkb9oAg-m7BQyPth6AIDUdZ6EmBNM | CPython Guide – Dropbox Paper
+
+Internals
+https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
+https://twitter.com/anthonypjshaw/status/1108136998324174849 | Anthony Shaw on Twitter: "Right!! The Cpython source code article is 50% done. I’ve had to practically memorise the C API for the parser, AST, tokenizer, pythonrun.c to get this far. But it’s all become clear now!!! Just need to explain the compiler and ceval.c How hard can that be?… https://t.co/V4Cfp4ClxF"
+
+https://wiki.python.org/psf/PackagingWG | PackagingWG - PSF Wiki
 
 
 
@@ -41,6 +73,8 @@ https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
 https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
+
+https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
 
 Linux
 https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
@@ -569,6 +603,7 @@ https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
 https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
 https://en.wikipedia.org/wiki/Parsing_expression_grammar
 https://github.com/gvanrossum/pegen
+https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
 
 https://twitter.com/anthonypjshaw/status/1153188759065657345
 
@@ -1366,6 +1401,8 @@ Sponsor Python
 * [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
 
 <!--
+https://twitter.com/ewa_jodlowska/status/1143609630528081921 | Ewa Jodlowska on Twitter: "Thank you @Podcast__init__ for letting me promote the PSF & how I've grown right along with it! I discuss history, operations, future PSF projects, challenges with fundraising & other resources, & how we can all continue to grow to be a healthy and strong community. Check it out!… https://t.co/7NtTWmKDZT"
+
 https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
 
 http://pyfound.blogspot.com/2019/07/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
