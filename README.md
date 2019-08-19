@@ -676,6 +676,12 @@ Method Resolution Order
 * [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
 
 <!--
+https://www.geeksforgeeks.org/mutex-vs-semaphore/ | Mutex vs Semaphore - GeeksforGeeks
+https://en.wikipedia.org/wiki/Mutual_exclusion | Mutual exclusion - Wikipedia
+https://en.wikipedia.org/wiki/Semaphore_(programming) | Semaphore (programming) - Wikipedia
+https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual | Virtual machine - Wikipedia
+
+
 https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
 https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
 http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
