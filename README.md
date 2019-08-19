@@ -21,7 +21,6 @@ https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — 
 https://pypi.org/project/pip/ | pip · PyPI
 
 https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
-https://pypy.org/ | PyPy - Welcome to PyPy
 
 Blogs
 https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
@@ -331,10 +330,6 @@ Help and Communication
 * [Where to Get Help](https://devguide.python.org/help/)
 * [Communication](https://devguide.python.org/communication/)
 
-<!--
-https://python.zulipchat.com
--->
-
 Core Developer Perspectives
 * [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
 * [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/)
@@ -343,8 +338,10 @@ Core Developer Perspectives
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
 
+North Bay Python
 What is a Python Core Developer?
 https://www.youtube.com/watch?v=xvft-_8djUI | Keynote - Mariatta Wijaya - YouTube
+Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018
 https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be | Mariatta Wijaya - What is a Python Core Developer? - PyCon 2018 - YouTube
 
 "My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
@@ -724,8 +721,6 @@ https://en.wikibooks.org/wiki/Microprocessor_Design/Instruction_Decoder | Microp
 https://en.wikipedia.org/wiki/Stack_machine | Stack machine - Wikipedia
 https://en.wikipedia.org/wiki/Stack_machine#Virtual_stack_machines | Stack machine - Wikipedia
 
-https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
-
 https://en.wikipedia.org/wiki/Short-circuit_evaluation | Short-circuit evaluation - Wikipedia
 
 https://en.wikipedia.org/wiki/Free_variables_and_bound_variables | Free variables and bound variables - Wikipedia
@@ -813,12 +808,14 @@ https://docs.python.org/3/library/os.html | os — Miscellaneous operating syste
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
 
+https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
+
 https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
 https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
 
 https://docs.python.org/3/library/inspect.html	
 		
-https://docs.python.org/3/library/symtable.html | 32.3. symtable — Access to the compiler’s symbol tables — Python 3.6.5 documentation	
+	
 2. Using the Python Interpreter	
 
 
@@ -829,7 +826,7 @@ https://docs.python.org/3/library/token.html | token — Constants used with Pyt
 
 https://docs.python.org/3.7/library/parser.html | parser — Access Python parse trees — Python 3.7.4rc2 documentation
 https://docs.python.org/3.6/library/parser.html#module-parse | 32.1. parser — Access Python parse trees — Python 3.6.9 documentation
-https://docs.python.org/3.7/library/symtable.html | symtable — Access to the compiler’s symbol tables — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/symtable.html | symtable — Access to the compiler’s symbol tables — Python 3.7.4rc2 documentation
 
 https://docs.python.org/3/reference/datamodel.html#customizing-class-creation | 3. Data model — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/datamodel.html#determining-the-appropriate-metaclass | 3. Data model — Python 3.7.4rc2 documentation
@@ -1035,6 +1032,10 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://packaging.python.org/overview/ | An Overview of Packaging for Python — Python Packaging User Guide
+https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.7.3rc1 documentation
+https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
+
 https://wiki.python.org/psf/PackagingWG | PackagingWG - PSF Wiki
 
 Seeking a new maintainer for packaging.python.org and Twine.
@@ -1573,6 +1574,7 @@ https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :
 https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
 
 Tools
+https://pypy.org/ | PyPy - Welcome to PyPy
 https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
 https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
@@ -1583,6 +1585,13 @@ https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on 
 https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
 https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+
+Paul
+https://github.com/pganssle-talks/pycon-ca-2018-clean-apis | pganssle-talks/pycon-ca-2018-clean-apis
+https://ep2019.europython.eu/talks/VJsGhga-build-your-python-extensions-with-rust/ | Build your Python Extensions with Rust! & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://github.com/pganssle-talks/europython-2019-rust-extensions | pganssle-talks/europython-2019-rust-extensions: Talk given at EuroPython 2019 on building Python extensions with Rust
+https://github.com/pganssle-talks/doc-exercises-lightning | pganssle-talks/doc-exercises-lightning: A lightning talk on Documentation Exercises
+https://pganssle.github.io/lightning-talks/python-variants/#/4 | variants slides
 
 http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
 https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
