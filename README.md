@@ -117,6 +117,9 @@ CPython Contributing Guides
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 
+CPython Source Code Guide
+* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide)
+
 Python Status
 * ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
 * [Python Status](https://status.python.org)
@@ -350,7 +353,6 @@ https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asynci
 https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
 https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
 
-https://realpython.com/cpython-source-code-guide
 
 Internals
 https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
