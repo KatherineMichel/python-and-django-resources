@@ -7,6 +7,7 @@ http://bugs.python.org/user26332
 Notable Talks
 
 Russel Keith-magee
+https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
 https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
 https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
 
@@ -15,19 +16,6 @@ https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | 
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
 
-To watch
-"Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
-https://www.youtube.com/watch?v=HHrVBKZLolg
-
-https://twitter.com/roguelynn/status/1149616135664357377 | __root__ on Twitter: "Slides, write up, and code for my advanced asyncio talk at #EuroPython: https://t.co/KSR90bnn9t - thanks all for coming to my talk! <3 #EuroPython2019"
-https://github.com/Netflix/chaosmonkey | Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-
-
-https://realpython.com/cpython-source-code-guide/
-
-pip
-https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
-https://pypi.org/project/pip/ | pip · PyPI
 
 Blogs
 https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
@@ -35,7 +23,6 @@ https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python
 https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
 https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
 https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
-
 
 
 https://twitter.com/brettsky/status/1154908949956554752
@@ -184,7 +171,15 @@ Release
 Release Managers
 * ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
+Regression Test Suite For Python Core Developers
+* [Regression Test Suite](https://docs.python.org/3/library/test.html)
+* [test.support — Utilities for the Python test suite](https://docs.python.org/3/library/test.html#module-test.support)
+
 <!--
+https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
+
+https://realpython.com/cpython-source-code-guide
+
 Draft tutorial
 https://cpython-core-tutorial.readthedocs.io/en/latest/
 
@@ -222,15 +217,12 @@ Help and Communication
 
 Core Developer Perspectives
 * [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
-* [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/)
+* [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/) and ["My path to becoming a core developer, @emilyemorehouse #pytexas2019… "](https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s)
 * [Mariatta Wijaya "What is a Python Core Developer?" (North Bay Python)](https://www.youtube.com/watch?v=xvft-_8djUI) and [Mariatta Wijaya "What is a Python Core Developer?" (PyCon 2018)](https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be)
 
 <!--
 https://twitter.com/TalEinat/status/1156898504884785157
 https://twitter.com/gvanrossum/status/1156984705771683840
-
-"My path to becoming a core developer, @emilyemorehouse #pytexas2019… "
-https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s
 
 http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
 https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
@@ -258,23 +250,24 @@ https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs
 https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
 -->
 
-## Python Performance, Testing, Security
+## Python Performance, Speed, and Security
+
+Security
+* [OpenSSL](https://www.openssl.org/)
+* [Python Security](https://python-security.readthedocs.io/)
+
+Speed
+* [Python Speed Center](https://speed.python.org/)
 
 <!--
-https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
+Tools
+https://pypy.org/ | PyPy - Welcome to PyPy
+https://cython.org/ | Cython: C-Extensions for Python
+https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
+https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
 
-https://www.openssl.org/ | /index.html
-https://python-security.readthedocs.io/ | Python Security — Python Security 0.0 documentation
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
 https://speakerdeck.com/tiran/europython-2019-auditing-hooks-and-security-transparency-for-cpython | EuroPython 2019: Auditing hooks and security transparency for CPython - Speaker Deck
-
-Regression Test Suite For Python Core Developers
-26.8. test — Regression tests package for Python
-https://docs.python.org/3/library/test.html
-26.9. test.support — Utilities for the Python test suite
-https://docs.python.org/3/library/test.html#module-test.support
-
-https://speed.python.org/ | Python Speed Center
 
 https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
 
@@ -352,11 +345,6 @@ Django Developers Mailing Lists, Forum and Slack
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 
-<!--
-Django: Creating a new "Triage & Review Team"
-https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion
--->
-
 Django Software
 * [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
 * [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
@@ -407,9 +395,6 @@ Upgrading and Choices
 
 <!--
 https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
-
-"Pony, Cat, and Paw: Getting Started with the Open Source Menagerie" - Tobias Kunze (PyCon AU 2019)
-https://www.youtube.com/watch?time_continue=4&v=xlbxa3rw5cw
 -->
 
 ## C Programming Language 
@@ -1129,6 +1114,9 @@ https://github.com/django/djangoproject.com/pull/912 | add docker for local deve
 https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
 -->
 
+Django Triage & Review Team
+* [Django: Creating a new "Triage & Review Team"](https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion)
+
 ## Python Governance
 
 Python Authorities
@@ -1275,6 +1263,8 @@ Records, Requests (HTTP for Humans), Requests HTML
 * [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
 
 <!--
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
 https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
@@ -1452,34 +1442,15 @@ Python Surveys
 ## Trends
 
 <!--
-https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
-
 https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
 
 https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
-
-Tools
-https://pypy.org/ | PyPy - Welcome to PyPy
-https://cython.org/ | Cython: C-Extensions for Python
-https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
-https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
 https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
 https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
-
-Paul
-https://github.com/pganssle-talks/pycon-ca-2018-clean-apis | pganssle-talks/pycon-ca-2018-clean-apis
-https://ep2019.europython.eu/talks/VJsGhga-build-your-python-extensions-with-rust/ | Build your Python Extensions with Rust! & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://github.com/pganssle-talks/europython-2019-rust-extensions | pganssle-talks/europython-2019-rust-extensions: Talk given at EuroPython 2019 on building Python extensions with Rust
-https://github.com/pganssle-talks/doc-exercises-lightning | pganssle-talks/doc-exercises-lightning: A lightning talk on Documentation Exercises
-https://pganssle.github.io/lightning-talks/python-variants/#/4 | variants slides
-
-http://pyfound.blogspot.com/2019/05/paul-ganssle-time-zones-in-standard.html | Python Software Foundation News: Paul Ganssle: Time Zones In The Standard Library
-https://pganssle-talks.github.io/pycon-us-2019-language-summit-tz/#/ | Time Zones in the Standard Library
 -->
 
 ### Bots
