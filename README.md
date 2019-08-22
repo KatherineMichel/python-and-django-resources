@@ -4,6 +4,7 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+
 Notable Talks
 
 Russel Keith-magee
@@ -17,19 +18,8 @@ Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
 
 
-Blogs
-https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
-https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html | 27 languages to improve your Python | Curious Efficiency
-https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
-https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
-https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
-
-
 https://twitter.com/brettsky/status/1154908949956554752
 
-https://twitter.com/randal_olson/status/958389805259214849 | Randy Olson on Twitter: "One of the major reasons that #Python has been so successful is because it's an easy language to develop in and understand. Even if Python is sometimes slower than other languages, programmer time is always more expensive than compute time. https://t.co/x3rJHLrmvK #programming… https://t.co/TYhF2J4vfJ"
-https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - RHD Blog
-https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
 https://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/ | YAPF - Yet Another Python Formatter - Eli Bendersky's website
 https://twitter.com/zzzeek/status/1080934145239461890 | mike bayer on Twitter: "flake8 does not read from pyproject.toml, black does not read from setup.cfg. this is going well"
 https://twitter.com/WillingCarol/status/1062231087743565824 | Carol Willing on Twitter: "Take the best of both: Use recommonmark to convert markdown in Sphinx. While I do like rst for all its cross-linking, markdown is easier for new users and contributors.… https://t.co/c0s4NAFvf3"
@@ -37,32 +27,6 @@ https://twitter.com/WillingCarol/status/1062231087743565824 | Carol Willing on T
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
-
-https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
-
-https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
-
-Linux
-https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
-http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
-https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
-http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
-https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
-http://man7.org/linux/man-pages/ | Linux man pages online
-https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
-
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-https://elixir-lang.org/ | Elixir
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
@@ -171,15 +135,7 @@ Release
 Release Managers
 * ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
-Regression Test Suite For Python Core Developers
-* [Regression Test Suite](https://docs.python.org/3/library/test.html)
-* [test.support — Utilities for the Python test suite](https://docs.python.org/3/library/test.html#module-test.support)
-
 <!--
-https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
-
-https://realpython.com/cpython-source-code-guide
-
 Draft tutorial
 https://cpython-core-tutorial.readthedocs.io/en/latest/
 
@@ -271,6 +227,9 @@ https://speakerdeck.com/tiran/europython-2019-auditing-hooks-and-security-transp
 
 https://www.python.org/doc/essays/list2str/ | Python Patterns - An Optimization Anecdote | Python.org
 
+https://twitter.com/randal_olson/status/958389805259214849 | Randy Olson on Twitter: "One of the major reasons that #Python has been so successful is because it's an easy language to develop in and understand. Even if Python is sometimes slower than other languages, programmer time is always more expensive than compute time. https://t.co/x3rJHLrmvK #programming… https://t.co/TYhF2J4vfJ"
+https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - RHD Blog
+
 https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
 
 https://github.com/python/performance/blob/master/README.rst | performance/README.rst at master · python/performance
@@ -324,79 +283,6 @@ https://github.com/Mariatta/cookiecutter_sprint_guide
 https://github.com/Mariatta/pep_cookiecutter
 -->
 
-## Django Contributing Info and Docs
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-Django Pull Requests
-* [Django Pull Requests](https://github.com/django/django/pulls)
-
-Django and Python Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-
-Django Core Mentorship
-* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
-* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
-
-Django Developers Mailing Lists, Forum and Slack
-* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-* [Django Developers Slack](https://django-developers.herokuapp.com)
-
-Django Software
-* [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
-* [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
-
-Django Tickets
-* [Tickets](https://code.djangoproject.com/query)
-* [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
-
-<!--
-https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
--->
-
-Django Roadmaps
-* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
-* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
-
-Release Process
-* [Django’s Release Process](https://docs.djangoproject.com/en/dev/internals/release-process/)
-
-Release Cadence
-* [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
-
-Django Blog and Announcements
-* [Django Blog](https://www.djangoproject.com/weblog/)
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-
-New Releases
-* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
-
-Release Notes
-* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
-* [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
-* [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
-* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
-* [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
-
-Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
-* [Supported Versions Policy](https://docs.djangoproject.com/en/dev/internals/release-process/#supported-versions-policy)
-
-Depreciation
-* [Depreciation](https://docs.djangoproject.com/en/dev/internals/deprecation/)
-
-Upgrading and Choices
-* [Upgrading Django to a Newer Version](https://docs.djangoproject.com/en/dev/howto/upgrade-version/)
-* [What Python Version Should I Use with Django](https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django)
-* [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
-
-<!--
-https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
--->
-
 ## C Programming Language 
 
 C Programming Language 
@@ -434,9 +320,6 @@ https://github.com/mitmproxy/mitmproxy/issues/1381
 
 ## CPython Interpreter and Internals
 
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
 Visualizing How Python Works  		
 * [Python Tutor](http://pythontutor.com)
 
@@ -447,12 +330,27 @@ Python Internals- Philip Guo
 Python Internals- General
 * [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
 
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+
 Types of Parsers
 * [LL Parser Wikipedia](https://en.wikipedia.org/wiki/LL_parser)
 * [Top-Down Parsing Wikipedia](https://en.wikipedia.org/wiki/Top-down_parsing)
 * [Parsing Expression Grammar Wikipedia](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 
 <!--
+Blogs
+https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
+https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html | 27 languages to improve your Python | Curious Efficiency
+https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
+https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
+https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
+
+https://realpython.com/cpython-source-code-guide
+
+Internals
+https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
+
 https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
 
 peg parser
@@ -471,12 +369,6 @@ https://devguide.python.org/setup/#directory-structure
 
 Core- Interpreter Design	
 https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
-
-Internals
-https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
-https://twitter.com/anthonypjshaw/status/1108136998324174849 | Anthony Shaw on Twitter: "Right!! The Cpython source code article is 50% done. I’ve had to practically memorise the C API for the parser, AST, tokenizer, pythonrun.c to get this far. But it’s all become clear now!!! Just need to explain the compiler and ceval.c How hard can that be?… https://t.co/V4Cfp4ClxF"
-
-https://twitter.com/anthonypjshaw/status/1153188759065657345
 
 https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
 https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
@@ -523,6 +415,44 @@ https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a
  Eli Bendersky	
 -->
 
+## CPython Helpers
+
+Regression Test Suite For Python Core Developers
+* [Regression Test Suite](https://docs.python.org/3/library/test.html)
+* [test.support — Utilities for the Python test suite](https://docs.python.org/3/library/test.html#module-test.support)
+
+Disassember
+* [Disassembler Wikipedia](https://en.wikipedia.org/wiki/Disassembler)
+
+<!--
+https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
+
+https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+
+https://docs.python.org/3/library/inspect.html	
+		
+2. Using the Python Interpreter	
+
+https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
+
+https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
+
+https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
+
+Linux
+https://twitter.com/brendangregg/status/1150796412931600384/photo/2
+https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
+https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
+http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
+https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
+http://man7.org/linux/man-pages/ | Linux man pages online
+https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+-->
+
 ## Python Source
 
 Kenneth Reitz Advice to Me 
@@ -536,6 +466,17 @@ Trees, Symbol Table, Control Flow Graph
 * [Abstract Syntax Tree Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 * [Symbol Tree Wikipedia](https://en.wikipedia.org/wiki/Symbol_table)
 * [Control Flow Graph Wikipedia](https://en.wikipedia.org/wiki/Control-flow_graph)
+
+<!--
+Abstract Syntax Trees
+https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/ast.html#abstract-grammar | ast — Abstract Syntax Trees — Python 3.7.2 documentation	
+https://docs.python.org/3/library/token.html | token — Constants used with Python parse trees — Python 3.7.4rc2 documentation
+
+https://docs.python.org/3.7/library/parser.html | parser — Access Python parse trees — Python 3.7.4rc2 documentation
+https://docs.python.org/3.6/library/parser.html#module-parse | 32.1. parser — Access Python parse trees — Python 3.6.9 documentation
+https://docs.python.org/3/library/symtable.html | symtable — Access to the compiler’s symbol tables — Python 3.7.4rc2 documentation
+-->
 
 Code
 * [Byte Code Wikipedia](https://en.wikipedia.org/wiki/Bytecode)
@@ -672,29 +613,7 @@ https://github.com/python/cpython/blob/master/Objects/frameobject.c | cpython/fr
 https://github.com/python/cpython/blob/master/Include/frameobject.h#L16 | cpython/frameobject.h at master · python/cpython
 https://github.com/python/cpython/blob/master/Python/bltinmodule.c | cpython/bltinmodule.c at master · python/cpython
 
-https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
-https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
 
-https://en.wikipedia.org/wiki/Disassembler | Disassembler - Wikipedia
-
-https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
-https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
-
-https://docs.python.org/3/library/inspect.html	
-		
-	
-2. Using the Python Interpreter	
-
-
-Abstract Syntax Trees
-https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.7.4rc2 documentation
-https://docs.python.org/3/library/ast.html#abstract-grammar | ast — Abstract Syntax Trees — Python 3.7.2 documentation	
-https://docs.python.org/3/library/token.html | token — Constants used with Python parse trees — Python 3.7.4rc2 documentation
-
-https://docs.python.org/3.7/library/parser.html | parser — Access Python parse trees — Python 3.7.4rc2 documentation
-https://docs.python.org/3.6/library/parser.html#module-parse | 32.1. parser — Access Python parse trees — Python 3.6.9 documentation
-https://docs.python.org/3/library/symtable.html | symtable — Access to the compiler’s symbol tables — Python 3.7.4rc2 documentation
 
 https://docs.python.org/3/reference/datamodel.html#customizing-class-creation | 3. Data model — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/datamodel.html#determining-the-appropriate-metaclass | 3. Data model — Python 3.7.4rc2 documentation
@@ -783,7 +702,6 @@ https://github.com/django/django/blob/master/django/template/response.py | djang
 https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
 https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
 
-
 https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
 https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
 
@@ -843,6 +761,79 @@ https://github.com/python/core-workflow/issues/174 | pip install blurb successfu
 https://pypi.python.org/pypi/blurb
 -->
 
+## Django Contributing Info and Docs
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Django Pull Requests
+* [Django Pull Requests](https://github.com/django/django/pulls)
+
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+
+Django Core Mentorship
+* [Django Core Mentorship Google Group](https://groups.google.com/forum/#!forum/django-core-mentorship)
+* [Django Core Mentorship Mailing List](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-core-mentorship)
+
+Django Developers Mailing Lists, Forum and Slack
+* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+* [Django Developers Slack](https://django-developers.herokuapp.com)
+
+Django Software
+* [Django Reporting Bugs and Requesting Features](https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/#reporting-bugs)
+* [Django Submitting a Patch](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/)
+
+Django Tickets
+* [Tickets](https://code.djangoproject.com/query)
+* [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
+
+<!--
+https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
+-->
+
+Django Roadmaps
+* [Django 2.1 Roadmap](https://code.djangoproject.com/wiki/Version2.1Roadmap) 
+* [Django Roadmap to 2.0](https://www.djangoproject.com/weblog/2015/jun/25/roadmap) 
+
+Release Process
+* [Django’s Release Process](https://docs.djangoproject.com/en/dev/internals/release-process/)
+
+Release Cadence
+* [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
+
+Django Blog and Announcements
+* [Django Blog](https://www.djangoproject.com/weblog/)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+New Releases
+* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
+
+Release Notes
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+* [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
+* [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
+* [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
+* [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+* [Supported Versions Policy](https://docs.djangoproject.com/en/dev/internals/release-process/#supported-versions-policy)
+
+Depreciation
+* [Depreciation](https://docs.djangoproject.com/en/dev/internals/deprecation/)
+
+Upgrading and Choices
+* [Upgrading Django to a Newer Version](https://docs.djangoproject.com/en/dev/howto/upgrade-version/)
+* [What Python Version Should I Use with Django](https://docs.djangoproject.com/en/dev/faq/install/#what-python-version-should-i-use-with-django)
+* [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
+
+<!--
+https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
+-->
+
 ## Python and Django Git Assistance
 
 Python and Django Git Bootcamps and Cheat Sheets
@@ -900,6 +891,8 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
+
 https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
 
 https://packaging.python.org/overview/ | An Overview of Packaging for Python — Python Packaging User Guide
