@@ -20,10 +20,6 @@ https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
 
 https://twitter.com/brettsky/status/1154908949956554752
 
-https://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/ | YAPF - Yet Another Python Formatter - Eli Bendersky's website
-https://twitter.com/zzzeek/status/1080934145239461890 | mike bayer on Twitter: "flake8 does not read from pyproject.toml, black does not read from setup.cfg. this is going well"
-https://twitter.com/WillingCarol/status/1062231087743565824 | Carol Willing on Twitter: "Take the best of both: Use recommonmark to convert markdown in Sphinx. While I do like rst for all its cross-linking, markdown is easier for new users and contributors.… https://t.co/c0s4NAFvf3"
-
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
@@ -339,6 +335,14 @@ Types of Parsers
 * [Parsing Expression Grammar Wikipedia](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 
 <!--
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
+
+peg parser
+https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
+https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
+https://github.com/gvanrossum/pegen
+https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
+
 Blogs
 https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
 https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html | 27 languages to improve your Python | Curious Efficiency
@@ -350,14 +354,6 @@ https://realpython.com/cpython-source-code-guide
 
 Internals
 https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
-
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
-
-peg parser
-https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
-https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
-https://github.com/gvanrossum/pegen
-https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
 
 https://devguide.python.org/#resources
 https://devguide.python.org/exploring/
@@ -1431,6 +1427,8 @@ Python Trends
 Python Surveys
 * [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
 * [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
+
+
 
 ## Trends
 
