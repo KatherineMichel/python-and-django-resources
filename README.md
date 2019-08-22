@@ -4,6 +4,17 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+Notable Talks
+
+Russel Keith-magee
+https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
+https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
+
+https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
+
+Keynote: Python 2020 - Łukasz Langa - PyLondinium19
+https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
+
 To watch
 "Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)
 https://www.youtube.com/watch?v=HHrVBKZLolg
@@ -12,15 +23,11 @@ https://twitter.com/roguelynn/status/1149616135664357377 | __root__ on Twitter: 
 https://github.com/Netflix/chaosmonkey | Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 
 
-
-Keynote: Python 2020 - Łukasz Langa - PyLondinium19
-https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
+https://realpython.com/cpython-source-code-guide/
 
 pip
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
 https://pypi.org/project/pip/ | pip · PyPI
-
-https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
 
 Blogs
 https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
@@ -908,6 +915,8 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 <!--
+https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
+
 https://packaging.python.org/overview/ | An Overview of Packaging for Python — Python Packaging User Guide
 https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.7.3rc1 documentation
 https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
@@ -1747,14 +1756,6 @@ https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | G
 -->
 
 ### Django Sync and Async Tools
-
-<!--
-Russel Keith-magee
-https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
-https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
-
-https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
--->
 
 Sketching out a Django Redesign
 * [Tom Christie: Sketching out a Django Redesign (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
