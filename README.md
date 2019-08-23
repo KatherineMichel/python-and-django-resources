@@ -112,10 +112,14 @@ CPython Pull Requests
 * [CPython Pull Requests](https://github.com/python/cpython/pulls)
 * [Core PR Tool](https://github.com/CuriousLearner/pulls)
 
-CPython Contributing Guides
+Official CPython Contributing Guides
 * [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+
+Victor Stinner CPython Contributing Guides
+* [Victor Stinner: Python Development Documentation](https://pythondev.readthedocs.io/)
+* [Victor Stinner: "Welcome to Tutorial to contribute to the CPython project’s documentation!"](https://cpython-core-tutorial.readthedocs.io)
 
 Python Status
 * ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
@@ -132,10 +136,8 @@ Release Managers
 * ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
 <!--
-Draft tutorial
-https://cpython-core-tutorial.readthedocs.io/en/latest/
+https://pythondev.readthedocs.io/internals.html
 
-https://pythondev.readthedocs.io/ (my most complete website)
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
 https://devguide.python.org/#quick-reference
@@ -325,6 +327,9 @@ CPython Source Code Guide
 PyLadies CPython Source Code Resource Issue
 * [PyLadies CPython Source Code Resource Issue](https://github.com/pyladies/pyladies-maintainers/issues/6 )
 
+Yet another guided tour of CPython
+* [Yet another guided tour of CPython](https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--Aa3JxpUCv8jV2bO0P8tDYiBzAg-XY7KgFGn88zMNivGJ4Jzv | Yet another guided tour of CPython – Dropbox Paper)
+
 CPython Internals
 * [Pablo Salgado: "The Soul of the Beast" YouTube](https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893) and [Pablo Salgado: "The Soul of the Beast"](https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/)
 * [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
@@ -334,6 +339,7 @@ CPython Internals
 * [Larry Hastings: "Stepping Through CPython"](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
 * [Allison Kaptur: "Bytes in the Machine: Inside the CPython interpreter"](https://www.youtube.com/watch?v=HVUTjQzESeo)
 * [Eli Bendersky: Python Internals Tag](https://eli.thegreenplace.net/tag/python-internals)
+* [Emily Morehouse CPython Guide](https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM) and [CPython Notes](https://github.com/emilyemorehouse/cpython-notes)
 
 Byterun
 * [Ned Batchelder Byterun GitHub](https://github.com/nedbat/byterun)
@@ -351,10 +357,15 @@ Types of Parsers
 * [Top-Down Parsing Wikipedia](https://en.wikipedia.org/wiki/Top-down_parsing)
 * [Parsing Expression Grammar Wikipedia](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 
+Python Virtual Machine
+* [Inside the Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)
+
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
 <!--
+https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
+
 https://devguide.python.org/#resources
 https://devguide.python.org/exploring/
 https://devguide.python.org/grammar/
@@ -362,19 +373,6 @@ https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — P
 https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
 https://devguide.python.org/setup/
 https://devguide.python.org/setup/#directory-structure
-
-Guided Tour
-https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--Aa3JxpUCv8jV2bO0P8tDYiBzAg-XY7KgFGn88zMNivGJ4Jzv | Yet another guided tour of CPython – Dropbox Paper
-https://paper.dropbox.com/doc/CPython-Guide--Aa1mwXuBRoch5~KfnC6Kkb9oAg-m7BQyPth6AIDUdZ6EmBNM | CPython Guide – Dropbox Paper
-
-Emily Morehouse
-https://paper.dropbox.com/doc/CPython-Guide-m7BQyPth6AIDUdZ6EmBNM
-https://paper.dropbox.com/doc/CPython-Guide--AX4Yimx33KaO7d4kBD7VIGVvAg-m7BQyPth6AIDUdZ6EmBNM
-https://github.com/emilyemorehouse/cpython-notes
-
-https://pythondev.readthedocs.io/internals.html
-
-https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
 
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
 https://github.com/aosabook/500lines/tree/master/interpreter	
@@ -510,8 +508,6 @@ http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka
 
 https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
 
-
-https://leanpub.com/insidethepythonvirtualmachine/read
 
 https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
 
