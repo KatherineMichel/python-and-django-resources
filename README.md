@@ -117,9 +117,6 @@ CPython Contributing Guides
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 
-CPython Source Code Guide
-* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide)
-
 Python Status
 * ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
 * [Python Status](https://status.python.org)
@@ -322,41 +319,42 @@ https://github.com/mitmproxy/mitmproxy/issues/1381
 Visualizing How Python Works  		
 * [Python Tutor](http://pythontutor.com)
 
-Python Internals- Philip Guo
+CPython Source Code Guide
+* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide)
+
+PyLadies CPython Source Code Resource Issue
+* [PyLadies CPython Source Code Resource Issue](https://github.com/pyladies/pyladies-maintainers/issues/6 )
+
+CPython Internals
+* [Pablo Salgado: "The Soul of the Beast" YouTube](https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893) and [Pablo Salgado: "The Soul of the Beast"](https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/)
 * [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
 * [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+* [Yaniv Aknin: Python’s Internals Tag](https://tech.blog.aknin.name/tag/internals/), [Yaniv Aknin: Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction), [Python’s Innards](https://tech.blog.aknin.name/category/my-projects/pythons-innards/), and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+* [Stéphane Wirtel: "Exploring Our Python Interpreter"](https://speakerdeck.com/matrixise/exploring-our-python-interpreter)
+* [Larry Hastings: "Stepping Through CPython"](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
+* [Allison Kaptur: "Bytes in the Machine: Inside the CPython interpreter"](https://www.youtube.com/watch?v=HVUTjQzESeo)
+* [Eli Bendersky: Python Internals Tag](https://eli.thegreenplace.net/tag/python-internals)
 
-Python Internals- General
-* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+Byterun
+* [Ned Batchelder Byterun GitHub](https://github.com/nedbat/byterun)
+* [Allison Kaptur at NYCPython: "Byterun, a Python Bytecode Interpreter"](https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython)
+	
+Core- Design of the CPython Compiler
+* [Design of the CPython Compiler](https://www.python.org/dev/peps/pep-0339/)
 
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+PEG Parser
+* [Guido van Rossum: PEG Parsers](https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c)
+* [Guido van Rossum: "Generating a PEG Parser"](https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9)
 
 Types of Parsers
 * [LL Parser Wikipedia](https://en.wikipedia.org/wiki/LL_parser)
 * [Top-Down Parsing Wikipedia](https://en.wikipedia.org/wiki/Top-down_parsing)
 * [Parsing Expression Grammar Wikipedia](https://en.wikipedia.org/wiki/Parsing_expression_grammar)
 
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+
 <!--
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
-
-peg parser
-https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c
-https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9
-https://github.com/gvanrossum/pegen
-https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
-
-Blogs
-https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
-https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html | 27 languages to improve your Python | Curious Efficiency
-https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
-https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
-https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
-
-
-Internals
-https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
-
 https://devguide.python.org/#resources
 https://devguide.python.org/exploring/
 https://devguide.python.org/grammar/
@@ -364,21 +362,6 @@ https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — P
 https://devguide.python.org/compiler/#abstract | 25. Design of CPython’s Compiler — Python Developer's Guide
 https://devguide.python.org/setup/
 https://devguide.python.org/setup/#directory-structure
-
-Core- Interpreter Design	
-https://www.python.org/dev/peps/pep-0339/ | PEP 339 -- Design of the CPython Compiler | Python.org	
-
-https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/ | The soul of the beast & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://ep2019.europython.eu/schedule/12-july?selected=ZJ7mNEK-the-soul-of-the-beast | EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://twitter.com/gjbernat/status/1149602391349583880 | Bernat Gabor on Twitter: "@pyblogsal has some mind blowing good slides presenting the python language grammar 😎 #EuroPython2019… "
-https://www.youtube.com/watch?v=ELI8WKiUmBY&feature=youtu.be&t=3893
-
-Very Important!!!!!
-https://github.com/pyladies/pyladies-maintainers/issues/6 | Guided tour to the CPython source code · Issue #6 · pyladies/pyladies-maintainers
-
-https://www.youtube.com/watch?v=XGF3Qu4dUqk | Stepping Through CPython - YouTube
-https://pyvideo.org/pycon-us-2012/stepping-through-cpython.html | PyVideo.org · Stepping Through CPython
-
 
 Guided Tour
 https://paper.dropbox.com/doc/Yet-another-guided-tour-of-CPython--Aa3JxpUCv8jV2bO0P8tDYiBzAg-XY7KgFGn88zMNivGJ4Jzv | Yet another guided tour of CPython – Dropbox Paper
@@ -393,24 +376,33 @@ https://pythondev.readthedocs.io/internals.html
 
 https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
 
-https://eli.thegreenplace.net/ | Eli Bendersky's website
-https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
-https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
-https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
-
-https://tech.blog.aknin.name/category/my-projects/pythons-innards/ | Python’s Innards | NIL: .to write(1) ~ help:about
-https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
-
-https://speakerdeck.com/matrixise/exploring-our-python-interpreter
-
 https://github.com/aosabook/500lines | aosabook/500lines: 500 Lines or Less	
 https://github.com/aosabook/500lines/tree/master/interpreter	
 http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 500 Lines or Less | A Python Interpreter Written in Python	
 https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
-https://www.youtube.com/watch?v=HVUTjQzESeo | Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015 - YouTube	
-https://www.slideshare.net/akaptur/byterun-a-python-bytecode-interpreter-at-nycpython | Byterun, a Python bytecode interpreter - Allison Kaptur at NYCPython	
-https://github.com/nedbat/byterun | nedbat/byterun: A Python implementation of a Python bytecode runner	
- Eli Bendersky	
+	
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
+
+https://github.com/gvanrossum/pegen
+https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
+
+Blogs
+https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
+https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html | 27 languages to improve your Python | Curious Efficiency
+https://vstinner.github.io/asyncio-proactor-cancellation-from-hell.html | Asyncio: Proactor Cancellation From Hell
+https://tirkarthi.github.io/programming/2019/05/08/f-string-debugging.html | f-string debugging in Python 3.8
+https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html | Overview of runtime audits in PEP 578
+
+Internals
+https://twitter.com/anthonypjshaw/status/1129228029698252800 | Anthony Shaw (アントニー・ショー) on Twitter: "Announcement: I’m writing a book on CPython internals. Hopefully published late 2019 or early 2020"
+
+https://tech.blog.aknin.name/2010/07/03/pythons-innards-code-objects/ | Python’s Innards: Code Objects | NIL: .to write(1) ~ help:about
+
+Eli Bendersky
+https://eli.thegreenplace.net/ | Eli Bendersky's website
+https://eli.thegreenplace.net/2009/11/28/python-internals-working-with-python-asts | Python internals: Working with Python ASTs - Eli Bendersky's website	
+https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1 | Python internals: Symbol tables, part 1 - Eli Bendersky's website	
+https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM - Eli Bendersky's website
 -->
 
 ## CPython Helpers
