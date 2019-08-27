@@ -44,6 +44,9 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
+Companies that Use Python
+* PyCon Slide
+
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
@@ -149,13 +152,6 @@ walt disney animations tudios
 * [Wayfair](https://github.com/wayfair)
 * [Yandex](https://github.com/yandex)
 * [Yelp](https://github.com/Yelp) 
-
-bank of america
-https://github.com/bankofamerica
-booz allen hamilton
-capital one
-new york life
-north western mutual
 
 Carl Meyer talk
 https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
