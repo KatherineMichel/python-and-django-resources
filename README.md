@@ -4,6 +4,34 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+Django Core Dev
+https://code.djangoproject.com/ | Django
+https://dashboard.djangoproject.com/ | Development dashboard | Django
+https://code.djangoproject.com/wiki/Reports | Reports – Django
+https://docs.djangoproject.com/en/2.2/internals/contributing/ | Contributing to Django | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/working-with-git/ | Working with Git and GitHub | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/ | Committing code | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/internals/contributing/committing-code/#committing-guidelines | Committing code | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/topics/testing/overview/ | Writing and running tests | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/unit-tests/ | Unit tests | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/unit-tests/#running-unit-tests | Unit tests | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/javascript/#javascript-patches | JavaScript | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy | Django’s release process | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/internals/release-process/#internal-release-deprecation-policy | Django’s release process | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/submitting-patches/#deprecating-a-feature | Submitting patches | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/internals/contributing/writing-documentation/#documenting-new-features | Writing documentation | Django documentation | Django
+
+https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
+
 
 Notable Talks
 
