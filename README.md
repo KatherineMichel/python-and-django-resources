@@ -704,6 +704,13 @@ Reference Counting and Garbage Collection
 * [Garbage Collection Wikipedia](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 
 <!--
+http://infolab.stanford.edu/~ullman/dragon/slides1.pdf | slides1.dvi
+http://www.informatik.uni-bremen.de/agbkb/lehre/ccfl/Material/ALSUdragonbook.pdf | ALSUdragonbook.pdf
+https://en.wikipedia.org/wiki/Source-to-source_compiler | Source-to-source compiler - Wikipedia
+https://www.geeksforgeeks.org/compiler-design-construction-of-ll1-parsing-table/ | Compiler Design | Construction of LL(1) Parsing Table - GeeksforGeeks
+
+https://github.com/python/cpython/blob/master/Lib/tokenize.py | cpython/tokenize.py at master · python/cpython
+
 https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
 https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
 https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
