@@ -4,31 +4,6 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-Django Core Dev
-https://code.djangoproject.com/ | Django
-https://dashboard.djangoproject.com/ | Development dashboard | Django
-https://code.djangoproject.com/wiki/Reports | Reports – Django
-https://docs.djangoproject.com/en/2.2/internals/contributing/ | Contributing to Django | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/working-with-git/ | Working with Git and GitHub | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/ | Committing code | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/internals/contributing/committing-code/#committing-guidelines | Committing code | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/topics/testing/overview/ | Writing and running tests | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/unit-tests/ | Unit tests | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/unit-tests/#running-unit-tests | Unit tests | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/javascript/#javascript-patches | JavaScript | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy | Django’s release process | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/internals/release-process/#internal-release-deprecation-policy | Django’s release process | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/submitting-patches/#deprecating-a-feature | Submitting patches | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/internals/contributing/writing-documentation/#documenting-new-features | Writing documentation | Django documentation | Django
 
 https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
 
@@ -361,6 +336,23 @@ https://devguide.python.org/runtests/ | 4. Running & Writing Tests — Python De
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 -->
 
+<!--
+https://devguide.python.org/triaging/ | 11. Triaging an Issue — Python Developer's Guide
+https://devguide.python.org/devcycle/#devcycle | 17. Development Cycle — Python Developer's Guide
+
+https://devguide.python.org/setup/#compiling | 1. Getting Started — Python Developer's Guide
+
+https://devguide.python.org/pullrequest/#good-prs | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://devguide.python.org/pullrequest/#patchcheck | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://devguide.python.org/pullrequest/#good-commits | 3. Lifecycle of a Pull Request — Python Developer's Guide
+
+https://devguide.python.org/runtests/#runtests | 4. Running & Writing Tests — Python Developer's Guide
+
+https://devguide.python.org/gitbootcamp/#git-pr | 31. Git Bootcamp and Cheat Sheet — Python Developer's Guide
+
+https://www.python.org/dev/peps/pep-0387/ | PEP 387 -- Backwards Compatibility Policy | Python.org
+-->
+
 ## CPython Experts, Mailing Lists, Core Developer Info, Permissions, Mentors
 
 CPython Experts Index
@@ -572,6 +564,15 @@ Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
 <!--
+https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
+https://medium.com/@gvanrossum_83706/left-recursive-peg-grammars-65dab3c580e1 | Left-recursive PEG grammars - Guido van Rossum - Medium
+https://medium.com/@gvanrossum_83706/visualizing-peg-parsing-93a36f259423 | Visualizing PEG Parsing - Guido van Rossum - Medium
+https://github.com/gvanrossum/pegen
+https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
+
+https://realpython.com/cpython-source-code-guide/#the-python-language-specification | Your Guide to the CPython Source Code – Real Python
+
+
 https://intopythoncom.files.wordpress.com/2017/04/internalsofcpython3-6-1.pdf
 
 https://devguide.python.org/#resources
@@ -588,9 +589,6 @@ http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 50
 https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
 	
 https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
-
-https://github.com/gvanrossum/pegen
-https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
 
 Blogs
 https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
@@ -621,6 +619,8 @@ Disassember
 * [Disassembler Wikipedia](https://en.wikipedia.org/wiki/Disassembler)
 
 <!--
+https://github.com/python/pyperformance | python/pyperformance: Python Performance Benchmark Suite
+
 https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
 https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
@@ -654,6 +654,13 @@ https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpa
 Kenneth Reitz Advice to Me 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
+
+Automata
+* [Automata-Based Programming Wikipedia](https://en.wikipedia.org/wiki/Automata-based_programming)
+
+The Two Types of Finite Automata
+* [Nondeterministic Finite Automaton Wikipedia](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton)
+* [Deterministic Finite Automaton Wikipedia](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)
 
 Trees, Symbol Table, Control Flow Graph
 * [Tree Data Structure Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
@@ -697,6 +704,14 @@ Reference Counting and Garbage Collection
 * [Garbage Collection Wikipedia](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 
 <!--
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
+https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
+https://en.wikipedia.org/wiki/Memory_leak | Memory leak - Wikipedia
+https://en.wikipedia.org/wiki/Circuit_(computer_science) | Circuit (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+
 https://www.geeksforgeeks.org/mutex-vs-semaphore/ | Mutex vs Semaphore - GeeksforGeeks
 https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual | Virtual machine - Wikipedia
 
@@ -963,6 +978,10 @@ Django GitHub
 Django Pull Requests
 * [Django Pull Requests](https://github.com/django/django/pulls)
 
+Django Bug Tracker, Wiki, and Development Dashboard
+* [Django Bug Tracker and Wiki](https://code.djangoproject.com)
+* [Django Development Dashboard](https://dashboard.djangoproject.com)
+
 Django and Python Contributing
 * [Django Internals](https://docs.djangoproject.com/en/dev/internals)
 * [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
@@ -1025,7 +1044,33 @@ Upgrading and Choices
 * [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
 
 <!--
-https://docs.djangoproject.com/en/2.2/releases/2.0/#python-compatibility | Django 2.0 release notes | Django documentation | Django
+https://twitter.com/andrewgodwin/status/1158258293141172225 | Andrew Godwin on Twitter: "Lots of good Django progress at the #pyconau sprints so far - async views branch has less than 10 failures, asgiref has had several fixes, and several parts of the community pages are getting cleaned up!" / Twitter
+https://twitter.com/carltongibson/status/1158345931491819520 | Carlton Gibson on Twitter: "From far away, my #pyconau sprints hero is @rixxtr for giving much needed love to https://t.co/tJXlvbdFNW and related projects such as djangopeople. Super stuff! 🏅 https://t.co/regbuogwiU✓&amp;q=+is%3Apr+author%3Arixx+" / Twitter
+
+https://docs.djangoproject.com/en/dev/releases/dev/#python-compatibility | Django 2.0 release notes | Django documentation | Django
+
+https://code.djangoproject.com/wiki/Reports | Reports – Django
+https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/working-with-git/ | Working with Git and GitHub | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/ | Committing code | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/#committing-guidelines | Committing code | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/topics/testing/overview/ | Writing and running tests | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/ | Unit tests | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-unit-tests | Unit tests | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-patches | JavaScript | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/release-process/#supported-versions-policy | Django’s release process | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-deprecation-policy | Django’s release process | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/#deprecating-a-feature | Submitting patches | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/ | Writing documentation | Django documentation | Django
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#documenting-new-features | Writing documentation | Django documentation | Django
 -->
 
 ## Python and Django Git Assistance
@@ -1323,6 +1368,10 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+https://twitter.com/llanga/status/1156568264396419073 | Łukasz Langa on Twitter: "@zooba Well, the Steering Council can *and should* set a roadmap for Python's next decade. I'm talking about it in my keynote. But what not even the SC can do is tell a group of people to *abandon* a particular use case. For example, imagine they told MicroPython to drop their project." / Twitter
+https://twitter.com/brettsky/status/1156684427486879745 | Brett Cannon on Twitter: "@zooba I would love to do it as well, but without staff to help make those plans happen the best we can offer is the vision document we're working on to try to coax ppl in a certain direction along with a longer time horizon to compensate for volunteer (un)availability" / Twitter
+https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md | rfcs/2657-roadmap-2019.md at master · rust-lang/rfcs
+
 https://mail.python.org/mm3/archives/list/distutils-sig@python.org/thread/QT7SKORCF6OKWO3OVP5KO6XNGU2AR6TU/ | Mailman 3 Handing over default BDFL-Delegate responsibilities for packaging interoperability PEPs to Paul Moore - Distutils-SIG - python.org
 
 https://www.python.org/nominations/elections/2019-python-software-foundation-board/nominees/jannis-leidel/ | Nomination for | Python.org
@@ -1430,6 +1479,8 @@ DEP 0008: Formatting Code with Black
 * [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
 
 <!--
+https://github.com/python/psf-infra-meta/issues | Issues · python/psf-infra-meta
+
 Black
 https://twitter.com/llanga/status/1001919374716948480 | Łukasz Langa on Twitter: "If you are really attached to your string quotes and that attachment was the one thing blocking you from adopting Black, the uncompromising #python code formatter, look here: https://t.co/q3QhYBeiru (Note that Black's recommendation on the matter doesn't change.)"
 https://github.com/ambv/black/commit/8ebbd268880f15834b70910a6dc61e1ee7596b7c | Add --skip-string-normalization · ambv/black@8ebbd26
@@ -1528,8 +1579,6 @@ python.org Contributing
 
 djangoproject.com Contributing
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
-* [code.djangoproject.com](https://code.djangoproject.com)
-* [dashboard.djangoproject.com](https://dashboard.djangoproject.com)
 
 ## Codes of Conduct and CLA
 
@@ -1989,6 +2038,7 @@ https://www.python.org/dev/peps/pep-0492/ | PEP 492 -- Coroutines with async and
 http://libuv.org/
 https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
 
+https://github.com/MagicStack/uvloop/releases/tag/v0.13.0 | Release v0.13.0 · MagicStack/uvloop
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
 https://members.2019.djangocon.eu/conference/talk/GQKCWS/
