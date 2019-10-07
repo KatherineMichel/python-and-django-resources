@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://github.com/carltongibson/dcus2019sprints
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
