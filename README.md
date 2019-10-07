@@ -1,6 +1,16 @@
 # Python and Django- Contributing
 
 <!--
+https://twitter.com/cfactoid/status/1180599186913296384
+
+https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
+https://medium.com/@gvanrossum_83706/a-meta-grammar-for-peg-parsers-3d3d502ea332
+https://medium.com/@gvanrossum_83706/adding-actions-to-a-peg-grammar-d5e00fa1092f
+
+https://twitter.com/jezdez/status/1178738405766844417
+
+https://www.python.org/downloads/release/python-380b4/
+https://github.com/vstinner/pysandbox/
 https://github.com/carltongibson/dcus2019sprints
 https://twitter.com/KatiMichel/status/1177419622389125120
 https://www.python.org/doc/sunset-python-2/
@@ -9,7 +19,6 @@ https://twitter.com/mitsuhiko/status/1174577922172248064
 https://twitter.com/carltongibson/status/1179011386036367362
 https://twitter.com/carltongibson/status/1177987774785306624
 https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
-https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
 https://twitter.com/di_codes/status/1178741440056352768
 https://github.com/pypa/manylinux
 https://twitter.com/_tomchristie/status/1179780064927535104
@@ -30,6 +39,37 @@ https://github.com/python/typeshed
 https://twitter.com/di_codes/status/1176241499744296960
 https://github.com/andrewgodwin/django
 https://github.com/django/django/pull/10725
+https://github.com/typeddjango
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+https://www.python.org/dev/peps/pep-0589/
+https://twitter.com/pganssle/status/1180224777350520835
+https://twitter.com/webKnjaZ/status/1173570029394288640
+machine verified documentation
+pep 483 484
+https://github.com/django/django/tree/master/docs/internals
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/
+http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html#rst-index
+https://code.djangoproject.com/ticket/30010
+https://code.djangoproject.com/query
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/
+https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/#committing-guidelines
+https://docs.djangoproject.com/en/dev/internals/contributing/triaging-tickets/#needs-documentation
+https://docs.djangoproject.com/en/2.2/internals/contributing/new-contributors/#first-steps
+https://code.djangoproject.com/wiki/Version3.1Roadmap
+https://docs.djangoproject.com/en/2.2/topics/testing/overview/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/#patch-review-checklist
+https://twitter.com/voidspace/status/1172622267177676800
+https://github.com/django/django-docker-box
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://pypi.org/project/packaging/19.2/
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+https://twitter.com/webKnjaZ/status/1176609845123923968
+https://twitter.com/webKnjaZ/status/1176609838694043648
+https://github.com/orf/django-docker-box/issues/1
+https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/#committing-guidelines
 
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
