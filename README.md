@@ -2,6 +2,34 @@
 
 <!--
 https://github.com/carltongibson/dcus2019sprints
+https://twitter.com/KatiMichel/status/1177419622389125120
+https://www.python.org/doc/sunset-python-2/
+https://twitter.com/wsv3000/status/1181210572697800706
+https://twitter.com/mitsuhiko/status/1174577922172248064
+https://twitter.com/carltongibson/status/1179011386036367362
+https://twitter.com/carltongibson/status/1177987774785306624
+https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
+https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
+https://twitter.com/di_codes/status/1178741440056352768
+https://github.com/pypa/manylinux
+https://twitter.com/_tomchristie/status/1179780064927535104
+https://www.djangoproject.com/weblog/2012/mar/13/py3k/
+https://twitter.com/pyladies/status/1172228140724293632
+https://twitter.com/qubitron/status/1176977528201723906
+https://twitter.com/glasnt/status/1176980071665455104
+https://twitter.com/KatiMichel/status/1177382424600182784
+https://github.com/django/django/pull/11838
+https://docs.djangoproject.com/en/2.2/topics/i18n/translation/#module-django.views.i18n
+https://twitter.com/patio11/status/1141840154719481856
+https://twitter.com/jacobian/status/1176938038942781440
+https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+https://twitter.com/brainwane/status/1176517084890750981
+https://twitter.com/nedbat/status/1176619457965416449
+https://github.com/machinalis/mypy-django
+https://github.com/python/typeshed
+https://twitter.com/di_codes/status/1176241499744296960
+https://github.com/andrewgodwin/django
+https://github.com/django/django/pull/10725
 
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
