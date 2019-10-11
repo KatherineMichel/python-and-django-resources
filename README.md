@@ -2062,6 +2062,7 @@ https://code.djangoproject.com/wiki/AsyncProject
 https://twitter.com/andrewgodwin/status/1143026705033916417
 https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
 
+https://twitter.com/andrewgodwin/status/1151714269987135488
 https://twitter.com/simonw/status/1151832243242803203 | Simon Willison on Twitter: "Some beautifully commented code https://t.co/Opj8S4hCSd" / Twitter
 https://github.com/django/django/compare/master...andrewgodwin:async_views | Comparing django:master...andrewgodwin:async_views · django/django
 
@@ -2077,6 +2078,8 @@ Async DEP
 * ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
 
 <!--
+https://github.com/django/deps/blob/master/accepted/0009-async.rst
+
 https://2019.pycon-au.org/talks/just-add-await-retrofitting-async-into-django | PyCon AU 2019 | Just Add Await: Retrofitting Async Into Django
 
 https://www.youtube.com/watch?v=-7taKQnndfo&t=783s | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
