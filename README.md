@@ -4,6 +4,25 @@
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+Carlton Talk
+https://github.com/wsvincent/django-microframework
+https://twitter.com/qubitron/status/1176977528201723906
+
+First Django Core PR
+https://twitter.com/KatiMichel/status/1177382424600182784
+https://github.com/django/django/pull/11838
+
+django-docker-box
+https://github.com/django/django/pull/10725
+https://github.com/django/django-docker-box
+
+Python Core
+https://www.python.org/doc/sunset-python-2/
+https://twitter.com/brainwane/status/1176517084890750981
+https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
+https://github.com/vstinner/pysandbox/
+https://github.com/pypa/manylinux
+
 Django sprint
 https://github.com/carltongibson/dcus2019sprints
 https://twitter.com/KatiMichel/status/1177419622389125120
@@ -1018,6 +1037,13 @@ Records, Requests (HTTP for Humans), Requests HTML
 * [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
 
 <!--
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
+
 https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
 
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
