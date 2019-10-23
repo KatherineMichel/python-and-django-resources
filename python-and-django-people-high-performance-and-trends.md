@@ -386,6 +386,8 @@ Eventlet and Greenlet
 * [gevent-socketio](https://learn-gevent-socketio.readthedocs.io)
 
 <!--
+https://atleastfornow.net/posts/py2-py3-twisted-downloads/ | 50,000,000 Twisted Downloads Can't Be Wrong · atleastfornow.net
+
 https://github.com/timofurrer/awesome-asyncio | timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources
 
 https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
@@ -393,8 +395,28 @@ https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | G
 
 ### Django Sync and Async Tools
 
-Sketching out a Django Redesign
-* [Tom Christie: Sketching out a Django Redesign (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
+Async DEP
+* [DEP 0009: Async-Capable Django](https://github.com/django/deps/blob/master/accepted/0009-async.rst)
+
+Google Groups
+* [Django Async DEP Mailing List](https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg)
+* [Django Async Roadmap](https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM)
+
+Major Talks
+* [Andrew Godwin: "Just Add Await: Retrofitting Async Into Django" (DjangoCon US 2019](https://www.youtube.com/watch?v=d9BAUBEyFgM)
+* [Andrew Godwin: "Just Add Await: Retrofitting Async Into Django" (PyCon AU 2019](https://www.youtube.com/watch?v=oMHrDy62kgE)
+* [Tom Christie: "Sketching out a Django Redesign" (DjangoCon Europe 2019)](https://www.youtube.com/watch?v=u8GSFEg5lnU)
+* [Andrew Godwin: "Taking Django Async" (DjangoCon Europe 2018)](https://www.youtube.com/watch?v=-7taKQnndfo)
+* [Andrew Godwin: "Taking Django Async" (PyCon 2018)](https://www.youtube.com/watch?v=-7taKQnndfo&t=783s)
+
+<!--
+https://twitter.com/hops_and_smoke/status/1176927059920089088 | Drew on Twitter: "Here's @glasnt introducing @andrewgodwin's talk about adding async to Django @djangocon https://t.co/YkOv7aRWpU" / Twitter
+
+https://2019.pycon-au.org/talks/just-add-await-retrofitting-async-into-django | PyCon AU 2019 | Just Add Await: Retrofitting Async Into Django
+https://speakerdeck.com/andrewgodwin/just-add-await-retrofitting-async-into-django?slide=94 | Just Add Await: Retrofitting Async Into Django - Speaker Deck
+
+https://members.2019.djangocon.eu/conference/talk/GQKCWS/
+-->
 
 Async Added to Django 3.0
 * [Andrew's Tweet](https://twitter.com/andrewgodwin/status/1141743503036149760)
@@ -402,11 +424,20 @@ Async Added to Django 3.0
 * [Django ASGI handler](https://github.com/django/django/blob/master/django/core/handlers/asgi.py)
 
 <!--
+https://github.com/django/django/compare/master...andrewgodwin:async_views | Comparing django:master...andrewgodwin:async_views · django/django
+-->
+
+Important Blog Posts
+* [Andrew Godwin: "A Django Async Roadmap"](http://www.aeracode.org/2018/06/04/django-async-roadmap)
+* [Andrew Godwin: "Python & Async Simplified"](https://www.aeracode.org/2018/02/19/python-async-simplified/)
+* [Andrew Godwin: "Beyond Request-Response"](http://www.aeracode.org/2015/6/17/beyond-request-response/)
+
+<!--
 https://twitter.com/andrewgodwin/status/1153030952915890177
 https://groups.google.com/forum/#!msg/django-developers/5CVsR9FSqmg/UiswdhLECAAJ
+https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
 
 https://twitter.com/andrewgodwin/status/1157170693508759553
-http://aeracode.org/2018/02/19/python-async-simplified/
 https://code.djangoproject.com/wiki/AsyncProject
 
 https://twitter.com/andrewgodwin/status/1143026705033916417
@@ -414,27 +445,6 @@ https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a
 
 https://twitter.com/andrewgodwin/status/1151714269987135488
 https://twitter.com/simonw/status/1151832243242803203 | Simon Willison on Twitter: "Some beautifully commented code https://t.co/Opj8S4hCSd" / Twitter
-https://github.com/django/django/compare/master...andrewgodwin:async_views | Comparing django:master...andrewgodwin:async_views · django/django
-
-https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
--->
-
-Async DEP
-* [DEP 0009: Async-capable Django](https://github.com/andrewgodwin/deps/blob/async/draft/0009-async.rst)
-* [Django Async DEP Mailing List](https://groups.google.com/forum/#!topic/django-developers/5CVsR9FSqmg)
-
-"A Django Async Roadmap"
-* [DjangoCon Europe 2018: "Taking Django Async" by Andrew Godwin](https://www.youtube.com/watch?time_continue=1972&v=-7taKQnndfo)
-* ["A Django Async Roadmap" by Andrew Godwin](http://www.aeracode.org/2018/06/04/django-async-roadmap)
-
-<!--
-https://github.com/django/deps/blob/master/accepted/0009-async.rst
-
-https://2019.pycon-au.org/talks/just-add-await-retrofitting-async-into-django | PyCon AU 2019 | Just Add Await: Retrofitting Async Into Django
-
-https://www.youtube.com/watch?v=-7taKQnndfo&t=783s | Andrew Godwin - Taking Django Async - PyCon 2018 - YouTube
-
-https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
 -->
 
 Django Async- General
@@ -446,6 +456,10 @@ Django Channels (Built on ASGI)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+https://channels.readthedocs.io/en/latest/releases/2.3.0.html | 2.3.0 Release Notes — Channels 2.3.0 documentation
+
+https://www.youtube.com/watch?v=xEW8kWQqEew | Andrew Godwin about Channels at Django: Under The Hood 2016 - YouTube
+
 https://speakerdeck.com/andrewgodwin/concurrency-to-channels | Concurrency to Channels // Speaker Deck
 https://speakerdeck.com/andrewgodwin/a-brief-history-of-channels
 
@@ -471,15 +485,11 @@ https://github.com/libuv/libuv | libuv/libuv: Cross-platform asynchronous I/O
 https://github.com/MagicStack/uvloop/releases/tag/v0.13.0 | Release v0.13.0 · MagicStack/uvloop
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
-https://members.2019.djangocon.eu/conference/talk/GQKCWS/
-
-
 https://www.techempower.com/benchmarks/ | Round 17 results - TechEmpower Framework Benchmarks
 https://github.com/TechEmpower/FrameworkBenchmarks | TechEmpower/FrameworkBenchmarks: Source for the TechEmpower Framework Benchmarks project
 
 https://github.com/tomchristie?tab=repositories | tomchristie (Tom Christie) / Repositories
 
-https://www.aeracode.org/2018/02/19/python-async-simplified/ | Python & Async Simplified - Aeracode
 https://github.com/encode/requests-async
 http://docs.python-requests.org/en/master/ | Requests: HTTP for Humans™ — Requests 2.21.0 documentation
 https://github.com/encode/databases
