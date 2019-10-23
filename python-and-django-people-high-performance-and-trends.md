@@ -1,4 +1,31 @@
-# High Performance Python and Django and Trends
+# Python and Django People, High Performance, and Trends
+
+## PSF and DSF People and Members
+
+Python Software Foundation (PSF) People
+* [PSF Members](https://www.python.org/psf/members)
+* [PSF Fellows](https://www.python.org/psf/fellows)
+* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
+
+Django Software Foundation (DSF) People (Not Specifically Developer)
+* [DSF Committees](https://www.djangoproject.com/foundation/committees)
+* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
+* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
+
+Django People- Current
+* [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
+* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
+* [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
+
+Django People- Historical
+* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
+* [Django Organization Repo People](https://github.com/orgs/django/people)
+
+<!--
+https://people.djangoproject.com
+-->
+
+## High Performance Python and Django and Trends
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
