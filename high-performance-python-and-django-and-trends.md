@@ -198,11 +198,44 @@ https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-pr
 https://github.com/berkerpeksag/cpython-merge-bot
 -->
 
-### F-Strings
+### Python on Other Platforms
+
+Python Rust/WebAssembly
+* [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
+* [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
+* [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
+* [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
+* [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
 
 <!--
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+Why Python
+https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
+Python Black Swans
+https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
+
+Web Assembly
+https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
+
+https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
+
+Rust
+https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
+https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
+https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
+https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html | Rust is not a good C replacement | Drew DeVault’s Blog
+
+PyOxidizer- Python and Rust
+https://twitter.com/andrewgodwin/status/1143982061524418560 | Twitter
+https://twitter.com/di_codes/status/1143973324961304576
+https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/ | Gregory Szorc's Digital Home | Building Standalone Python Applications with PyOxidizer
+https://twitter.com/indygreg/status/1143187250743668736 | indygreg on Twitter: "I'm excited to announce the initial release of PyOxidizer - a utility for producing standalone Python applications and which empowers Python and Rust to leverage each other! https://t.co/qZ5Wpjthkn"
+https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
+
+Pyodide/Web Assembly
+https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
+https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
+
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 -->
 
 ### Python Gilectomy and Multi-Core
@@ -230,113 +263,6 @@ Larry Hastings Gilectomy
 https://realpython.com/python-gil/ | What is the Python Global Interpreter Lock (GIL)? – Real Python
 https://lwn.net/Articles/754577/
 https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
--->
-
-### Data Classes
-
-Data Classes
-* [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
-
-<!--
-https://github.com/ericvsmith/dataclasses | ericvsmith/dataclasses
-
-https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
-
-https://realpython.com/python-data-classes/
--->
-
-### Static Typing
-
-Duck Typing
-* [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
-
-<!--
-https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
-https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
--->
-
-Type Hints
-* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
-* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
-
-Static Typing Tools
-* [Python Mypy GitHub](https://github.com/python/mypy)
-* [Python Typeshed GitHub](https://github.com/python/typeshed)
-* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
-* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
-* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
-* [Google: Pytype GitHub](https://github.com/google/pytype)
-* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
-* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
-
-<!--
-Guido- Type Annotations
-https://us.pycon.org/2016/schedule/presentation/2266/
-
-https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
-
-http://mypy.readthedocs.io
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-http://mypy-lang.blogspot.com | The Mypy Blog
--->
-
-### Python Walrus Operator
-
-<!--
-https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
--->
-
-### Third Party Helpers
-
-Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-<!--
-https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://urllib3.readthedocs.io/en/latest/
-
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-See also: Data Science
-https://github.com/keen/cohorts
 -->
 
 ### WSGI
@@ -579,31 +505,116 @@ https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/sa
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
-### Python Rust/Assembly
+### Static Typing
 
-Python Rust/WebAssembly
-* [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
-* [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
-* [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
-* [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
-* [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
+Duck Typing
+* [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
-https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
-https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
-https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
+https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
+https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
+-->
 
-https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html | Rust is not a good C replacement | Drew DeVault’s Blog
+Type Hints
+* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
+* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
 
-https://twitter.com/andrewgodwin/status/1143982061524418560 | Twitter
-https://twitter.com/di_codes/status/1143973324961304576
-https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/ | Gregory Szorc's Digital Home | Building Standalone Python Applications with PyOxidizer
-https://twitter.com/indygreg/status/1143187250743668736 | indygreg on Twitter: "I'm excited to announce the initial release of PyOxidizer - a utility for producing standalone Python applications and which empowers Python and Rust to leverage each other! https://t.co/qZ5Wpjthkn"
-https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
+Static Typing Tools
+* [Python Mypy GitHub](https://github.com/python/mypy)
+* [Python Typeshed GitHub](https://github.com/python/typeshed)
+* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
+* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
+* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
+* [Google: Pytype GitHub](https://github.com/google/pytype)
+* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
+* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
-https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
+<!--
+Guido- Type Annotations
+https://us.pycon.org/2016/schedule/presentation/2266/
 
-https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
 
-https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
+http://mypy.readthedocs.io
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+http://mypy-lang.blogspot.com | The Mypy Blog
+-->
+
+### Data Classes
+
+Data Classes
+* [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
+
+<!--
+https://github.com/ericvsmith/dataclasses | ericvsmith/dataclasses
+
+https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
+
+https://realpython.com/python-data-classes/
+-->
+
+### F-Strings
+
+<!--
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+-->
+
+### Python Walrus Operator
+
+<!--
+https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
+-->
+
+### Third Party Helpers
+
+Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+<!--
+https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
+
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://urllib3.readthedocs.io/en/latest/
+
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
+See also: Data Science
+https://github.com/keen/cohorts
 -->
