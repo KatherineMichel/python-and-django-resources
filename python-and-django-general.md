@@ -1,4 +1,58 @@
-# Python and Django History, Diversity, and Other Stuff
+# Python and Django- General
+
+## Python Software Foundation (PSF)
+
+Python Software Foundation (PSF)
+* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
+* [PSF Annual Report 2019](https://www.python.org/psf/annual-report/2019)
+* [PSF Donation Matcher](https://matcher.pyfound.org)
+* [Legacy PSF Website](http://legacy.python.org)
+* [PSF Mission](https://www.python.org/psf/mission)
+* [PSF Bylaws](https://www.python.org/psf/bylaws)
+* [PSF Newsletter](https://www.python.org/psf/newsletter)
+* [PSF Awards](https://www.python.org/community/awards/psf-awards/)
+* [PSF Mailing List Info](https://mail.python.org/mailman/listinfo)
+
+Python- Members
+* [PSF Membership FAQ](https://www.python.org/psf/membership)
+* ["Who is allowed to vote?"](https://www.python.org/psf/membership/#who-is-allowed-to-vote)
+* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+Community
+* [Python Community](https://www.python.org/community)
+* [PSF Community Resources](https://github.com/python/psf-community-resources)
+* [PSF Community Info Page](https://mail.python.org/mailman/listinfo/psf-community)
+
+Positive Python
+* [#positivepython](http://www.positivepython.org/twitter.html)
+
+Sponsor Python
+* [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
+
+<!--
+https://twitter.com/ewa_jodlowska/status/1143609630528081921 | Ewa Jodlowska on Twitter: "Thank you @Podcast__init__ for letting me promote the PSF & how I've grown right along with it! I discuss history, operations, future PSF projects, challenges with fundraising & other resources, & how we can all continue to grow to be a healthy and strong community. Check it out!… https://t.co/7NtTWmKDZT"
+
+https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
+
+http://pyfound.blogspot.com/2019/07/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
+-->
+
+## Django Software Foundation
+
+Django Software Foundation
+* [DSF Community](https://www.djangoproject.com/community)
+* [DSF News & Events](https://www.djangoproject.com/weblog)
+* [DSF Foundation](https://www.djangoproject.com/foundation)
+* [DSF Fundraising](https://www.djangoproject.com/fundraising)
+* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
+
+Django Software Foundation Individual Membership
+* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
+History
+* [Frank Wiles: Fret Free Introduction to Django and the Django Software Foundation](https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/)
 
 ## Python and Django History
 
