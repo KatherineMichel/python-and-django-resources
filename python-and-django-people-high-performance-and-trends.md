@@ -235,6 +235,11 @@ Python Rust/WebAssembly
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
 
 <!--
+WASM
+asm.js
+emscripten
+https://webassembly.studio/ | WebAssembly Studio
+
 Why Python
 https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
 Python Black Swans
@@ -389,6 +394,11 @@ Eventlet and Greenlet
 * [gevent-socketio](https://learn-gevent-socketio.readthedocs.io)
 
 <!--
+https://github.com/python-trio/trio | python-trio/trio: Trio – a friendly Python library for async concurrency and I/O
+https://docs.python.org/3/library/asyncio.html
+asyncio-native - Google Search
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+
 https://atleastfornow.net/posts/py2-py3-twisted-downloads/ | 50,000,000 Twisted Downloads Can't Be Wrong · atleastfornow.net
 
 https://github.com/timofurrer/awesome-asyncio | timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources
