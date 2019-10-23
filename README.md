@@ -34,31 +34,6 @@ https://github.com/python-leap/book | python-leap/book: Pythonic Application Arc
 https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
 -->
 
-## PSF and DSF People and Members
-
-Python Software Foundation (PSF) People
-* [PSF Members](https://www.python.org/psf/members)
-* [PSF Fellows](https://www.python.org/psf/fellows)
-* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
-
-Django Software Foundation (DSF) People (Not Specifically Developer)
-* [DSF Committees](https://www.djangoproject.com/foundation/committees)
-* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
-* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
-
-Django People- Current
-* [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
-* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
-* [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
-
-Django People- Historical
-* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
-* [Django Organization Repo People](https://github.com/orgs/django/people)
-
-<!--
-https://people.djangoproject.com
--->
-
 ## Releases
 
 <!--
