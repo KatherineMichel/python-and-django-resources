@@ -10,13 +10,6 @@ https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Tw
 
 Notable Talks
 
-Russel Keith-magee
-https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
-https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
-https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
-
-https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
-
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
 
