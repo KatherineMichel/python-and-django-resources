@@ -56,6 +56,44 @@ Python Surveys
 * [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
 * [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
 
+## Python 2 or 3, Python 2 EoL
+
+Python 2 or 3
+* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
+
+Python 2 End of Life (EOL)
+* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
+
+Python 2 EOL Websites
+* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
+* [Python Clock](https://pythonclock.org)
+* [Python 3 Statement](http://python3statement.org)
+* [Python 3 Readiness](https://tiran.github.io/py3readiness)
+* [Python Readiness](https://pyreadiness.org)
+* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
+* [Python 3 Porting](http://python3porting.com)
+* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
+
+Django and Python 3
+* [Django Packages Python 3](https://www.djangopackages.com/python3)
+
+Changeset Python 2 Sunsetting Initiative
+* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
+
+<!--
+https://pypi.org/project/six/ | six · PyPI
+
+https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
+
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+
+Dropping Support
+https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
+https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
+https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
+https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
+-->
+
 ## Diversity
 
 Mentoring and diversity for Python (2018)
