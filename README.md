@@ -1,18 +1,52 @@
 # Python and Django- Contributing
 
 <!--
-https://twitter.com/cfactoid/status/1180599186913296384
-
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
+Django sprint
+https://github.com/carltongibson/dcus2019sprints
+https://twitter.com/KatiMichel/status/1177419622389125120
+https://twitter.com/carltongibson/status/1177987774785306624
+
+https://github.com/django/django/tree/master/docs/internals
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/
+http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html#rst-index
+https://code.djangoproject.com/ticket/30010
+https://code.djangoproject.com/query
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/
+https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/#committing-guidelines
+https://docs.djangoproject.com/en/dev/internals/contributing/triaging-tickets/#needs-documentation
+https://docs.djangoproject.com/en/2.2/internals/contributing/new-contributors/#first-steps
+https://code.djangoproject.com/wiki/Version3.1Roadmap
+https://docs.djangoproject.com/en/2.2/topics/testing/overview/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/#patch-review-checklist
+
+https://forum.djangoproject.com/t/should-django-do-google-code-in/355 | Should Django do Google Code-in? - Django Internals / Mentorship - Django Forum
+https://twitter.com/carltongibson/status/1184155612353122306 | Carlton Gibson on Twitter: "@laymonage @djangoproject @AdamChainz @MariuszFelisiak @_rami_ Looks good. Issue is mentoring capacity… I shall enquire. Thanks." / Twitter
+
+https://realpython.com/python38-new-features/
+https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
+https://docs.python.org/3.8/whatsnew/3.8.html
+https://docs.python.org/3.8/whatsnew/changelog.html#changelog
+https://twitter.com/carltongibson/status/1179011386036367362
+
+https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
+
 https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
 
-Notable Talks
+Mariatta
+https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
+https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
+https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
+
+https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
+
+https://en.wikipedia.org/wiki/Second-system_effect
 
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
-
 
 https://twitter.com/brettsky/status/1154908949956554752
 
@@ -56,44 +90,6 @@ By OS
 <!--
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
--->
-
-## Python 2 or 3, Python 2 EoL
-
-Python 2 or 3
-* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
-
-Python 2 End of Life (EOL)
-* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
-
-Python 2 EOL Websites
-* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
-* [Python Clock](https://pythonclock.org)
-* [Python 3 Statement](http://python3statement.org)
-* [Python 3 Readiness](https://tiran.github.io/py3readiness)
-* [Python Readiness](https://pyreadiness.org)
-* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
-* [Python 3 Porting](http://python3porting.com)
-* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
-
-Django and Python 3
-* [Django Packages Python 3](https://www.djangopackages.com/python3)
-
-Changeset Python 2 Sunsetting Initiative
-* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
-
-<!--
-https://pypi.org/project/six/ | six · PyPI
-
-https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
-
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-
-Dropping Support
-https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
-https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
-https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
-https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
 ## Python Contributing Info and Docs
