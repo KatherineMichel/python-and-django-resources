@@ -365,6 +365,9 @@ Starlette (ASGI Framework)
 * [Starlette](https://www.starlette.io) and [Starlette GitHub](https://github.com/encode/starlette)
 
 <!--
+Starlette
+https://twitter.com/_tomchristie/status/1179780064927535104
+
 https://github.com/tartiflette/tartiflette-starlette | tartiflette/tartiflette-starlette: ASGI support for the Tartiflette GraphQL engine
 -->
 
@@ -440,6 +443,7 @@ https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI.
 https://twitter.com/andrewgodwin/status/1157170693508759553
 https://code.djangoproject.com/wiki/AsyncProject
 
+https://github.com/simonw/djng | simonw/ding: Turtles all the way down
 https://twitter.com/andrewgodwin/status/1143026705033916417
 https://simonwillison.net/2009/May/19/djng/?#turtles-all-the-way-down | djng—a Django powered microframework
 
@@ -572,6 +576,17 @@ Static Typing Tools
 * [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
 <!--
+For Django
+https://github.com/typeddjango
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+https://github.com/django/deps/pull/65 | First draft of DEP for static-ish typechecking for Django by mkurnikov · Pull Request #65 · django/deps
+https://github.com/machinalis/mypy-django
+
+machine verified documentation
+https://twitter.com/pganssle/status/1180224777350520835
+
+https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+
 Guido- Type Annotations
 https://us.pycon.org/2016/schedule/presentation/2266/
 
