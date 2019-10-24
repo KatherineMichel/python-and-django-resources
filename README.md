@@ -1,6 +1,16 @@
 # Python and Django- Contributing
 
 <!--
+Simplified a process that could be daunting for a lot of people."
+https://twitter.com/KatiMichel/status/1177281890086092805
+
+"Submitted my first PR to Django repo. Potentially very impactful in making the local setup process easier for others."
+https://twitter.com/KatiMichel/status/1177382424600182784
+
+"Really liking the "How to Contribute to Django" workshop led by @carltongibson
+this morning at the first day of #DjangoCon sprints. Large group of people sharing knowledge and troubleshooting together. Simplified a process that could be daunting for a lot of people."
+https://twitter.com/KatiMichel/status/1177281890086092805
+
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
