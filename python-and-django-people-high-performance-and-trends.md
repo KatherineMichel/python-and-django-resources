@@ -229,10 +229,12 @@ https://github.com/berkerpeksag/cpython-merge-bot
 
 Python Rust/WebAssembly
 * [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
-* [PyBee Ouroboros GitHub](https://github.com/pybee/ouroboros)
+* [PyBee Ouroboros GitHub (implementation of Python)](https://github.com/pybee/ouroboros)
 * [Łukasz Langa Twitter Thread](https://twitter.com/llanga/status/1091974732017266688)
 * [My Tweet](https://twitter.com/KatiMichel/status/1092140998325497856)
 * [Jeff's Tweet](https://twitter.com/webology/status/1092147352813613057)
+
+* [PyOxidizer GitHub](https://github.com/indygreg/PyOxidizer)
 
 <!--
 WASM
@@ -244,7 +246,6 @@ Why Python
 https://www.youtube.com/watch?v=qTNJ7E8AnQI | Russel keith-magee - keynote - YouTube
 Python Black Swans
 https://www.youtube.com/watch?v=ftP5BQh1-YM | (1) Russell Keith-Magee - Keynote - PyCon 2019 - YouTube
-
 Web Assembly
 https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
 
@@ -347,8 +348,8 @@ Parallel Computing
 * [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
 
 <!--
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-
 https://wiki.python.org/moin/GlobalInterpreterLock
 -->
 
@@ -360,10 +361,18 @@ ASGI (WSGI is for synchronous Python apps, ASGI is for both asynchronous and syn
 * [Hello ASGI](https://www.encode.io/articles/hello-asgi/)
 * [ASGI Scope GitHub](https://github.com/simonw/asgi-scope/)
 
+asgiref (ASGI in-memory channel layer)
+* [asgiref GitHub](https://github.com/django/asgiref)
+
+<!--
+https://github.com/django/asgiref/commit/2d29f99cba65c25870aa90f74cbeb694ef7e7445 | Add a thread_sensitive mode to SyncToAsync · django/asgiref@2d29f99
+https://github.com/django/asgiref/blob/master/specs/www.rst
+-->
+
 Channels ASGI
 * [Channels ASGI](https://channels.readthedocs.io/en/latest/asgi.html)
 
-Uvicorn (ASGI Server)
+Uvicorn (ASGI Server); See also Daphne
 * [Uvicorn](http://www.uvicorn.org) and [Uvicorn GitHub](https://github.com/encode/uvicorn)
 
 Starlette (ASGI Framework)
@@ -387,6 +396,7 @@ API Star
 Tornado and Twisted
 * [Tornado (asynchronous networking library)](https://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
 * [Twisted](https://twistedmatrix.com)
+* [Amber Brown: "50,000,000 Twisted Downloads Can't Be Wrong"](https://atleastfornow.net/posts/py2-py3-twisted-downloads/)
 
 Eventlet and Greenlet
 * [Eventlet](https://eventlet.net)
@@ -396,10 +406,6 @@ Eventlet and Greenlet
 <!--
 https://github.com/python-trio/trio | python-trio/trio: Trio – a friendly Python library for async concurrency and I/O
 https://docs.python.org/3/library/asyncio.html
-asyncio-native - Google Search
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-
-https://atleastfornow.net/posts/py2-py3-twisted-downloads/ | 50,000,000 Twisted Downloads Can't Be Wrong · atleastfornow.net
 
 https://github.com/timofurrer/awesome-asyncio | timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources
 
@@ -463,6 +469,7 @@ https://twitter.com/simonw/status/1151832243242803203 | Simon Willison on Twitte
 
 Django Async- General
 * [Jacob Kaplan-Moss Tweet](https://twitter.com/jacobian/status/1126557544934182913)
+* [Another Jacob Kaplan-Moss Tweet](https://twitter.com/jacobian/status/1176938038942781440)
 
 Django Channels (Built on ASGI)
 * [Channels](https://channels.readthedocs.io) and [Channels GitHub](https://github.com/django/channels)
@@ -470,6 +477,10 @@ Django Channels (Built on ASGI)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+https://github.com/django/channels/releases/tag/2.0.0
+https://github.com/django/channels/releases/tag/1.0.0
+https://github.com/django/channels/releases/tag/0.1
+
 https://channels.readthedocs.io/en/latest/releases/2.3.0.html | 2.3.0 Release Notes — Channels 2.3.0 documentation
 
 https://www.youtube.com/watch?v=xEW8kWQqEew | Andrew Godwin about Channels at Django: Under The Hood 2016 - YouTube
@@ -524,9 +535,6 @@ HTTP/3
 https://github.com/aiortc/aioquic | aiortc/aioquic: QUIC implementation in Python
 https://twitter.com/_tomchristie/status/1131617638793269248 | Tom Christie on Twitter: "Really excited about the potential of this one. First steps towards HTTP/3 support for Python servers and clients.… "
 
-https://github.com/django/asgiref | django/asgiref: ASGI in-memory channel layer
-https://github.com/django/asgiref/commit/2d29f99cba65c25870aa90f74cbeb694ef7e7445 | Add a thread_sensitive mode to SyncToAsync · django/asgiref@2d29f99
-https://github.com/django/asgiref/blob/master/specs/www.rst
 
 ASGI 3.0 and Uvicorn
 https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
@@ -585,11 +593,11 @@ Static Typing Tools
 * [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
 * [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
+Django Static Typing Tools
+* [Typed Django](https://github.com/typeddjango)
+* [DEP Draft for Django Type Checking](https://github.com/django/deps/pull/65)
+
 <!--
-For Django
-https://github.com/typeddjango
-https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
-https://github.com/django/deps/pull/65 | First draft of DEP for static-ish typechecking for Django by mkurnikov · Pull Request #65 · django/deps
 https://github.com/machinalis/mypy-django
 
 machine verified documentation
@@ -603,8 +611,6 @@ https://us.pycon.org/2016/schedule/presentation/2266/
 https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
 
 http://mypy.readthedocs.io
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-http://mypy-lang.blogspot.com | The Mypy Blog
 -->
 
 ### Data Classes
@@ -631,52 +637,4 @@ https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun
 
 <!--
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
--->
-
-### Third Party Helpers
-
-Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-<!--
-https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://urllib3.readthedocs.io/en/latest/
-
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-See also: Data Science
-https://github.com/keen/cohorts
 -->
