@@ -1,6 +1,25 @@
 # Python and Django- Contributing
 
 <!--
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+
+The Packaging Gradient
+https://www.youtube.com/watch?v=iLVNWfPWAC8
+
+Hynek
+https://hynek.me/talks/
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+
+Mason Egger
+https://masonegger.com/talks/
+https://masonegger.com/talks/ci-docs/
+
+Katie
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+
 https://pyvideo.org/events.html | PyVideo.org · Events
 https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
@@ -37,6 +56,7 @@ https://forum.djangoproject.com/t/should-django-do-google-code-in/355 | Should D
 https://twitter.com/carltongibson/status/1184155612353122306 | Carlton Gibson on Twitter: "@laymonage @djangoproject @AdamChainz @MariuszFelisiak @_rami_ Looks good. Issue is mentoring capacity… I shall enquire. Thanks." / Twitter
 
 Carlton Talk
+https://www.youtube.com/watch?v=w9cYEovduWI&t=634s
 https://github.com/wsvincent/django-microframework
 https://twitter.com/glasnt/status/1176980071665455104
 
@@ -44,6 +64,8 @@ https://groups.google.com/forum/#!forum/django-developers | (99+) Django develop
 
 https://forum.djangoproject.com/latest | Latest topics - Django Forum
 https://twitter.com/andrewgodwin/status/1184156750284382209 | Andrew Godwin on Twitter: "Now the Django Forum has funding, we have links to it in the docs too! Only thing left is to get it onto https://t.co/8mbGtcVsAG, if anyone feels like getting a PR going :)" / Twitter
+
+https://twitter.com/webology/status/1186695236749279233
 
 Django’s Future, and Python 3
 https://www.djangoproject.com/weblog/2012/mar/13/py3k/
@@ -53,6 +75,8 @@ https://www.artima.com/forums/flat.jsp?forum=106&thread=161207 | Weblogs Forum -
 https://news.python.sc/ | Pythonic News
 
 https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+https://twitter.com/brettsky/status/1188268846840369152
 
 Keynote: Python 2020 - Łukasz Langa - PyLondinium19
 https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
@@ -74,14 +98,13 @@ Mariatta
 https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
 https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
 https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
+https://twitter.com/mariatta/status/1188177179630157824
 
 https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
 
+https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
+https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 
-
-https://www.google.com/search?q=the+packaging+gradient&oq=the+packaging+gradient&aqs=chrome..69i57j69i60l3j69i61j69i60.2444j0j7&sourceid=chrome&ie=UTF-8 | the packaging gradient - Google Search
-
-https://twitter.com/webology/status/1186695236749279233
 
 Python Core
 https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
@@ -102,17 +125,9 @@ https://code.djangoproject.com/wiki/Version3.1Roadmap
 https://docs.djangoproject.com/en/2.2/topics/testing/overview/
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/#patch-review-checklist
 
-
 https://en.wikipedia.org/wiki/Second-system_effect
 
 https://twitter.com/brettsky/status/1154908949956554752
-
-
-https://famicol.in/language_checklist.html | Programming Language Checklist
-https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
-
-https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
-https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
 
