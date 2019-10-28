@@ -1,42 +1,92 @@
 # Python and Django- Contributing
 
 <!--
-Simplified a process that could be daunting for a lot of people."
-https://twitter.com/KatiMichel/status/1177281890086092805
+https://pyvideo.org/events.html | PyVideo.org · Events
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
-"Submitted my first PR to Django repo. Potentially very impactful in making the local setup process easier for others."
-https://twitter.com/KatiMichel/status/1177382424600182784
+https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
-"Really liking the "How to Contribute to Django" workshop led by @carltongibson
-this morning at the first day of #DjangoCon sprints. Large group of people sharing knowledge and troubleshooting together. Simplified a process that could be daunting for a lot of people."
-https://twitter.com/KatiMichel/status/1177281890086092805
+https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
+https://twitter.com/cfactoid/status/1180599186913296384
+
+https://pyvideo.org/djangocon-us-2018/state-of-django-panel.html | PyVideo.org · "State of Django" Panel
 
 My CPython Issue and Pull Requests
 http://bugs.python.org/user26332
 
-Carlton Talk
-https://github.com/wsvincent/django-microframework
-https://twitter.com/qubitron/status/1176977528201723906
-
-First Django Core PR
-https://twitter.com/KatiMichel/status/1177382424600182784
+My first Django PR
+https://github.com/orf/django-docker-box/issues/1
 https://github.com/django/django/pull/11838
+"Submitted my first PR to Django repo. Potentially very impactful in making the local setup process easier for others."
+https://twitter.com/KatiMichel/status/1177382424600182784
 
 django-docker-box
 https://github.com/django/django/pull/10725
 https://github.com/django/django-docker-box
 
-Python Core
-https://www.python.org/doc/sunset-python-2/
-https://twitter.com/brainwane/status/1176517084890750981
-https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
-https://github.com/vstinner/pysandbox/
-https://github.com/pypa/manylinux
-
 Django sprint
 https://github.com/carltongibson/dcus2019sprints
 https://twitter.com/KatiMichel/status/1177419622389125120
 https://twitter.com/carltongibson/status/1177987774785306624
+
+"Really liking the "How to Contribute to Django" workshop led by @carltongibson
+this morning at the first day of #DjangoCon sprints. Large group of people sharing knowledge and troubleshooting together. Simplified a process that could be daunting for a lot of people."
+https://twitter.com/KatiMichel/status/1177281890086092805
+
+https://forum.djangoproject.com/t/should-django-do-google-code-in/355 | Should Django do Google Code-in? - Django Internals / Mentorship - Django Forum
+https://twitter.com/carltongibson/status/1184155612353122306 | Carlton Gibson on Twitter: "@laymonage @djangoproject @AdamChainz @MariuszFelisiak @_rami_ Looks good. Issue is mentoring capacity… I shall enquire. Thanks." / Twitter
+
+Carlton Talk
+https://github.com/wsvincent/django-microframework
+https://twitter.com/glasnt/status/1176980071665455104
+
+https://groups.google.com/forum/#!forum/django-developers | (99+) Django developers (Contributions to Django itself) – Google Groups
+
+https://forum.djangoproject.com/latest | Latest topics - Django Forum
+https://twitter.com/andrewgodwin/status/1184156750284382209 | Andrew Godwin on Twitter: "Now the Django Forum has funding, we have links to it in the docs too! Only thing left is to get it onto https://t.co/8mbGtcVsAG, if anyone feels like getting a PR going :)" / Twitter
+
+Django’s Future, and Python 3
+https://www.djangoproject.com/weblog/2012/mar/13/py3k/
+
+https://www.artima.com/forums/flat.jsp?forum=106&thread=161207 | Weblogs Forum - Looking for Memories of Python Old-Timers
+
+https://news.python.sc/ | Pythonic News
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+Keynote: Python 2020 - Łukasz Langa - PyLondinium19
+https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
+
+https://realpython.com/python38-new-features/
+https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
+https://docs.python.org/3.8/whatsnew/3.8.html
+https://docs.python.org/3.8/whatsnew/changelog.html#changelog
+https://twitter.com/carltongibson/status/1179011386036367362
+
+https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
+
+https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
+
+https://www.python.org/doc/sunset-python-2/
+https://twitter.com/brainwane/status/1176517084890750981
+
+Mariatta
+https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
+https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
+https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
+
+https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
+
+
+
+https://www.google.com/search?q=the+packaging+gradient&oq=the+packaging+gradient&aqs=chrome..69i57j69i60l3j69i61j69i60.2444j0j7&sourceid=chrome&ie=UTF-8 | the packaging gradient - Google Search
+
+https://twitter.com/webology/status/1186695236749279233
+
+Python Core
+https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
+https://github.com/vstinner/pysandbox/
+https://github.com/pypa/manylinux
 
 https://github.com/django/django/tree/master/docs/internals
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/
@@ -52,30 +102,8 @@ https://code.djangoproject.com/wiki/Version3.1Roadmap
 https://docs.djangoproject.com/en/2.2/topics/testing/overview/
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/#patch-review-checklist
 
-https://forum.djangoproject.com/t/should-django-do-google-code-in/355 | Should Django do Google Code-in? - Django Internals / Mentorship - Django Forum
-https://twitter.com/carltongibson/status/1184155612353122306 | Carlton Gibson on Twitter: "@laymonage @djangoproject @AdamChainz @MariuszFelisiak @_rami_ Looks good. Issue is mentoring capacity… I shall enquire. Thanks." / Twitter
-
-https://realpython.com/python38-new-features/
-https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
-https://docs.python.org/3.8/whatsnew/3.8.html
-https://docs.python.org/3.8/whatsnew/changelog.html#changelog
-https://twitter.com/carltongibson/status/1179011386036367362
-
-https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
-
-https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
-
-Mariatta
-https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
-https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
-https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
-
-https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
 
 https://en.wikipedia.org/wiki/Second-system_effect
-
-Keynote: Python 2020 - Łukasz Langa - PyLondinium19
-https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
 
 https://twitter.com/brettsky/status/1154908949956554752
 
@@ -1050,6 +1078,10 @@ Records, Requests (HTTP for Humans), Requests HTML
 Bake
 https://github.com/kennethreitz/bake
 https://twitter.com/kennethreitz/status/1174769124427390981
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
 
 Requests
 https://twitter.com/mitsuhiko/status/1174577922172248064
