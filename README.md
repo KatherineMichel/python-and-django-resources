@@ -12,6 +12,7 @@ https://hynek.me/talks/
 https://hynek.me/talks/python-foss/
 https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
 https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
 
 Mason Egger
 https://masonegger.com/talks/
