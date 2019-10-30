@@ -1,6 +1,45 @@
 # Python and Django- Contributing
 
 <!--
+Python History
+https://twitter.com/gvanrossum/status/1142480012848717824 | Guido van Rossum on Twitter: "Random Python History thing: I stole Python's 'elif' from the C Preprocessor. https://t.co/qkE1Jn2LXu"
+https://twitter.com/gvanrossum/status/1143890149266190336 | Guido van Rossum on Twitter: "In other news, as I was reminded in an old thread on Stack Overflow, Python's `dir()` function was named after the `dir` command in DOS."
+
+Python History
+https://www.youtube.com/watch?v=qPowhg9nnS0 | Introducing Python - YouTube
+
+https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
+https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
+
+https://github.com/florimondmanca/awesome-asgi | florimondmanca/awesome-asgi: A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
+https://github.com/django/asgiref/commit/85b80b071b946281bf7aa2440151740be51a8938 | Improved thread_sensitive implementation · django/asgiref@85b80b0
+
+https://github.com/encode/httpx/labels/good%20first%20issue | Issues · encode/httpx
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+http://www.django-rest-framework.org/topics/jobs/ | Jobs - Django REST framework
+https://discuss.encode.io/ | Encode
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+
+Failed Optimization
+https://twitter.com/VictorStinner/status/1163465586866905088 | Victor Stinner 🐍 on Twitter: "I wrote a long email about my different Python optimization projects (registervm, FAT Python, pyperf, ...), why they failed https://t.co/xLqlltsB0n and my advices to optimize Python in 2019: &gt; New PyHandle C API &gt; Tracing garbage collector for CPython &gt; CPython subinterpreters" / Twitter
+
+https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
+https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
+
+Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
+
+https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMBZNKJO5U6ERFIZC7FTIG/ | Mailman 3 Announcing the new Python triage team on GitHub - Python-Dev - python.org
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+https://twitter.com/llanga | Łukasz Langa (@llanga) / Twitter
+
+https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
+
+https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
+
+
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
