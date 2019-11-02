@@ -1,6 +1,100 @@
 # Python and Django- Contributing
 
 <!--
+https://news.python.sc/
+
+https://www.reddit.com/r/django/comments/dorx9t/recap_of_django_us_2019/
+
+A Chat with Ewa
+https://twitter.com/TerraMeijar/status/1189487136115957761
+
+Django Core
+https://github.com/django/django-docker-box | django/django-docker-box: Run the Django test suite across all supported databases and python versions
+https://tomforb.es/django-docker-box-is-now-an-official-django-project/ | Django Docker Box is now an official Django project! | Tom Forbes
+
+https://twitter.com/hynek/status/1189556183515963392
+
+https://twitter.com/jpadilla_/status/1189752115566133248
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+
+https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
+
+https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
+https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
+https://www.python.org/jobs/
+http://pythoncalendar.com/ | Python Events
+
+Release Cadence
+https://twitter.com/pumpichank/status/1189631220893638656
+https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-peps/2528?u=steve.dower | PEP 607: Shared background for the release cadence PEPs - PEPs - Discussions on Python.org
+
+http://pyfound.blogspot.com/2019/10/the-2019-python-developer-survey-is.html
+
+http://pyfound.blogspot.com/2019/10/cpython-core-developer-sprint-2019.html
+
+https://blog.dropbox.com/topics/company/thank-you--guido
+
+Core Dev Sprint
+https://twitter.com/ThePSF/status/1189620494028460038
+https://www.youtube.com/watch?time_continue=2&v=NKmy_Cnt3pM
+https://twitter.com/llanga/status/1189611164860407808
+https://twitter.com/gvanrossum/status/1190099807722852352
+https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
+https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
+
+Steering Council
+https://snarky.ca/what-its-like-to-be-on-the-python-steering-council/
+https://discuss.python.org/t/steering-council-nomination-brett-cannon-2020-term/2566
+
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+
+https://twitter.com/zooba/status/1186799825733316608 | Zooba on Twitter: "I had three opportunities today to practice articulating my vision for the future of Python, and I think I'm getting close to being able to actually explain it. Maybe by PyCon US I'll have it figured out... 🤔" / Twitter
+
+Multi Core
+https://twitter.com/ericsnowcrntly/status/1190339948286636032
+
+https://www.youtube.com/watch?v=mHOgGuALfNc | PEP 572: The Walrus Operator (Dustin Ingram) - YouTube
+https://dustingram.com/talks/2019/04/04/the-walrus-operator/ | PEP 572: The Walrus Operator - Dustin Ingram
+
+Warehouse
+http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html | Python Software Foundation News: Warehouse: All New PyPI is now in beta
+
+Node Certifications
+https://twitter.com/webology/status/1186695236749279233 | 🎃 Jeff O'Lantern 🎃 on Twitter: "👋 Hi #python community. Would this be something you'd like to see for our community? My understanding is that a similar program was brought up 6 or 7 years again, but it was not as well received. Is it worth exploring again?" / Twitter
+
+https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
+
+Black
+https://twitter.com/llanga/status/1188968251918819329
+
+WebAssembly
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
+
+Async
+https://twitter.com/judy2k/status/1189915326630256642
+https://pgjones.dev/blog/flask-async-quart-sync-2019/
+
+Radix
+https://twitter.com/hynek/status/1189883958294654978
+Docker
+https://twitter.com/paulweveritt/status/1188915289624322051
+Installation
+https://twitter.com/mariatta/status/1189243515739561985
+os.walk
+https://twitter.com/voidspace/status/1189160753623908357
+
+
+Python Core
+https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
+
+https://github.com/webknjaz
+https://www.youtube.com/watch?v=TrAFQW7Wza0&t=316s
+https://mail.python.org/archives/list/python-dev@python.org/thread/OYNQS2BZYABXACBRHBHV4RCEPQU5R6EP/
+
+https://pypi.org/project/gidgethub/
+https://pypi.org/project/caniusepython3/
+
 Python History
 https://twitter.com/gvanrossum/status/1142480012848717824 | Guido van Rossum on Twitter: "Random Python History thing: I stole Python's 'elif' from the C Preprocessor. https://t.co/qkE1Jn2LXu"
 https://twitter.com/gvanrossum/status/1143890149266190336 | Guido van Rossum on Twitter: "In other news, as I was reminded in an old thread on Stack Overflow, Python's `dir()` function was named after the `dir` command in DOS."
