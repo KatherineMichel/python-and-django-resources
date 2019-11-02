@@ -1,141 +1,34 @@
 # Python and Django- Contributing
 
 <!--
-https://news.python.sc/
+https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
 
-https://www.reddit.com/r/django/comments/dorx9t/recap_of_django_us_2019/
+https://pypi.org/project/caniusepython3/
+
+https://github.com/encode/httpx/labels/good%20first%20issue | Issues · encode/httpx
+
+Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
 
 A Chat with Ewa
 https://twitter.com/TerraMeijar/status/1189487136115957761
 
-Django Core
-https://github.com/django/django-docker-box | django/django-docker-box: Run the Django test suite across all supported databases and python versions
-https://tomforb.es/django-docker-box-is-now-an-official-django-project/ | Django Docker Box is now an official Django project! | Tom Forbes
+https://twitter.com/llanga | Łukasz Langa (@llanga) / Twitter
+https://github.com/webknjaz
 
-https://twitter.com/hynek/status/1189556183515963392
-
-https://twitter.com/jpadilla_/status/1189752115566133248
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-
-https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
-
-https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
-https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
-https://www.python.org/jobs/
-http://pythoncalendar.com/ | Python Events
-
-Release Cadence
-https://twitter.com/pumpichank/status/1189631220893638656
-https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-peps/2528?u=steve.dower | PEP 607: Shared background for the release cadence PEPs - PEPs - Discussions on Python.org
-
-http://pyfound.blogspot.com/2019/10/the-2019-python-developer-survey-is.html
-
-http://pyfound.blogspot.com/2019/10/cpython-core-developer-sprint-2019.html
-
-https://blog.dropbox.com/topics/company/thank-you--guido
-
-Core Dev Sprint
-https://twitter.com/ThePSF/status/1189620494028460038
-https://www.youtube.com/watch?time_continue=2&v=NKmy_Cnt3pM
-https://twitter.com/llanga/status/1189611164860407808
-https://twitter.com/gvanrossum/status/1190099807722852352
-https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
-https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
-
-Steering Council
-https://snarky.ca/what-its-like-to-be-on-the-python-steering-council/
-https://discuss.python.org/t/steering-council-nomination-brett-cannon-2020-term/2566
-
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-
-https://twitter.com/zooba/status/1186799825733316608 | Zooba on Twitter: "I had three opportunities today to practice articulating my vision for the future of Python, and I think I'm getting close to being able to actually explain it. Maybe by PyCon US I'll have it figured out... 🤔" / Twitter
-
-Multi Core
-https://twitter.com/ericsnowcrntly/status/1190339948286636032
-
-https://www.youtube.com/watch?v=mHOgGuALfNc | PEP 572: The Walrus Operator (Dustin Ingram) - YouTube
-https://dustingram.com/talks/2019/04/04/the-walrus-operator/ | PEP 572: The Walrus Operator - Dustin Ingram
-
-Warehouse
-http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html | Python Software Foundation News: Warehouse: All New PyPI is now in beta
-
-Node Certifications
-https://twitter.com/webology/status/1186695236749279233 | 🎃 Jeff O'Lantern 🎃 on Twitter: "👋 Hi #python community. Would this be something you'd like to see for our community? My understanding is that a similar program was brought up 6 or 7 years again, but it was not as well received. Is it worth exploring again?" / Twitter
-
-https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
-
-Black
-https://twitter.com/llanga/status/1188968251918819329
-
-WebAssembly
-A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
-https://www.youtube.com/watch?v=r-A78RgMhZU
-
-Async
-https://twitter.com/judy2k/status/1189915326630256642
-https://pgjones.dev/blog/flask-async-quart-sync-2019/
-
-Radix
-https://twitter.com/hynek/status/1189883958294654978
-Docker
-https://twitter.com/paulweveritt/status/1188915289624322051
-Installation
-https://twitter.com/mariatta/status/1189243515739561985
-os.walk
-https://twitter.com/voidspace/status/1189160753623908357
-
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 Python Core
-https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
+https://github.com/vstinner/pysandbox/
+https://github.com/pypa/manylinux
 
-https://github.com/webknjaz
-https://www.youtube.com/watch?v=TrAFQW7Wza0&t=316s
-https://mail.python.org/archives/list/python-dev@python.org/thread/OYNQS2BZYABXACBRHBHV4RCEPQU5R6EP/
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
 
-https://pypi.org/project/gidgethub/
-https://pypi.org/project/caniusepython3/
-
-Python History
-https://twitter.com/gvanrossum/status/1142480012848717824 | Guido van Rossum on Twitter: "Random Python History thing: I stole Python's 'elif' from the C Preprocessor. https://t.co/qkE1Jn2LXu"
-https://twitter.com/gvanrossum/status/1143890149266190336 | Guido van Rossum on Twitter: "In other news, as I was reminded in an old thread on Stack Overflow, Python's `dir()` function was named after the `dir` command in DOS."
-
-Python History
-https://www.youtube.com/watch?v=qPowhg9nnS0 | Introducing Python - YouTube
-
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
-https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
-
-https://github.com/florimondmanca/awesome-asgi | florimondmanca/awesome-asgi: A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
-https://github.com/django/asgiref/commit/85b80b071b946281bf7aa2440151740be51a8938 | Improved thread_sensitive implementation · django/asgiref@85b80b0
-
-https://github.com/encode/httpx/labels/good%20first%20issue | Issues · encode/httpx
-https://www.encode.io/reports/july-2019/ | Encode
-http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
-http://www.django-rest-framework.org/topics/jobs/ | Jobs - Django REST framework
-https://discuss.encode.io/ | Encode
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-
-Failed Optimization
-https://twitter.com/VictorStinner/status/1163465586866905088 | Victor Stinner 🐍 on Twitter: "I wrote a long email about my different Python optimization projects (registervm, FAT Python, pyperf, ...), why they failed https://t.co/xLqlltsB0n and my advices to optimize Python in 2019: &gt; New PyHandle C API &gt; Tracing garbage collector for CPython &gt; CPython subinterpreters" / Twitter
-
-https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
-https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
-
-Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
-
-https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMBZNKJO5U6ERFIZC7FTIG/ | Mailman 3 Announcing the new Python triage team on GitHub - Python-Dev - python.org
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-https://twitter.com/llanga | Łukasz Langa (@llanga) / Twitter
-
-https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
-
-https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
 
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
 
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
@@ -159,9 +52,10 @@ https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
 https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
-https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
-https://twitter.com/cfactoid/status/1180599186913296384
 
+https://www.reddit.com/r/django/comments/dorx9t/recap_of_django_us_2019/
+State of Django
+https://www.youtube.com/watch?v=TrAFQW7Wza0&t=316s
 https://pyvideo.org/djangocon-us-2018/state-of-django-panel.html | PyVideo.org · "State of Django" Panel
 
 My CPython Issue and Pull Requests
@@ -175,7 +69,9 @@ https://twitter.com/KatiMichel/status/1177382424600182784
 
 django-docker-box
 https://github.com/django/django/pull/10725
-https://github.com/django/django-docker-box
+
+https://github.com/django/django-docker-box | django/django-docker-box: Run the Django test suite across all supported databases and python versions
+https://tomforb.es/django-docker-box-is-now-an-official-django-project/ | Django Docker Box is now an official Django project! | Tom Forbes
 
 Django sprint
 https://github.com/carltongibson/dcus2019sprints
@@ -185,65 +81,6 @@ https://twitter.com/carltongibson/status/1177987774785306624
 "Really liking the "How to Contribute to Django" workshop led by @carltongibson
 this morning at the first day of #DjangoCon sprints. Large group of people sharing knowledge and troubleshooting together. Simplified a process that could be daunting for a lot of people."
 https://twitter.com/KatiMichel/status/1177281890086092805
-
-https://forum.djangoproject.com/t/should-django-do-google-code-in/355 | Should Django do Google Code-in? - Django Internals / Mentorship - Django Forum
-https://twitter.com/carltongibson/status/1184155612353122306 | Carlton Gibson on Twitter: "@laymonage @djangoproject @AdamChainz @MariuszFelisiak @_rami_ Looks good. Issue is mentoring capacity… I shall enquire. Thanks." / Twitter
-
-Carlton Talk
-https://www.youtube.com/watch?v=w9cYEovduWI&t=634s
-https://github.com/wsvincent/django-microframework
-https://twitter.com/glasnt/status/1176980071665455104
-
-https://groups.google.com/forum/#!forum/django-developers | (99+) Django developers (Contributions to Django itself) – Google Groups
-
-https://forum.djangoproject.com/latest | Latest topics - Django Forum
-https://twitter.com/andrewgodwin/status/1184156750284382209 | Andrew Godwin on Twitter: "Now the Django Forum has funding, we have links to it in the docs too! Only thing left is to get it onto https://t.co/8mbGtcVsAG, if anyone feels like getting a PR going :)" / Twitter
-
-https://twitter.com/webology/status/1186695236749279233
-
-Django’s Future, and Python 3
-https://www.djangoproject.com/weblog/2012/mar/13/py3k/
-
-https://www.artima.com/forums/flat.jsp?forum=106&thread=161207 | Weblogs Forum - Looking for Memories of Python Old-Timers
-
-https://news.python.sc/ | Pythonic News
-
-https://python-release-cycle.glitch.me/ | Python Release Cycle
-
-https://twitter.com/brettsky/status/1188268846840369152
-
-Keynote: Python 2020 - Łukasz Langa - PyLondinium19
-https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
-
-https://realpython.com/python38-new-features/
-https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
-https://docs.python.org/3.8/whatsnew/3.8.html
-https://docs.python.org/3.8/whatsnew/changelog.html#changelog
-https://twitter.com/carltongibson/status/1179011386036367362
-
-https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
-
-https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
-
-https://www.python.org/doc/sunset-python-2/
-https://twitter.com/brainwane/status/1176517084890750981
-
-Mariatta
-https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
-https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
-https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
-https://twitter.com/mariatta/status/1188177179630157824
-
-https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
-
-https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
-https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
-
-
-Python Core
-https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
-https://github.com/vstinner/pysandbox/
-https://github.com/pypa/manylinux
 
 https://github.com/django/django/tree/master/docs/internals
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/
@@ -259,13 +96,171 @@ https://code.djangoproject.com/wiki/Version3.1Roadmap
 https://docs.djangoproject.com/en/2.2/topics/testing/overview/
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/submitting-patches/#patch-review-checklist
 
-https://en.wikipedia.org/wiki/Second-system_effect
+https://forum.djangoproject.com/t/should-django-do-google-code-in/355 | Should Django do Google Code-in? - Django Internals / Mentorship - Django Forum
+https://twitter.com/carltongibson/status/1184155612353122306 | Carlton Gibson on Twitter: "@laymonage @djangoproject @AdamChainz @MariuszFelisiak @_rami_ Looks good. Issue is mentoring capacity… I shall enquire. Thanks." / Twitter
 
+Carlton Talk
+https://www.youtube.com/watch?v=w9cYEovduWI&t=634s
+https://github.com/wsvincent/django-microframework
+https://twitter.com/glasnt/status/1176980071665455104
+
+https://groups.google.com/forum/#!forum/django-developers | (99+) Django developers (Contributions to Django itself) – Google Groups
+
+https://github.com/florimondmanca/awesome-asgi | florimondmanca/awesome-asgi: A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
+https://github.com/django/asgiref/commit/85b80b071b946281bf7aa2440151740be51a8938 | Improved thread_sensitive implementation · django/asgiref@85b80b0
+
+https://forum.djangoproject.com/latest | Latest topics - Django Forum
+https://twitter.com/andrewgodwin/status/1184156750284382209 | Andrew Godwin on Twitter: "Now the Django Forum has funding, we have links to it in the docs too! Only thing left is to get it onto https://t.co/8mbGtcVsAG, if anyone feels like getting a PR going :)" / Twitter
+
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+http://www.django-rest-framework.org/topics/jobs/ | Jobs - Django REST framework
+https://discuss.encode.io/ | Encode
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+
+https://twitter.com/hynek/status/1189556183515963392
+
+https://twitter.com/webology/status/1186695236749279233
+
+https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
+https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
+
+Django’s Future, and Python 3
+https://www.djangoproject.com/weblog/2012/mar/13/py3k/
+
+https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
+
+https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
+https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
+https://www.python.org/jobs/
+http://pythoncalendar.com/ | Python Events
+
+https://www.artima.com/forums/flat.jsp?forum=106&thread=161207 | Weblogs Forum - Looking for Memories of Python Old-Timers
+
+https://news.python.sc/ | Pythonic News
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+https://twitter.com/brettsky/status/1188268846840369152
+
+Keynote: Python 2020 - Łukasz Langa - PyLondinium19
+https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
+
+Future of Python
+https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
+
+https://twitter.com/zooba/status/1186799825733316608 | Zooba on Twitter: "I had three opportunities today to practice articulating my vision for the future of Python, and I think I'm getting close to being able to actually explain it. Maybe by PyCon US I'll have it figured out... 🤔" / Twitter
+
+https://realpython.com/python38-new-features/
+https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
+https://docs.python.org/3.8/whatsnew/3.8.html
+https://docs.python.org/3.8/whatsnew/changelog.html#changelog
+https://twitter.com/carltongibson/status/1179011386036367362
+
+https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
+
+Release Cadence
+https://twitter.com/pumpichank/status/1189631220893638656
+https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-peps/2528?u=steve.dower | PEP 607: Shared background for the release cadence PEPs - PEPs - Discussions on Python.org
+
+https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMBZNKJO5U6ERFIZC7FTIG/ | Mailman 3 Announcing the new Python triage team on GitHub - Python-Dev - python.org
+
+http://pyfound.blogspot.com/2019/10/the-2019-python-developer-survey-is.html
+
+https://blog.dropbox.com/topics/company/thank-you--guido
+
+Core Dev Sprint
+http://pyfound.blogspot.com/2019/10/cpython-core-developer-sprint-2019.html
+https://twitter.com/ThePSF/status/1189620494028460038
+https://www.youtube.com/watch?time_continue=2&v=NKmy_Cnt3pM
+https://twitter.com/llanga/status/1189611164860407808
+https://twitter.com/gvanrossum/status/1190099807722852352
+https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
+https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
+
+Steering Council
+https://snarky.ca/what-its-like-to-be-on-the-python-steering-council/
+https://discuss.python.org/t/steering-council-nomination-brett-cannon-2020-term/2566
+
+https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
+
+https://www.python.org/doc/sunset-python-2/
+https://twitter.com/brainwane/status/1176517084890750981
+
+Mariatta
+https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
+https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
+https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
+https://twitter.com/mariatta/status/1188177179630157824
+https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
+https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
+
+https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
+https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
+https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
 https://twitter.com/brettsky/status/1154908949956554752
 
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+Black
+https://twitter.com/llanga/status/1188968251918819329
 
+Failed Optimization
+https://twitter.com/VictorStinner/status/1163465586866905088 | Victor Stinner 🐍 on Twitter: "I wrote a long email about my different Python optimization projects (registervm, FAT Python, pyperf, ...), why they failed https://t.co/xLqlltsB0n and my advices to optimize Python in 2019: &gt; New PyHandle C API &gt; Tracing garbage collector for CPython &gt; CPython subinterpreters" / Twitter
 https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
+
+Multi Core
+https://twitter.com/ericsnowcrntly/status/1190339948286636032
+
+https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
+
+https://www.youtube.com/watch?v=mHOgGuALfNc | PEP 572: The Walrus Operator (Dustin Ingram) - YouTube
+https://dustingram.com/talks/2019/04/04/the-walrus-operator/ | PEP 572: The Walrus Operator - Dustin Ingram
+
+WebAssembly
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
+
+https://pypi.org/project/gidgethub/
+
+Async
+https://twitter.com/judy2k/status/1189915326630256642
+https://pgjones.dev/blog/flask-async-quart-sync-2019/
+
+Radix
+https://twitter.com/hynek/status/1189883958294654978
+Docker
+https://twitter.com/paulweveritt/status/1188915289624322051
+Installation
+https://twitter.com/mariatta/status/1189243515739561985
+os.walk
+https://twitter.com/voidspace/status/1189160753623908357
+
+https://mail.python.org/archives/list/python-dev@python.org/thread/OYNQS2BZYABXACBRHBHV4RCEPQU5R6EP/
+
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+
+Warehouse
+http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html | Python Software Foundation News: Warehouse: All New PyPI is now in beta
+
+https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
+https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
+https://twitter.com/cfactoid/status/1180599186913296384
+
+Node Certifications
+https://twitter.com/webology/status/1186695236749279233 | 🎃 Jeff O'Lantern 🎃 on Twitter: "👋 Hi #python community. Would this be something you'd like to see for our community? My understanding is that a similar program was brought up 6 or 7 years again, but it was not as well received. Is it worth exploring again?" / Twitter
+
+https://twitter.com/jpadilla_/status/1189752115566133248
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+
+Python History
+https://twitter.com/gvanrossum/status/1142480012848717824 | Guido van Rossum on Twitter: "Random Python History thing: I stole Python's 'elif' from the C Preprocessor. https://t.co/qkE1Jn2LXu"
+https://twitter.com/gvanrossum/status/1143890149266190336 | Guido van Rossum on Twitter: "In other news, as I was reminded in an old thread on Stack Overflow, Python's `dir()` function was named after the `dir` command in DOS."
+
+Python History
+https://www.youtube.com/watch?v=qPowhg9nnS0 | Introducing Python - YouTube
+
+Python History
+https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
