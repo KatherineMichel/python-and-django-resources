@@ -1,6 +1,20 @@
 # Python and Django- Contributing
 
 <!--
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
+https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
+https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
+https://2019.pycon.ca/schedule-day-1/ | Schedule - Day 1 | PyCon Canada 2019
+https://pybay.com/schedule/ | PyBay2019
+https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos | PyCon UK - YouTube
+https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos | SF Python - YouTube
+https://www.youtube.com/c/EuroPythonConference | EuroPython Conference - YouTube
+https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q | EuroPython Conference - YouTube
+https://ep2019.europython.eu/events/ | Program / Events & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+
 https://pyvideo.org/events.html | PyVideo.org · Events
 https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
@@ -9,6 +23,11 @@ https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brow
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
 
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://twitter.com/jessicagarson/status/1188194831765594113 | Jessica Garson on Twitter: "My talk from @PyGotham on how I solved my NYC parking problem with Python is now up. Check it out and let me know if it inspires you to build anything https://t.co/kxDv20YA8B" / Twitter
+https://github.com/twitterdev/parking | twitterdev/parking
+https://pyvideo.org/speaker/jessica-garson.html | PyVideo.org · Jessica Garson
+https://www.youtube.com/watch?v=pgDu37WtDhk | How I Solved my NYC Parking Problem with Python - YouTube
 
 https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
 
@@ -88,13 +107,6 @@ https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twit
 
 https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
-
-https://www.encode.io/reports/july-2019/ | Encode
-http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
-http://www.django-rest-framework.org/topics/jobs/ | Jobs - Django REST framework
-https://discuss.encode.io/ | Encode
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
 
 https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
 https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
@@ -527,8 +539,7 @@ https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/ | To ORM or not to ORM 
 ## Parsers
 
 PEG Parser
-* [Guido van Rossum: PEG Parsers](https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c)
-* [Guido van Rossum: "Generating a PEG Parser"](https://medium.com/@gvanrossum_83706/generating-a-peg-parser-520057d642a9)
+* [Guido van Rossum: PEG Parsing Series](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 
 Types of Parsers
 * [LL Parser Wikipedia](https://en.wikipedia.org/wiki/LL_parser)
@@ -537,12 +548,7 @@ Types of Parsers
 
 <!--
 https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
-https://medium.com/@gvanrossum_83706/a-meta-grammar-for-peg-parsers-3d3d502ea332
-https://medium.com/@gvanrossum_83706/adding-actions-to-a-peg-grammar-d5e00fa1092f
 
-https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
-https://medium.com/@gvanrossum_83706/left-recursive-peg-grammars-65dab3c580e1 | Left-recursive PEG grammars - Guido van Rossum - Medium
-https://medium.com/@gvanrossum_83706/visualizing-peg-parsing-93a36f259423 | Visualizing PEG Parsing - Guido van Rossum - Medium
 https://github.com/gvanrossum/pegen
 https://github.com/gvanrossum/ctok | gvanrossum/ctok: Expose CPython's tokenizer as a Python class
 -->
@@ -734,6 +740,12 @@ Upgrading and Choices
 * [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
 
 <!--
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+https://discuss.encode.io/ | Encode
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+
 Django 1.4
 https://twitter.com/hynek/status/1189556183515963392
 
