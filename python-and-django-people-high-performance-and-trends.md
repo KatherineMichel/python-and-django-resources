@@ -181,15 +181,50 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 ## Trends
 
 <!--
-https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
+https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
 
+Glyph and Amber
+https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
 https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
+-->
 
-https://www.python.org/dev/peps/pep-0587/ | PEP 587 -- Python Initialization Configuration | Python.org
-https://www.python.org/dev/peps/pep-3132/ | PEP 3132 -- Extended Iterable Unpacking | Python.org
-https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
+### Kenneth
+
+pipenv
+* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
+
+DJ Static, DJ Database URL
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records, Requests (HTTP for Humans), Requests HTML
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+* [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
+
+<!--
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
+
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+https://github.com/kennethreitz/homebrew-pythons
 -->
 
 ### Bots
@@ -218,6 +253,7 @@ https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..6
 https://sans-io.readthedocs.io/ | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
 https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
 https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://pypi.org/project/gidgethub/
 https://gidgethub.readthedocs.io/en/latest/ | gidgethub — An async library for calling GitHub’s API — gidgethub documentation
 https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
@@ -284,6 +320,8 @@ https://pythoncapi.readthedocs.io/roadmap.html | Roadmap for a new Python C API 
 https://pythoncapi.readthedocs.io/runtime.html | Reorganize Python “runtime” — pythoncapi 0.1 documentation
 https://mail.python.org/archives/list/capi-sig@python.org/message/VKKNX4ECZTCRGYMAJJA4VWPVXC257W62/ | Mailman 3 [capi-sig] Re: [capi-sig]How to access the various levels of runtime state (e.g. PyInterpreterState, _PyRuntimeState)? - capi-sig - python.org
 
+Multi Core
+https://twitter.com/ericsnowcrntly/status/1190339948286636032
 https://github.com/ericsnowcurrently/multi-core-python | ericsnowcurrently/multi-core-python: Enabling CPython multi-core parallelism via subinterpreters.
 https://twitter.com/dontusethiscode/status/1130240042457288705 | James Powell on Twitter: "Pure* Python sub-interpreters without all the hard work of @ericsnowcrntly's PEP-554 (https://t.co/w6aNg3SINI) (Don't actually do this… or do; it's none of my business.)… https://t.co/ZoYRyT58dI"
 
@@ -355,6 +393,11 @@ https://wiki.python.org/moin/GlobalInterpreterLock
 
 ### Python Sync and Async Tools
 
+<!--
+https://twitter.com/judy2k/status/1189915326630256642
+https://pgjones.dev/blog/flask-async-quart-sync-2019/
+-->
+
 ASGI (WSGI is for synchronous Python apps, ASGI is for both asynchronous and synchronous apps)
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io)
 * [ASGI 3.0](https://www.aeracode.org/2019/03/20/asgi-30/)
@@ -366,6 +409,7 @@ asgiref (ASGI in-memory channel layer)
 
 <!--
 https://github.com/django/asgiref/commit/2d29f99cba65c25870aa90f74cbeb694ef7e7445 | Add a thread_sensitive mode to SyncToAsync · django/asgiref@2d29f99
+https://github.com/django/asgiref/commit/85b80b071b946281bf7aa2440151740be51a8938 | Improved thread_sensitive implementation · django/asgiref@85b80b0
 https://github.com/django/asgiref/blob/master/specs/www.rst
 -->
 
@@ -407,6 +451,7 @@ Eventlet and Greenlet
 https://github.com/python-trio/trio | python-trio/trio: Trio – a friendly Python library for async concurrency and I/O
 https://docs.python.org/3/library/asyncio.html
 
+https://github.com/florimondmanca/awesome-asgi | florimondmanca/awesome-asgi: A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 https://github.com/timofurrer/awesome-asyncio | timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources
 
 https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
@@ -637,4 +682,6 @@ https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun
 
 <!--
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
+https://www.youtube.com/watch?v=mHOgGuALfNc | PEP 572: The Walrus Operator (Dustin Ingram) - YouTube
+https://dustingram.com/talks/2019/04/04/the-walrus-operator/ | PEP 572: The Walrus Operator - Dustin Ingram
 -->
