@@ -27,6 +27,14 @@ https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 
 
 
+https://twitter.com/llanga/status/1151618629957509120 | Łukasz Langa on Twitter: "Ooh, I should have some interesting news soon. Something I've been waiting for, and I'm sure you, too." / Twitter
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
+
+https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+
+
 https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
 
 https://pypi.org/project/caniusepython3/
@@ -65,11 +73,12 @@ https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ 
 
 https://news.python.sc/ | Pythonic News
 
+https://twitter.com/carltongibson/status/1149596554191179777 | Carlton Gibson on Twitter: "This may be the smallest of negative gradients, but negative it is! @MariuszFelisiak is on 🔥 (Inbox Zero here we come?)… https://t.co/jnJKg7nQlo"
+
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
 https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
 https://twitter.com/brettsky/status/1154908949956554752
-
 
 WebAssembly
 A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
@@ -114,6 +123,8 @@ Future of Python
 https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
 
 https://twitter.com/zooba/status/1186799825733316608 | Zooba on Twitter: "I had three opportunities today to practice articulating my vision for the future of Python, and I think I'm getting close to being able to actually explain it. Maybe by PyCon US I'll have it figured out... 🤔" / Twitter
+
+https://twitter.com/holdenweb/status/1130182906113122304 | Twitter
 -->
 
 ## Releases
@@ -199,6 +210,9 @@ https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMB
 Failed Optimization
 https://twitter.com/VictorStinner/status/1163465586866905088 | Victor Stinner 🐍 on Twitter: "I wrote a long email about my different Python optimization projects (registervm, FAT Python, pyperf, ...), why they failed https://t.co/xLqlltsB0n and my advices to optimize Python in 2019: &gt; New PyHandle C API &gt; Tracing garbage collector for CPython &gt; CPython subinterpreters" / Twitter
 https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
+
+https://twitter.com/VictorStinner/status/1150703344119427072 | Victor Stinner 🐍 on Twitter: "Video my keynote "Python Performance: Past, Present, Future": https://t.co/cFAyw3XoaW (9h video, link to the start of the my talk, at 31:15)… https://t.co/iwxRcjwqun"
+https://twitter.com/VictorStinner/status/1149625666809155589 | Victor Stinner 🐍 on Twitter: "My keynote slides: Python Performance: Past, Present and Future https://t.co/0m8923itpt Many previous optimization projects failed; Cython, multiprocessing and Numba are working well to make your code faster; PyHandle, tracing GC and subinterpreters are very promising #EuroPython… https://t.co/21jAlxb7v8"
 
 https://pythondev.readthedocs.io/internals.html
 
