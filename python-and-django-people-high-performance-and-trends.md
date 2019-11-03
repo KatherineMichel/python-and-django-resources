@@ -205,6 +205,8 @@ Records, Requests (HTTP for Humans), Requests HTML
 * [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
 
 <!--
+https://github.com/jacobian/dj-database-url | jacobian/dj-database-url: Use Database URLs in your Django Application.
+
 Bake
 https://github.com/kennethreitz/bake
 https://twitter.com/kennethreitz/status/1174769124427390981
@@ -292,6 +294,7 @@ https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | 
 https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
 https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
 https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html | Rust is not a good C replacement | Drew DeVault’s Blog
+https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - Red Hat Developer Blog
 
 PyOxidizer- Python and Rust
 https://twitter.com/andrewgodwin/status/1143982061524418560 | Twitter
@@ -303,6 +306,7 @@ https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
 Pyodide/Web Assembly
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
+https://twitter.com/wasmerio/status/1146477876151115776 | Wasmer on Twitter: "🔥 This is BIG. Using Wasmer 0.5.2 you can run the #Python interpreter ported to #WebAssembly (based on Pyodide) $ wasmer self-update $ wapm install python https://t.co/Oj9RryDrs5… https://t.co/WYMPMDJbNN"
 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 -->
