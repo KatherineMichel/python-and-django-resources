@@ -276,8 +276,10 @@ Python Rust/WebAssembly
 
 <!--
 WASM
+https://webassembly.org/
+https://emscripten.org/ | Main — Emscripten 1.39.0 documentation
 asm.js
-emscripten
+http://asmjs.org/
 https://webassembly.studio/ | WebAssembly Studio
 
 Why Python
@@ -304,6 +306,7 @@ https://twitter.com/indygreg/status/1143187250743668736 | indygreg on Twitter: "
 https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
 
 Pyodide/Web Assembly
+https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
 https://twitter.com/wasmerio/status/1146477876151115776 | Wasmer on Twitter: "🔥 This is BIG. Using Wasmer 0.5.2 you can run the #Python interpreter ported to #WebAssembly (based on Pyodide) $ wasmer self-update $ wapm install python https://t.co/Oj9RryDrs5… https://t.co/WYMPMDJbNN"
