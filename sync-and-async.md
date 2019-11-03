@@ -55,7 +55,7 @@ https://en.wikipedia.org/wiki/Immutable_object
 https://en.wikipedia.org/wiki/Memoization
 -->
 
-## Important Concepts
+## Protocols
 
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
@@ -83,124 +83,6 @@ https://en.wikipedia.org/wiki/Internet_layer
 https://en.wikipedia.org/wiki/Link_layer
 -->
 
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-<!--
-https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
--->
-
-CPU
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-Low-Level Programming Language, Machine Code, Assembly Language
-* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
-* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
-* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-
-Instruction Set (CPU)
-* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
-* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
-* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
-* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
-* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-<!--
-http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
--->
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-<!--
-https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
-https://en.wikipedia.org/wiki/ASCII
-https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
--->
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg) 
-* [Unix Wars Wikipedia](https://en.wikipedia.org/wiki/Unix_wars) 
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
-* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-<!--
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
-https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
-https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
--->
-
-Linux
-* [Linux GitHub](https://github.com/torvalds/linux)
-
-<!--
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
--->
-
-<!--
-https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
--->
-
-Compiler
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
-* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
-* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
-
-<!--	
-Apple
-https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
-https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
-https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
-
-https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
--->
-
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-https://elixir-lang.org/ | Elixir
-
 CPU versus IO
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
@@ -215,102 +97,18 @@ Runtime System, Execution, Thread, Process
 * [Thread Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))
 * [Process Wikipedia](https://en.wikipedia.org/wiki/Process_(computing))
 
-CAP Theorem
-* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
-* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
-
-Database Principles
-* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
-* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
-* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
-* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
 <!--
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
 http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
 
 https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
 https://en.wikipedia.org/wiki/Application_prog
-<!--
-Non-Python async
-https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
-https://v8.dev/features/top-level-await | Top-level await · V8
-
-### Third Party Helpers
-
-Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://urllib3.readthedocs.io/en/latest/
-
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-See also: Data Science
-https://github.com/keen/cohorts
 -->
 
+<!--
 Pramming_interface | Application programming interface - Wikipedia
 https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
 https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
-
-
-AP, CP or CA Databases
-
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/Atomic_commit
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
-
-OOP
-https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
-
-System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
 
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
@@ -321,6 +119,10 @@ https://en.wikipedia.org/wiki/Scheduling_(computing)
 ## Asynchronicity- General
 
 <!--
+Non-Python async
+https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
+https://v8.dev/features/top-level-await | Top-level await · V8
+
 chat protocols, IoT protocols
 https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
 https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
