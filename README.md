@@ -6,6 +6,8 @@ https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
+https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+
 https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
 
 The Packaging Gradient
@@ -17,22 +19,44 @@ https://hynek.me/talks/python-foss/
 https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
 https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
 https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
+https://pypi.org/project/attrs/ | attrs · PyPI
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 
 Mason Egger
 https://masonegger.com/talks/
 https://masonegger.com/talks/ci-docs/
+https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
 
 Katie
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 
 
+https://twitter.com/llanga/status/1153417050024550401
 
-https://twitter.com/llanga/status/1151618629957509120 | Łukasz Langa on Twitter: "Ooh, I should have some interesting news soon. Something I've been waiting for, and I'm sure you, too." / Twitter
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
-https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
+http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
+http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html | Python Software Foundation News: Redesigning the Python Package Index
+
+https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
+
+https://medium.com/@Captain_Joannah/cpython-bug-tracker-the-broken-promise-of-the-easy-issue-tag-my-thoughts-c957c1039760 | Cpython Bug Tracker: The broken promise of the Easy issue tag — My thoughts
+http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
+
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+
+Python 2
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+
+Django
+https://docs.djangoproject.com/en/dev/topics/performance/ | Performance and optimization | Django documentation | Django
+
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
 
 
 https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
