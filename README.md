@@ -53,20 +53,6 @@ https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
 
-https://www.reddit.com/r/django/comments/dorx9t/recap_of_django_us_2019/
-State of Django
-https://www.youtube.com/watch?v=TrAFQW7Wza0&t=316s
-https://pyvideo.org/djangocon-us-2018/state-of-django-panel.html | PyVideo.org · "State of Django" Panel
-
-My CPython Issue and Pull Requests
-http://bugs.python.org/user26332
-
-My first Django PR
-https://github.com/orf/django-docker-box/issues/1
-https://github.com/django/django/pull/11838
-"Submitted my first PR to Django repo. Potentially very impactful in making the local setup process easier for others."
-https://twitter.com/KatiMichel/status/1177382424600182784
-
 django-docker-box
 https://github.com/django/django/pull/10725
 
@@ -187,14 +173,6 @@ https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Tw
 
 https://www.python.org/doc/sunset-python-2/
 https://twitter.com/brainwane/status/1176517084890750981
-
-Mariatta
-https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
-https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
-https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
-https://twitter.com/mariatta/status/1188177179630157824
-https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
-https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
