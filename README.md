@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
 https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
 https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
