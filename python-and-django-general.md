@@ -26,6 +26,8 @@ Python: "I came for the language but I stay for the community..."
 * [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
 
 <!--
+https://blog.dropbox.com/topics/company/thank-you--guido
+
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
 
 https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
@@ -71,6 +73,10 @@ Python Trends
 Python Surveys
 * [JetBrains 2019 Python Developers Survey Results](https://www.jetbrains.com/lp/devecosystem-2019/python/)
 * [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
+
+<!--
+http://pyfound.blogspot.com/2019/10/the-2019-python-developer-survey-is.html
+-->
 
 ## Python 2 or 3, Python 2 EoL
 
@@ -133,10 +139,3 @@ Trolling
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
-
-<!--
-Django Mentored Sprint
-https://twitter.com/carltongibson/status/1119632462357905408 | Carlton Gibson on Twitter: "Ah, this is what I need. This is such a good idea. Just sprinted at @DjangoConEurope without it. Was dearly missed. Totally going to try and copy it for @djangocon... super 🤹🏼‍♀️🕺… 
-https://t.co/XhmAKJbJks"
-https://twitter.com/carltongibson/status/1102298036196294656 | Carlton Gibson on Twitter: "Yeah, me too. "Smooth the on-ramp" is my motto for the year. We'll get there. ✊… "
--->
