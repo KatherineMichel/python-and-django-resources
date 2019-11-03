@@ -26,6 +26,13 @@ Python: "I came for the language but I stay for the community..."
 * [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
 
 <!--
+https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
+https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
+https://twitter.com/cfactoid/status/1180599186913296384
+
+Node Certifications
+https://twitter.com/webology/status/1186695236749279233 | 🎃 Jeff O'Lantern 🎃 on Twitter: "👋 Hi #python community. Would this be something you'd like to see for our community? My understanding is that a similar program was brought up 6 or 7 years again, but it was not as well received. Is it worth exploring again?" / Twitter
+
 https://blog.dropbox.com/topics/company/thank-you--guido
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
