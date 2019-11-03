@@ -4,6 +4,10 @@
 https://pyvideo.org/events.html | PyVideo.org · Events
 https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
+https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
+https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
+https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
