@@ -39,6 +39,8 @@ https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh
 
 https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
 
+https://www.artima.com/forums/flat.jsp?forum=106&thread=161207 | Weblogs Forum - Looking for Memories of Python Old-Timers
+
 https://www.youtube.com/watch?v=qPowhg9nnS0 | Introducing Python - YouTube
 
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html | The History of Python: Python's Design Philosophy
