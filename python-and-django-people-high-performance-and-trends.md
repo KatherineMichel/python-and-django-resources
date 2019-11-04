@@ -363,41 +363,6 @@ Benchmarks and Specifications
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
 -->
 
-### Python Sync and Async
-
-Subroutine and Coroutine
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
-
-* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
-* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
-* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
-
-* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
-* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
-
-Non-Blocking
-* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
-
-Concurrency
-* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
-* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
-
-Asynchrony
-* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
-* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
-* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
-* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
-
-Parallel Computing
-* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
-
-<!--
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://wiki.python.org/moin/GlobalInterpreterLock
--->
-
 ### Python Sync and Async Tools
 
 <!--
