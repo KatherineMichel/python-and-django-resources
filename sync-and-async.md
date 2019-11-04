@@ -191,6 +191,25 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
 
 ## Functionality of Note
 
+<!--
+https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
+
+WebAssembly
+https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
+-->
+
+Mozilla WebRTC
+* [Mozilla WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) and [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
+
+WebAssembly
+* [WebAssembly](https://webassembly.org/) and [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
+* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
+Rust
+* [Rust](https://www.rust-lang.org/)
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+
 Mobile-y Kinds of Things
 * [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
 * [Google Push Notifications](https://developers.google.com/web/fundamentals/push-notifications)
@@ -216,18 +235,7 @@ Offline
 * [Mozilla FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
 * [Mozilla File](https://developer.mozilla.org/en-US/docs/Web/API/File)
 * [Mozilla Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
-  
-Mozilla WebRTC
-* [Mozilla WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) and [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
-
-WebAssembly
-* [WebAssembly](https://webassembly.org/) and [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
-* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-
-Rust
-* [Rust](https://www.rust-lang.org/)
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-
+ 
 <!--
 * [Service Workers Explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 
@@ -265,12 +273,4 @@ HTTP/2
   * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
     * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
   * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
--->
-
-<!--
-https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
-
-WebAssembly
-https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
-https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
 -->
