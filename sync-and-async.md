@@ -83,6 +83,42 @@ https://en.wikipedia.org/wiki/Internet_layer
 https://en.wikipedia.org/wiki/Link_layer
 -->
 
+## Python Sync and Async
+
+Subroutine and Coroutine
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+
+* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
+* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
+
+* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
+* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
+
+Non-Blocking
+* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+
+Concurrency
+* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
+
+Asynchrony
+* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
+* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
+* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
+* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
+
+Parallel Computing
+* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
+
+<!--
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+https://wiki.python.org/moin/GlobalInterpreterLock
+-->
+
+
 CPU versus IO
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
@@ -159,6 +195,8 @@ WebSockets and Server-Sent Events
 * [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
 
 <!--
+https://en.wikipedia.org/wiki/Asynchronous_I/O
+
 https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 
@@ -176,7 +214,6 @@ https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Do
 Node.js
 Event-driven, asynchronous IO
 https://www.tutorialspoint.com/nodejs/nodejs_event_loop
-https://en.wikipedia.org/wiki/Asynchronous_I/O
 
 https://www.quora.com/Which-programming-languages-are-asynchronous
 JavaScript
