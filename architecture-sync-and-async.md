@@ -350,20 +350,85 @@ https://www.tutorialspoint.com/nodejs/nodejs_event_loop
 <!--
 See Tom's Talk
 
-chat protocols, IoT protocols
-https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
-https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
-
-https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-https://en.wikipedia.org/wiki/Push_technology
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+Also, Ajax Polling explained
 
 Real time
 Websockets, SSE, long polling
 https://en.wikipedia.org/wiki/Server-sent_events
 non-blocking http requests
 light-weight parallelization
+https://en.wikipedia.org/wiki/Parallel_computing
 explicit i/o
+-->
+
+## HTTP, Request and Response Cycle- General
+
+<!--
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+-->
+
+Web Browsers and Servers
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Client-Side
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+
+Server-Side
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Scripting, Client-Side and Server-Side
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
+* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
+
+Request and Response Cycle
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+
+HTTP and HTTPS
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+
+Request and Response Cycle- HTTP
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
+
+Sessions
+* [Web Browing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
+* [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
+* [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
+
+Cookies
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
+
+<!--
+https://en.wikipedia.org/wiki/Hypertext | Hypertext - Wikipedia
+
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
+https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
+https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
+https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
+
+https://en.wikipedia.org/wiki/Server_log
 -->
