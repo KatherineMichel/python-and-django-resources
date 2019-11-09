@@ -1,60 +1,5 @@
 # Sync and Async
 
-## Programming Paradigms
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Paradigm Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-<!--
-React?
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
--->
-
-## Useful Terminology
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-<!--
-https://realpython.com/modeling-polymorphism-django-python/
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
-
-https://en.wikipedia.org/wiki/Object_composition
-https://en.wikipedia.org/wiki/State_(computer_science)
-https://en.wikipedia.org/wiki/Stateless_protocol
-https://en.wikipedia.org/wiki/State_diagram
-https://en.wikipedia.org/wiki/Interface_(computing)
-
-https://en.wikipedia.org/wiki/Persistence_(computer_science)
-https://en.wikipedia.org/wiki/Persistent_data_structure
-https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
-
-https://en.wikipedia.org/wiki/Immutable_object
-
-https://en.wikipedia.org/wiki/Memoization
--->
-
 ## Protocols
 
 Network Protocols
@@ -83,41 +28,12 @@ https://en.wikipedia.org/wiki/Internet_layer
 https://en.wikipedia.org/wiki/Link_layer
 -->
 
-## Python Sync and Async
+TCP
+* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
+* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
-Subroutine and Coroutine
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
-
-* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
-* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
-* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
-
-* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
-* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
-
-Non-Blocking
-* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
-
-Concurrency
-* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
-* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
-
-Asynchrony
-* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
-* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
-* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
-* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
-
-Parallel Computing
-* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
-
-<!--
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://wiki.python.org/moin/GlobalInterpreterLock
--->
-
+## Computer Architecture
 
 CPU versus IO
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
@@ -126,12 +42,61 @@ CPU versus IO
 * [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
 * [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
 
+Ports and Sockets
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+
+Webhooks and Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
+* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
+
+## Sync and Async
+
+Parallel Computing
+* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
+
 Runtime System, Execution, Thread, Process
 * [Runtime System Wikipedia](https://en.wikipedia.org/wiki/Runtime_system)
 * [Execution Wikipedia](https://en.wikipedia.org/wiki/Execution_(computing))
 * [Thread Wikipedia](https://simple.wikipedia.org/wiki/Thread_(computer_science))
 * [Thread Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))
 * [Process Wikipedia](https://en.wikipedia.org/wiki/Process_(computing))
+
+Threads and Multiprocessing
+* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
+* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
+
+<!--
+https://wiki.python.org/moin/GlobalInterpreterLock
+-->
+
+Non-Blocking
+* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+
+Concurrency
+* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
+
+Subroutine and Coroutine
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+
+Asynchrony
+* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
+* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
+* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
+* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
+
+
+
+* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
+* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
+
+<!--
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+-->
 
 <!--
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
@@ -159,51 +124,6 @@ Non-Python async
 https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
 https://v8.dev/features/top-level-await | Top-level await · V8
 
-chat protocols, IoT protocols
-https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
-https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
-
-https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP/3
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-https://en.wikipedia.org/wiki/Push_technology
-
-Real time
-Websockets, SSE, long polling
-https://en.wikipedia.org/wiki/Server-sent_events
-non-blocking http requests
-light-weight parallelization
-explicit i/o
--->
-
-Sockets
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-
-Webhooks and Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
-* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
-* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
-
-TCP
-* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
-
-WebSockets and Server-Sent Events
-* [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-* [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
-
-<!--
-https://en.wikipedia.org/wiki/Asynchronous_I/O
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
 https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
@@ -224,6 +144,42 @@ https://nodejs.org/api/timers.html
 https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
 https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
 https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+-->
+
+## Benefits
+
+<!--
+chat protocols, IoT protocols
+https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
+https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
+
+https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+https://en.wikipedia.org/wiki/Push_technology
+
+Real time
+Websockets, SSE, long polling
+https://en.wikipedia.org/wiki/Server-sent_events
+non-blocking http requests
+light-weight parallelization
+explicit i/o
+-->
+
+
+WebSockets and Server-Sent Events
+* [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+
+<!--
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
 -->
 
 ## Functionality of Note
