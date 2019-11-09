@@ -155,15 +155,10 @@ TCP
 * [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 * [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
-
 <!--
-https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
-http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
-
-https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
-https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
-https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
-https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
 -->
 
 <!--
@@ -283,16 +278,17 @@ Asynchrony
 * [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
 
 
-
-* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
-* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
-
 <!--
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
+https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
+https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
+https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
 
 https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
@@ -302,15 +298,20 @@ https://realpython.com/python-sockets
 https://www.geeksforgeeks.org/socket-programming-python
 -->
 
-## Asynchronicity- General
+## Async- Other Languages
 
-<!--
+* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
+* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
+
 WebSockets and Server-Sent Events
 * [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 * [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
 
 Non-Python async
-https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
+* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
+
+<!--
+https://github.com/tc39/proposal-top-level-await
 https://v8.dev/features/top-level-await | Top-level await · V8
 
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
@@ -319,10 +320,6 @@ https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
 https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
 https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
-
-Node.js
-Event-driven, asynchronous IO
-https://www.tutorialspoint.com/nodejs/nodejs_event_loop
 
 https://www.quora.com/Which-programming-languages-are-asynchronous
 JavaScript
@@ -333,11 +330,17 @@ https://nodejs.org/api/timers.html
 https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
 https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
 https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+
+Node.js
+Event-driven, asynchronous IO
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop
 -->
 
 ## Benefits
 
 <!--
+See Tom's Talk
+
 chat protocols, IoT protocols
 https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
 https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
@@ -345,7 +348,6 @@ https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
 https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
 
-https://en.wikipedia.org/wiki/HTTP/3
 https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 https://en.wikipedia.org/wiki/Push_technology
 
