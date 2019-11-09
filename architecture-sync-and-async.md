@@ -240,8 +240,6 @@ Webhooks and Callbacks (implemented often as subroutines, lambda expressions, bl
 * [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
 <!--
-https://en.wikipedia.org/wiki/Input/output
-
 https://en.wikipedia.org/wiki/Memory_bound_function
 
 Interesting!
@@ -255,9 +253,6 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 -->
 
 ## Sync and Async
-
-Parallel Computing
-* [Parallel Computing Wikipedia](https://en.wikipedia.org/wiki/Parallel_computing)
 
 Runtime System, Execution, Thread, Process
 * [Runtime System Wikipedia](https://en.wikipedia.org/wiki/Runtime_system)
