@@ -50,6 +50,7 @@ Binary
 
 <!--
 https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
 https://en.wikipedia.org/wiki/ASCII
 https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
 -->
@@ -173,9 +174,10 @@ https://dzone.com/articles/every-programmer-should-know
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Throughput
+
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
 https://en.wikipedia.org/wiki/Bandwidth_throttling
-https://en.wikipedia.org/wiki/Throughput
 https://en.wikipedia.org/wiki/Rate_limiting
 
 https://en.wikipedia.org/wiki/CPU_cache
@@ -237,6 +239,21 @@ Webhooks and Callbacks (implemented often as subroutines, lambda expressions, bl
 * [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
 * [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
+<!--
+https://en.wikipedia.org/wiki/Input/output
+
+https://en.wikipedia.org/wiki/Memory_bound_function
+
+Interesting!
+https://en.wikipedia.org/wiki/Execution_model
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Event-driven_messaging
+-->
+
 ## Sync and Async
 
 Parallel Computing
@@ -279,11 +296,8 @@ Asynchrony
 
 
 <!--
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Event-driven_messaging
-https://en.wikipedia.org/wiki/Scheduling_(computing)
+https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
+https://www.tutorialspoint.com/html5/html5_websocket.htm
 
 https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
 https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
