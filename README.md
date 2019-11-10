@@ -1,11 +1,29 @@
 # Python and Django- Contributing
 
 <!--
+https://github.com/Mariatta/gh_app_starter
+https://twitter.com/mariatta/status/1191534648205037569
+
+Maintainer's Summit
+https://twitter.com/JackieKazil/status/1191796784399572993
+
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
 https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
 https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
 https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
+https://pyvideo.org/events.html | PyVideo.org · Events
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+
+https://2019.northbaypython.org/schedule/
+https://pyvideo.org/events/pycon-us-2019.html
+https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/videos
 https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+https://speakerdeck.com/pycon2019?page=1
+PyGotham 2019
+https://www.youtube.com/channel/UCTFmuFVfQA8Fl2SzKERFodQ/videos
+North Bay Python
+https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos
 https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
 https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
 https://2019.pycon.ca/schedule-day-1/ | Schedule - Day 1 | PyCon Canada 2019
@@ -17,9 +35,6 @@ https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q | EuroPython Conference
 https://ep2019.europython.eu/events/ | Program / Events & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
 
-https://pyvideo.org/events.html | PyVideo.org · Events
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
@@ -27,16 +42,45 @@ https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Co
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 https://twitter.com/jessicagarson/status/1188194831765594113 | Jessica Garson on Twitter: "My talk from @PyGotham on how I solved my NYC parking problem with Python is now up. Check it out and let me know if it inspires you to build anything https://t.co/kxDv20YA8B" / Twitter
-https://github.com/twitterdev/parking | twitterdev/parking
 https://pyvideo.org/speaker/jessica-garson.html | PyVideo.org · Jessica Garson
 https://www.youtube.com/watch?v=pgDu37WtDhk | How I Solved my NYC Parking Problem with Python - YouTube
+https://www.slideshare.net/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-178892380
+https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp
+https://github.com/twitterdev/parking | twitterdev/parking
+https://twitter.com/jessicagarson/status/1180184635931856896
+
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
 
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+Django Channels in Practice
+https://pyvideo.org/pycon-us-2019/django-channels-in-practice.html
+https://us.pycon.org/2019/speaker/profile/573/
+
+What is a Coroutine Anyway?
+https://www.youtube.com/watch?v=GSiZkP7cI80
+https://github.com/jreese/pycon
+
+The Perils of Inheritance
+https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
+https://docs.google.com/presentation/d/e/2PACX-1vRNv4rLHUdM03wPOfe8GuqZQWjrVKfaDtULV2K_qVa4oHkR4WPfjsYaQy22sCuZcoAO26WToGcI7HME/pub
 
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
+
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+
+Contributing to Open Source: A Guide
+https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
 
 Hynek
 https://hynek.me/talks/
@@ -50,6 +94,7 @@ https://pypi.org/project/attrs/ | attrs · PyPI
 https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 
 Mason Egger
+https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
 https://masonegger.com/talks/
 https://masonegger.com/talks/ci-docs/
 https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
