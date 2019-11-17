@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+
 https://github.com/Mariatta/gh_app_starter
 https://twitter.com/mariatta/status/1191534648205037569
 
@@ -12,35 +14,6 @@ https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is i
 https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
 https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
-https://pyvideo.org/events.html | PyVideo.org · Events
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-
-https://2019.northbaypython.org/schedule/
-https://pyvideo.org/events/pycon-us-2019.html
-https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/videos
-https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
-https://speakerdeck.com/pycon2019?page=1
-PyGotham 2019
-https://www.youtube.com/channel/UCTFmuFVfQA8Fl2SzKERFodQ/videos
-North Bay Python
-https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos
-https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
-https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
-https://2019.pycon.ca/schedule-day-1/ | Schedule - Day 1 | PyCon Canada 2019
-https://pybay.com/schedule/ | PyBay2019
-https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos | PyCon UK - YouTube
-https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos | SF Python - YouTube
-https://www.youtube.com/c/EuroPythonConference | EuroPython Conference - YouTube
-https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q | EuroPython Conference - YouTube
-https://ep2019.europython.eu/events/ | Program / Events & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
-
-https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
-https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
-https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
 https://twitter.com/jessicagarson/status/1188194831765594113 | Jessica Garson on Twitter: "My talk from @PyGotham on how I solved my NYC parking problem with Python is now up. Check it out and let me know if it inspires you to build anything https://t.co/kxDv20YA8B" / Twitter
 https://pyvideo.org/speaker/jessica-garson.html | PyVideo.org · Jessica Garson
 https://www.youtube.com/watch?v=pgDu37WtDhk | How I Solved my NYC Parking Problem with Python - YouTube
@@ -48,6 +21,21 @@ https://www.slideshare.net/twitterdev/how-i-solved-my-nyc-parking-problem-with-p
 https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp
 https://github.com/twitterdev/parking | twitterdev/parking
 https://twitter.com/jessicagarson/status/1180184635931856896
+https://messicaarson.bandcamp.com/ | Music | Messica Arson
+http://pycon-making-music.glitch.me/#/ | PyCon
+https://github.com/JessicaGarson | JessicaGarson (Jessica Garson)
+https://foxdot.org/ | FoxDot: Live coding with Python – Make music with Python and SuperCollider
+https://livecode.nyc/ | livecode.nyc | LiveCode.NYC
+https://www.youtube.com/watch?v=YUIPcXduR8E | Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon 2019 - YouTube
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+
+https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
+https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
+https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
 https://www.youtube.com/watch?v=r-A78RgMhZU
