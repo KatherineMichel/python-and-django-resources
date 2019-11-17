@@ -411,7 +411,7 @@ API Star
 
 Tornado and Twisted
 * [Tornado (asynchronous networking library)](https://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
-* [Twisted](https://twistedmatrix.com)
+* [Twisted](https://twistedmatrix.com) and [Twisted GitHub](https://github.com/twisted/twisted)
 * [Amber Brown: "50,000,000 Twisted Downloads Can't Be Wrong"](https://atleastfornow.net/posts/py2-py3-twisted-downloads/)
 
 Eventlet and Greenlet
