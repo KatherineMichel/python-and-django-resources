@@ -128,6 +128,49 @@ https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule 
 https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
+## CPython Core Developer Perspectives
+
+Core Developer Perspectives
+* [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
+* [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/) and ["My path to becoming a core developer, @emilyemorehouse #pytexas2019… "](https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s)
+* [Mariatta Wijaya "What is a Python Core Developer?" (North Bay Python)](https://www.youtube.com/watch?v=xvft-_8djUI) and [Mariatta Wijaya "What is a Python Core Developer?" (PyCon 2018)](https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be)
+
+## CPython Help and Mentorship
+
+Help and Communication
+* [Where to Get Help](https://devguide.python.org/help/)
+* [Communication](https://devguide.python.org/communication/)
+
+<!--
+https://twitter.com/TalEinat/status/1156898504884785157
+https://twitter.com/gvanrossum/status/1156984705771683840
+
+http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
+https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
+
+python core developer mailing list - Google Search
+
+https://mail.python.org/mailman3/lists/core-mentorship.python.org/
+https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
+
+https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
+-->
+
+Python Mentors
+* [Python Mentors](http://pythonmentors.com)
+
+Python Google Summer of Code
+* [Python Google Summer of Code](http://python-gsoc.org/)
+
+<!--
+Season of Docs
+https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
+https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
+-->
+
 ## Diversity
 
 Mentoring and diversity for Python (2018)
