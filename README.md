@@ -1,6 +1,9 @@
 # Python and Django- Contributing
 
 <!--
+Maintainer's Summit
+https://twitter.com/JackieKazil/status/1191796784399572993
+
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
