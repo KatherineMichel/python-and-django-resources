@@ -82,15 +82,26 @@ Linux
 * [Linux GitHub](https://github.com/torvalds/linux)
 
 <!--
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
--->
-
-<!--
 https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
 https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
 https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
 https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
+
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
+https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
+
+https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
+
+https://twitter.com/brendangregg/status/1150796412931600384/photo/2
+https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
+https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
+http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
+https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
+http://man7.org/linux/man-pages/ | Linux man pages online
+https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
 -->
 
 Compiler
