@@ -1,74 +1,9 @@
 # Python and Django- Contributing
 
 <!--
-### Bots
-
-https://github.com/Mariatta/gh_app_starter
-https://twitter.com/mariatta/status/1191534648205037569
-https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-New- Bots
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-https://sans-io.readthedocs.io/ | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
-https://pypi.org/project/gidgethub/
-https://gidgethub.readthedocs.io/en/latest/ | gidgethub — An async library for calling GitHub’s API — gidgethub documentation
-https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://github.com/berkerpeksag/cpython-merge-bot
--->
-
-<!--
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-
-Maintainer's Summit
-https://twitter.com/JackieKazil/status/1191796784399572993
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
-https://twitter.com/jessicagarson/status/1188194831765594113 | Jessica Garson on Twitter: "My talk from @PyGotham on how I solved my NYC parking problem with Python is now up. Check it out and let me know if it inspires you to build anything https://t.co/kxDv20YA8B" / Twitter
-https://pyvideo.org/speaker/jessica-garson.html | PyVideo.org · Jessica Garson
-https://www.youtube.com/watch?v=pgDu37WtDhk | How I Solved my NYC Parking Problem with Python - YouTube
-https://www.slideshare.net/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-178892380
-https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp
-https://github.com/twitterdev/parking | twitterdev/parking
-https://twitter.com/jessicagarson/status/1180184635931856896
-https://messicaarson.bandcamp.com/ | Music | Messica Arson
-http://pycon-making-music.glitch.me/#/ | PyCon
-https://github.com/JessicaGarson | JessicaGarson (Jessica Garson)
-https://foxdot.org/ | FoxDot: Live coding with Python – Make music with Python and SuperCollider
-https://livecode.nyc/ | livecode.nyc | LiveCode.NYC
-https://www.youtube.com/watch?v=YUIPcXduR8E | Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon 2019 - YouTube
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
 https://www.youtube.com/watch?v=r-A78RgMhZU
@@ -83,61 +18,21 @@ What is a Coroutine Anyway?
 https://www.youtube.com/watch?v=GSiZkP7cI80
 https://github.com/jreese/pycon
 
-The Perils of Inheritance
-https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
-https://docs.google.com/presentation/d/e/2PACX-1vRNv4rLHUdM03wPOfe8GuqZQWjrVKfaDtULV2K_qVa4oHkR4WPfjsYaQy22sCuZcoAO26WToGcI7HME/pub
-
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
 
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
 
-Contributing to Open Source: A Guide
-https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
-
-Hynek
-https://hynek.me/talks/
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
-https://pypi.org/project/attrs/ | attrs · PyPI
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
-
-Mason Egger
-https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
-https://masonegger.com/talks/
-https://masonegger.com/talks/ci-docs/
-https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
-
-Katie
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-
+https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
 https://twitter.com/llanga/status/1153417050024550401
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
-https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
 http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
 http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
-http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html | Python Software Foundation News: Redesigning the Python Package Index
 
 https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
-
-https://medium.com/@Captain_Joannah/cpython-bug-tracker-the-broken-promise-of-the-easy-issue-tag-my-thoughts-c957c1039760 | Cpython Bug Tracker: The broken promise of the Easy issue tag — My thoughts
-http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
 
 https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
 
@@ -154,33 +49,18 @@ https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — P
 
 https://pypi.org/project/caniusepython3/
 
-https://github.com/encode/httpx/labels/good%20first%20issue | Issues · encode/httpx
-
 Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
-
-https://twitter.com/llanga | Łukasz Langa (@llanga) / Twitter
-https://github.com/webknjaz
 
 Python Core
 https://github.com/vstinner/pysandbox/
 https://github.com/pypa/manylinux
-
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
 
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
 
-https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
-
-
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
-https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
-
 https://news.python.sc/ | Pythonic News
-
-https://twitter.com/carltongibson/status/1149596554191179777 | Carlton Gibson on Twitter: "This may be the smallest of negative gradients, but negative it is! @MariuszFelisiak is on 🔥 (Inbox Zero here we come?)… https://t.co/jnJKg7nQlo"
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
@@ -203,9 +83,6 @@ https://twitter.com/voidspace/status/1189160753623908357
 https://mail.python.org/archives/list/python-dev@python.org/thread/OYNQS2BZYABXACBRHBHV4RCEPQU5R6EP/
 
 https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
-
-Warehouse
-http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html | Python Software Foundation News: Warehouse: All New PyPI is now in beta
 
 https://twitter.com/jpadilla_/status/1189752115566133248
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
@@ -254,9 +131,23 @@ By OS
 * ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
+https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
+
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 -->
+
+## CPython Experts, Mailing Lists, Core Developer Info, Permissions
+
+CPython Experts Index
+* [CPython Experts Index](https://devguide.python.org/experts/)
+
+Mailing List and Permissions History
+* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
+* [Permissions History](https://devguide.python.org/developers/#permissions-history)
+* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
+* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
+* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
 ## Python Contributing Info and Docs
 
@@ -314,13 +205,6 @@ https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-p
 
 https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMBZNKJO5U6ERFIZC7FTIG/ | Mailman 3 Announcing the new Python triage team on GitHub - Python-Dev - python.org
 
-Failed Optimization
-https://twitter.com/VictorStinner/status/1163465586866905088 | Victor Stinner 🐍 on Twitter: "I wrote a long email about my different Python optimization projects (registervm, FAT Python, pyperf, ...), why they failed https://t.co/xLqlltsB0n and my advices to optimize Python in 2019: &gt; New PyHandle C API &gt; Tracing garbage collector for CPython &gt; CPython subinterpreters" / Twitter
-https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
-
-https://twitter.com/VictorStinner/status/1150703344119427072 | Victor Stinner 🐍 on Twitter: "Video my keynote "Python Performance: Past, Present, Future": https://t.co/cFAyw3XoaW (9h video, link to the start of the my talk, at 31:15)… https://t.co/iwxRcjwqun"
-https://twitter.com/VictorStinner/status/1149625666809155589 | Victor Stinner 🐍 on Twitter: "My keynote slides: Python Performance: Past, Present and Future https://t.co/0m8923itpt Many previous optimization projects failed; Cython, multiprocessing and Numba are working well to make your code faster; PyHandle, tracing GC and subinterpreters are very promising #EuroPython… https://t.co/21jAlxb7v8"
-
 https://pythondev.readthedocs.io/internals.html
 
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
@@ -357,55 +241,63 @@ https://devguide.python.org/gitbootcamp/#git-pr | 31. Git Bootcamp and Cheat She
 https://www.python.org/dev/peps/pep-0387/ | PEP 387 -- Backwards Compatibility Policy | Python.org
 -->
 
-## CPython Experts, Mailing Lists, Core Developer Info, Permissions, Mentors
+## CPython Workflow Choices and Tools
 
-CPython Experts Index
-* [CPython Experts Index](https://devguide.python.org/experts/)
+Core Workflow Tools
+* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
+* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
+* [miss-islington](https://github.com/python/miss-islington)
 
-Mailing List and Permissions History
-* [Python Core Workflow Mailing List](https://mail.python.org/mailman/listinfo/core-workflow)
-* [Permissions History](https://devguide.python.org/developers/#permissions-history)
-* [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
-* [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
-* [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
+Issues PEP
+* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
+* [PEP 581 -- Using GitHub Issues for CPython is Accepted](https://mail.python.org/pipermail/python-dev/2019-May/157399.html)
+* [PEP 588 -- GitHub Issues Migration Plan](https://www.python.org/dev/peps/pep-0588/)
+* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
 
-Help and Communication
-* [Where to Get Help](https://devguide.python.org/help/)
-* [Communication](https://devguide.python.org/communication/)
+CPython GitHub Migration
+* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
+* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
 
-Core Developer Perspectives
-* [Raymond Hettinger, "Being a Core Developer in Python", PyBay2016](https://www.youtube.com/watch?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog&v=voXVTjwnn-U)
-* [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/) and ["My path to becoming a core developer, @emilyemorehouse #pytexas2019… "](https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s)
-* [Mariatta Wijaya "What is a Python Core Developer?" (North Bay Python)](https://www.youtube.com/watch?v=xvft-_8djUI) and [Mariatta Wijaya "What is a Python Core Developer?" (PyCon 2018)](https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be)
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
-<!--
-https://twitter.com/TalEinat/status/1156898504884785157
-https://twitter.com/gvanrossum/status/1156984705771683840
-
-http://pyfound.blogspot.com/2019/05/python-core-developer-mentorship.html | Python Software Foundation News: Python Core Developer Mentorship
-https://github.com/vstinner/conf/blob/master/2019-Pycon/mentoring.pdf | conf/mentoring.pdf at master · vstinner/conf
-
-python core developer mailing list - Google Search
-
-https://mail.python.org/mailman3/lists/core-mentorship.python.org/
-https://mail.python.org/mailman/private/core-mentorship/2015-November/003274.html
-
-https://twitter.com/VictorStinner/status/1136236361307045889 | Victor Stinner 🐍 on Twitter: "python-ideas and python-dev mailing lists migrated to Mailman 3: say hello to the new shiny HyperKitty web UI to read *and* post emails to these lists: https://t.co/h6oJ5bBcJ8 Post emails directly in the web UI, nicer UI, stats, single password for multiple lists & more!… https://t.co/4nIxrLTKG5"
--->
-
-Python Mentors
-* [Python Mentors](http://pythonmentors.com)
-
-Python Google Summer of Code
-* [Python Google Summer of Code](http://python-gsoc.org/)
+Reality
+* [Guido van Rossum: "All the time! Just now I had to... "](https://twitter.com/gvanrossum/status/1072535194131984386)
+* [Jacob Kaplan-Moss: "I've literally given up on ideas... "](https://twitter.com/jacobian/status/737441987587018752 )
+* [Carlton Gibson: "I have to force push about 8 times every time... "](https://twitter.com/carltongibson/status/1135628987106025478)
 
 <!--
-Season of Docs
-https://code.djangoproject.com/wiki/2019SeasonOfDocs | 2019SeasonOfDocs – Django
-https://developers.google.com/season-of-docs/terms/program-rules | Season of Docs 2019 Program Rules  |  Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/ | Season of Docs  |  Google Developers
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
-https://numfocus.org/blog/numfocus-projects-to-apply-for-inaugural-google-season-of-docs | NumFOCUS Projects Accepted to Inaugural Google Season of Docs - NumFOCUS
+http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
+https://medium.com/@Captain_Joannah/cpython-bug-tracker-the-broken-promise-of-the-easy-issue-tag-my-thoughts-c957c1039760 | Cpython Bug Tracker: The broken promise of the Easy issue tag — My thoughts
+
+PyCon DE
+https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
+https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
+https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
+https://twitter.com/mariatta/status/1188177179630157824
+https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
+https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
+
+
+Mariatta Tools
+https://github.com/bots-for-humanity
+
+https://github.com/python/miss-islington/issues
+https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
+
+https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
+https://github.com/Mariatta/cloner
+
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
 -->
 
 ## Python Performance, Speed, and Security
@@ -435,59 +327,38 @@ https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed u
 https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/ | Why Python is Slow: Looking Under the Hood | Pythonic Perambulations
 -->
 
-## CPython Workflow Choices and Tools
+## CPython Helpers
 
-Core Workflow Tools
-* [Core Workflow Tools GitHub](https://github.com/python/core-workflow)
-* [cherry_picker](https://github.com/python/core-workflow/tree/master/cherry_picker) and [cherry picker PyPi](https://pypi.org/project/cherry-picker)
-* [miss-islington](https://github.com/python/miss-islington)
+Regression Test Suite For Python Core Developers
+* [Regression Test Suite](https://docs.python.org/3/library/test.html)
+* [test.support — Utilities for the Python test suite](https://docs.python.org/3/library/test.html#module-test.support)
 
-Issues PEP
-* [PEP 581 -- Using GitHub Issues for CPython](https://www.python.org/dev/peps/pep-0581)
-* [PEP 581 -- Using GitHub Issues for CPython is Accepted](https://mail.python.org/pipermail/python-dev/2019-May/157399.html)
-* [PEP 588 -- GitHub Issues Migration Plan](https://www.python.org/dev/peps/pep-0588/)
-* [LWN: "Using GitHub Issues for Python"](https://lwn.net/Articles/754779)
-
-CPython GitHub Migration
-* ["The history behind the decision to move Python to GitHub"](https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github)
-* ["CPython workflow changes"](https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6)
-
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
-Reality
-* [Guido van Rossum: "All the time! Just now I had to... "](https://twitter.com/gvanrossum/status/1072535194131984386)
-* [Jacob Kaplan-Moss: "I've literally given up on ideas... "](https://twitter.com/jacobian/status/737441987587018752 )
-* [Carlton Gibson: "I have to force push about 8 times every time... "](https://twitter.com/carltongibson/status/1135628987106025478)
+Disassember
+* [Disassembler Wikipedia](https://en.wikipedia.org/wiki/Disassembler)
 
 <!--
-PyCon DE
-https://speakerdeck.com/mariatta/pyconde-2019-keynote | PyConDE 2019 Keynote - Speaker Deck
-https://twitter.com/dengun/status/1181977093703421953 | Dengun Group on Twitter: "#PyConDE #PyDataBerlin PEP 581 and PEP 588: Migrating Python’s Issue Tracker by Core Developer Mariatta Wijaya (@mariatta). Interesting and in-depth talk on how the CPython's Issue Tracker process works and it's pain points. https://t.co/CZKanPOev4" / Twitter
-https://twitter.com/mariatta/status/1181961785252962305 | Mariatta 🤦 on Twitter: "Thanks @ixek for coming and summarizing my talk 👏😊💜 #PEP581 #PyConDE 🧵⤵️ https://t.co/YroC8PjMxT" / Twitter
-https://twitter.com/mariatta/status/1188177179630157824
-https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
-https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
+Failed Optimization
+https://twitter.com/VictorStinner/status/1163465586866905088 | Victor Stinner 🐍 on Twitter: "I wrote a long email about my different Python optimization projects (registervm, FAT Python, pyperf, ...), why they failed https://t.co/xLqlltsB0n and my advices to optimize Python in 2019: &gt; New PyHandle C API &gt; Tracing garbage collector for CPython &gt; CPython subinterpreters" / Twitter
+https://mail.python.org/pipermail/python-dev/2018-May/153296.html | [Python-Dev] Python startup time
 
-Mariatta Tools
-https://github.com/bots-for-humanity
+https://twitter.com/VictorStinner/status/1150703344119427072 | Victor Stinner 🐍 on Twitter: "Video my keynote "Python Performance: Past, Present, Future": https://t.co/cFAyw3XoaW (9h video, link to the start of the my talk, at 31:15)… https://t.co/iwxRcjwqun"
+https://twitter.com/VictorStinner/status/1149625666809155589 | Victor Stinner 🐍 on Twitter: "My keynote slides: Python Performance: Past, Present and Future https://t.co/0m8923itpt Many previous optimization projects failed; Cython, multiprocessing and Numba are working well to make your code faster; PyHandle, tracing GC and subinterpreters are very promising #EuroPython… https://t.co/21jAlxb7v8"
 
-https://github.com/python/miss-islington/issues
-https://github.com/python/miss-islington/issues/130 | Don't wait for unrequired status checks. · Issue #130 · python/miss-islington
+https://github.com/python/pyperformance/blob/master/README.rst | performance/README.rst at master · python/performance
+https://github.com/python/pyperformance | python/pyperformance: Python Performance Benchmark Suite
 
-https://github.com/Mariatta/close-all-pr | Mariatta/close-all-pr
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-https://github.com/Mariatta/mariatta-bot | Mariatta/mariatta-bot: Mariatta's GitHub bot
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/tic_tac_taco_pizza | GitHub - Mariatta/tic_tac_taco_pizza: Play tic tac toe, with taco and pizza
-https://github.com/Mariatta/cloner
+https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
+https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
 
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
+https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
+
+https://docs.python.org/3/library/inspect.html	
+		
+2. Using the Python Interpreter	
+
+https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
 -->
 
 ## C Programming Language 
@@ -652,33 +523,6 @@ Python Sprints
 
 <!--
 https://wiki.python.org/moin/EuroPython2018/CPython | EuroPython2018/CPython - Python Wiki
--->
-
-## CPython Helpers
-
-Regression Test Suite For Python Core Developers
-* [Regression Test Suite](https://docs.python.org/3/library/test.html)
-* [test.support — Utilities for the Python test suite](https://docs.python.org/3/library/test.html#module-test.support)
-
-Disassember
-* [Disassembler Wikipedia](https://en.wikipedia.org/wiki/Disassembler)
-
-<!--
-https://github.com/python/pyperformance/blob/master/README.rst | performance/README.rst at master · python/performance
-https://github.com/python/pyperformance | python/pyperformance: Python Performance Benchmark Suite
-
-https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.7.4rc2 documentation
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.7.4rc2 documentation
-https://docs.python.org/3/reference/executionmodel.html | 4. Execution model — Python 3.7.4rc2 documentation
-
-https://docs.python.org/3/library/dis.html | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
-https://docs.python.org/3/library/dis.html#dis.Instruction | dis — Disassembler for Python bytecode — Python 3.7.4rc2 documentation
-
-https://docs.python.org/3/library/inspect.html	
-		
-2. Using the Python Interpreter	
-
-https://speakerdeck.com/tiran/europython-2019-introduction-to-low-level-profiling-and-tracing | EuroPython 2019: Introduction to low-level profiling and tracing - Speaker Deck
 -->
 
 ## CPython and Django Docs
