@@ -862,6 +862,7 @@ https://twitter.com/llanga/status/1153417050024550401
 ## python.org and djangoproject.com Contributing
 
 python.org Contributing
+* [python.org](https://www.python.org)
 * [python.org GitHub](https://github.com/python/pythondotorg)
 * [python.org Issues](https://github.com/python/pythondotorg/issues)
 * [python.org Staging](https://staging.python.org)
@@ -871,4 +872,9 @@ python.org Contributing
 * [python.org Contributors](https://github.com/python/pythondotorg/graphs/contributors)
 
 djangoproject.com Contributing
+* [djangoproject.com](https://www.djangoproject.com)
 * [djangoproject.com GitHub](https://github.com/django/djangoproject.com)
+
+<!--
+* [Django Project Trac](https://github.com/django/code.djangoproject.com)
+-->
