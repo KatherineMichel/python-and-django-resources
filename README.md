@@ -731,7 +731,7 @@ https://twitter.com/weatheredpup/status/1157171428904488961
 Dissolving Django Core
 * [James Bennett: Core No More](https://www.b-list.org/weblog/2018/nov/20/core)
 * [Django DEP: Add draft DEP dissolving Django core. by ubernostrum](https://github.com/django/deps/pull/47)
-* [Rough draft Django DEP: Dissolving Django Core](https://github.com/ubernostrum/deps/blob/draft-dissolve-core/draft/XXXX-dissolve-core.rst)
+* [Rough draft Django DEP: Dissolving Django Core](https://github.com/django/deps/blob/master/draft/0010-new-governance.rst)
 * [Draft proposal: dissolving "Django core" - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/yqnWGII63mI)
 * [On the Django core team - Google Groups](https://groups.google.com/forum/#!topic/dsf-members/GWOzvsOAGUs)
 
