@@ -241,16 +241,51 @@ CPU versus IO
 * [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
 * [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
 
-Ports and Sockets
+Ports
 * [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+
+HTTP versus Websocket
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 * [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 
-Webhooks and Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
-* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+Application Programming Interface (API)
+* [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
+
+REST (API architecture style; versus SOAP)
+* [Representational State Transfer Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+
+REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
+* [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
+
+Webhooks (The format is usually JSON. The request is done as a HTTP POST request.)
 * [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
+Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
+* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+
+Ajax
+* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [List of Ajax Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript)
+
 <!--
+https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URI_and_HTTP_methods
+https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
+
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
+
+Important
+https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
+https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+
+https://en.wikipedia.org/wiki/Application_programming_interface
+"When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
+
+https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
+
 https://en.wikipedia.org/wiki/Memory_bound_function
 
 Interesting!
@@ -261,6 +296,8 @@ https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
+
+https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
 -->
 
 ## Sync and Async
@@ -304,11 +341,6 @@ Asynchrony
 <!--
 https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
 https://www.tutorialspoint.com/html5/html5_websocket.htm
-
-https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
-https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
-https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
-https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
 
 https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
@@ -354,6 +386,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
 Node.js
 Event-driven, asynchronous IO
 https://www.tutorialspoint.com/nodejs/nodejs_event_loop
+https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+https://en.wikipedia.org/wiki/Event_loop
 -->
 
 ## Benefits
