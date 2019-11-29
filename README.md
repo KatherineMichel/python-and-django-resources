@@ -4,6 +4,15 @@
 Maintainer's Summit
 https://twitter.com/JackieKazil/status/1191796784399572993
 
+https://github.com/sdispater/poetry
+
+https://github.com/python/bedevere
+
+https://docs.python.org/3/using/unix.html
+Python on Windows is Okay, Actually
+https://us.pycon.org/2019/schedule/presentation/212/
+https://www.youtube.com/watch?v=uoI57uMdDD4
+
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
