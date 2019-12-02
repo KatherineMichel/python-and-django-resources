@@ -1,13 +1,29 @@
 # Python and Django- General
 
-## Codes of Conduct and CLA
+## PSF and DSF People and Members
 
-PSF Code of Conduct Working Group
-* [PSF Code of Conduct Working Group](https://mail.python.org/pipermail/psf-community/2018-April/000488.html)
+Python Software Foundation (PSF) People
+* [PSF Members](https://www.python.org/psf/members)
+* [PSF Fellows](https://www.python.org/psf/fellows)
+* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
 
-Django Code of Conduct and CLA
-* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
+Django Software Foundation (DSF) People (Not Specifically Developer)
+* [DSF Committees](https://www.djangoproject.com/foundation/committees)
+* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
+* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
+
+Django People- Current
+* [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
+* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
+* [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
+
+Django People- Historical
+* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
+* [Django Organization Repo People](https://github.com/orgs/django/people)
+
+<!--
+https://people.djangoproject.com
+-->
 
 ## Python and Django History
 
@@ -195,3 +211,12 @@ Trolling
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
+
+## Codes of Conduct and CLA
+
+PSF Code of Conduct Working Group
+* [PSF Code of Conduct Working Group](https://mail.python.org/pipermail/psf-community/2018-April/000488.html)
+
+Django Code of Conduct and CLA
+* [Django Code of Conduct](https://www.djangoproject.com/conduct) and [Django Code of Conduct GitHub](https://github.com/django/code-of-conduct)
+* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
