@@ -1,20 +1,51 @@
 # Python and Django- Contributing
 
 <!--
-Maintainer's Summit
-https://twitter.com/JackieKazil/status/1191796784399572993
+https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
+
+https://twitter.com/llanga/status/1153417050024550401
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+
+Python 2
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
+https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
+
+Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
+
+Python Core
+https://github.com/vstinner/pysandbox/
+
+
+https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
+https://t.co/IfmaQr0Oog" / Twitter
+https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
+
+pip
+https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
+https://pypi.org/project/pip/ | pip · PyPI
 
 https://github.com/sdispater/poetry
 
+Bot
 https://github.com/python/bedevere
 
-https://docs.python.org/3/using/unix.html
+Best Practices
 Python on Windows is Okay, Actually
 https://us.pycon.org/2019/schedule/presentation/212/
 https://www.youtube.com/watch?v=uoI57uMdDD4
+https://docs.python.org/3/using/unix.html
 
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
+http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
+http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
+
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
 
 A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
@@ -32,44 +63,6 @@ https://github.com/jreese/pycon
 
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
-
-
-https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
-
-https://twitter.com/llanga/status/1153417050024550401
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-
-http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
-http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
-
-https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
-
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-
-Python 2
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
-
-Django
-https://docs.djangoproject.com/en/dev/topics/performance/ | Performance and optimization | Django documentation | Django
-
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
-
-
-https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
-
-https://pypi.org/project/caniusepython3/
-
-Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
-
-Python Core
-https://github.com/vstinner/pysandbox/
-https://github.com/pypa/manylinux
-
-
-https://famicol.in/language_checklist.html | Programming Language Checklist
-https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 
 
 https://news.python.sc/ | Pythonic News
@@ -143,6 +136,9 @@ By OS
 * ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
+https://github.com/pypa/manylinux
+https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux
+
 https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
