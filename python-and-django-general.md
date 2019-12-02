@@ -26,6 +26,8 @@ Python: "I came for the language but I stay for the community..."
 * [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
 
 <!--
+https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
+
 https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
 https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
 https://twitter.com/cfactoid/status/1180599186913296384
@@ -112,6 +114,8 @@ Changeset Python 2 Sunsetting Initiative
 * [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
 
 <!--
+https://pypi.org/project/caniusepython3/
+
 https://www.python.org/doc/sunset-python-2/
 https://twitter.com/brainwane/status/1176517084890750981
 
