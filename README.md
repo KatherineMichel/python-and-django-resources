@@ -22,6 +22,7 @@ Python Core
 https://github.com/vstinner/pysandbox/
 
 
+https://twitter.com/webology/status/1196469384253972482 | 🍂 Jeff Triplett 🍂 on Twitter: "🚀 Django 3.0 is expected to launch in December 2019, and RC 1 was released today for anyone who wants to try it out or update your test suites to start testing against it. I recommend updating your projects to note what's changed. https://t.co/nx7QvsUy4R" / Twitter
 https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
 https://t.co/IfmaQr0Oog" / Twitter
 https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
@@ -86,8 +87,6 @@ os.walk
 https://twitter.com/voidspace/status/1189160753623908357
 
 https://mail.python.org/archives/list/python-dev@python.org/thread/OYNQS2BZYABXACBRHBHV4RCEPQU5R6EP/
-
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
 
 https://twitter.com/jpadilla_/status/1189752115566133248
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
