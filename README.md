@@ -35,6 +35,7 @@ https://github.com/sdispater/poetry
 
 Bot
 https://github.com/python/bedevere
+https://github.com/python/the-knights-who-say-ni | python/the-knights-who-say-ni: CLA enforcement bot for Python organization projects
 
 Best Practices
 Python on Windows is Okay, Actually
