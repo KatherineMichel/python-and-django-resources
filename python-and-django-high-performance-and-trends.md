@@ -51,45 +51,6 @@ https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitt
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 -->
 
-### Kenneth
-
-pipenv
-* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
-
-DJ Static, DJ Database URL
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Records, Requests (HTTP for Humans), Requests HTML
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
-* [Kenneth Reitz: Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/kennethreitz/requests-html)
-
-<!--
-https://github.com/jacobian/dj-database-url | jacobian/dj-database-url: Use Database URLs in your Django Application.
-
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/homebrew-pythons
--->
-
 ### Python on Other Platforms
 
 Python Rust/WebAssembly
