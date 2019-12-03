@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
+https://twitter.com/andrewgodwin/status/1201518717588234240
+
+
 https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
 https://twitter.com/llanga/status/1153417050024550401
