@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+https://realpython.com/installing-python/
+https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
+https://github.com/pypa/pipenv/issues/2482
+
 https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
 https://twitter.com/andrewgodwin/status/1201518717588234240
 
