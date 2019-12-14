@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+Commonplace
+https://www.python.org/dev/peps/pep-0008/
+https://www.python.org/dev/peps/pep-0257/
+
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
 http://python-future.org/compatible_idioms.html
