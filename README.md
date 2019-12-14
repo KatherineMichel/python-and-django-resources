@@ -1,6 +1,29 @@
 # Python and Django- Contributing
 
 <!--
+Python 2 to 3
+https://docs.python.org/3/howto/pyporting.html
+http://python-future.org/compatible_idioms.html
+https://www.youtube.com/watch?v=klaGx9Q_SOA
+
+https://www.python.org/dev/peps/pep-0373/
+https://python3statement.org/
+https://wiki.python.org/moin/Python2orPython3
+https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
+https://docs.python.org/3/howto/pyporting.html
+https://docs.python.org/2/library/2to3.html
+https://aws.amazon.com/support
+https://forums.aws.amazon.com/forum.jspa?forumID=186
+
+A Bit About Bytes
+https://www.youtube.com/watch?v=cSSpnq362Bk
+https://docs.python.org/3/library/dis.html
+https://github.com/python/cpython/blob/master/Python/ceval.c
+
+Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
+https://www.youtube.com/watch?v=XhWvz4dK4ng
+
+
 https://realpython.com/installing-python/
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 https://github.com/pypa/pipenv/issues/2482
