@@ -1,12 +1,20 @@
 # Python and Django- Contributing
 
 <!--
+https://twitter.com/webology/status/1205503566745493505
+https://django-news.com/
+
+http://py3readiness.org/
+https://snarky.ca/my-experience-creating-caniusepython3/
+https://pypi.org/project/caniusepython3/
+
 Commonplace
 https://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0257/
 
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
+https://docs.python.org/2/library/2to3.html
 http://python-future.org/compatible_idioms.html
 https://www.youtube.com/watch?v=klaGx9Q_SOA
 
@@ -14,8 +22,6 @@ https://www.python.org/dev/peps/pep-0373/
 https://python3statement.org/
 https://wiki.python.org/moin/Python2orPython3
 https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
-https://docs.python.org/3/howto/pyporting.html
-https://docs.python.org/2/library/2to3.html
 https://aws.amazon.com/support
 https://forums.aws.amazon.com/forum.jspa?forumID=186
 
