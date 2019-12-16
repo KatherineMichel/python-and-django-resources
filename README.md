@@ -17,6 +17,8 @@ Commonplace
 https://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0257/
 
+https://pypi.org/project/six/ | six · PyPI
+
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
 https://docs.python.org/2/library/2to3.html
