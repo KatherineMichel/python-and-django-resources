@@ -17,9 +17,6 @@ Python- Official Packaging Info
 Vinta Django Apps Checklist	
 * [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
 
- Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
 * [Wheel PyPi](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
@@ -31,6 +28,7 @@ TestPyPI
 
 Package Helpers
 * [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
+* [check-manifest GitHub](https://github.com/mgedmin/check-manifest)
 
 Python- Packages/Libraries
 * [Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
@@ -40,8 +38,6 @@ Core Packaging Utilities
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
 <!--
-https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
-
 DjangoCon Europe 2017 Vinta
 https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
 https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
@@ -62,12 +58,8 @@ https://wiki.python.org/psf/PackagingWG | PackagingWG - PSF Wiki
 Seeking a new maintainer for packaging.python.org and Twine.
 https://mail.python.org/archives/list/distutils-sig@python.org/thread/M7VRNT5KP4YQ6UPVI4MN4IIWM2Z3IXCH/
 
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
-
 https://twitter.com/di_codes/status/1135628015147388928 | Dustin Ingram on Twitter: "Ever wondered what is going on when you `pip install numpy` and it downloads some file with a name like `numpy-1.16.4-cp37-cp37m-manylinux1_x86_64.whl `? This is a built distribution, and @brettsky just published a great explanation of what every part of that filename means.… https://t.co/yJAXS13a2J"
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/ | The challenges in designing a library for PEP 425 (aka wheel tags)
-
-https://pypi.org/project/check-manifest/ | check-manifest · PyPI
 
 https://pypi.org/classifiers/ | Classifiers · PyPI
 https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
@@ -79,7 +71,6 @@ https://pypi.org/project/keyring/ | keyring · PyPI
 https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
 
 https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
-https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
 https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
 https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
 
@@ -137,30 +128,6 @@ https://packaging.python.org/tutorials/distributing-packages/#project-urls
 
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
 https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
-
-Tools
-https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
-https://pypi.org/project/poetry/ | poetry · PyPI
-https://poetry.eustace.io/ | Poetry - Python dependency management and packaging made easy.
-https://pipxproject.github.io/pipx/ | pipx
-https://github.com/dephell/dephell | dephell/dephell: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
-
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
-
-https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
-https://github.com/pypa/pipfile#the-concept
-https://github.com/pypa/pipfile
-
-Pyenv and Pipenv
-https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
-https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
-
-pyproject.toml
-https://github.com/pypa/pipfile/issues/27
 
 https://pyup.io/ | Manage your Python dependencies with pyup.io
 https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
