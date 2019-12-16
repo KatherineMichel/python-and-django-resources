@@ -4,6 +4,11 @@
 https://twitter.com/webology/status/1205503566745493505
 https://django-news.com/
 
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
 http://py3readiness.org/
 https://snarky.ca/my-experience-creating-caniusepython3/
 https://pypi.org/project/caniusepython3/
