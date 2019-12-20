@@ -208,6 +208,7 @@ Eventlet and Greenlet
 * [gevent-socketio](https://learn-gevent-socketio.readthedocs.io)
 
 <!--
+https://trio.readthedocs.io/en/stable/ | Trio: a friendly Python library for async concurrency and I/O — Trio 0.13.0 documentation
 https://github.com/python-trio/trio | python-trio/trio: Trio – a friendly Python library for async concurrency and I/O
 https://docs.python.org/3/library/asyncio.html
 
