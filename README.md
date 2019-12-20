@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/ | Two malicious Python libraries caught stealing SSH and GPG keys | ZDNet
+
 https://github.com/python/peps/pull/1242/files | PEP 8101: Update nominees by ewdurbin · Pull Request #1242 · python/peps
 https://twitter.com/WillingCarol/status/1206649187212955649 | Carol Willing on Twitter: "Thanks to @gvanrossum and @ncoghlan_dev for serving on the inaugural Steering Council (and for your mentorship over the years) A big thanks to all who stood for the election and your ongoing impact on Python. Congrats @Yhg1s @VictorStinner @pumpichank and @brettsky 🐍💐 https://t.co/qOh0BhfdAc" / Twitter
 https://twitter.com/jacobian/status/1206700267187650560 | jacobian on Twitter: "Burying the lede here a little bit: GvR's no longer on the steering committee. So for the first time in Python's history Guido has no (formal) power on the project. From one ex-BDFL to another: congrats on getting out before the "for life" clause had to kick in! https://t.co/McMX9VM0ri" / Twitter
