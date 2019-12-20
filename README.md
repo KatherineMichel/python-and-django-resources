@@ -1,6 +1,8 @@
 # Python and Django- Contributing
 
 <!--
+https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
+
 https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/ | Two malicious Python libraries caught stealing SSH and GPG keys | ZDNet
 
 https://github.com/python/peps/pull/1242/files | PEP 8101: Update nominees by ewdurbin · Pull Request #1242 · python/peps
