@@ -130,6 +130,8 @@ Changeset Python 2 Sunsetting Initiative
 * [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
 
 <!--
+https://twitter.com/kennethreitz/status/1204348890721456128
+
 https://pypi.org/project/caniusepython3/
 
 https://www.python.org/doc/sunset-python-2/
