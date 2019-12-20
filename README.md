@@ -1,6 +1,16 @@
 # Python and Django- Contributing
 
 <!--
+https://github.com/python/peps/pull/1242/files | PEP 8101: Update nominees by ewdurbin · Pull Request #1242 · python/peps
+https://twitter.com/WillingCarol/status/1206649187212955649 | Carol Willing on Twitter: "Thanks to @gvanrossum and @ncoghlan_dev for serving on the inaugural Steering Council (and for your mentorship over the years) A big thanks to all who stood for the election and your ongoing impact on Python. Congrats @Yhg1s @VictorStinner @pumpichank and @brettsky 🐍💐 https://t.co/qOh0BhfdAc" / Twitter
+https://twitter.com/jacobian/status/1206700267187650560 | jacobian on Twitter: "Burying the lede here a little bit: GvR's no longer on the steering committee. So for the first time in Python's history Guido has no (formal) power on the project. From one ex-BDFL to another: congrats on getting out before the "for life" clause had to kick in! https://t.co/McMX9VM0ri" / Twitter
+
+https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
+
+https://twitter.com/trishankdatadog/status/1201622033550979072 | trishank@datadog on Twitter: "Guido van Rossum just merged our PEP!!! https://t.co/hZapIpftQz" / Twitter
+
+https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
+
 https://twitter.com/webology/status/1205503566745493505
 https://django-news.com/
 
