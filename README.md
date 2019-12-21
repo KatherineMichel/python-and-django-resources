@@ -1,6 +1,19 @@
 # Python and Django- Contributing
 
 <!--
+https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
+
+
+https://stevedower.id.au/blog/python-a-great-language/ | What makes Python a great language? | Steve Dower
+
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+
+https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
+https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
+https://discuss.python.org/t/python-3-8-1-3-7-6-3-6-10-and-3-9-0a2-are-now-available/2889 | Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available! - Committers - Discussions on Python.org
+https://twitter.com/llanga/status/1207584391494545408 | Łukasz Langa on Twitter: "Why release one version of #Python if you can release four? This merry season, we bring you Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2. We hope you'll enjoy them at least as much as we did packaging them! https://t.co/TRqv5mZxk5 #ItsALiving #DontTrifleWithMyAffections" / Twitter
+
+
 https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
 
 https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/ | Two malicious Python libraries caught stealing SSH and GPG keys | ZDNet
