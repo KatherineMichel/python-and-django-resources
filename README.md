@@ -3,6 +3,8 @@
 <!--
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
 
+Pipenv
+https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
 
 https://stevedower.id.au/blog/python-a-great-language/ | What makes Python a great language? | Steve Dower
 
