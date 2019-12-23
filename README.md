@@ -38,17 +38,15 @@ https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is i
 https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
 https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
-http://py3readiness.org/
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-
-Commonplace
+PEP 8
 https://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0257/
 
-https://pypi.org/project/six/ | six · PyPI
-
 Python 2 to 3
+http://py3readiness.org/
+https://snarky.ca/my-experience-creating-caniusepython3/
+https://pypi.org/project/caniusepython3/
+https://pypi.org/project/six/ | six · PyPI
 https://docs.python.org/3/howto/pyporting.html
 https://docs.python.org/2/library/2to3.html
 http://python-future.org/compatible_idioms.html
