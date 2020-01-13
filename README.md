@@ -1,6 +1,28 @@
 # Python and Django- Contributing
 
 <!--
+Python 2 to 3
+http://py3readiness.org/
+https://snarky.ca/my-experience-creating-caniusepython3/
+https://pypi.org/project/caniusepython3/
+https://pypi.org/project/six/ | six · PyPI
+https://docs.python.org/3/howto/pyporting.html
+https://docs.python.org/2/library/2to3.html
+http://python-future.org/compatible_idioms.html
+https://www.youtube.com/watch?v=klaGx9Q_SOA
+
+https://www.python.org/dev/peps/pep-0373/
+https://python3statement.org/
+https://wiki.python.org/moin/Python2orPython3
+https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
+https://aws.amazon.com/support
+https://forums.aws.amazon.com/forum.jspa?forumID=186
+
+https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
+
+Packages for upgrading
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
 
 Pipenv
@@ -41,23 +63,6 @@ https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iter
 PEP 8
 https://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0257/
-
-Python 2 to 3
-http://py3readiness.org/
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-https://pypi.org/project/six/ | six · PyPI
-https://docs.python.org/3/howto/pyporting.html
-https://docs.python.org/2/library/2to3.html
-http://python-future.org/compatible_idioms.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
-
-https://www.python.org/dev/peps/pep-0373/
-https://python3statement.org/
-https://wiki.python.org/moin/Python2orPython3
-https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
-https://aws.amazon.com/support
-https://forums.aws.amazon.com/forum.jspa?forumID=186
 
 A Bit About Bytes
 https://www.youtube.com/watch?v=cSSpnq362Bk
