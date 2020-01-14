@@ -42,6 +42,8 @@ Python: "I came for the language but I stay for the community..."
 * [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
 
 <!--
+https://www.youtube.com/watch?v=7kn7NtlV6g0&feature=emb_logo | Creator of Python Programming Language, Guido van Rossum | Oxford Union - YouTube
+
 https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
 
 https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
@@ -130,20 +132,53 @@ Changeset Python 2 Sunsetting Initiative
 * [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
 
 <!--
+https://twitter.com/webology/status/1196469384253972482 | 🍂 Jeff Triplett 🍂 on Twitter: "🚀 Django 3.0 is expected to launch in December 2019, and RC 1 was released today for anyone who wants to try it out or update your test suites to start testing against it. I recommend updating your projects to note what's changed. https://t.co/nx7QvsUy4R" / Twitter
+https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
+https://t.co/IfmaQr0Oog" / Twitter
+https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
 https://twitter.com/kennethreitz/status/1204348890721456128
-
-https://pypi.org/project/caniusepython3/
 
 https://www.python.org/doc/sunset-python-2/
 https://twitter.com/brainwane/status/1176517084890750981
 
+https://twitter.com/webology/status/1212552867225198592 | 🎊 Jeff Triplett 🎉 on Twitter: "🐍 Active development of Python 2.7 has ended, but there will be one final 2.7 release this April. ⛑ It's time to use Python 3 though if you haven't switched yet. https://t.co/wRu728dVrI" / Twitter
+https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
+
+https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+
+Packages for upgrading
+https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
+https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+https://python-future.org/quickstart.html | Quick-start guide — Python-Future documentation
+http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
+https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
+https://pypi.org/project/modernize/ | modernize · PyPI
+
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+
+Python 2 to 3
+https://snarky.ca/my-experience-creating-caniusepython3/
+https://pypi.org/project/caniusepython3/
 https://pypi.org/project/six/ | six · PyPI
+https://docs.python.org/3/howto/pyporting.html
+https://docs.python.org/2/library/2to3.html
+http://python-future.org/compatible_idioms.html
+https://www.youtube.com/watch?v=klaGx9Q_SOA
+
+https://www.python.org/dev/peps/pep-0373/
+https://wiki.python.org/moin/Python2orPython3
 
 https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
 
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-
 Dropping Support
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
+https://aws.amazon.com/support
+https://forums.aws.amazon.com/forum.jspa?forumID=186
+https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
 https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
 https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
 https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
