@@ -1,6 +1,19 @@
 # Python and Django- Contributing
 
 <!--
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
+
+https://www.python.org/dev/peps/pep-0602/
+
+https://devguide.python.org/devcycle/#indevbranch | 17. Development Cycle — Python Developer's Guide
+https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Python Developer's Guide
+
+https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
+
+
 https://news.python.sc/ | Pythonic News
 https://twitter.com/webology/status/1205503566745493505
 https://django-news.com/
