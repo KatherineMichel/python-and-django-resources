@@ -289,6 +289,10 @@ https://github.com/django/channels/releases/tag/0.1
 
 https://channels.readthedocs.io/en/latest/releases/2.3.0.html | 2.3.0 Release Notes — Channels 2.3.0 documentation
 
+Django Channels in Practice
+https://pyvideo.org/pycon-us-2019/django-channels-in-practice.html
+https://us.pycon.org/2019/speaker/profile/573/
+
 https://www.youtube.com/watch?v=xEW8kWQqEew | Andrew Godwin about Channels at Django: Under The Hood 2016 - YouTube
 
 https://speakerdeck.com/andrewgodwin/concurrency-to-channels | Concurrency to Channels // Speaker Deck
