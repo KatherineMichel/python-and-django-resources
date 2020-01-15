@@ -1,18 +1,7 @@
 # Python and Django- Contributing
 
 <!--
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
-https://www.python.org/dev/peps/pep-0602/
-
-https://devguide.python.org/devcycle/#indevbranch | 17. Development Cycle — Python Developer's Guide
-https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Python Developer's Guide
-
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
 
 https://news.python.sc/ | Pythonic News
 https://twitter.com/webology/status/1205503566745493505
@@ -202,6 +191,8 @@ Release Managers
 * ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
 <!--
+https://www.python.org/dev/peps/pep-0602/
+
 https://realpython.com/python38-new-features/
 https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
 https://docs.python.org/3.8/whatsnew/3.8.html
@@ -232,6 +223,8 @@ https://devguide.python.org/#quick-reference
 https://devguide.python.org/#branchstatus
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://devguide.python.org/devcycle/#indevbranch | 17. Development Cycle — Python Developer's Guide
+https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Python Developer's Guide
 https://devguide.python.org/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
 https://devguide.python.org/committing.html | 16. Committing and Pushing Changes — Python Developer's Guide
 
