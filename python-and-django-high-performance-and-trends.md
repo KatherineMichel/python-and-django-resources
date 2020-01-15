@@ -410,6 +410,7 @@ Django Static Typing Tools
 * [DEP Draft for Django Type Checking](https://github.com/django/deps/pull/65)
 
 <!--
+http://mypy-lang.org/
 https://github.com/machinalis/mypy-django
 
 machine verified documentation
