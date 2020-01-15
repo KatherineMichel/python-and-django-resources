@@ -1,57 +1,7 @@
 # Python and Django- Contributing
 
 <!--
-Python 2 to 3
-http://py3readiness.org/
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-https://pypi.org/project/six/ | six · PyPI
-https://docs.python.org/3/howto/pyporting.html
-https://docs.python.org/2/library/2to3.html
-http://python-future.org/compatible_idioms.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
-
-https://www.python.org/dev/peps/pep-0373/
-https://python3statement.org/
-https://wiki.python.org/moin/Python2orPython3
-https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
-https://aws.amazon.com/support
-https://forums.aws.amazon.com/forum.jspa?forumID=186
-
-https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
-
-Packages for upgrading
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-
-https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
-
-Pipenv
-https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
-
-https://stevedower.id.au/blog/python-a-great-language/ | What makes Python a great language? | Steve Dower
-
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
-
-https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
-https://discuss.python.org/t/python-3-8-1-3-7-6-3-6-10-and-3-9-0a2-are-now-available/2889 | Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available! - Committers - Discussions on Python.org
-https://twitter.com/llanga/status/1207584391494545408 | Łukasz Langa on Twitter: "Why release one version of #Python if you can release four? This merry season, we bring you Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2. We hope you'll enjoy them at least as much as we did packaging them! https://t.co/TRqv5mZxk5 #ItsALiving #DontTrifleWithMyAffections" / Twitter
-
-
-https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
-
-https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/ | Two malicious Python libraries caught stealing SSH and GPG keys | ZDNet
-
-https://github.com/python/peps/pull/1242/files | PEP 8101: Update nominees by ewdurbin · Pull Request #1242 · python/peps
-https://twitter.com/WillingCarol/status/1206649187212955649 | Carol Willing on Twitter: "Thanks to @gvanrossum and @ncoghlan_dev for serving on the inaugural Steering Council (and for your mentorship over the years) A big thanks to all who stood for the election and your ongoing impact on Python. Congrats @Yhg1s @VictorStinner @pumpichank and @brettsky 🐍💐 https://t.co/qOh0BhfdAc" / Twitter
-https://twitter.com/jacobian/status/1206700267187650560 | jacobian on Twitter: "Burying the lede here a little bit: GvR's no longer on the steering committee. So for the first time in Python's history Guido has no (formal) power on the project. From one ex-BDFL to another: congrats on getting out before the "for life" clause had to kick in! https://t.co/McMX9VM0ri" / Twitter
-
-https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
-
-https://twitter.com/trishankdatadog/status/1201622033550979072 | trishank@datadog on Twitter: "Guido van Rossum just merged our PEP!!! https://t.co/hZapIpftQz" / Twitter
-
-https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
-
+https://news.python.sc/ | Pythonic News
 https://twitter.com/webology/status/1205503566745493505
 https://django-news.com/
 
@@ -60,9 +10,20 @@ https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is i
 https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
 https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
-PEP 8
-https://www.python.org/dev/peps/pep-0008/
-https://www.python.org/dev/peps/pep-0257/
+https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
+
+The Packaging Gradient
+https://www.youtube.com/watch?v=iLVNWfPWAC8
+
+https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+
+What is a Coroutine Anyway?
+https://www.youtube.com/watch?v=GSiZkP7cI80
+https://github.com/jreese/pycon
+
+https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
+
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
 
 A Bit About Bytes
 https://www.youtube.com/watch?v=cSSpnq362Bk
@@ -71,51 +32,6 @@ https://github.com/python/cpython/blob/master/Python/ceval.c
 
 Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
 https://www.youtube.com/watch?v=XhWvz4dK4ng
-
-
-https://realpython.com/installing-python/
-https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
-https://github.com/pypa/pipenv/issues/2482
-
-https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
-https://twitter.com/andrewgodwin/status/1201518717588234240
-
-
-https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
-
-https://twitter.com/llanga/status/1153417050024550401
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-
-Python 2
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
-
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
-
-https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
-
-Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
-
-Python Core
-https://github.com/vstinner/pysandbox/
-
-
-https://twitter.com/webology/status/1196469384253972482 | 🍂 Jeff Triplett 🍂 on Twitter: "🚀 Django 3.0 is expected to launch in December 2019, and RC 1 was released today for anyone who wants to try it out or update your test suites to start testing against it. I recommend updating your projects to note what's changed. https://t.co/nx7QvsUy4R" / Twitter
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
-https://t.co/IfmaQr0Oog" / Twitter
-https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
-
-pip
-https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
-https://pypi.org/project/pip/ | pip · PyPI
-
-https://github.com/sdispater/poetry
-
-Bot
-https://github.com/python/bedevere
-https://github.com/python/the-knights-who-say-ni | python/the-knights-who-say-ni: CLA enforcement bot for Python organization projects
 
 Best Practices
 Python on Windows is Okay, Actually
@@ -129,45 +45,29 @@ http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Py
 http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
 
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
 
 A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
 https://www.youtube.com/watch?v=r-A78RgMhZU
 
-https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
-Django Channels in Practice
-https://pyvideo.org/pycon-us-2019/django-channels-in-practice.html
-https://us.pycon.org/2019/speaker/profile/573/
+https://realpython.com/installing-python/
+https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
+https://github.com/pypa/pipenv/issues/2482
 
-What is a Coroutine Anyway?
-https://www.youtube.com/watch?v=GSiZkP7cI80
-https://github.com/jreese/pycon
+https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
 
-The Packaging Gradient
-https://www.youtube.com/watch?v=iLVNWfPWAC8
-
-
-https://news.python.sc/ | Pythonic News
+https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
 https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
 https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
-https://discuss.python.org/t/vote-to-promote-joannah-nanjekye-as-a-core-dev/2347
-https://twitter.com/brettsky/status/1154908949956554752
-
-WebAssembly
-A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
-https://www.youtube.com/watch?v=r-A78RgMhZU
 
 Radix
 https://twitter.com/hynek/status/1189883958294654978
-Docker
-https://twitter.com/paulweveritt/status/1188915289624322051
+
 Installation
 https://twitter.com/mariatta/status/1189243515739561985
-os.walk
-https://twitter.com/voidspace/status/1189160753623908357
-
-https://mail.python.org/archives/list/python-dev@python.org/thread/OYNQS2BZYABXACBRHBHV4RCEPQU5R6EP/
 
 https://twitter.com/jpadilla_/status/1189752115566133248
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
@@ -177,11 +77,24 @@ http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Pytho
 Very important!!!!!!!
 https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
 https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
+
+https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
+
+
+CLI
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+
+Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
+
+Python Core
+https://github.com/vstinner/pysandbox/
 -->
 
 ## Future
 
 <!--
+https://stevedower.id.au/blog/python-a-great-language/ | What makes Python a great language? | Steve Dower
+
 Django’s Future, and Python 3
 https://www.djangoproject.com/weblog/2012/mar/13/py3k/
 
@@ -221,6 +134,9 @@ https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 
 
 https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
+https://blog.python.org/2019/12/python-381-376-3610-and-390a2-are-now.html | Python Insider: Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available!
+https://discuss.python.org/t/python-3-8-1-3-7-6-3-6-10-and-3-9-0a2-are-now-available/2889 | Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available! - Committers - Discussions on Python.org
+https://twitter.com/llanga/status/1207584391494545408 | Łukasz Langa on Twitter: "Why release one version of #Python if you can release four? This merry season, we bring you Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2. We hope you'll enjoy them at least as much as we did packaging them! https://t.co/TRqv5mZxk5 #ItsALiving #DontTrifleWithMyAffections" / Twitter
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 -->
@@ -848,6 +764,10 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+https://github.com/python/peps/pull/1242/files | PEP 8101: Update nominees by ewdurbin · Pull Request #1242 · python/peps
+https://twitter.com/WillingCarol/status/1206649187212955649 | Carol Willing on Twitter: "Thanks to @gvanrossum and @ncoghlan_dev for serving on the inaugural Steering Council (and for your mentorship over the years) A big thanks to all who stood for the election and your ongoing impact on Python. Congrats @Yhg1s @VictorStinner @pumpichank and @brettsky 🐍💐 https://t.co/qOh0BhfdAc" / Twitter
+https://twitter.com/jacobian/status/1206700267187650560 | jacobian on Twitter: "Burying the lede here a little bit: GvR's no longer on the steering committee. So for the first time in Python's history Guido has no (formal) power on the project. From one ex-BDFL to another: congrats on getting out before the "for life" clause had to kick in! https://t.co/McMX9VM0ri" / Twitter
+
 Steering Council
 https://snarky.ca/what-its-like-to-be-on-the-python-steering-council/
 https://discuss.python.org/t/steering-council-nomination-brett-cannon-2020-term/2566
@@ -937,6 +857,11 @@ DEP 0008: Formatting Code with Black
 * [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
 
 <!--
+Bot
+https://github.com/python/bedevere
+https://github.com/python/the-knights-who-say-ni | python/the-knights-who-say-ni: CLA enforcement bot for Python organization projects
+
+
 https://github.com/python/psf-infra-meta/issues | Issues · python/psf-infra-meta
 
 Black
