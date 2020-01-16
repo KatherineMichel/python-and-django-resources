@@ -11,12 +11,8 @@ https://news.python.sc/ | Pythonic News
 https://twitter.com/webology/status/1205503566745493505
 https://django-news.com/
 
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
-https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
+Carlton Gibson and William S. Vincent
+https://djangochat.com/ | Django Chat Podcast
 
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
@@ -49,12 +45,6 @@ https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirte
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
 http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
-
-https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
-https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
-
-A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
-https://www.youtube.com/watch?v=r-A78RgMhZU
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
