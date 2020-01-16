@@ -1,6 +1,10 @@
 # Python and Django- Contributing
 
 <!--
+https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
+https://www.djangoproject.com/fundraising/#fellowship-program
+http://www.holovaty.com/writing/bdfls-retiring/
+
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
 
 https://news.python.sc/ | Pythonic News
