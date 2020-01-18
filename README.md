@@ -1,18 +1,33 @@
 # Python and Django- Contributing
 
 <!--
-https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
-https://www.djangoproject.com/fundraising/#fellowship-program
-http://www.holovaty.com/writing/bdfls-retiring/
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+
+https://blog.ganssle.io/articles/2019/08/test-as-installed.html
+
+python -m pip install X
+https://twitter.com/mariatta/status/1217494274469548032
+
+https://twitter.com/mariatta/status/1217180209176166400
+https://github.com/python/python-docs-theme/commits/master
+
+https://github.com/pypa/packaging.python.org/issues/688
+https://twitter.com/mariatta/status/1218232806163107841
+
+https://github.com/sphinx-doc/sphinx/issues/7024
+https://twitter.com/VictorStinner/status/1217790390201475078
+
+PEP 517 and 518 in Plain English
+https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
+https://www.python.org/dev/peps/pep-0517/
+https://www.python.org/dev/peps/pep-0518/
+
+EPython
+https://openteams.com/projects/epython
+https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
+https://twitter.com/teoliphant/status/1217611221396082695
 
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
-https://news.python.sc/ | Pythonic News
-https://twitter.com/webology/status/1205503566745493505
-https://django-news.com/
-
-Carlton Gibson and William S. Vincent
-https://djangochat.com/ | Django Chat Podcast
 
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
@@ -22,8 +37,6 @@ https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the he
 What is a Coroutine Anyway?
 https://www.youtube.com/watch?v=GSiZkP7cI80
 https://github.com/jreese/pycon
-
-https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
 
 https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
 
@@ -105,9 +118,16 @@ https://twitter.com/zooba/status/1186799825733316608 | Zooba on Twitter: "I had 
 https://twitter.com/holdenweb/status/1130182906113122304 | Twitter
 -->
 
-## Releases
+## News and Releases
 
 <!--
+Carlton Gibson and William S. Vincent
+https://djangochat.com/ | Django Chat Podcast
+
+https://news.python.sc/ | Pythonic News
+https://twitter.com/webology/status/1205503566745493505
+https://django-news.com/
+
 Python Insider
 https://blog.python.org
 https://pythoninsider.blogspot.com/
@@ -285,6 +305,9 @@ https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpytho
 https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
 
 
+https://github.com/python/bedevere
+https://github.com/python/the-knights-who-say-ni | python/the-knights-who-say-ni: CLA enforcement bot for Python organization projects
+
 Mariatta Tools
 https://github.com/bots-for-humanity
 
@@ -314,6 +337,9 @@ Speed
 * [Python Speed Center](https://speed.python.org/)
 
 <!--
+speed.python.org
+https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
+
 Tools
 https://pypy.org/ | PyPy - Welcome to PyPy
 https://cython.org/ | Cython: C-Extensions for Python
@@ -745,6 +771,11 @@ https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 com
 Django Triage & Review Team
 * [Django: Creating a new "Triage & Review Team"](https://groups.google.com/forum/#!topic/django-developers/mUBWlG0-Jbw/discussion)
 
+<!--
+https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
+https://www.djangoproject.com/fundraising/#fellowship-program
+-->
+
 ## Python Governance
 
 Python Authorities
@@ -764,6 +795,8 @@ Python and Django Governance and BDFL
 * [Jacob Kaplan-Moss](https://jacobian.org/writing/retiring-as-bdfls)
 
 <!--
+http://www.holovaty.com/writing/bdfls-retiring/
+
 https://github.com/python/peps/pull/1242/files | PEP 8101: Update nominees by ewdurbin · Pull Request #1242 · python/peps
 https://twitter.com/WillingCarol/status/1206649187212955649 | Carol Willing on Twitter: "Thanks to @gvanrossum and @ncoghlan_dev for serving on the inaugural Steering Council (and for your mentorship over the years) A big thanks to all who stood for the election and your ongoing impact on Python. Congrats @Yhg1s @VictorStinner @pumpichank and @brettsky 🐍💐 https://t.co/qOh0BhfdAc" / Twitter
 https://twitter.com/jacobian/status/1206700267187650560 | jacobian on Twitter: "Burying the lede here a little bit: GvR's no longer on the steering committee. So for the first time in Python's history Guido has no (formal) power on the project. From one ex-BDFL to another: congrats on getting out before the "for life" clause had to kick in! https://t.co/McMX9VM0ri" / Twitter
@@ -857,11 +890,6 @@ DEP 0008: Formatting Code with Black
 * [Łukasz Langa Tweet: "I'm not crying, you're crying"](https://twitter.com/llanga/status/1127075906286002176)
 
 <!--
-Bot
-https://github.com/python/bedevere
-https://github.com/python/the-knights-who-say-ni | python/the-knights-who-say-ni: CLA enforcement bot for Python organization projects
-
-
 https://github.com/python/psf-infra-meta/issues | Issues · python/psf-infra-meta
 
 Black
