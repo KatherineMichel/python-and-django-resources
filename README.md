@@ -169,6 +169,14 @@ Changeset Python 2 Sunsetting Initiative
 * [Sumana Tweet](https://twitter.com/brainwane/status/1176517084890750981)
 * [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
 
+Python 2 EOL Websites
+* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
+* [Python Clock](https://pythonclock.org)
+* [Python 3 Statement](http://python3statement.org)
+
+Django and Python 3
+* [Django Packages Python 3](https://www.djangopackages.com/python3)
+
 <!--
 https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
 https://twitter.com/andrewgodwin/status/1201518717588234240
