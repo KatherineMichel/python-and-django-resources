@@ -2,27 +2,8 @@
 
 ## High Performance Python and Django and Trends
 
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-Companies that Use Python
-* PyCon Slide
-
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
-
-High Performance Python- Engineering Blogs
-* [Bloomberg](https://www.techatbloomberg.com/)
-* [Dropbox](https://blogs.dropbox.com)
-* [Google](https://developers.googleblog.com)
-* [Instagram](https://engineering.instagram.com)
-* [Netflix](https://medium.com/netflix-techblog)
-* [Quora](https://engineering.quora.com)
-* [Reddit](https://redditblog.com)
-* [Spotify](https://labs.spotify.com)
-* [Uber](https://eng.uber.com)
-* [Zapier](https://zapier.com/engineering)
 
 <!--
 Carl Meyer talk
