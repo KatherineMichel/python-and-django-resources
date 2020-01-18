@@ -42,6 +42,8 @@ Python: "I came for the language but I stay for the community..."
 * [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
 
 <!--
+https://twitter.com/jezdez/status/1216777837182693377
+
 https://www.youtube.com/watch?v=7kn7NtlV6g0&feature=emb_logo | Creator of Python Programming Language, Guido van Rossum | Oxford Union - YouTube
 
 https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
