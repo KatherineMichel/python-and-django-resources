@@ -1,6 +1,22 @@
 # Python and Django- Contributing
 
 <!--
+https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
+https://twitter.com/andrewgodwin/status/1201518717588234240
+
+https://twitter.com/webology/status/1196469384253972482 | 🍂 Jeff Triplett 🍂 on Twitter: "🚀 Django 3.0 is expected to launch in December 2019, and RC 1 was released today for anyone who wants to try it out or update your test suites to start testing against it. I recommend updating your projects to note what's changed. https://t.co/nx7QvsUy4R" / Twitter
+https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
+https://t.co/IfmaQr0Oog" / Twitter
+https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
+https://twitter.com/kennethreitz/status/1204348890721456128
+
+PEP 373 -- Python 2.7 Release Schedule
+https://www.python.org/dev/peps/pep-0373/
+https://wiki.python.org/moin/Python2orPython3
+https://twitter.com/webology/status/1212552867225198592 | 🎊 Jeff Triplett 🎉 on Twitter: "🐍 Active development of Python 2.7 has ended, but there will be one final 2.7 release this April. ⛑ It's time to use Python 3 though if you haven't switched yet. https://t.co/wRu728dVrI" / Twitter
+https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
+
+
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 https://github.com/isidentical/pepgrave
@@ -208,6 +224,7 @@ Release Managers
 
 <!--
 https://www.python.org/dev/peps/pep-0602/
+https://www.python.org/dev/peps/pep-0602/#the-testing-matrix
 
 https://realpython.com/python38-new-features/
 https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
