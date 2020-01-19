@@ -15,12 +15,6 @@ https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency 
 
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 
-pip
-https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
-https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
-https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
-https://pypi.org/project/pip/ | pip · PyPI
-
 Virtualenv and Pyenv
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
 https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
@@ -89,7 +83,7 @@ Vinta Django Apps Checklist
 
 Python- Wheel (versus Egg!)
 * [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPi](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
+* [Wheel PyPI](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
 TestPyPI
@@ -128,6 +122,12 @@ https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-pro
 https://github.com/pypa/pypi-support
 
 https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
+
+pip
+https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
+https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
+https://pypi.org/project/pip/ | pip · PyPI
 
 https://packaging.python.org/overview/ | An Overview of Packaging for Python — Python Packaging User Guide
 https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
