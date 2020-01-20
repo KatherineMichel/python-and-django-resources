@@ -1,5 +1,69 @@
 # CPython and Django Internals
 
+## General
+
+Low-Level Programming Language, Machine Code, Assembly Language
+* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+<!--
+https://en.wikipedia.org/wiki/Instruction_set_architecture
+https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
+https://en.wikipedia.org/wiki/X86_instruction_listings
+
+https://leanpub.com/insidethepythonvirtualmachine/read
+
+https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-and-what-are-its-advantages
+"Machine code is the low-level binary 1s and 0s that make up the instructions to the processor.  These are processed directly by the CPU and are the final output of a compiler for given CPU and operating system combination."
+"Byte code is a virtualized machine code."
+-->
+
+Instruction Set (CPU)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
+* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
+* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Components
+* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
+
+<!--
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+
+https://en.wikipedia.org/wiki/Opcode
+https://en.wikipedia.org/wiki/Opcode_table
+
+http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
+-->
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+<!--
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+
+https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
+-->
+
 ## Python Source
 
 Kenneth Reitz Advice to Me 
