@@ -66,6 +66,12 @@ https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
 
 ## Python Source
 
+<!--
+https://stackoverflow.com/questions/34149013/what-does-it-mean-that-python-is-stack-based
+https://en.wikipedia.org/wiki/Stack_machine
+https://en.wikipedia.org/wiki/Virtual_memory
+-->
+
 Kenneth Reitz Advice to Me 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
