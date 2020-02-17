@@ -1,6 +1,36 @@
 # Python and Django- Contributing
 
 <!--
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+https://bugs.python.org/
+https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
+https://snarky.ca/why-you-should-use-python-m-pip/
+https://blog.adafruit.com/2020/02/10/pythons-next-decade-and-us-by-scott-shawcroft-at-pycascades-tannewt-pycascades-pycascades2020/
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://twitter.com/llanga/status/1227231833844264960
+https://twitter.com/pganssle/status/1224378970340233216
+https://twitter.com/blueyed/status/1222578734676484096
+https://twitter.com/gvanrossum/status/1222776098800357376
+https://twitter.com/gvanrossum/status/1216863597562740737
+https://python3statement.org/
+https://github.com/timothycrosley/isort
+https://github.com/timothycrosley/isort/issues/694
+https://github.com/urllib3/urllib3
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+https://automatetheboringstuff.com/
+https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
+https://clang.llvm.org/comparison.html
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+https://twitter.com/webology/status/1227286423109279744
+https://twitter.com/mariatta/status/1227286873413799936
+
+
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 https://github.com/isidentical/pepgrave
