@@ -1,76 +1,200 @@
 # Python and Django- Contributing
 
 <!--
-https://devguide.python.org/
-https://twitter.com/brettsky/status/1218293642877534209
+## Engineering Blogs
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+https://techyaks.com/python-year-tytop.html
+
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://martinfowler.com/articles/refactoring-2nd-changes.html
+https://refactoring.com/catalog/
+https://refactoring.guru/collapse-hierarchy
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png
+https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png
+
+https://automatetheboringstuff.com/
 
 https://twitter.com/chris_swenson/status/1225836060938125313
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://archive.org/details/comp3321/page/n4/mode/2up
 https://archive.org/details/comp3321/page/n89/mode/2up/search/device
 
+https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
+
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
+
+https://www.django-rest-framework.org/
+
+https://python3statement.org/
+
+https://installpython3.com/
+
+Python history lesson
+https://twitter.com/gvanrossum/status/1222776098800357376
+
+Post mortem
+https://twitter.com/gvanrossum/status/1216863597562740737
+
+https://devguide.python.org/
 https://bugs.python.org/
 https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
-https://snarky.ca/why-you-should-use-python-m-pip/
-https://blog.adafruit.com/2020/02/10/pythons-next-decade-and-us-by-scott-shawcroft-at-pycascades-tannewt-pycascades-pycascades2020/
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://twitter.com/llanga/status/1227231833844264960
-https://twitter.com/pganssle/status/1224378970340233216
-https://twitter.com/blueyed/status/1222578734676484096
-https://twitter.com/gvanrossum/status/1222776098800357376
-https://twitter.com/gvanrossum/status/1216863597562740737
-https://python3statement.org/
-https://github.com/timothycrosley/isort
-https://github.com/timothycrosley/isort/issues/694
-https://github.com/urllib3/urllib3
-https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
-https://automatetheboringstuff.com/
-https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
-https://clang.llvm.org/comparison.html
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
-https://twitter.com/webology/status/1227286423109279744
-https://twitter.com/mariatta/status/1227286873413799936
-https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
-https://github.com/pypa/python-manylinux-demo
-https://pythonwheels.com/
-https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-library/1704
-https://www.python.org/dev/peps/pep-0594/
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+https://realpython.com/cpython-source-code-guide/
+https://devguide.python.org/#contributing
 https://devguide.python.org/motivations/#motivations
 https://devguide.python.org/experts/#experts
 https://devguide.python.org/committing/
-https://realpython.com/cpython-source-code-guide/
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://testandcode.com/52
-https://twitter.com/rauchg/status/1217993541730725894
-https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
-https://realpython.com/async-io-python/
-https://devguide.python.org/#contributing
+
 https://www.python.org/doc/versions/
 https://github.com/python/cpython/tree/master/Misc/NEWS.d
 https://github.com/python/cpython/commits/master
 https://docs.python.org/3/reference/grammar.html
+
+Packaging Summit
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
+
+Language Summit
+https://twitter.com/pganssle/status/1224378970340233216
+
+Python 3.8.2rc1
+https://twitter.com/llanga/status/1227231833844264960
+
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://github.com/pyenv/pyenv-update
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+https://github.com/pypa/python-manylinux-demo
+https://github.com/urllib3/urllib3
+https://github.com/timothycrosley/isort
+https://github.com/timothycrosley/isort/issues/694
+
+Choices
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+
+PyTest
+https://twitter.com/blueyed/status/1222578734676484096
+
+https://docs.djangoproject.com/en/3.0/releases/3.0/
+https://docs.python.org/3/howto/pyporting.html
+https://python-future.org/quickstart.html
+http://python-future.org/futurize.html#forwards-conversion-stage2
+https://python-future.org/quickstart.html#installation
+https://python-future.org/compatible_idioms.html
+
+https://twitter.com/webology/status/1226977717364707328
+
+Release
+https://twitter.com/brettsky/status/1216051044095946752
+https://twitter.com/VictorStinner/status/1216061972543868929
+https://github.com/vstinner/pyperf/blob/master/setup.py
+
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
+https://packaging.python.org/tutorials/
+https://packaging.python.org/guides/
+
+https://pypi.org/project/setuptools/
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
+https://packaging.python.org/tutorials/installing-packages/
+https://packaging.python.org/glossary/#term-version-specifier
+
+https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
+https://pip.pypa.io/en/latest/user_guide/#requirements-files
+https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
+
+https://packaging.python.org/glossary/#term-requirement-specifier
+https://www.python.org/dev/peps/pep-0440/
+https://www.python.org/dev/peps/pep-0440/#version-specifiers
+
 https://packaging.python.org/key_projects/#setuptools
 https://packaging.python.org/key_projects/#distutils
-https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
-https://packaging.python.org/glossary/#term-version-specifier
-https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
-https://pip.pypa.io/en/latest/user_guide/#requirements-files
-https://installpython3.com/
-https://twitter.com/webology/status/1226977717364707328
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-https://github.com/adamchainz?tab=overview&org=aws&from=2018-08-01&to=2018-08-31
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style
-https://www.cosmicpython.com/
+https://pythonwheels.com/
+
+pyproject.toml : the future of Python packaging
+https://testandcode.com/52
+
+pip
+https://twitter.com/brettsky/status/1218293642877534209
+
+https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
+https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://realpython.com/pypi-publish-python-package/
+https://hynek.me/articles/testing-packaging/
+
+Peps
+https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-library/1704
+https://www.python.org/dev/peps/pep-0594/
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+
+https://twitter.com/rauchg/status/1217993541730725894
+https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
+
+http://www.extremeprogramming.org/rules/testfirst.html
+https://pythontesting.net/framework/pytest/pytest-introduction/
+https://pythontesting.net/agile/test-first-programming/
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage
+https://docs.djangoproject.com/en/dev/topics/testing/overview/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-javascript-tests
+
+https://realpython.com/python-continuous-integration/
+https://realpython.com/courses/running-python-scripts/
+https://realpython.com/async-io-python/
+https://realpython.com/python-type-checking/
+
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+
+https://2020.pycascades.com/schedule/
+https://twitter.com/brianokken/status/1226963660020633603
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+
+https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
+
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+
+https://devchecklists.com/python-api-checklist/
+https://devchecklists.com/django-apps-checklist/
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+https://github.com/adamchainz
+https://github.com/pablogsal?tab=following
+
 https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
 https://twitter.com/anthonypjshaw/status/1218730494637953024
-https://realpython.com/python-type-checking/
-https://github.com/pablogsal?tab=following
-https://github.com/pyenv/pyenv-update
+
+https://clang.llvm.org/comparison.html
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+https://www.cosmicpython.com/
 
 
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
@@ -79,6 +203,7 @@ https://github.com/isidentical/pepgrave
 
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
+https://snarky.ca/why-you-should-use-python-m-pip/
 python -m pip install X
 https://twitter.com/mariatta/status/1217494274469548032
 
@@ -176,6 +301,8 @@ https://github.com/vstinner/pysandbox/
 ## Future
 
 <!--
+https://blog.adafruit.com/2020/02/10/pythons-next-decade-and-us-by-scott-shawcroft-at-pycascades-tannewt-pycascades-pycascades2020/
+
 https://stevedower.id.au/blog/python-a-great-language/ | What makes Python a great language? | Steve Dower
 
 Django’s Future, and Python 3
