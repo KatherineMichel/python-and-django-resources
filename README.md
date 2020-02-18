@@ -1,6 +1,9 @@
 # Python and Django- Contributing
 
 <!--
+https://devguide.python.org/
+https://twitter.com/brettsky/status/1218293642877534209
+
 https://twitter.com/chris_swenson/status/1225836060938125313
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://archive.org/details/comp3321/page/n4/mode/2up
@@ -29,6 +32,45 @@ https://clang.llvm.org/comparison.html
 https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 https://twitter.com/webology/status/1227286423109279744
 https://twitter.com/mariatta/status/1227286873413799936
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
+https://github.com/pypa/python-manylinux-demo
+https://pythonwheels.com/
+https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-library/1704
+https://www.python.org/dev/peps/pep-0594/
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+https://devguide.python.org/motivations/#motivations
+https://devguide.python.org/experts/#experts
+https://devguide.python.org/committing/
+https://realpython.com/cpython-source-code-guide/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://testandcode.com/52
+https://twitter.com/rauchg/status/1217993541730725894
+https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
+https://realpython.com/async-io-python/
+https://devguide.python.org/#contributing
+https://www.python.org/doc/versions/
+https://github.com/python/cpython/tree/master/Misc/NEWS.d
+https://github.com/python/cpython/commits/master
+https://docs.python.org/3/reference/grammar.html
+https://packaging.python.org/key_projects/#setuptools
+https://packaging.python.org/key_projects/#distutils
+https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
+https://packaging.python.org/glossary/#term-version-specifier
+https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
+https://pip.pypa.io/en/latest/user_guide/#requirements-files
+https://installpython3.com/
+https://twitter.com/webology/status/1226977717364707328
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+https://github.com/adamchainz?tab=overview&org=aws&from=2018-08-01&to=2018-08-31
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style
+https://www.cosmicpython.com/
+https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
+https://twitter.com/anthonypjshaw/status/1218730494637953024
+https://realpython.com/python-type-checking/
+https://github.com/pablogsal?tab=following
+https://github.com/pyenv/pyenv-update
+https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
 
 
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
