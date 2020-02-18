@@ -28,6 +28,8 @@ https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic
 
 https://automatetheboringstuff.com/
 
+https://twitter.com/filiplajszczak/status/1228800450515869703
+
 https://twitter.com/chris_swenson/status/1225836060938125313
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://archive.org/details/comp3321/page/n4/mode/2up
@@ -53,6 +55,9 @@ https://twitter.com/gvanrossum/status/1222776098800357376
 Post mortem
 https://twitter.com/gvanrossum/status/1216863597562740737
 
+https://twitter.com/moshezadka/status/1226592858473406473
+https://2019.northbaypython.org/schedule/presentation/10/
+
 https://devguide.python.org/
 https://bugs.python.org/
 https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
@@ -69,12 +74,14 @@ https://docs.python.org/3/reference/grammar.html
 
 Packaging Summit
 https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
+https://mobile.twitter.com/pradyunsg/status/1224789432504475649
 
 Language Summit
 https://twitter.com/pganssle/status/1224378970340233216
 
 Python 3.8.2rc1
 https://twitter.com/llanga/status/1227231833844264960
+https://twitter.com/eevee/status/1227613322834411522
 
 https://twitter.com/gjbernat/status/1226803593535279104
 https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
@@ -86,11 +93,26 @@ https://github.com/urllib3/urllib3
 https://github.com/timothycrosley/isort
 https://github.com/timothycrosley/isort/issues/694
 
+Poetry
+https://mobile.twitter.com/hynek/status/1226240842429616135
+
+Channels
+https://mobile.twitter.com/carltongibson/status/1207397901250564096
+
 Choices
+https://mobile.twitter.com/jacobian/status/1180524826068430848
+
+Choices
+https://mobile.twitter.com/webology/status/1195163668440334337
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
 https://twitter.com/mariatta/status/1227286873413799936
 https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
 
 PyTest
+https://twitter.com/codewithanthony/status/1195477147537657856
+https://twitter.com/nicoddemus/status/1195088740118618112
 https://twitter.com/blueyed/status/1222578734676484096
 
 https://docs.djangoproject.com/en/3.0/releases/3.0/
@@ -137,6 +159,9 @@ https://testandcode.com/52
 
 pip
 https://twitter.com/brettsky/status/1218293642877534209
+
+PyPI
+https://twitter.com/nlhkabu/status/1176378129012727808
 
 https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
 https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
