@@ -43,6 +43,15 @@ https://twitter.com/__mharrison__/status/1217626019038760960
 Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
 https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
 
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
+
+https://twitter.com/PurpleDiane88/status/1227365692380340224
+
+https://www.pypy.org/
+
+hugs.python.org
+
 https://www.django-rest-framework.org/
 
 https://python3statement.org/
@@ -55,13 +64,17 @@ https://twitter.com/gvanrossum/status/1222776098800357376
 Post mortem
 https://twitter.com/gvanrossum/status/1216863597562740737
 
-https://twitter.com/moshezadka/status/1226592858473406473
+Moshe
+https://cobordism.com/
+https://github.com/moshez/big-bad-loop
+https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228\
 https://2019.northbaypython.org/schedule/presentation/10/
 
 https://devguide.python.org/
 https://bugs.python.org/
 https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
 https://realpython.com/cpython-source-code-guide/
+
 https://devguide.python.org/#contributing
 https://devguide.python.org/motivations/#motivations
 https://devguide.python.org/experts/#experts
@@ -156,6 +169,9 @@ https://pythonwheels.com/
 
 pyproject.toml : the future of Python packaging
 https://testandcode.com/52
+
+pip grant
+https://mobile.twitter.com/di_codes/status/1193980331004743680
 
 pip
 https://twitter.com/brettsky/status/1218293642877534209
