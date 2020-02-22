@@ -1,5 +1,21 @@
 # Python and Django- General
 
+## Python Future
+
+* [Scott Shawcroft: "Python's Next Decade and Us" (PyCascades 2020)](https://blog.adafruit.com/2020/02/10/pythons-next-decade-and-us-by-scott-shawcroft-at-pycascades-tannewt-pycascades-pycascades2020/)
+* [Steve Dower: "What Makes Python a Great Language"](https://stevedower.id.au/blog/python-a-great-language/)
+* [Łukasz Langa Keynote: "Python 2020" (PyLondinium19)](https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s)
+
+<!--
+Django’s Future, and Python 3
+https://www.djangoproject.com/weblog/2012/mar/13/py3k/
+
+Future of Python
+https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
+
+https://twitter.com/holdenweb/status/1130182906113122304 | Twitter
+-->
+
 ## Python and Django History
 
 Python
