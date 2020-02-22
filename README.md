@@ -35,6 +35,11 @@ https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic
 
 https://automatetheboringstuff.com/
 
+https://www.django-rest-framework.org/
+
+
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
 
 https://www.pythonmorsels.com/resources/
 https://twitter.com/filiplajszczak/status/1228800450515869703
@@ -46,10 +51,6 @@ https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://archive.org/details/comp3321/page/n4/mode/2up
 https://archive.org/details/comp3321/page/n89/mode/2up/search/device
 
-Sprints
-https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
-
-
 https://treyhunner.com/2020/01/passing-functions-as-arguments/
 https://twitter.com/__mharrison__/status/1217626019038760960
 
@@ -57,40 +58,23 @@ Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon
 https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
 
 
-Order Alpha
-https://twitter.com/pydanny/status/1226937149485768704
-
-https://www.pypy.org/
+Sprints
+https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
 
 hugs.python.org
 
-https://www.django-rest-framework.org/
-
-https://python3statement.org/
 
 https://installpython3.com/
 
-
-Python 3.8.2rc1
-https://twitter.com/llanga/status/1227231833844264960
-https://twitter.com/eevee/status/1227613322834411522
-
-Python history lesson
-https://twitter.com/gvanrossum/status/1222776098800357376
-
-Post mortem
-https://twitter.com/gvanrossum/status/1216863597562740737
+https://realpython.com/installing-python/
+https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
+https://github.com/pypa/pipenv/issues/2482
 
 
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://github.com/pyenv/pyenv-update
 Encode Typesystem
 https://twitter.com/webology/status/1227286423109279744
-https://github.com/pypa/python-manylinux-demo
+
 https://github.com/urllib3/urllib3
-https://github.com/timothycrosley/isort
-https://github.com/timothycrosley/isort/issues/694
 
 Poetry
 https://mobile.twitter.com/hynek/status/1226240842429616135
@@ -109,35 +93,17 @@ https://twitter.com/mariatta/status/1227286873413799936
 https://twitter.com/jonasrk/status/1227028183469449216
 https://twitter.com/WillingCarol/status/1227331652046770176
 
-PyTest
-https://twitter.com/codewithanthony/status/1195477147537657856
-https://twitter.com/nicoddemus/status/1195088740118618112
-https://twitter.com/blueyed/status/1222578734676484096
-
 
 Galaxy
 https://twitter.com/webology/status/1226977717364707328
 
 
-Release
-https://twitter.com/brettsky/status/1216051044095946752
-https://twitter.com/VictorStinner/status/1216061972543868929
-https://github.com/vstinner/pyperf/blob/master/setup.py
 
+Python history lesson
+https://twitter.com/gvanrossum/status/1222776098800357376
 
-
-pip grant
-https://mobile.twitter.com/di_codes/status/1193980331004743680
-https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
-
-
-PyPI
-https://twitter.com/nlhkabu/status/1176378129012727808
-
-https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
-https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
-https://realpython.com/pypi-publish-python-package/
-https://hynek.me/articles/testing-packaging/
+Post mortem
+https://twitter.com/gvanrossum/status/1216863597562740737
 
 Peps
 https://github.com/isidentical/pepgrave
@@ -146,20 +112,21 @@ https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-l
 https://www.python.org/dev/peps/pep-0594/
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
 
+https://realpython.com/python-continuous-integration/
+https://realpython.com/courses/running-python-scripts/
+
+
 https://twitter.com/rauchg/status/1217993541730725894
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 
-http://www.extremeprogramming.org/rules/testfirst.html
-https://pythontesting.net/framework/pytest/pytest-introduction/
-https://pythontesting.net/agile/test-first-programming/
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage
-https://docs.djangoproject.com/en/dev/topics/testing/overview/
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-javascript-tests
-
-https://realpython.com/python-continuous-integration/
-https://realpython.com/courses/running-python-scripts/
 https://realpython.com/async-io-python/
 https://realpython.com/python-type-checking/
+
+https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+
+What is a Coroutine Anyway?
+https://www.youtube.com/watch?v=GSiZkP7cI80
+https://github.com/jreese/pycon
 
 
 https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
@@ -197,6 +164,7 @@ https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 https://snarky.ca/why-you-should-use-python-m-pip/
 python -m pip install X
 https://twitter.com/mariatta/status/1217494274469548032
+https://twitter.com/mariatta/status/1189243515739561985
 
 Python Docs Theme
 https://twitter.com/mariatta/status/1217180209176166400
@@ -216,36 +184,6 @@ https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
 https://www.python.org/dev/peps/pep-0517/
 https://www.python.org/dev/peps/pep-0518/
 
-EPython
-https://openteams.com/projects/epython
-https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
-https://twitter.com/teoliphant/status/1217611221396082695
-
-https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
-The Packaging Gradient
-https://www.youtube.com/watch?v=iLVNWfPWAC8
-
-https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
-
-A Bit About Bytes
-https://www.youtube.com/watch?v=cSSpnq362Bk
-https://docs.python.org/3/library/dis.html
-https://github.com/python/cpython/blob/master/Python/ceval.c
-
-Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
-https://www.youtube.com/watch?v=XhWvz4dK4ng
-
-What is a Coroutine Anyway?
-https://www.youtube.com/watch?v=GSiZkP7cI80
-https://github.com/jreese/pycon
-
-
-Best Practices
-Python on Windows is Okay, Actually
-https://us.pycon.org/2019/schedule/presentation/212/
-https://www.youtube.com/watch?v=uoI57uMdDD4
-https://docs.python.org/3/using/unix.html
 
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
@@ -254,9 +192,6 @@ http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | P
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
-https://realpython.com/installing-python/
-https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
-https://github.com/pypa/pipenv/issues/2482
 
 https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
@@ -265,9 +200,6 @@ https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188�
 
 Radix
 https://twitter.com/hynek/status/1189883958294654978
-
-Installation
-https://twitter.com/mariatta/status/1189243515739561985
 
 https://twitter.com/jpadilla_/status/1189752115566133248
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
@@ -289,6 +221,7 @@ Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
 Python Core
 https://github.com/vstinner/pysandbox/
 -->
+
 
 ## Future
 
@@ -338,6 +271,31 @@ By OS
 * ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
+Best Practices
+Python on Windows is Okay, Actually
+https://us.pycon.org/2019/schedule/presentation/212/
+https://www.youtube.com/watch?v=uoI57uMdDD4
+https://docs.python.org/3/using/unix.html
+
+https://github.com/python/cpython/tree/master/Misc/NEWS.d
+
+Python 3.8.2rc1
+https://twitter.com/llanga/status/1227231833844264960
+https://twitter.com/eevee/status/1227613322834411522
+https://realpython.com/python38-new-features/
+https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
+https://docs.python.org/3.8/whatsnew/3.8.html
+https://docs.python.org/3.8/whatsnew/changelog.html#changelog
+https://twitter.com/carltongibson/status/1179011386036367362
+
+Release notes
+https://docs.python.org/3/whatsnew/
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+
+https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
+
+https://github.com/pypa/python-manylinux-demo
 https://github.com/pypa/manylinux
 https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux
 
@@ -404,6 +362,71 @@ https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule 
 https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
+## Related Projects, PSF and DSF People and Members
+
+Python Software Foundation (PSF) People
+* [PSF Members](https://www.python.org/psf/members)
+* [PSF Fellows](https://www.python.org/psf/fellows)
+* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
+
+Django Software Foundation (DSF) People (Not Specifically Developer)
+* [DSF Committees](https://www.djangoproject.com/foundation/committees)
+* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
+* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
+
+Django People- Current
+* [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
+* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
+* [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
+
+Django People- Historical
+* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
+* [Django Organization Repo People](https://github.com/orgs/django/people)
+
+<!--
+https://people.djangoproject.com
+-->
+
+<!--
+Packaging Summit
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
+https://mobile.twitter.com/pradyunsg/status/1224789432504475649
+
+Language Summit
+https://twitter.com/pganssle/status/1224378970340233216
+
+Includes issues links
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+
+https://github.com/orgs/pytest-dev/people
+https://github.com/orgs/pypa/people
+https://github.com/orgs/python/people
+https://github.com/orgs/tox-dev/people
+https://github.com/orgs/pre-commit/people
+https://github.com/python/cpython/graphs/contributors
+
+https://www.encode.io/projects/
+
+virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://github.com/pyenv/pyenv-update
+
+PyTest
+https://twitter.com/codewithanthony/status/1195477147537657856
+https://twitter.com/nicoddemus/status/1195088740118618112
+https://twitter.com/blueyed/status/1222578734676484096
+
+pip grant
+https://mobile.twitter.com/di_codes/status/1193980331004743680
+https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
+
+EPython
+https://openteams.com/projects/epython
+https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
+https://twitter.com/teoliphant/status/1217611221396082695
+-->
+
 ## CPython Experts, Mailing Lists, Core Developer Info, Permissions
 
 CPython Experts Index
@@ -416,72 +439,20 @@ Mailing List and Permissions History
 * [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
 
-<!--
-https://devguide.python.org/#contributing
-https://devguide.python.org/motivations/#motivations
-https://devguide.python.org/experts/#experts
-https://devguide.python.org/committing/
-
-https://www.python.org/doc/versions/
-https://github.com/python/cpython/tree/master/Misc/NEWS.d
-https://github.com/python/cpython/commits/master
-https://docs.python.org/3/reference/grammar.html
-
-
-Packaging Summit
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
-https://mobile.twitter.com/pradyunsg/status/1224789432504475649
-
-Language Summit
-https://twitter.com/pganssle/status/1224378970340233216
-
-
-https://github.com/orgs/pytest-dev/people
-https://github.com/orgs/pypa/people
-https://github.com/orgs/python/people
-https://github.com/orgs/tox-dev/people
-https://github.com/orgs/pre-commit/people
-https://github.com/python/cpython/graphs/contributors
-
-https://www.encode.io/projects/
-
-
-Moshe
-https://cobordism.com/
-https://github.com/moshez/big-bad-loop
-https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228\
-https://2019.northbaypython.org/schedule/presentation/10/
-
-https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
--->
-
 ## Python Contributing Info and Docs
-
-CPython
-* [CPython GitHub](https://github.com/python/cpython) and [CPython Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 CPython Bugs Dashboard
 * [Bugs](http://bugs.python.org)
 
+CPython
+* [CPython GitHub](https://github.com/python/cpython)
+
 CPython Pull Requests
 * [CPython Pull Requests](https://github.com/python/cpython/pulls)
-* [Core PR Tool](https://github.com/CuriousLearner/pulls)
+* [CPython Commits to Master Branch](https://github.com/python/cpython/commits/master)
 
 Official CPython Contributing Guides
-* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-* [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
-* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-
-Victor Stinner CPython Contributing Guides
-* [Victor Stinner: Python Development Documentation](https://pythondev.readthedocs.io/)
-* [Victor Stinner: "Welcome to Tutorial to contribute to the CPython project’s documentation!"](https://cpython-core-tutorial.readthedocs.io)
-
-Python Status
-* ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
-* [Python Status](https://status.python.org)
-* [Python Status History](https://status.python.org/history)
-* [CPython Travis CI](https://travis-ci.org/python/cpython/)
+* [CPython Dev Guide](https://devguide.python.org)
 
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
@@ -491,21 +462,38 @@ Release
 Release Managers
 * ["Welcome the 3.8 and 3.9 Release Manager - Łukasz Langa!"](https://mail.python.org/pipermail/python-dev/2018-January/151949.html)
 
+Python Status
+* ["Status of Python CIs (buildbots, Travis CI, AppVeyor): July 2018"](https://mail.python.org/pipermail/python-dev/2018-July/154703.html)
+* [Python Status](https://status.python.org)
+* [Python Status History](https://status.python.org/history)
+* [CPython Travis CI](https://travis-ci.org/python/cpython/)
+
+
+<!--
+https://devguide.python.org/#contributing
+https://devguide.python.org/committing/
+-->
+<!--
+https://www.python.org/doc/versions/
+
+https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+-->
+
+* [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
+* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+
+Victor Stinner CPython Contributing Guides
+* [Victor Stinner: Python Development Documentation](https://pythondev.readthedocs.io/)
+* [Victor Stinner: "Welcome to Tutorial to contribute to the CPython project’s documentation!"](https://cpython-core-tutorial.readthedocs.io)
+
+Sprint PR Tool
+* [Core PR Tool](https://github.com/CuriousLearner/pulls)
+
 <!--
 https://www.python.org/dev/peps/pep-0602/
 https://www.python.org/dev/peps/pep-0602/#the-testing-matrix
-
-https://realpython.com/python38-new-features/
-https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
-https://docs.python.org/3.8/whatsnew/3.8.html
-https://docs.python.org/3.8/whatsnew/changelog.html#changelog
-https://twitter.com/carltongibson/status/1179011386036367362
-
-https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
-
-https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
-
-https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
 
 https://python-release-cycle.glitch.me/ | Python Release Cycle
 
@@ -515,11 +503,14 @@ https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-p
 
 https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMBZNKJO5U6ERFIZC7FTIG/ | Mailman 3 Announcing the new Python triage team on GitHub - Python-Dev - python.org
 
+
+https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
+
+https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
+
 https://pythondev.readthedocs.io/internals.html
 
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
-
-https://www.python.org/dev/buildbot/
 
 https://devguide.python.org/#quick-reference
 https://devguide.python.org/#branchstatus
@@ -592,6 +583,8 @@ https://twitter.com/mariatta/status/1188177179630157824
 https://de.pycon.org/program/pyconde-dfcu3k-pep-581-and-pep-588-migrating-cpython-s-issue-tracker-mariatta-wijaya | 404 Not Found
 https://twitter.com/mariatta/status/1166538642308747264 | Tweet / Twitter
 
+
+https://www.python.org/dev/buildbot/
 
 https://github.com/python/bedevere
 https://github.com/python/the-knights-who-say-ni | python/the-knights-who-say-ni: CLA enforcement bot for Python organization projects
@@ -715,6 +708,19 @@ https://github.com/mitmproxy/mitmproxy/issues/1381
 -->
 
 ## CPython Interpreter and Internals
+
+<!--
+Moshe
+https://cobordism.com/
+https://github.com/moshez/big-bad-loop
+https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228\
+https://2019.northbaypython.org/schedule/presentation/10/
+
+A Bit About Bytes
+https://www.youtube.com/watch?v=cSSpnq362Bk
+https://docs.python.org/3/library/dis.html
+https://github.com/python/cpython/blob/master/Python/ceval.c
+-->
 
 Visualizing How Python Works  		
 * [Python Tutor](http://pythontutor.com)
