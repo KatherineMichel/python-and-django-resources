@@ -53,33 +53,52 @@ https://github.com/jreese/pycon
 hugs.python.org
 
 
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+
+https://github.com/urllib3/urllib3
+
+Poetry
+https://mobile.twitter.com/hynek/status/1226240842429616135
+
+Channels
+https://mobile.twitter.com/carltongibson/status/1207397901250564096
+
+Choices
+https://mobile.twitter.com/jacobian/status/1180524826068430848
+
+Choices
+https://mobile.twitter.com/webology/status/1195163668440334337
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
+
 
 https://github.com/adamchainz
 https://github.com/pablogsal?tab=following
-
-https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
-https://twitter.com/anthonypjshaw/status/1218730494637953024
-
-https://clang.llvm.org/comparison.html
-https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
-https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-https://www.cosmicpython.com/
-
-
-https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
-
-
-Python 3.7 Development Mode
-https://github.com/sphinx-doc/sphinx/issues/7024
-https://twitter.com/VictorStinner/status/1217790390201475078
-
 
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
 http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
+
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+
+https://clang.llvm.org/comparison.html
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+
+Case Study
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+
+Rust
+https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
+https://www.cosmicpython.com/
+
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
@@ -88,28 +107,6 @@ https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status 
 
 CLI
 https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
--->
-
-
-## Future
-
-<!--
-https://blog.adafruit.com/2020/02/10/pythons-next-decade-and-us-by-scott-shawcroft-at-pycascades-tannewt-pycascades-pycascades2020/
-
-https://stevedower.id.au/blog/python-a-great-language/ | What makes Python a great language? | Steve Dower
-
-Django’s Future, and Python 3
-https://www.djangoproject.com/weblog/2012/mar/13/py3k/
-
-Keynote: Python 2020 - Łukasz Langa - PyLondinium19
-https://www.youtube.com/watch?v=KDXhu4rxTNY&t=2028s
-
-Future of Python
-https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
-
-https://twitter.com/zooba/status/1186799825733316608 | Zooba on Twitter: "I had three opportunities today to practice articulating my vision for the future of Python, and I think I'm getting close to being able to actually explain it. Maybe by PyCon US I'll have it figured out... 🤔" / Twitter
-
-https://twitter.com/holdenweb/status/1130182906113122304 | Twitter
 -->
 
 ## News and Releases
@@ -289,10 +286,6 @@ PyTest
 https://twitter.com/codewithanthony/status/1195477147537657856
 https://twitter.com/nicoddemus/status/1195088740118618112
 https://twitter.com/blueyed/status/1222578734676484096
-
-pip grant
-https://mobile.twitter.com/di_codes/status/1193980331004743680
-https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
 
 EPython
 https://openteams.com/projects/epython
