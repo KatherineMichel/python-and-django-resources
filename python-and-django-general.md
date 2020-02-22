@@ -1,30 +1,5 @@
 # Python and Django- General
 
-## PSF and DSF People and Members
-
-Python Software Foundation (PSF) People
-* [PSF Members](https://www.python.org/psf/members)
-* [PSF Fellows](https://www.python.org/psf/fellows)
-* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
-
-Django Software Foundation (DSF) People (Not Specifically Developer)
-* [DSF Committees](https://www.djangoproject.com/foundation/committees)
-* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
-* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
-
-Django People- Current
-* [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization)
-* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
-* [Django Team List (Old?)](https://www.djangoproject.com/foundation/teams)
-
-Django People- Historical
-* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
-* [Django Organization Repo People](https://github.com/orgs/django/people)
-
-<!--
-https://people.djangoproject.com
--->
-
 ## Python and Django History
 
 Python
@@ -42,6 +17,8 @@ Python: "I came for the language but I stay for the community..."
 * [Brett Cannon](https://twitter.com/brettsky/status/830527537105113088?lang=en)
 
 <!--
+* [CPython Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+
 https://twitter.com/jezdez/status/1216777837182693377
 
 https://www.youtube.com/watch?v=7kn7NtlV6g0&feature=emb_logo | Creator of Python Programming Language, Guido van Rossum | Oxford Union - YouTube
