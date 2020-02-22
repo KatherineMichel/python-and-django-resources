@@ -1,13 +1,7 @@
 # Python and Django- Contributing
 
 <!--
-https://2020.pycascades.com/schedule/
-https://twitter.com/brianokken/status/1226963660020633603
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-
 https://us.pycon.org/2020/schedule/talks/
-
-## Engineering Blogs
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
@@ -15,28 +9,7 @@ List of Engineering Blogs
 
 https://techyaks.com/python-year-tytop.html
 
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-
-https://martinfowler.com/articles/refactoring-2nd-changes.html
-https://refactoring.com/catalog/
-https://refactoring.guru/collapse-hierarchy
-
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
-
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-https://sayazamurai.github.io/python-vs-javascript/
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
-https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png
-https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png
-
 https://automatetheboringstuff.com/
-
-https://www.django-rest-framework.org/
-
 
 https://installpython3.com/
 
@@ -44,62 +17,21 @@ https://realpython.com/installing-python/
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+https://snarky.ca/why-you-should-use-python-m-pip/
+python -m pip install X
+https://twitter.com/mariatta/status/1217494274469548032
+https://twitter.com/mariatta/status/1189243515739561985
 
-Order Alpha
-https://twitter.com/pydanny/status/1226937149485768704
-
-https://www.pythonmorsels.com/resources/
-https://twitter.com/filiplajszczak/status/1228800450515869703
-https://twitter.com/PurpleDiane88/status/1227365692380340224
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
-https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
-
-
-Sprints
-https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
-
-hugs.python.org
-
-
-Python history lesson
-https://twitter.com/gvanrossum/status/1222776098800357376
-
-Post mortem
-https://twitter.com/gvanrossum/status/1216863597562740737
-
-Peps
-https://github.com/isidentical/pepgrave
+https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
 https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-library/1704
 https://www.python.org/dev/peps/pep-0594/
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
-
-https://realpython.com/python-continuous-integration/
-https://realpython.com/courses/running-python-scripts/
-
 
 https://twitter.com/rauchg/status/1217993541730725894
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 
-https://realpython.com/async-io-python/
-https://realpython.com/python-type-checking/
-
-https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
-
-What is a Coroutine Anyway?
-https://www.youtube.com/watch?v=GSiZkP7cI80
-https://github.com/jreese/pycon
-
+https://realpython.com/python-continuous-integration/
+https://realpython.com/courses/running-python-scripts/
 
 https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
 
@@ -113,6 +45,14 @@ https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+What is a Coroutine Anyway?
+https://www.youtube.com/watch?v=GSiZkP7cI80
+https://github.com/jreese/pycon
+
+hugs.python.org
+
+
 
 https://github.com/adamchainz
 https://github.com/pablogsal?tab=following
@@ -131,30 +71,9 @@ https://www.cosmicpython.com/
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 
-https://blog.ganssle.io/articles/2019/08/test-as-installed.html
-
-https://snarky.ca/why-you-should-use-python-m-pip/
-python -m pip install X
-https://twitter.com/mariatta/status/1217494274469548032
-https://twitter.com/mariatta/status/1189243515739561985
-
-Python Docs Theme
-https://twitter.com/mariatta/status/1217180209176166400
-https://github.com/python/python-docs-theme/commits/master
-
-PyPI Quick Start Guide
-https://github.com/pypa/packaging.python.org/issues/688
-https://twitter.com/mariatta/status/1218232806163107841
-https://twitter.com/brettsky/status/1218293642877534209
-
 Python 3.7 Development Mode
 https://github.com/sphinx-doc/sphinx/issues/7024
 https://twitter.com/VictorStinner/status/1217790390201475078
-
-PEP 517 and 518 in Plain English
-https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
-https://www.python.org/dev/peps/pep-0517/
-https://www.python.org/dev/peps/pep-0518/
 
 
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
@@ -167,31 +86,8 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 
 https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
-https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
-https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
-
-Radix
-https://twitter.com/hynek/status/1189883958294654978
-
-https://twitter.com/jpadilla_/status/1189752115566133248
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-
-http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
-
-Very important!!!!!!!
-https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
-https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
-
-https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
-
-
 CLI
 https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-
-Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
-
-Python Core
-https://github.com/vstinner/pysandbox/
 -->
 
 
@@ -301,6 +197,9 @@ Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
 <!--
+Post mortem
+https://twitter.com/gvanrossum/status/1216863597562740737
+
 https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
 https://twitter.com/andrewgodwin/status/1201518717588234240
 
@@ -399,6 +298,9 @@ EPython
 https://openteams.com/projects/epython
 https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
 https://twitter.com/teoliphant/status/1217611221396082695
+
+Radix
+https://twitter.com/hynek/status/1189883958294654978
 -->
 
 ## CPython Experts, Mailing Lists, Core Developer Info, Permissions
@@ -456,15 +358,16 @@ Sprint PR Tool
 
 
 <!--
+Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
+
 https://devguide.python.org/#contributing
 https://devguide.python.org/committing/
--->
 
-<!--
 https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
--->
 
-<!--
+https://medium.com/@Captain_Joannah/so-you-want-to-contribute-to-cpython-gather-here-5a2694148ca4 | So, You want to Contribute to Cpython : Gather here !!
+https://medium.com/mergify/case-study-cpython-development-workflow-472ae5843188 | Case Study: CPython Development Workflow – mergify – Medium
+
 https://mail.python.org/archives/list/python-dev@python.org/thread/KE7OS4PZASZMFTW2FP2MWZU5R4Q2QZKU/
 https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-peps/2528?u=steve.dower | PEP 607: Shared background for the release cadence PEPs - PEPs - Discussions on Python.org
 PEP 602 -- Annual Release Cycle for Python
@@ -589,6 +492,8 @@ Speed
 * [Python Speed Center](https://speed.python.org/)
 
 <!--
+https://github.com/vstinner/pysandbox/
+
 speed.python.org
 https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
 
@@ -838,6 +743,10 @@ Django Docs
 * [Writing Documentation: How Documentation is Organized](https://docs.djangoproject.com/en/dev/internals/contributing/writing-documentation/#how-the-documentation-is-organized)
 
 <!--
+Python Docs Theme
+https://twitter.com/mariatta/status/1217180209176166400
+https://github.com/python/python-docs-theme/commits/master
+
 https://devguide.python.org/#contributing
 https://twitter.com/mariatta/status/1154436363946737664
 https://devguide.python.org/documenting/#building-the-documentation | 7. Documenting Python — Python Developer's Guide
