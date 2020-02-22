@@ -92,6 +92,9 @@ Trees, Symbol Table, Control Flow Graph
 * [Control Flow Graph Wikipedia](https://en.wikipedia.org/wiki/Control-flow_graph)
 
 <!--
+Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
+https://www.youtube.com/watch?v=XhWvz4dK4ng
+
 Abstract Syntax Trees
 https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.7.4rc2 documentation
 https://docs.python.org/3/library/ast.html#abstract-grammar | ast — Abstract Syntax Trees — Python 3.7.2 documentation	
@@ -180,6 +183,7 @@ Emit bytecode based on the Control Flow Graph
 https://github.com/python/cpython/blob/master/Python/compile.c
 
 The grammar file for Python
+https://docs.python.org/3/reference/grammar.html
 https://github.com/python/cpython/blob/master/Grammar/Grammar
 Numeric value of grammar rules
 https://github.com/python/cpython/blob/master/Include/graminit.h
