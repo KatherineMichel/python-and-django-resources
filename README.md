@@ -38,6 +38,13 @@ https://automatetheboringstuff.com/
 https://www.django-rest-framework.org/
 
 
+https://installpython3.com/
+
+https://realpython.com/installing-python/
+https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
+https://github.com/pypa/pipenv/issues/2482
+
+
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
 
@@ -62,41 +69,6 @@ Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
 
 hugs.python.org
-
-
-https://installpython3.com/
-
-https://realpython.com/installing-python/
-https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
-https://github.com/pypa/pipenv/issues/2482
-
-
-Encode Typesystem
-https://twitter.com/webology/status/1227286423109279744
-
-https://github.com/urllib3/urllib3
-
-Poetry
-https://mobile.twitter.com/hynek/status/1226240842429616135
-
-Channels
-https://mobile.twitter.com/carltongibson/status/1207397901250564096
-
-Choices
-https://mobile.twitter.com/jacobian/status/1180524826068430848
-
-Choices
-https://mobile.twitter.com/webology/status/1195163668440334337
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-
-
-Galaxy
-https://twitter.com/webology/status/1226977717364707328
-
 
 
 Python history lesson
@@ -271,6 +243,8 @@ By OS
 * ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
+https://www.python.org/doc/versions/
+
 Best Practices
 Python on Windows is Okay, Actually
 https://us.pycon.org/2019/schedule/presentation/212/
@@ -468,18 +442,7 @@ Python Status
 * [Python Status History](https://status.python.org/history)
 * [CPython Travis CI](https://travis-ci.org/python/cpython/)
 
-
-<!--
-https://devguide.python.org/#contributing
-https://devguide.python.org/committing/
--->
-<!--
-https://www.python.org/doc/versions/
-
-https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
--->
-
+CPython Dev Stuff
 * [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
 * [How to Become a Core Developer- Python Developer's Guide](https://devguide.python.org/coredev)
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
@@ -491,26 +454,30 @@ Victor Stinner CPython Contributing Guides
 Sprint PR Tool
 * [Core PR Tool](https://github.com/CuriousLearner/pulls)
 
+
 <!--
+https://devguide.python.org/#contributing
+https://devguide.python.org/committing/
+-->
+
+<!--
+https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
+-->
+
+<!--
+https://mail.python.org/archives/list/python-dev@python.org/thread/KE7OS4PZASZMFTW2FP2MWZU5R4Q2QZKU/
+https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-peps/2528?u=steve.dower | PEP 607: Shared background for the release cadence PEPs - PEPs - Discussions on Python.org
+PEP 602 -- Annual Release Cycle for Python
 https://www.python.org/dev/peps/pep-0602/
 https://www.python.org/dev/peps/pep-0602/#the-testing-matrix
+PEP 607 -- Reducing CPython's Feature Delivery Latency
+https://www.python.org/dev/peps/pep-0607/
+PEP 605- Rejected
+https://discuss.python.org/t/rejected-pep-605-a-rolling-feature-release-stream-for-cpython/2418
 
 https://python-release-cycle.glitch.me/ | Python Release Cycle
 
-Release Cadence
-https://twitter.com/pumpichank/status/1189631220893638656
-https://discuss.python.org/t/pep-607-shared-background-for-the-release-cadence-peps/2528?u=steve.dower | PEP 607: Shared background for the release cadence PEPs - PEPs - Discussions on Python.org
-
 https://mail.python.org/archives/list/python-dev@python.org/thread/YHDDRBEE2LPMBZNKJO5U6ERFIZC7FTIG/ | Mailman 3 Announcing the new Python triage team on GitHub - Python-Dev - python.org
-
-
-https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
-
-https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
-
-https://pythondev.readthedocs.io/internals.html
-
-http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
 https://devguide.python.org/#quick-reference
 https://devguide.python.org/#branchstatus
@@ -544,6 +511,7 @@ https://devguide.python.org/gitbootcamp/#git-pr | 31. Git Bootcamp and Cheat She
 https://www.python.org/dev/peps/pep-0387/ | PEP 387 -- Backwards Compatibility Policy | Python.org
 -->
 
+
 ## CPython Workflow Choices and Tools
 
 Core Workflow Tools
@@ -572,6 +540,9 @@ Reality
 * [Carlton Gibson: "I have to force push about 8 times every time... "](https://twitter.com/carltongibson/status/1135628987106025478)
 
 <!--
+Galaxy
+https://twitter.com/webology/status/1226977717364707328
+
 http://pyfound.blogspot.com/2019/05/mariatta-wijaya-lets-use-github-issues.html | Python Software Foundation News: Mariatta Wijaya: Let's Use GitHub Issues Already!
 https://medium.com/@Captain_Joannah/cpython-bug-tracker-the-broken-promise-of-the-easy-issue-tag-my-thoughts-c957c1039760 | Cpython Bug Tracker: The broken promise of the Easy issue tag — My thoughts
 
@@ -710,6 +681,14 @@ https://github.com/mitmproxy/mitmproxy/issues/1381
 ## CPython Interpreter and Internals
 
 <!--
+https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Twitter: "Current GitHub language stats for the main CPython repo: * Python 63.9% * C 28.9% * Objective-C 4.4% * C++ 1.2% * HTML 0.4% * M4 0.4% * Other 0.8% The autoconf scripts are large enough to make it onto the list :)" / Twitter
+
+http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
+
+https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
+
+https://pythondev.readthedocs.io/internals.html
+
 Moshe
 https://cobordism.com/
 https://github.com/moshez/big-bad-loop
