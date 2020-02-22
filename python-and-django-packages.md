@@ -1,5 +1,65 @@
 # Python and Django Packages
 
+<!--
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+
+PEP 517 and 518 in Plain English
+https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
+https://www.python.org/dev/peps/pep-0517/
+https://www.python.org/dev/peps/pep-0518/
+
+PyPI Quick Start Guide
+https://github.com/pypa/packaging.python.org/issues/688
+https://twitter.com/mariatta/status/1218232806163107841
+https://twitter.com/brettsky/status/1218293642877534209
+
+https://twitter.com/brettsky/status/1216051044095946752
+https://twitter.com/VictorStinner/status/1216061972543868929
+https://github.com/vstinner/pyperf/blob/master/setup.py
+
+PyPI
+https://twitter.com/nlhkabu/status/1176378129012727808
+
+https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
+https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://realpython.com/pypi-publish-python-package/
+https://hynek.me/articles/testing-packaging/
+
+pyproject.toml : the future of Python packaging
+https://testandcode.com/52
+
+https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
+
+The Packaging Gradient
+https://www.youtube.com/watch?v=iLVNWfPWAC8
+
+
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
+https://packaging.python.org/tutorials/
+https://packaging.python.org/guides/
+
+https://pypi.org/project/setuptools/
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
+https://packaging.python.org/tutorials/installing-packages/
+https://packaging.python.org/glossary/#term-version-specifier
+
+https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
+https://pip.pypa.io/en/latest/user_guide/#requirements-files
+https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
+
+https://packaging.python.org/glossary/#term-requirement-specifier
+https://www.python.org/dev/peps/pep-0440/
+https://www.python.org/dev/peps/pep-0440/#version-specifiers
+
+https://packaging.python.org/key_projects/#setuptools
+https://packaging.python.org/key_projects/#distutils
+https://pythonwheels.com/
+-->
+
 ## Python and Django Dependency Management
 
 pipenv
@@ -11,6 +71,10 @@ Others
 * [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
+pip grant
+https://mobile.twitter.com/di_codes/status/1193980331004743680
+https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
+
 https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
 
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
