@@ -17,6 +17,7 @@ Python 3 at Facebook
 https://lwn.net/Articles/758159/
 https://www.youtube.com/watch?v=H4SS9yVWJYA
 
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
 https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 -->
 
@@ -139,6 +140,10 @@ https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Speci
 ### Python Sync and Async Tools
 
 <!--
+https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
+
+https://realpython.com/async-io-python/
+
 https://twitter.com/judy2k/status/1189915326630256642
 https://pgjones.dev/blog/flask-async-quart-sync-2019/
 -->
@@ -372,6 +377,8 @@ Strong and Weak Typing
 * [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
+https://realpython.com/python-type-checking/
+
 https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
 https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
 -->
