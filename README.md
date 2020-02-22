@@ -1,6 +1,12 @@
 # Python and Django- Contributing
 
 <!--
+https://2020.pycascades.com/schedule/
+https://twitter.com/brianokken/status/1226963660020633603
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+
+https://us.pycon.org/2020/schedule/talks/
+
 ## Engineering Blogs
 
 List of Engineering Blogs
@@ -10,6 +16,7 @@ List of Engineering Blogs
 https://techyaks.com/python-year-tytop.html
 
 https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 
@@ -28,14 +35,20 @@ https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic
 
 https://automatetheboringstuff.com/
 
-https://twitter.com/filiplajszczak/status/1228800450515869703
 
+https://www.pythonmorsels.com/resources/
+https://twitter.com/filiplajszczak/status/1228800450515869703
+https://twitter.com/PurpleDiane88/status/1227365692380340224
+
+NSA Python
 https://twitter.com/chris_swenson/status/1225836060938125313
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://archive.org/details/comp3321/page/n4/mode/2up
 https://archive.org/details/comp3321/page/n89/mode/2up/search/device
 
+Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
+
 
 https://treyhunner.com/2020/01/passing-functions-as-arguments/
 https://twitter.com/__mharrison__/status/1217626019038760960
@@ -43,10 +56,9 @@ https://twitter.com/__mharrison__/status/1217626019038760960
 Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
 https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
 
+
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
-
-https://twitter.com/PurpleDiane88/status/1227365692380340224
 
 https://www.pypy.org/
 
@@ -58,43 +70,17 @@ https://python3statement.org/
 
 https://installpython3.com/
 
+
+Python 3.8.2rc1
+https://twitter.com/llanga/status/1227231833844264960
+https://twitter.com/eevee/status/1227613322834411522
+
 Python history lesson
 https://twitter.com/gvanrossum/status/1222776098800357376
 
 Post mortem
 https://twitter.com/gvanrossum/status/1216863597562740737
 
-Moshe
-https://cobordism.com/
-https://github.com/moshez/big-bad-loop
-https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228\
-https://2019.northbaypython.org/schedule/presentation/10/
-
-https://devguide.python.org/
-https://bugs.python.org/
-https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
-https://realpython.com/cpython-source-code-guide/
-
-https://devguide.python.org/#contributing
-https://devguide.python.org/motivations/#motivations
-https://devguide.python.org/experts/#experts
-https://devguide.python.org/committing/
-
-https://www.python.org/doc/versions/
-https://github.com/python/cpython/tree/master/Misc/NEWS.d
-https://github.com/python/cpython/commits/master
-https://docs.python.org/3/reference/grammar.html
-
-Packaging Summit
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
-https://mobile.twitter.com/pradyunsg/status/1224789432504475649
-
-Language Summit
-https://twitter.com/pganssle/status/1224378970340233216
-
-Python 3.8.2rc1
-https://twitter.com/llanga/status/1227231833844264960
-https://twitter.com/eevee/status/1227613322834411522
 
 https://twitter.com/gjbernat/status/1226803593535279104
 https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
@@ -128,53 +114,22 @@ https://twitter.com/codewithanthony/status/1195477147537657856
 https://twitter.com/nicoddemus/status/1195088740118618112
 https://twitter.com/blueyed/status/1222578734676484096
 
-https://docs.djangoproject.com/en/3.0/releases/3.0/
-https://docs.python.org/3/howto/pyporting.html
-https://python-future.org/quickstart.html
-http://python-future.org/futurize.html#forwards-conversion-stage2
-https://python-future.org/quickstart.html#installation
-https://python-future.org/compatible_idioms.html
 
+Galaxy
 https://twitter.com/webology/status/1226977717364707328
+
 
 Release
 https://twitter.com/brettsky/status/1216051044095946752
 https://twitter.com/VictorStinner/status/1216061972543868929
 https://github.com/vstinner/pyperf/blob/master/setup.py
 
-https://www.python.org/dev/peps/pep-0394/#recommendation
 
-https://packaging.python.org/tutorials/
-https://packaging.python.org/guides/
-
-https://pypi.org/project/setuptools/
-
-https://packaging.python.org/guides/distributing-packages-using-setuptools/
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
-https://packaging.python.org/tutorials/installing-packages/
-https://packaging.python.org/glossary/#term-version-specifier
-
-https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
-https://pip.pypa.io/en/latest/user_guide/#requirements-files
-https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
-
-https://packaging.python.org/glossary/#term-requirement-specifier
-https://www.python.org/dev/peps/pep-0440/
-https://www.python.org/dev/peps/pep-0440/#version-specifiers
-
-https://packaging.python.org/key_projects/#setuptools
-https://packaging.python.org/key_projects/#distutils
-https://pythonwheels.com/
-
-pyproject.toml : the future of Python packaging
-https://testandcode.com/52
 
 pip grant
 https://mobile.twitter.com/di_codes/status/1193980331004743680
+https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
 
-pip
-https://twitter.com/brettsky/status/1218293642877534209
 
 PyPI
 https://twitter.com/nlhkabu/status/1176378129012727808
@@ -185,6 +140,8 @@ https://realpython.com/pypi-publish-python-package/
 https://hynek.me/articles/testing-packaging/
 
 Peps
+https://github.com/isidentical/pepgrave
+
 https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-library/1704
 https://www.python.org/dev/peps/pep-0594/
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
@@ -204,12 +161,6 @@ https://realpython.com/courses/running-python-scripts/
 https://realpython.com/async-io-python/
 https://realpython.com/python-type-checking/
 
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-
-https://2020.pycascades.com/schedule/
-https://twitter.com/brianokken/status/1226963660020633603
-https://twitter.com/Nate_somewhere/status/1218962488189808640
 
 https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
 
@@ -240,7 +191,6 @@ https://www.cosmicpython.com/
 
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
-https://github.com/isidentical/pepgrave
 
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
@@ -248,12 +198,16 @@ https://snarky.ca/why-you-should-use-python-m-pip/
 python -m pip install X
 https://twitter.com/mariatta/status/1217494274469548032
 
+Python Docs Theme
 https://twitter.com/mariatta/status/1217180209176166400
 https://github.com/python/python-docs-theme/commits/master
 
+PyPI Quick Start Guide
 https://github.com/pypa/packaging.python.org/issues/688
 https://twitter.com/mariatta/status/1218232806163107841
+https://twitter.com/brettsky/status/1218293642877534209
 
+Python 3.7 Development Mode
 https://github.com/sphinx-doc/sphinx/issues/7024
 https://twitter.com/VictorStinner/status/1217790390201475078
 
@@ -274,12 +228,6 @@ https://www.youtube.com/watch?v=iLVNWfPWAC8
 
 https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
 
-What is a Coroutine Anyway?
-https://www.youtube.com/watch?v=GSiZkP7cI80
-https://github.com/jreese/pycon
-
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
-
 A Bit About Bytes
 https://www.youtube.com/watch?v=cSSpnq362Bk
 https://docs.python.org/3/library/dis.html
@@ -287,6 +235,11 @@ https://github.com/python/cpython/blob/master/Python/ceval.c
 
 Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
 https://www.youtube.com/watch?v=XhWvz4dK4ng
+
+What is a Coroutine Anyway?
+https://www.youtube.com/watch?v=GSiZkP7cI80
+https://github.com/jreese/pycon
+
 
 Best Practices
 Python on Windows is Okay, Actually
@@ -304,8 +257,6 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 https://realpython.com/installing-python/
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 https://github.com/pypa/pipenv/issues/2482
-
-https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
 
 https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
 
@@ -439,14 +390,6 @@ https://www.youtube.com/watch?v=klaGx9Q_SOA
 https://snarky.ca/my-experience-creating-caniusepython3/
 https://pypi.org/project/caniusepython3/
 
-Not sure
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-https://python-future.org/quickstart.html | Quick-start guide — Python-Future documentation
-http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
-https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
-https://pypi.org/project/modernize/ | modernize · PyPI
-
 https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
 
 Dropping Support
@@ -472,6 +415,46 @@ Mailing List and Permissions History
 * [Developer Log](https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst)
 * [Core Developer Motivations and Affiliations](https://docs.python.org/devguide/motivations.html)
 * [Core Developer Office Hours](https://devguide.python.org/help/#office-hour)
+
+<!--
+https://devguide.python.org/#contributing
+https://devguide.python.org/motivations/#motivations
+https://devguide.python.org/experts/#experts
+https://devguide.python.org/committing/
+
+https://www.python.org/doc/versions/
+https://github.com/python/cpython/tree/master/Misc/NEWS.d
+https://github.com/python/cpython/commits/master
+https://docs.python.org/3/reference/grammar.html
+
+
+Packaging Summit
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
+https://mobile.twitter.com/pradyunsg/status/1224789432504475649
+
+Language Summit
+https://twitter.com/pganssle/status/1224378970340233216
+
+
+https://github.com/orgs/pytest-dev/people
+https://github.com/orgs/pypa/people
+https://github.com/orgs/python/people
+https://github.com/orgs/tox-dev/people
+https://github.com/orgs/pre-commit/people
+https://github.com/python/cpython/graphs/contributors
+
+https://www.encode.io/projects/
+
+
+Moshe
+https://cobordism.com/
+https://github.com/moshez/big-bad-loop
+https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228\
+https://2019.northbaypython.org/schedule/presentation/10/
+
+https://paper.dropbox.com/doc/Contributing-to-CPython-JlgnduI6kw9MJIaGPpN9G
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+-->
 
 ## Python Contributing Info and Docs
 
