@@ -1,6 +1,13 @@
 # Python and Django- Contributing
 
 <!--
+Packaging Summit
+https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
+https://mobile.twitter.com/pradyunsg/status/1224789432504475649
+
+Language Summit
+https://twitter.com/pganssle/status/1224378970340233216
+
 https://us.pycon.org/2020/schedule/talks/
 
 List of Engineering Blogs
@@ -35,46 +42,19 @@ https://realpython.com/courses/running-python-scripts/
 
 https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
 
-Feature Toggles
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
-
-https://devchecklists.com/python-api-checklist/
-https://devchecklists.com/django-apps-checklist/
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
 What is a Coroutine Anyway?
 https://www.youtube.com/watch?v=GSiZkP7cI80
 https://github.com/jreese/pycon
 
 hugs.python.org
 
+EPython
+https://openteams.com/projects/epython
+https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
+https://twitter.com/teoliphant/status/1217611221396082695
 
-Encode Typesystem
-https://twitter.com/webology/status/1227286423109279744
-
-https://github.com/urllib3/urllib3
-
-Poetry
-https://mobile.twitter.com/hynek/status/1226240842429616135
-
-Channels
-https://mobile.twitter.com/carltongibson/status/1207397901250564096
-
-Choices
-https://mobile.twitter.com/jacobian/status/1180524826068430848
-
-Choices
-https://mobile.twitter.com/webology/status/1195163668440334337
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-
+Radix
+https://twitter.com/hynek/status/1189883958294654978
 
 https://github.com/adamchainz
 https://github.com/pablogsal?tab=following
@@ -255,15 +235,6 @@ Django People- Historical
 
 <!--
 https://people.djangoproject.com
--->
-
-<!--
-Packaging Summit
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
-https://mobile.twitter.com/pradyunsg/status/1224789432504475649
-
-Language Summit
-https://twitter.com/pganssle/status/1224378970340233216
 
 Includes issues links
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
@@ -277,6 +248,33 @@ https://github.com/python/cpython/graphs/contributors
 
 https://www.encode.io/projects/
 
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+-->
+
+
+<!--
+https://github.com/urllib3/urllib3
+
+Poetry
+https://mobile.twitter.com/hynek/status/1226240842429616135
+
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+
+Channels
+https://mobile.twitter.com/carltongibson/status/1207397901250564096
+
+Choices
+https://mobile.twitter.com/jacobian/status/1180524826068430848
+
+Choices
+https://mobile.twitter.com/webology/status/1195163668440334337
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
+
 virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
 https://twitter.com/gjbernat/status/1226803593535279104
 https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
@@ -286,14 +284,6 @@ PyTest
 https://twitter.com/codewithanthony/status/1195477147537657856
 https://twitter.com/nicoddemus/status/1195088740118618112
 https://twitter.com/blueyed/status/1222578734676484096
-
-EPython
-https://openteams.com/projects/epython
-https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
-https://twitter.com/teoliphant/status/1217611221396082695
-
-Radix
-https://twitter.com/hynek/status/1189883958294654978
 -->
 
 ## CPython Experts, Mailing Lists, Core Developer Info, Permissions
