@@ -24,10 +24,8 @@ https://realpython.com/installing-python/
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 https://github.com/pypa/pipenv/issues/2482
 
-https://snarky.ca/why-you-should-use-python-m-pip/
-python -m pip install X
-https://twitter.com/mariatta/status/1217494274469548032
-https://twitter.com/mariatta/status/1189243515739561985
+https://realpython.com/python-continuous-integration/
+https://realpython.com/courses/running-python-scripts/
 
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
@@ -36,11 +34,6 @@ https://www.python.org/dev/peps/pep-0594/
 
 https://twitter.com/rauchg/status/1217993541730725894
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
-
-https://realpython.com/python-continuous-integration/
-https://realpython.com/courses/running-python-scripts/
-
-https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
 
 What is a Coroutine Anyway?
 https://www.youtube.com/watch?v=GSiZkP7cI80
