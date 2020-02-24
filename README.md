@@ -250,6 +250,12 @@ https://www.encode.io/projects/
 
 Encode Typesystem
 https://twitter.com/webology/status/1227286423109279744
+
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+https://discuss.encode.io/ | Encode
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
 -->
 
 ## High Performance Python and Django and Trends
@@ -819,12 +825,6 @@ Upgrading and Choices
 * [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
 
 <!--
-https://www.encode.io/reports/july-2019/ | Encode
-http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
-https://discuss.encode.io/ | Encode
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-
 Django 1.4
 https://twitter.com/hynek/status/1189556183515963392
 
