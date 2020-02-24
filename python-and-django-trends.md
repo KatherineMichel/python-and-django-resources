@@ -1,27 +1,4 @@
-# Python and Django High Performance, and Trends
-
-## High Performance Python and Django and Trends
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-<!--
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-
-https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
--->
-
-## Trends
+# Python and Django Trends
 
 <!--
 https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
@@ -33,7 +10,7 @@ https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitt
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 -->
 
-### Python on Other Platforms
+## Python on Other Platforms
 
 Python Rust/WebAssembly
 * [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
@@ -88,7 +65,7 @@ https://twitter.com/wasmerio/status/1146477876151115776 | Wasmer on Twitter: "�
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 -->
 
-### Python Gilectomy and Multi-Core
+## Python Gilectomy and Multi-Core
 
 * [Gilectomy](https://github.com/larryhastings/gilectomy/)
 
@@ -117,7 +94,7 @@ https://lwn.net/Articles/754577/
 https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d | Has the Python GIL been slain? – Hacker Noon
 -->
 
-### WSGI
+## WSGI
 
 Common Gateway Interface and WSGI (Web Server API)
 * [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
@@ -137,7 +114,7 @@ Benchmarks and Specifications
 https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
 -->
 
-### Python Sync and Async Tools
+## Python Sync and Async Tools
 
 <!--
 https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/ | How the heck does async/await work in Python 3.5?
@@ -208,7 +185,7 @@ https://github.com/timofurrer/awesome-asyncio | timofurrer/awesome-asyncio: A cu
 https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | General concepts: concurrency, parallelism, threads and processes — Real-time apps with gevent-socketio 0.1.0 documentation
 -->
 
-### Django Sync and Async Tools
+## Django Sync and Async Tools
 
 Async DEP
 * [DEP 0009: Async-Capable Django](https://github.com/django/deps/blob/master/accepted/0009-async.rst)
@@ -366,7 +343,7 @@ https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/sa
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
-### Static Typing
+## Static Typing
 
 Duck Typing
 * [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
@@ -418,7 +395,7 @@ https://github.com/encode/typesystem | encode/typesystem: A type system library 
 http://mypy.readthedocs.io
 -->
 
-### Data Classes
+## Data Classes
 
 Data Classes
 * [PEP 557- Data Classes](https://www.python.org/dev/peps/pep-0557)
@@ -431,14 +408,14 @@ https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Inde
 https://realpython.com/python-data-classes/
 -->
 
-### F-Strings
+## F-Strings
 
 <!--
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
 
-### Python Walrus Operator
+## Python Walrus Operator
 
 <!--
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
