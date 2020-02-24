@@ -252,38 +252,25 @@ Encode Typesystem
 https://twitter.com/webology/status/1227286423109279744
 -->
 
+## High Performance Python and Django and Trends
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
 
 <!--
-https://github.com/urllib3/urllib3
+Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
 
-Poetry
-https://mobile.twitter.com/hynek/status/1226240842429616135
+https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
 
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
 
-Channels
-https://mobile.twitter.com/carltongibson/status/1207397901250564096
-
-Choices
-https://mobile.twitter.com/jacobian/status/1180524826068430848
-
-Choices
-https://mobile.twitter.com/webology/status/1195163668440334337
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-
-virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://github.com/pyenv/pyenv-update
-
-PyTest
-https://twitter.com/codewithanthony/status/1195477147537657856
-https://twitter.com/nicoddemus/status/1195088740118618112
-https://twitter.com/blueyed/status/1222578734676484096
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 -->
 
 ## CPython Experts, Mailing Lists, Core Developer Info, Permissions
