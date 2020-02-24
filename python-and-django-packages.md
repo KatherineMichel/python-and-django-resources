@@ -107,6 +107,9 @@ http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInst
 
 <!--
 https://snarky.ca/why-you-should-use-python-m-pip/
+python -m pip install X
+https://twitter.com/mariatta/status/1217494274469548032
+https://twitter.com/mariatta/status/1189243515739561985
 
 https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
 https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
