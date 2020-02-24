@@ -71,6 +71,9 @@ Others
 * [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
+Poetry
+https://mobile.twitter.com/hynek/status/1226240842429616135
+
 pip grant
 https://mobile.twitter.com/di_codes/status/1193980331004743680
 https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
