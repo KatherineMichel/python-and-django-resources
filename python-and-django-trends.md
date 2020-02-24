@@ -250,6 +250,9 @@ Django Channels (Built on ASGI)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+Channels
+https://mobile.twitter.com/carltongibson/status/1207397901250564096
+
 https://github.com/django/channels/releases/tag/2.0.0
 https://github.com/django/channels/releases/tag/1.0.0
 https://github.com/django/channels/releases/tag/0.1
