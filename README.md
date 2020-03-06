@@ -1,6 +1,25 @@
 # Python and Django- Contributing
 
 <!--
+Conferences
+https://www.youtube.com/watch?v=J-B_kthDhCU | Ewa Jodlowska: Our stories - Keynote - YouTube
+
+PSF Board Elections
+https://twitter.com/marlene_zw/status/1127330663428845569 | Marlene Mhangami on Twitter: "This is a super helpful thread for anyone interested in the PSF board elections. I’m up for re-election this year! Happy to answer any questions or help anyone with the process of nomination etc. 😊… https://t.co/rC8Fv61OFm"
+
+Mariatta
+https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
+
+Fellows
+https://pyfound.blogspot.com/2019/11/python-software-foundation-fellow.html | Python Software Foundation News: Python Software Foundation Fellow Members for Q3 2019
+
+Steering Council
+https://discuss.python.org/t/steering-council-nomination-pablo-galindo-salgado-2020-term/2667 | Steering Council Nomination: Pablo Galindo Salgado (2020 Term) - Users / Steering Council Nominations - Discussions on Python.org
+
+Guido
+https://www.cwi.nl/about/history/dijkstra-fellowships | Dijkstra Fellowships — CWI Amsterdam
+
+
 Packaging Summit
 https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
 https://mobile.twitter.com/pradyunsg/status/1224789432504475649
