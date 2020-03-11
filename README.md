@@ -579,6 +579,7 @@ https://twitter.com/ncoghlan_dev/status/1164868943493791744 | Nick Coghlan on Tw
 http://devdocs.io/python~3.6/ | DevDocs — Python 3.6 documentation
 
 https://github.com/pyladies/pyladies-maintainers | pyladies/pyladies-maintainers: PyLadies resources for open source project maintainers, core developers (including CPython), and aspiring project maintainers and core developers.
+https://github.com/pyladies/pyladies-maintainers/tree/master/cpython | pyladies-maintainers/cpython at master · pyladies/pyladies-maintainers
 
 https://pythondev.readthedocs.io/internals.html
 
