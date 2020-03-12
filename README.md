@@ -1,6 +1,55 @@
 # Python and Django- Contributing
 
 <!--
+Tools Release
+https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
+https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
+https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+
+Newsletter and Store
+https://twitter.com/wsv3000/status/1218661600221192194 | Will Vincent on Twitter: "@AutomationPanda The store was originally configured by @adriennefriend . We'll hopefully add more logos and items over time. Next step will be adding to https://t.co/BfB0L2jxfj once manual testing is 100% done." / Twitter
+
+Python History
+https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-
+scheme-for-its-undergraduate-cs-program/ | Why MIT now uses python instead of scheme for its undergraduate CS program – cemerick
+https://twitter.com/gvanrossum/status/1203902579156996097 | Guido van Rossum on Twitter: "This is amazing. I never thought my baby would have been used for such an important project! (Scanning of Rembrandt's Night Watch.) https://t.co/qmzIxrUtKG" / Twitter
+https://twitter.com/llanga/status/1203813766665834498 | Łukasz Langa on Twitter: "@erdmann @ProjectJupyter Oh man. How about those: 1. What's the Big Red Button for? 2. Anything new you learned today in particular? 3. Is any of your code or data open? 4. What Python version? 5. Any requests for asyncio? The Internet is unbelievable. It's fantastic to meet you. Keep up the good work!" / Twitter
+
+Python versions
+https://twitter.com/llanga/status/1232477893210435584 | Łukasz Langa on Twitter: "Python 3.8.2 and 3.9.0a4 are now available. They are quite literally the best Python versions we've ever seen. Go get 'em while they are hot. The one you want in production: https://t.co/Ji0gDx9ZVe And the bleeding edge: https://t.co/rDS29XfbJ9 #python #kangaroo #encyclopaedia" / Twitter
+https://twitter.com/llanga/status/1229843838715473920 | Łukasz Langa on Twitter: "#Python 3.8.2rc2 released! It includes a revert for a change to urlparse() that was mistakenly backported to 3.8.1 and caused a fair amount of trouble for third party libraries. If you have a minute, download it and pip install a bunch of your favorites: https://t.co/fwQbmsqCgx https://t.co/pIZingcLw5" / Twitter
+https://twitter.com/llanga/status/1227231833844264960 | Łukasz Langa on Twitter: "#Python 3.8.2rc1 is now available for testing: https://t.co/r37AiqX7Iv Give it a spin before its gold release next week, will ya? I promise it's better than being stabbed by a nurse." / Twitter
+
+https://docs.python.org/dev/whatsnew/3.9.html
+
+https://2020.pycascades.com/talks/cpython-internals-whos-afraid-of-the-big-bad-loop/ | CPython Internals: Who's Afraid of the Big Bad Loop? — PyCascades 2020 – Portland, Oregon
+https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228%5C | PyCascades 2020: Day 2 - YouTube
+
+Async
+https://twitter.com/webKnjaZ/status/1231116234659373061 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: ".@andrewgodwin: the timeline of how async appeared in #Python #PyConBY https://t.co/gqsdHJwRCd" / Twitter
+https://twitter.com/_tomchristie/status/1003631550808887297 | Tom Christie on Twitter: "Really impressed and excited by @andrewgodwin proposal for an iterative approach to adding async support to Django. I think this is super-important for Django's long-term prospects, and if it's going to ever happen then this'd be the right tack for getting there.… https://t.co/DiILuVpbXZ"
+https://twitter.com/ChatDjango/status/1217506839744651264 | Django Chat Podcast on Twitter: "Ep46 - Django's Async Future with @_tomchristie is now live! Tom is the creator of Django REST Framework, HTTPX, and a whole suite of new async Python web stack packages. https://t.co/f93I2V9BsJ" / Twitter
+
+https://twitter.com/_tomchristie/status/1230538726310322177 | Tom Christie on Twitter: "@andrewgodwin We'll probably *also* end up with some CBVs in Starlette that look super-similar to Channels implementations, tho it's nice to be able to demo the API at the plain-old function level to show what's going on." / Twitter
+https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
+
+http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html | Traps for the Unwary in Python’s Import System — Nick Coghlan's Python Notes 1.0 documentation
+http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html | Efficiently Exploiting Multiple Cores with Python — Nick Coghlan's Python Notes 1.0 documentation
+
+Important!
+https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
+
+https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
+https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
+
+https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
+https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
+
+Rackspace
+https://mobile.twitter.com/kantrn/status/1225863584569102338
+
 Conferences
 https://www.youtube.com/watch?v=J-B_kthDhCU | Ewa Jodlowska: Our stories - Keynote - YouTube
 
