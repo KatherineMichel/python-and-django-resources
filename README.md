@@ -1,6 +1,31 @@
 # Python and Django- Contributing
 
 <!--
+https://en.wikipedia.org/wiki/Branch_predictor | Branch predictor - Wikipedia
+
+Armin- Core
+https://lucumr.pocoo.org/2020/1/1/async-pressure/ | I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings
+
+Docs
+https://realpython.com/lessons/python-project-documentation-overview/ | Python Project Documentation Overview – Real Python
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/ | Documenting Python Projects With Sphinx and Read The Docs – Real Python
+
+https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
+https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
+
+https://pythonspeed.com/ | Ship better Python software, faster
+
+https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
+
+Python 3 Post Mortem
+https://twitter.com/gvanrossum/status/1219033102078492673 | Guido van Rossum on Twitter: "@jezdez That sounds ominous..." / Twitter
+
+DSF
+https://twitter.com/webology/status/1230232028978798592 | ✨ Jeff Triplett ✨ on Twitter: "🎧 Interesting insights into the @djangoproject's Foundation side. https://t.co/Ngsb2sMxkz" / Twitter
+
+https://cpython-core-tutorial.readthedocs.io/en/latest/ | Welcome to Tutorial to contribute to the CPython project’s documentation! — Tutorial to contribute to the CPython project 0.0 documentation
+
 Tools Release
 https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
 https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
@@ -44,6 +69,7 @@ https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍
 https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
 https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
 
+https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
 https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
 https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
 
