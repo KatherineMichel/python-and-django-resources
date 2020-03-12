@@ -1,6 +1,71 @@
 # Python and Django- Contributing
 
 <!--
+https://github.com/ohmyzsh/ohmyzsh | ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+Python Rec
+https://twitter.com/jakevdp/status/1232552739864924160 | Jake VanderPlas on Twitter: "For Python package maintainers considering which Python versions to support going forward, check out the recommendations from the Numpy community in NEP 29: https://t.co/AjEjsrkd5j https://t.co/I9aI2KAyxV" / Twitter
+https://numpy.org/neps/nep-0029-deprecation_policy.html | NEP 29 — Recommend Python and Numpy version support as a community policy standard — NumPy Enhancement Proposals
+
+https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
+https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
+
+OS 
+https://twitter.com/jezdez/status/1230635375497969672 | Jannis Leidel on Twitter: "@joshsimmons @vmbrasseur @jazzbandco Yeah, it's been on the slow burner for long, but it's still growing, just passed 600 members and have 43 projects. Need to figure out how to keep it sustainable (read: useful in the long-term). Right now mostly trying to decide which chunk to bite off first." / Twitter
+
+Pip problem
+https://github.com/pypa/pip/issues/7531#issuecomment-576686251 | Release 20.0 · Issue #7531 · pypa/pip
+
+Podcast
+https://twitter.com/di_codes/status/1202697746446245888 | Dustin Ingram on Twitter: "Wow, I have definitely been underestimating the podcast audience. I just discovered that this one interview I did for the @GCPPodcast is one of the most downloaded episodes in the past year. What Python topics would you want to hear about in 2020? https://t.co/3iYXBFcvDG" / Twitter
+
+Scam
+https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
+
+Al Sweigart Book
+https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
+
+Exercises
+https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
+
+Paul
+https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
+
+Ubuntu
+https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
+
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+
+Computer Architecture
+https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1217933709577342976
+https://www.twitch.tv/nnjaio
+
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+https://www.pythonmorsels.com/resources/
+https://twitter.com/filiplajszczak/status/1228800450515869703
+https://twitter.com/PurpleDiane88/status/1227365692380340224
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
+
 https://en.wikipedia.org/wiki/Branch_predictor | Branch predictor - Wikipedia
 
 Armin- Core
