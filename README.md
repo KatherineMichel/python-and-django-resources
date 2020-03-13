@@ -20,6 +20,7 @@ https://pythonspeed.com/ | Ship better Python software, faster
 https://knasmueller.net/measure-code-execution-time-accurately-in-python
 
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+https://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886
 
 Rust
 https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
@@ -29,6 +30,9 @@ https://cpython-core-tutorial.readthedocs.io/en/latest/ | Welcome to Tutorial to
 https://2020.pycascades.com/talks/cpython-internals-whos-afraid-of-the-big-bad-loop/ | CPython Internals: Who's Afraid of the Big Bad Loop? — PyCascades 2020 – Portland, Oregon
 https://www.youtube.com/watch?v=2WdjlznbD0o&feature=youtu.be&t=9228%5C | PyCascades 2020: Day 2 - YouTube
 
+https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
+
+https://clang.llvm.org/ | Clang C Language Family Frontend for LLVM
 https://clang.llvm.org/comparison.html
 https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
 
@@ -36,6 +40,9 @@ https://en.wikipedia.org/wiki/Branch_predictor | Branch predictor - Wikipedia
 
 Ubuntu
 https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
+
+https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
+https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
 
 Computer Architecture
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
@@ -58,13 +65,16 @@ https://techyaks.com/python-year-tytop.html
 
 https://automatetheboringstuff.com/
 
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://twitter.com/__mharrison__/status/1217626019038760960
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 
 https://www.pythonmorsels.com/resources/
 https://twitter.com/filiplajszczak/status/1228800450515869703
 https://twitter.com/PurpleDiane88/status/1227365692380340224
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
 
 Good Print, hello debugger, DjangoCon
 https://twitter.com/nnja/status/1217933709577342976
