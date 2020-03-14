@@ -1,6 +1,14 @@
 # Python and Django- Contributing
 
 <!--
+Anthony Shaw
+https://twitter.com/anthonypjshaw
+https://github.com/tonybaloney/
+https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
+https://twitter.com/anthonypjshaw/status/1225985709409890304
+https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
+
+
 Case Study
 https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 
@@ -230,6 +238,7 @@ https://twitter.com/hynek/status/1189883958294654978
 
 Paul
 https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
+https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
 
 Scam
 https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
