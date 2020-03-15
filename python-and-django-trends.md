@@ -1,6 +1,33 @@
 # Python and Django Trends
 
 <!--
+Interesting
+https://twitter.com/pwang/status/1236422154079567877
+
+Rust
+https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+
+EPython
+https://openteams.com/projects/epython
+https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
+https://twitter.com/teoliphant/status/1217611221396082695
+
+https://twitter.com/rauchg/status/1217993541730725894
+https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
+
+What is a Coroutine Anyway?
+https://www.youtube.com/watch?v=GSiZkP7cI80
+https://github.com/jreese/pycon
+
+https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
+
+https://lucumr.pocoo.org/2020/1/1/async-pressure/ | I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings
+
+Async
+https://twitter.com/webKnjaZ/status/1231116234659373061 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: ".@andrewgodwin: the timeline of how async appeared in #Python #PyConBY https://t.co/gqsdHJwRCd" / Twitter
+https://twitter.com/_tomchristie/status/1003631550808887297 | Tom Christie on Twitter: "Really impressed and excited by @andrewgodwin proposal for an iterative approach to adding async support to Django. I think this is super-important for Django's long-term prospects, and if it's going to ever happen then this'd be the right tack for getting there.… https://t.co/DiILuVpbXZ"
+https://twitter.com/ChatDjango/status/1217506839744651264 | Django Chat Podcast on Twitter: "Ep46 - Django's Async Future with @_tomchristie is now live! Tom is the creator of Django REST Framework, HTTPX, and a whole suite of new async Python web stack packages. https://t.co/f93I2V9BsJ" / Twitter
+
 https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
 
 Glyph and Amber
@@ -22,7 +49,6 @@ Python Rust/WebAssembly
 * [PyOxidizer GitHub](https://github.com/indygreg/PyOxidizer)
 
 <!--
-https://github.com/rust-lang/wg-governance
 https://words.steveklabnik.com/a-sad-day-for-rust
 https://github.com/fafhrd91/actix-web
 
