@@ -11,6 +11,8 @@ https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-2002
 https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
 https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
 
+https://github.com/pypa/gh-action-pypi-publish/issues/2 | Add a usage guide to packaging.python.org · Issue #2 · pypa/gh-action-pypi-publish
+
 Epic Python packaging thread
 https://twitter.com/zooba/status/1236440987054063616
 
