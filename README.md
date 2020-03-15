@@ -1,12 +1,59 @@
 # Python and Django- Contributing
 
 <!--
+https://hynek.me/articles/python-github-actions/
+https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
+https://twitter.com/bketelsen/status/1238487322875871232
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+https://twitter.com/hynek/status/1235848177640542214
+
+https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
+New governance model for the Django project
+https://www.djangoproject.com/weblog/2020/mar/12/governance/
+https://twitter.com/andrewgodwin/status/1238135085817184258
+https://twitter.com/JamieXML/status/1238301461026660352
+
+Python 2 versus 3
+https://twitter.com/chriswilcox47/status/1237444424461766658
+
+Django 1.11 EoL
+https://twitter.com/webology/status/1235288399654907904
+https://twitter.com/carltongibson/status/1235222028703199234
+
+https://django-release-cycle.glitch.me/
+https://twitter.com/webology/status/1235628234148110336
+
+PEG
+https://twitter.com/gvanrossum/status/1237020095341182981
+
+Interesting
+https://twitter.com/pwang/status/1236422154079567877
+
+Epic Python packaging thread
+https://twitter.com/zooba/status/1236440987054063616
+
 Anthony Shaw
 https://twitter.com/anthonypjshaw
 https://github.com/tonybaloney/
 https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
 https://twitter.com/anthonypjshaw/status/1225985709409890304
 https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
+
+https://twitter.com/PalletsTeam
+
+PEP 614
+https://twitter.com/pganssle/status/1235656233539026944
+
+urllib3
+https://twitter.com/snyksec/status/1236755073499357185
+
+creosote
+https://twitter.com/dstufft/status/1237511955306500097
+
+Brandon Rhodes
+https://www.youtube.com/watch?v=fYlnfvKVDoM
 
 
 Case Study
@@ -115,6 +162,8 @@ https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Produc
 
 Important!
 https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
+
+https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
 
 https://installpython3.com/
 
