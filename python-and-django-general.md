@@ -14,6 +14,13 @@ Future of Python
 https://twitter.com/glyph/status/1160296725392719872 | glyph on Twitter: "Having invested a substantial amount of my personal brand, expertise, and learning in Python, I often voice concerns about threats to its long-term popularity or ways to make it better for a broader audience." / Twitter
 
 https://twitter.com/holdenweb/status/1130182906113122304 | Twitter
+
+https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-
+scheme-for-its-undergraduate-cs-program/ | Why MIT now uses python instead of scheme for its undergraduate CS program – cemerick
+https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
+
+https://twitter.com/gvanrossum/status/1203902579156996097 | Guido van Rossum on Twitter: "This is amazing. I never thought my baby would have been used for such an important project! (Scanning of Rembrandt's Night Watch.) https://t.co/qmzIxrUtKG" / Twitter
+https://twitter.com/llanga/status/1203813766665834498 | Łukasz Langa on Twitter: "@erdmann @ProjectJupyter Oh man. How about those: 1. What's the Big Red Button for? 2. Anything new you learned today in particular? 3. Is any of your code or data open? 4. What Python version? 5. Any requests for asyncio? The Internet is unbelievable. It's fantastic to meet you. Keep up the good work!" / Twitter
 -->
 
 ## Python and Django History
@@ -49,10 +56,9 @@ Node Certifications
 https://twitter.com/webology/status/1186695236749279233 | 🎃 Jeff O'Lantern 🎃 on Twitter: "👋 Hi #python community. Would this be something you'd like to see for our community? My understanding is that a similar program was brought up 6 or 7 years again, but it was not as well received. Is it worth exploring again?" / Twitter
 
 https://blog.dropbox.com/topics/company/thank-you--guido
+https://www.cwi.nl/about/history/dijkstra-fellowships | Dijkstra Fellowships — CWI Amsterdam
 
 https://www.amazon.com/Guido%20Van%20Rossum/e/B0034OPA4K/ref=la_B0034OPA4K_st?rh=n%3A283155%2Cp_82%3AB0034OPA4K&qid=1505705520&sort=date-desc-rank | Amazon.com: Guido Van Rossum: Books, Biography, Blog, Audiobooks, Kindle
-
-https://www.techrepublic.com/resource-library/whitepapers/python-is-eating-the-world-how-one-developer-s-side-project-became-the-hottest-programming-language-on-the-planet-cover-story-pdf/ | Python is eating the world: How one developer's side project became the hottest programming language on the planet (cover story PDF) - TechRepublic
 
 https://www.artima.com/forums/flat.jsp?forum=106&thread=161207 | Weblogs Forum - Looking for Memories of Python Old-Timers
 
@@ -166,6 +172,11 @@ Trolling
 Python Master/Slave Terminology
 * [PR "Avoid master/slave terminology"](https://github.com/python/cpython/pull/9101)
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
+
+<!--
+Mariatta
+https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
+-->
 
 ## Codes of Conduct and CLA
 
