@@ -41,10 +41,9 @@ https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitte
 https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
 
 Scam
-https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
-
 urllib3
 https://twitter.com/snyksec/status/1236755073499357185
+https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
 
 PEP 614
 https://twitter.com/pganssle/status/1235656233539026944
@@ -580,6 +579,7 @@ http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html | 50
 https://github.com/aosabook/500lines/blob/master/interpreter/code/byterun/pyvm2.py | 500lines/pyvm2.py at master · aosabook/500lines	
 	
 https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman: 9780201100884: Amazon.com: Books
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 Blogs
 https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html | Ned Batchelder: Is Python interpreted or compiled? Yes.
