@@ -76,6 +76,9 @@ https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitt
 https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
 
 https://twitter.com/ncoghlan_dev/status/1130945694800330752 | Nick Coghlan on Twitter: "Related: the dynamic where pip & conda *users* went to war, even when the devs for both tools were pointing out that while they overlapped in some respects, they actually solved different problems at different layers of the software stack.… https://t.co/y8ZVSylOV2"
+
+creosote
+https://twitter.com/dstufft/status/1237511955306500097
 -->
 
 Django History
