@@ -1,5 +1,14 @@
 # CPython and Django Internals
 
+<!--
+https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
+
+Computer Architecture
+https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+
+https://en.wikipedia.org/wiki/Branch_predictor | Branch predictor - Wikipedia
+-->
+
 ## General
 
 Low-Level Programming Language, Machine Code, Assembly Language
