@@ -812,6 +812,8 @@ https://twitter.com/carltongibson/status/1177987774785306624
 this morning at the first day of #DjangoCon sprints. Large group of people sharing knowledge and troubleshooting together. Simplified a process that could be daunting for a lot of people."
 https://twitter.com/KatiMichel/status/1177281890086092805
 
+https://twitter.com/andrewgodwin/status/1240357729174052866
+https://github.com/django/django/commit/fc0fa72ff4cdbf5861a366e31cb8bbacd44da22d
 https://twitter.com/andrewgodwin/status/1158258293141172225 | Andrew Godwin on Twitter: "Lots of good Django progress at the #pyconau sprints so far - async views branch has less than 10 failures, asgiref has had several fixes, and several parts of the community pages are getting cleaned up!" / Twitter
 https://twitter.com/carltongibson/status/1158345931491819520 | Carlton Gibson on Twitter: "From far away, my #pyconau sprints hero is @rixxtr for giving much needed love to https://t.co/tJXlvbdFNW and related projects such as djangopeople. Super stuff! 🏅 https://t.co/regbuogwiU✓&amp;q=+is%3Apr+author%3Arixx+" / Twitter
 
