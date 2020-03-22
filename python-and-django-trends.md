@@ -5,7 +5,9 @@ Interesting
 https://twitter.com/pwang/status/1236422154079567877
 
 Rust
+https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
 https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+https://medium.com/@JoeKreydt/rusts-complexity-problem-a-warning-55c3a6484038
 
 EPython
 https://openteams.com/projects/epython
