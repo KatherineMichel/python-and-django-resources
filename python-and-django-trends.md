@@ -1,45 +1,33 @@
 # Python and Django Trends
 
 <!--
-Interesting
+Python runtime versus OS and distros
 https://twitter.com/pwang/status/1236422154079567877
 
-Rust
-https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
-https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
-https://medium.com/@JoeKreydt/rusts-complexity-problem-a-warning-55c3a6484038
+Kernel Python
+https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
 
 EPython
 https://openteams.com/projects/epython
 https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
 https://twitter.com/teoliphant/status/1217611221396082695
 
-https://twitter.com/rauchg/status/1217993541730725894
-https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
-
 What is a Coroutine Anyway?
 https://www.youtube.com/watch?v=GSiZkP7cI80
 https://github.com/jreese/pycon
 
-https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
-
-https://lucumr.pocoo.org/2020/1/1/async-pressure/ | I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings
-
-Async
-https://twitter.com/webKnjaZ/status/1231116234659373061 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: ".@andrewgodwin: the timeline of how async appeared in #Python #PyConBY https://t.co/gqsdHJwRCd" / Twitter
-https://twitter.com/_tomchristie/status/1003631550808887297 | Tom Christie on Twitter: "Really impressed and excited by @andrewgodwin proposal for an iterative approach to adding async support to Django. I think this is super-important for Django's long-term prospects, and if it's going to ever happen then this'd be the right tack for getting there.… https://t.co/DiILuVpbXZ"
-https://twitter.com/ChatDjango/status/1217506839744651264 | Django Chat Podcast on Twitter: "Ep46 - Django's Async Future with @_tomchristie is now live! Tom is the creator of Django REST Framework, HTTPX, and a whole suite of new async Python web stack packages. https://t.co/f93I2V9BsJ" / Twitter
-
-https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
-
-Glyph and Amber
-https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
-https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
+Static Types
+https://twitter.com/rauchg/status/1217993541730725894
+https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 -->
 
 ## Python on Other Platforms
+
+Rust
+* [Rust](https://www.rust-lang.org/)
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
 
 Python Rust/WebAssembly
 * [Rust-Python GitHub](https://github.com/RustPython/RustPython) and [Rust Python Demo](https://rustpython.github.io/demo)
@@ -51,6 +39,13 @@ Python Rust/WebAssembly
 * [PyOxidizer GitHub](https://github.com/indygreg/PyOxidizer)
 
 <!--
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+
+Rust
+https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine
+https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+https://medium.com/@JoeKreydt/rusts-complexity-problem-a-warning-55c3a6484038
+
 https://words.steveklabnik.com/a-sad-day-for-rust
 https://github.com/fafhrd91/actix-web
 
@@ -215,6 +210,12 @@ https://learn-gevent-socketio.readthedocs.io/en/latest/general_concepts.html | G
 
 ## Django Sync and Async Tools
 
+<!--
+https://lucumr.pocoo.org/2020/1/1/async-pressure/ | I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings
+
+https://twitter.com/webKnjaZ/status/1231116234659373061 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: ".@andrewgodwin: the timeline of how async appeared in #Python #PyConBY https://t.co/gqsdHJwRCd" / Twitter
+-->
+
 Async DEP
 * [DEP 0009: Async-Capable Django](https://github.com/django/deps/blob/master/accepted/0009-async.rst)
 
@@ -271,6 +272,11 @@ https://twitter.com/simonw/status/1151832243242803203 | Simon Willison on Twitte
 Django Async- General
 * [Jacob Kaplan-Moss Tweet](https://twitter.com/jacobian/status/1126557544934182913)
 * [Another Jacob Kaplan-Moss Tweet](https://twitter.com/jacobian/status/1176938038942781440)
+
+<!--
+https://twitter.com/_tomchristie/status/1003631550808887297 | Tom Christie on Twitter: "Really impressed and excited by @andrewgodwin proposal for an iterative approach to adding async support to Django. I think this is super-important for Django's long-term prospects, and if it's going to ever happen then this'd be the right tack for getting there.… https://t.co/DiILuVpbXZ"
+https://twitter.com/ChatDjango/status/1217506839744651264 | Django Chat Podcast on Twitter: "Ep46 - Django's Async Future with @_tomchristie is now live! Tom is the creator of Django REST Framework, HTTPX, and a whole suite of new async Python web stack packages. https://t.co/f93I2V9BsJ" / Twitter
+-->
 
 Django Channels (Built on ASGI)
 * [Channels](https://channels.readthedocs.io) and [Channels GitHub](https://github.com/django/channels)
@@ -446,9 +452,11 @@ https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
 
-## Python Walrus Operator
+## Python Walrus Operator and Assignment Expressions
 
 <!--
+https://twitter.com/emilyemorehouse/status/1184484468532404224 | Emily Morehouse-Valcarcel on Twitter: "Still pinching myself. ☺️ Assignment expressions have LANDED – go upgrade all the things to Python 3.8! https://t.co/xVHwWFapOU" / Twitter
+
 https://www.youtube.com/watch?v=6uAvHOKofws | (1) Dustin Ingram - PEP 572: The Walrus Operator - PyCon 2019 - YouTube
 https://www.youtube.com/watch?v=mHOgGuALfNc | PEP 572: The Walrus Operator (Dustin Ingram) - YouTube
 https://dustingram.com/talks/2019/04/04/the-walrus-operator/ | PEP 572: The Walrus Operator - Dustin Ingram
