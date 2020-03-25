@@ -1,29 +1,6 @@
 # Python and Django- Contributing
 
 <!--
-https://status.python.org
-
-https://docs.python.org/dev/whatsnew/3.9.html
-
-Ubuntu
-https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
-
-https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
-https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
-
-https://github.com/pypa/gh-action-pypi-publish/issues/2 | Add a usage guide to packaging.python.org · Issue #2 · pypa/gh-action-pypi-publish
-
-Epic Python packaging thread
-https://twitter.com/zooba/status/1236440987054063616
-
-Requirements pinning
-https://twitter.com/webology/status/1238674042338652161
-
-Pip problem
-https://github.com/pypa/pip/issues/7531#issuecomment-576686251 | Release 20.0 · Issue #7531 · pypa/pip
-
-https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
-
 Packaging Summit
 https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
 https://mobile.twitter.com/pradyunsg/status/1224789432504475649
@@ -31,30 +8,30 @@ https://mobile.twitter.com/pradyunsg/status/1224789432504475649
 Language Summit
 https://twitter.com/pganssle/status/1224378970340233216
 
+https://status.python.org
+
+https://docs.python.org/dev/whatsnew/3.9.html
+
+Ubuntu
+https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
+
+Fedora
+https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
+https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
+
 Python Rec
 https://twitter.com/jakevdp/status/1232552739864924160 | Jake VanderPlas on Twitter: "For Python package maintainers considering which Python versions to support going forward, check out the recommendations from the Numpy community in NEP 29: https://t.co/AjEjsrkd5j https://t.co/I9aI2KAyxV" / Twitter
 https://numpy.org/neps/nep-0029-deprecation_policy.html | NEP 29 — Recommend Python and Numpy version support as a community policy standard — NumPy Enhancement Proposals
 
-https://twitter.com/_tomchristie/status/1230538726310322177 | Tom Christie on Twitter: "@andrewgodwin We'll probably *also* end up with some CBVs in Starlette that look super-similar to Channels implementations, tho it's nice to be able to demo the API at the plain-old function level to show what's going on." / Twitter
-https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
-
 Paul
 https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
 https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
-
-Scam
-urllib3
-https://twitter.com/snyksec/status/1236755073499357185
-https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
 
 PEP 614
 https://twitter.com/pganssle/status/1235656233539026944
 
 https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-library/1704
 https://www.python.org/dev/peps/pep-0594/
-
-http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
-http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
 
 hugs.python.org
 -->
