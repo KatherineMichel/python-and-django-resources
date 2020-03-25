@@ -1,40 +1,61 @@
 # Python and Django Packages
 
 <!--
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+https://www.python.org/dev/peps/pep-0394/#recommendation
 
-PEP 517 and 518 in Plain English
-https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
-https://www.python.org/dev/peps/pep-0517/
-https://www.python.org/dev/peps/pep-0518/
+Epic Python packaging thread
+https://twitter.com/zooba/status/1236440987054063616
+
+Requirements pinning
+https://twitter.com/webology/status/1238674042338652161
+
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://hynek.me/articles/testing-packaging/
+
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+
+https://snarky.ca/why-you-should-use-python-m-pip/
+python -m pip install X
+https://twitter.com/mariatta/status/1217494274469548032
+https://twitter.com/mariatta/status/1189243515739561985
+
 
 PyPI Quick Start Guide
 https://github.com/pypa/packaging.python.org/issues/688
 https://twitter.com/mariatta/status/1218232806163107841
 https://twitter.com/brettsky/status/1218293642877534209
+https://github.com/pypa/gh-action-pypi-publish/issues/2 | Add a usage guide to packaging.python.org · Issue #2 · pypa/gh-action-pypi-publish
 
-https://twitter.com/brettsky/status/1216051044095946752
-https://twitter.com/VictorStinner/status/1216061972543868929
-https://github.com/vstinner/pyperf/blob/master/setup.py
-
-PyPI
+https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
+PyPI Translations
 https://twitter.com/nlhkabu/status/1176378129012727808
-
-https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
-https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
-https://realpython.com/pypi-publish-python-package/
-https://hynek.me/articles/testing-packaging/
-
-pyproject.toml : the future of Python packaging
-https://testandcode.com/52
 
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
 
 The Packaging Gradient
 https://www.youtube.com/watch?v=iLVNWfPWAC8
 
+Scam
+urllib3
+https://twitter.com/snyksec/status/1236755073499357185
+https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
 
-https://www.python.org/dev/peps/pep-0394/#recommendation
+
+PEP 517 and 518 in Plain English
+https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
+https://www.python.org/dev/peps/pep-0517/
+https://www.python.org/dev/peps/pep-0518/
+
+pyproject.toml : the future of Python packaging
+https://testandcode.com/52
+
+https://twitter.com/brettsky/status/1216051044095946752
+https://twitter.com/VictorStinner/status/1216061972543868929
+https://github.com/vstinner/pyperf/blob/master/setup.py
+
+https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
+https://realpython.com/pypi-publish-python-package/
 
 https://packaging.python.org/tutorials/
 https://packaging.python.org/guides/
@@ -74,11 +95,12 @@ Others
 Poetry
 https://mobile.twitter.com/hynek/status/1226240842429616135
 
+Pip problem
+https://github.com/pypa/pip/issues/7531#issuecomment-576686251 | Release 20.0 · Issue #7531 · pypa/pip
+
 pip grant
 https://mobile.twitter.com/di_codes/status/1193980331004743680
 https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
-
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
 
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 
@@ -106,11 +128,6 @@ http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInst
 ## requirements.txt, setup.py, setup,cfg, pyproject.toml
 
 <!--
-https://snarky.ca/why-you-should-use-python-m-pip/
-python -m pip install X
-https://twitter.com/mariatta/status/1217494274469548032
-https://twitter.com/mariatta/status/1189243515739561985
-
 https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
 https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
 
