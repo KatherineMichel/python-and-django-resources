@@ -6,20 +6,6 @@ https://www.python.org/dev/peps/pep-0394/#recommendation
 Epic Python packaging thread
 https://twitter.com/zooba/status/1236440987054063616
 
-Requirements pinning
-https://twitter.com/webology/status/1238674042338652161
-
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
-https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
-https://hynek.me/articles/testing-packaging/
-
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
-
-https://snarky.ca/why-you-should-use-python-m-pip/
-python -m pip install X
-https://twitter.com/mariatta/status/1217494274469548032
-https://twitter.com/mariatta/status/1189243515739561985
-
 
 PyPI Quick Start Guide
 https://github.com/pypa/packaging.python.org/issues/688
@@ -42,14 +28,6 @@ https://twitter.com/snyksec/status/1236755073499357185
 https://twitter.com/webology/status/1202238650416807936 | ❄☃ Jeff Triplett 🎄 on Twitter: "🚨 PSA: Python friends, please doublecheck if you accidentally have "python3-dateutil" (THREE) and/or "jeIlyfish" installed. They attempt to steal your GPG and SSH keys. https://t.co/OcfL165pXA" / Twitter
 
 
-PEP 517 and 518 in Plain English
-https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
-https://www.python.org/dev/peps/pep-0517/
-https://www.python.org/dev/peps/pep-0518/
-
-pyproject.toml : the future of Python packaging
-https://testandcode.com/52
-
 https://twitter.com/brettsky/status/1216051044095946752
 https://twitter.com/VictorStinner/status/1216061972543868929
 https://github.com/vstinner/pyperf/blob/master/setup.py
@@ -65,12 +43,16 @@ https://pypi.org/project/setuptools/
 https://packaging.python.org/guides/distributing-packages-using-setuptools/
 https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
 https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
+
 https://packaging.python.org/tutorials/installing-packages/
 https://packaging.python.org/glossary/#term-version-specifier
 
 https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
 https://pip.pypa.io/en/latest/user_guide/#requirements-files
 https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
+
+Requirements pinning
+https://twitter.com/webology/status/1238674042338652161
 
 https://packaging.python.org/glossary/#term-requirement-specifier
 https://www.python.org/dev/peps/pep-0440/
@@ -79,6 +61,38 @@ https://www.python.org/dev/peps/pep-0440/#version-specifiers
 https://packaging.python.org/key_projects/#setuptools
 https://packaging.python.org/key_projects/#distutils
 https://pythonwheels.com/
+
+https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
+https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
+-->
+
+## requirements.txt, setup.py, setup,cfg, pyproject.toml
+
+<!--
+PEP 517 and 518 in Plain English
+https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
+https://www.python.org/dev/peps/pep-0517/
+https://www.python.org/dev/peps/pep-0518/
+
+pyproject.toml : the future of Python packaging
+https://testandcode.com/52
+
+Options
+The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
+https://github.com/pypa/pipfile/issues/27
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/#requirements-files
+https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
+https://github.com/pypa/pipfile
+https://github.com/pypa/pipfile#the-concept
+
+pyproject.toml
+https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
+https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
+https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
+https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
+https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
+https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
 -->
 
 ## Python and Django Dependency Management
@@ -111,6 +125,7 @@ https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plug
 https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 
 https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
+https://twitter.com/ordanisanchez/status/1242953101969104896
 
 https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
 http://www.kennethreitz.org/essays/a-better-pip-workflow
@@ -123,30 +138,6 @@ https://black.readthedocs.io/en/stable/pyproject_toml.html
 
 https://pyup.io/ | Manage your Python dependencies with pyup.io
 http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
--->
-
-## requirements.txt, setup.py, setup,cfg, pyproject.toml
-
-<!--
-https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
-https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
-
-Options
-The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
-https://github.com/pypa/pipfile/issues/27
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
-https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
-https://github.com/pypa/pipfile
-https://github.com/pypa/pipfile#the-concept
-
-pyproject.toml
-https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
-https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
-https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
-https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
-https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
-https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
 -->
 
 ## Packaging
