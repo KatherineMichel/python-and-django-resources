@@ -23,10 +23,6 @@ Python Rec
 https://twitter.com/jakevdp/status/1232552739864924160 | Jake VanderPlas on Twitter: "For Python package maintainers considering which Python versions to support going forward, check out the recommendations from the Numpy community in NEP 29: https://t.co/AjEjsrkd5j https://t.co/I9aI2KAyxV" / Twitter
 https://numpy.org/neps/nep-0029-deprecation_policy.html | NEP 29 — Recommend Python and Numpy version support as a community policy standard — NumPy Enhancement Proposals
 
-Paul
-https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
-https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
-
 PEP 614
 https://twitter.com/pganssle/status/1235656233539026944
 
@@ -34,6 +30,39 @@ https://discuss.python.org/t/pep-594-removing-dead-batteries-from-the-standard-l
 https://www.python.org/dev/peps/pep-0594/
 
 hugs.python.org
+-->
+
+## Authorities
+
+<!--
+https://blog.ganssle.io/articles/2019/08/test-as-installed.html
+
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+
+https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://hynek.me/articles/testing-packaging/
+https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
+
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+
+Important!
+https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
+
+https://snarky.ca/why-you-should-use-python-m-pip/
+python -m pip install X
+https://twitter.com/mariatta/status/1217494274469548032
+https://twitter.com/mariatta/status/1189243515739561985
+
+http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html | Traps for the Unwary in Python’s Import System — Nick Coghlan's Python Notes 1.0 documentation
+http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html | Efficiently Exploiting Multiple Cores with Python — Nick Coghlan's Python Notes 1.0 documentation
+
+https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
+https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
+
+https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
+https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
+
+https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
 -->
 
 ## News and Releases
