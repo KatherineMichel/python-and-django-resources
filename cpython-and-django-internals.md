@@ -1,6 +1,8 @@
 # CPython and Django Internals
 
 <!--
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+
 https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
 
 Computer Architecture
