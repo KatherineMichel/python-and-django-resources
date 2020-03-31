@@ -1,6 +1,15 @@
 # Python and Django- Contributing
 
 <!--
+pip improvements
+https://twitter.com/ThePyPA/status/1242998150190727169
+
+pip for Python on Windows
+https://twitter.com/simonw/status/1243297680886870017
+
+pip Study
+https://twitter.com/bernardtyers/status/1236039617222230017
+
 Ruby and Rust
 https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
 
@@ -14,6 +23,7 @@ https://twitter.com/pganssle/status/1224378970340233216
 https://status.python.org
 
 https://docs.python.org/dev/whatsnew/3.9.html
+https://www.python.org/downloads/release/python-390a5/
 
 Ubuntu
 https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
