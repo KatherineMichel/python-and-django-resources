@@ -1,11 +1,69 @@
 # Python and Django Packages
 
 <!--
+https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
+
+https://docs.python.org/3/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
+https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
+
+https://pypi.org/project/setuptools/
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 39.2.0 documentation
+
+https://packaging.python.org/tutorials/distributing-packages/#project-urls
+
+https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
+https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
+https://packaging.python.org/key_projects/#wheel | Project Summaries — Python Packaging User Guide
+https://packaging.python.org/key_projects/#distutils
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
+
+https://packaging.python.org/glossary/#term-version-specifier
+
+https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
+https://pip.pypa.io/en/latest/user_guide/#requirements-files
+https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
+
+https://packaging.python.org/glossary/#term-requirement-specifier
+https://www.python.org/dev/peps/pep-0440/
+https://www.python.org/dev/peps/pep-0440/#version-specifiers
+
+Top downloaded wheels
+https://pythonwheels.com/
+
+Wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
+https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
+https://pip.pypa.io/en/stable/reference/pip_wheel
+
+https://pypi.org/classifiers/ | Classifiers · PyPI
+https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
+
+https://pypi.org/project/keyring/ | keyring · PyPI
+
+https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
+https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
+https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
+
+https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
+https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+https://www.python.org/dev/peps/pep-0517/
+
+
 https://www.python.org/dev/peps/pep-0394/#recommendation
 
-Epic Python packaging thread
-https://twitter.com/zooba/status/1236440987054063616
-
+Kenneth
+https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
+https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
 
 PyPI Quick Start Guide
 https://github.com/pypa/packaging.python.org/issues/688
@@ -13,14 +71,7 @@ https://twitter.com/mariatta/status/1218232806163107841
 https://twitter.com/brettsky/status/1218293642877534209
 https://github.com/pypa/gh-action-pypi-publish/issues/2 | Add a usage guide to packaging.python.org · Issue #2 · pypa/gh-action-pypi-publish
 
-https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
-PyPI Translations
-https://twitter.com/nlhkabu/status/1176378129012727808
-
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
-The Packaging Gradient
-https://www.youtube.com/watch?v=iLVNWfPWAC8
 
 Scam
 urllib3
@@ -32,41 +83,58 @@ https://twitter.com/brettsky/status/1216051044095946752
 https://twitter.com/VictorStinner/status/1216061972543868929
 https://github.com/vstinner/pyperf/blob/master/setup.py
 
-https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
-https://realpython.com/pypi-publish-python-package/
-
-https://packaging.python.org/tutorials/
-https://packaging.python.org/guides/
-
-https://pypi.org/project/setuptools/
-
-https://packaging.python.org/guides/distributing-packages-using-setuptools/
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
-
-https://packaging.python.org/tutorials/installing-packages/
-https://packaging.python.org/glossary/#term-version-specifier
-
-https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
-https://pip.pypa.io/en/latest/user_guide/#requirements-files
-https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
-
 Requirements pinning
 https://twitter.com/webology/status/1238674042338652161
-
-https://packaging.python.org/glossary/#term-requirement-specifier
-https://www.python.org/dev/peps/pep-0440/
-https://www.python.org/dev/peps/pep-0440/#version-specifiers
-
-https://packaging.python.org/key_projects/#setuptools
-https://packaging.python.org/key_projects/#distutils
-https://pythonwheels.com/
-
-https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
-https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
 -->
 
-## requirements.txt, setup.py, setup,cfg, pyproject.toml
+
+## Governance
+
+* [PSF Packaging Working Group](https://wiki.python.org/psf/PackagingWG)
+* [PyCon US Packaging Mini-Summit 2019](https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833)
+
+## Packaging- Hosting
+
+Python- Packages/Libraries
+* [Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
+ 
+TestPyPI
+* [TestPyPI](https://test.pypi.org)
+* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
+
+## Packaging- How To
+
+Django
+* [Django: How to write reusable apps](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/).
+
+Python Docs- Packaging
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+Python- Official Packaging Info
+* [Sample Project](https://github.com/pypa/sampleproject)
+* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging Guides](https://packaging.python.org/guides) 
+* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+
+Installing Packages
+
+<!--
+https://packaging.python.org/overview/ | An Overview of Packaging for Python — Python Packaging User Guide
+
+https://packaging.python.org/tutorials/installing-packages/
+https://packaging.python.org/tutorials/distributing-packages/ | Packaging and distributing projects
+-->
+
+## Packaging- Wheel versus Egg
+
+Python- Wheel (versus Egg!)
+* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
+* [Wheel PyPI](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
+* [Python Wheels](http://pythonwheels.com)
+
+## requirements.txt, pipfile, pyproject.toml, setup.py, setup,cfg
 
 <!--
 PEP 517 and 518 in Plain English
@@ -95,6 +163,14 @@ https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way
 https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
 -->
 
+## Virtual Env
+
+<!--
+Virtualenv and Pyenv
+https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+-->
+
 ## Python and Django Dependency Management
 
 pipenv
@@ -106,8 +182,7 @@ Others
 * [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
-Poetry
-https://mobile.twitter.com/hynek/status/1226240842429616135
+https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 
 Pip problem
 https://github.com/pypa/pip/issues/7531#issuecomment-576686251 | Release 20.0 · Issue #7531 · pypa/pip
@@ -116,11 +191,11 @@ pip grant
 https://mobile.twitter.com/di_codes/status/1193980331004743680
 https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
 
-https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-
-Virtualenv and Pyenv
-https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
-https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+pip
+https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
+https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
+https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
+https://pypi.org/project/pip/ | pip · PyPI
 
 https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 
@@ -132,6 +207,9 @@ http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
 https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
 
+Criticism of Poetry
+https://mobile.twitter.com/hynek/status/1226240842429616135
+
 https://github.com/sdispater/poetry
 https://python-poetry.org/docs/pyproject/
 https://black.readthedocs.io/en/stable/pyproject_toml.html
@@ -140,143 +218,28 @@ https://pyup.io/ | Manage your Python dependencies with pyup.io
 http://www.pyinstaller.org/ | Welcome to PyInstaller official website — PyInstaller
 -->
 
-## Packaging
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
-
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
-* [Wheel PyPI](https://pypi.org/project/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
-* [Python Wheels](http://pythonwheels.com)
-
-TestPyPI
-* [TestPyPI](https://test.pypi.org)
-* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
+## Packaging- Tools
 
 Package Helpers
 * [Twine GitHub](https://github.com/pypa/twine) and [Twine PyPi](https://pypi.python.org/pypi/twine)
 * [check-manifest GitHub](https://github.com/mgedmin/check-manifest)
 
-Python- Packages/Libraries
-* [Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
- 
 Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
-<!--
-https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
-
-https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
-
-https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
-
-https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
-https://github.com/gaborbernat/pugs | gaborbernat/pugs: random pug quote provider
-https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
-
-Governance
-https://wiki.python.org/psf/PackagingWG | PackagingWG - PSF Wiki
-https://discuss.python.org/t/pycon-us-packaging-mini-summit-2019/833/44 | PyCon US Packaging Mini-Summit 2019 - Packaging - Discussions on Python.org
-
-Issues
-https://github.com/pypa/warehouse/issues
-https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
-https://github.com/pypa/pypi-support
-
-https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
-
-pip
-https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
-https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
-https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
-https://pypi.org/project/pip/ | pip · PyPI
-
-https://packaging.python.org/overview/ | An Overview of Packaging for Python — Python Packaging User Guide
-https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
-
-https://docs.python.org/3/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
-https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
-https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
-
-https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
-https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
-https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
-https://packaging.python.org/key_projects/#wheel | Project Summaries — Python Packaging User Guide
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 39.2.0 documentation
-
-https://packaging.python.org/tutorials/installing-packages/
-https://packaging.python.org/tutorials/distributing-packages/ | Packaging and distributing projects
-https://packaging.python.org/tutorials/distributing-packages/#project-urls
-
-https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
-https://docs.python-guide.org/shipping/freezing/#freezing-your-code-ref | Freezing Your Code — The Hitchhiker's Guide to Python
-
-https://pypi.org/classifiers/ | Classifiers · PyPI
-https://packaging.python.org/specifications/core-metadata/#description-content-type-optional | Core metadata specifications — Python Packaging User Guide
-
-https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
-https://pypi.org/project/keyring/ | keyring · PyPI
-
-Wheels
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels | Packaging and distributing projects — Python Packaging User Guide
-https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Python Projects — Python Packaging User Guide
-https://pip.pypa.io/en/stable/reference/pip_wheel
-
-https://www.python.org/dev/peps/pep-0566/ | PEP 566 -- Metadata for Python Software Packages 2.1 | Python.org
-https://www.python.org/dev/peps/pep-0496/ | PEP 496 -- Environment Markers | Python.org
-https://www.python.org/dev/peps/pep-0508/#id23 | PEP 508 -- Dependency specification for Python Software Packages | Python.org
-
-https://www.python.org/dev/peps/pep-0427/ | PEP 427 -- The Wheel Binary Package Format 1.0 | Python.org
-https://www.python.org/dev/peps/pep-0438/ | PEP 438 -- Transitioning to release-file hosting on PyPI | Python.org
-https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
-https://www.python.org/dev/peps/pep-0517/
-
-DjangoCon Europe 2017 Vinta
-https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
-https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
-https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
--->
-
-<!--
-https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
-
-https://twitter.com/di_codes/status/1135628015147388928 | Dustin Ingram on Twitter: "Ever wondered what is going on when you `pip install numpy` and it downloads some file with a name like `numpy-1.16.4-cp37-cp37m-manylinux1_x86_64.whl `? This is a built distribution, and @brettsky just published a great explanation of what every part of that filename means.… https://t.co/yJAXS13a2J"
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/ | The challenges in designing a library for PEP 425 (aka wheel tags)
-
-New- Packaging
-https://pydist.com/blog/distributions-vs-releases | PyDist – Blog
-
-https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
--->
-
-PyPi History
-* ["Redesigning the Python Package Index"](http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html)
-* ["A new package index for Python"](https://lwn.net/Articles/751458/)
-* ["Warehouse: All New PyPI is now in beta"](http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html)
+## Opinions, Talks, Examples
 
 Dustin Ingram
 * ["Inside the Cheeseshop: How Python Packaging Works" (PyCon 2018)](https://dustingram.com/talks/2018/10/23/inside-the-cheeseshop)
 * ["PyPI is dead. Long live PyPI!"](https://dustingram.com/articles/2018/04/16/pypi-is-dead-long-live-pypi)
 
 <!--
+DjangoCon Europe 2017 Vinta
+https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
+https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
+https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
+
 Sample project
 https://github.com/crwilcox/my-pypi-package | crwilcox/my-pypi-package: A sample package to publish to pypi that uses circleci for CI and nox for test automation
 https://github.com/crwilcox/my-pypi-package/blob/master/.circleci/config.yml | my-pypi-package/config.yml at master · crwilcox/my-pypi-package
@@ -287,6 +250,22 @@ https://www.youtube.com/watch?v=AQsZsgJ30AE
 https://www.youtube.com/watch?v=EdD6Ifjlle4 | DjangoCon US 2018 - Packaging Django Apps for Distribution on PyPI by Laura Hampton - YouTube
 https://www.youtube.com/watch?time_continue=1&v=QgZ7qv4Cd0Y | How To Publish A Package On PyPI - YouTube
 -->
+
+<!--
+The Packaging Gradient
+https://www.youtube.com/watch?v=iLVNWfPWAC8
+
+https://www.bernat.tech/pep-517-and-python-packaging/ | The state of Python Packaging - package types
+https://github.com/gaborbernat/pugs | gaborbernat/pugs: random pug quote provider
+https://github.com/ipfs/package-managers/issues/56 | Interesting academic papers related to package management · Issue #56 · ipfs/package-managers
+
+Epic Python packaging thread
+https://twitter.com/zooba/status/1236440987054063616
+
+https://twitter.com/di_codes/status/1137014821923241986 | Dustin Ingram on Twitter: "Ask anyone about packaging, and they'll tell you the same thing: "it sucks". Now, I don't think it sucks. I think it's challenging, hard to grasp, complicated, has some rough edges, has a lot of historical baggage. I think it was built by people, and people aren't perfect. 5/16"
+-->
+
+## Tutorials
 
 Tutorials
 * [The Sheer Joy of Packaging! Scipy 2018 Tutorial](https://python-packaging-tutorial.readthedocs.io/en/latest)
@@ -301,6 +280,46 @@ Python- Cookiecutter Creating Packages
 Python- Additional Packaging Tutorials
 * [Digital Ocean Tutorial "How to Package and Distribute Python Applications"](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 * [Free Code Camp "How to publish your own Python Package on PyPi"](https://medium.freecodecamp.org/how-to-publish-a-pyton-package-on-pypi-a89e9522ce24)
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+<!--
+https://realpython.com/pypi-publish-python-package/
+-->
+
+## PyPI History
+
+PyPI History
+* ["Redesigning the Python Package Index"](http://pyfound.blogspot.com/2018/08/redesigning-python-package-index.html)
+* ["A new package index for Python"](https://lwn.net/Articles/751458/)
+* ["Warehouse: All New PyPI is now in beta"](http://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html)
+
+
+<!--
+https://wiki.python.org/moin/CheeseShop | CheeseShop - Python Wiki
+
+https://wiki.python.org/moin/Distutils | Distutils - Python Wiki
+
+Issues
+https://github.com/pypa/warehouse/issues
+https://github.com/pypa/packaging-problems/issues | Issues · pypa/packaging-problems
+https://github.com/pypa/pypi-support
+
+https://github.com/pypa/integration-test | pypa/integration-test: ensure core packaging tools work well with each other
+-->
+
+<!--
+https://twitter.com/ncoghlan_dev/status/1146177537497714688 | Nick Coghlan on Twitter: "You won't settle that debate easily: https://t.co/62cgLT9f1w :)… "
+
+https://twitter.com/di_codes/status/1135628015147388928 | Dustin Ingram on Twitter: "Ever wondered what is going on when you `pip install numpy` and it downloads some file with a name like `numpy-1.16.4-cp37-cp37m-manylinux1_x86_64.whl `? This is a built distribution, and @brettsky just published a great explanation of what every part of that filename means.… https://t.co/yJAXS13a2J"
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/ | The challenges in designing a library for PEP 425 (aka wheel tags)
+
+New- Packaging
+https://pydist.com/blog/distributions-vs-releases | PyDist – Blog
+
+https://docs.travis-ci.com/user/deployment/pypi/ | PyPI deployment - Travis CI
+-->
 
 <!--
 https://twitter.com/pypi_updates2 | PyPI Recent Updates (@pypi_updates2) | Twitter
@@ -334,6 +353,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSczrATlexkR1_gBt727eGnc05FCt-75Mx2usMq1
 https://gist.github.com/nlhkabu/a0b1ae0016a2641f6b79d9ace9110403 | Recruiting User Testers for PyPI
 https://docs.google.com/forms/d/e/1FAIpQLSfABpsRcVYt7RDJEsbL_2CnyH-IKXRCRwaBhCm4sYnNI6yB3A/viewform | Buy a feature
 http://whoisnicoleharris.com/2018/05/17/warehouse-accessibility.html
+
+https://status.python.org/incidents/1y1f44q6srh2 | Python Infrastructure Status - Next Generation PyPI Rollout
+PyPI Translations
+https://twitter.com/nlhkabu/status/1176378129012727808
 
 Package Stats
 * ["How to get PyPI download statistics"](https://kirankoduru.github.io/python/pypi-stats.html)
