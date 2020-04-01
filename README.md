@@ -1,21 +1,11 @@
 # Python and Django- Contributing
 
 <!--
-pip improvements
-https://twitter.com/ThePyPA/status/1242998150190727169
-
 pip for Python on Windows
 https://twitter.com/simonw/status/1243297680886870017
 
-pip Study
-https://twitter.com/bernardtyers/status/1236039617222230017
-
 Ruby and Rust
 https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
-
-Packaging Summit
-https://mail.python.org/archives/list/distutils-sig@python.org/thread/ZEZNY2MCUN3S3JGUFF6U6OWVEOKW2UAF/
-https://mobile.twitter.com/pradyunsg/status/1224789432504475649
 
 Language Summit
 https://twitter.com/pganssle/status/1224378970340233216
