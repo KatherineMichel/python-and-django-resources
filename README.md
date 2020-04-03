@@ -1,6 +1,19 @@
 # Python and Django- Contributing
 
 <!--
+Poetry
+https://twitter.com/SDisPater/status/1245782235392942080
+
+https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
+
+https://jefftriplett.com/django-release-cycle/
+
+https://twitter.com/cfactoid/status/1245803183848513537
+https://twitter.com/cfactoid/status/1245493559253446658
+https://twitter.com/di_codes/status/1245049626971037696
+https://twitter.com/cfactoid/status/1244795881406242823
+https://twitter.com/moshezadka/status/1245906711749124097
+
 pip for Python on Windows
 https://twitter.com/simonw/status/1243297680886870017
 
@@ -39,6 +52,8 @@ hugs.python.org
 
 <!--
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
+
+https://snarky.ca/what-the-heck-is-pyproject-toml/
 
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
 
