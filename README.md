@@ -1,6 +1,91 @@
 # Python and Django- Contributing
 
 <!--
+Compilers
+https://twitter.com/mgechev/status/1245961742364168193 | Minko Gechev on Twitter: "📚 Understand how compilers work in 2 steps: Step 1: Listen to a 10 min overview in the "Programming" podcast https://t.co/Ij0LE3YJPF Step 2: Read the source code of this tiny compiler (25 lines of JS) https://t.co/kdrj4bqCGl For advanced reading check https://t.co/5FTp0Bei3t" / Twitter
+https://increment.com/programming-languages/crash-course-in-compilers/ | A crash course in compilers – Increment: Programming Languages
+
+Twisted
+https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
+
+Python 2
+https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+Sponsorship
+https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html | Python Software Foundation News: Announcing a new Sponsorship Program for Python Packaging
+https://mobile.twitter.com/EWDurbin/status/1247587285958361094 | ernest w. durbin iii on Twitter: "Can't overstate what it means to have programs like these to support @ThePSF and @PyPI infrastructure. I'm really excited to see them doubling down to support more non-profits and open source projects. https://t.co/cT0vFL7aN1" / Twitter
+
+Packaging Project
+https://twitter.com/EWDurbin/status/1245461610027778049 | ernest w. durbin iii on Twitter: "kinda bummed. this awesome project that @nlhkabu has been spearheading for the @ThePSF packaging working group and @PyPI is more or less ready to launch but it’s April 1 and you never launch on April 1 😭" / Twitter
+
+PyPa Translations
+https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
+
+DSF Fellows
+https://mobile.twitter.com/simonw/status/1247285020865093633 | Simon Willison on Twitter: "The Django Fellows program is such a smart way of helping make a large, non-corporate-owned open source project more sustainable https://t.co/5oIkpW5jna https://t.co/3P4kQiqhGF" / Twitter
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+Django GSoC
+https://mobile.twitter.com/carltongibson/status/1243080772501848064 | Carlton Gibson 🇪🇺 on Twitter: "Speaking of which, Django veterans who might have the odd moment to help mentor a GSoC student in these strange times should let me know! 🙂 https://t.co/yhhHycERv6" / Twitter
+
+Guido PEP
+https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
+
+TOML
+https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
+https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
+
+Conda PyPy
+https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
+
+pip innovation
+http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
+https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter: "Starting this year, pip will be more consistent + stricter in the dependencies it installs. https://t.co/vYkAAczeKM Here's what will change, when, and how you can help (testing, talking to our researchers, &amp; spreading the word) https://t.co/8dv6J0YCF8" / Twitter
+
+pip/virtualenv
+https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
+https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Keith-Magee on Twitter: "@jezdez @aaronbassett Not at all! It’s immensely useful - I’ve just completely missed the memo that it existed at all! And somehow, an entire generation of pip tutorials missed it, too..." / Twitter
+
+Pipenv
+https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co | Next Pipenv Release - Google Groups
+
+Python
+https://mobile.twitter.com/zooba/status/1246817603181522945 | Zooba on Twitter: "Agree with the first part, but not the second. Long answer: https://t.co/EMJBNmMSFs https://t.co/yV7XhJBe2Q" / Twitter
+https://mobile.twitter.com/zooba/status/1246719145196085248 | Zooba on Twitter: "I missed when this came out (though I helped review the post/sample)... Any Python package owners interested in offering a Start menu icon when installed into the Windows Store version of Python? That's what this is for. (We need to write the pip enhancement though.) https://t.co/jy3ezXQzlp" / Twitter
+
+Packaging
+https://twitter.com/pganssle/status/1246169626318381058 | Paul Ganssle on Twitter: "@webKnjaZ @codewithanthony Less tightly coupled to what? Setuptools? This is a wrapper around https://t.co/fPoAy743uh_meta - if anything it's *more* tightly coupled. You also have basically complete control over when the Cython compilation happens if you put it in your https://t.co/o3PGyRiVuO." / Twitter
+
+History
+https://mobile.twitter.com/gvanrossum/status/1247288994502606849 | Guido van Rossum on Twitter: "@pumpichank @holdenweb Someone dug up it was coined in Sept 2002 by two people independently on python-list. I think I resisted it too, just like I resisted Alex's coinage of "duck typing". I learned my lesson though, and adopted "walrus" as soon as I heard it. :-)" / Twitter
+https://mobile.twitter.com/gvanrossum/status/1247197070013820929 | Guido van Rossum on Twitter: "The word "dunder" was coined on September 26, 2002, by Mark Jackson and Tim Hochberg. Thanks Ned for digging this up! https://t.co/SNl4bwHcOC" / Twitter
+
+
+
+Encode
+https://www.encode.io/reports/march-2020 | March 2020 - Encode
+
+Core
+http://www.blog.pythonlibrary.org/2020/04/06/pydev-of-the-week-pablo-galindo-salgado/ | PyDev of the Week: Pablo Galindo Salgado - The Mouse Vs. The Python
+
+Victor Stinner
+https://vstinner.github.io/daemon-threads-python-finalization-python32.html | Daemon threads and the Python finalization in Python 3.2 and 3.3
+
+CPython API
+https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
+
+Sans-IO-style
+https://mobile.twitter.com/zooba/status/1243474683258974208 | Zooba on Twitter: "Sounds good according to https://t.co/EMJBNmMSFs 😁 https://t.co/k4hhlsUnGB" / Twitter
+
+Big Query
+https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Index on Twitter: "Have you built something interesting using the PyPI Big Query public dataset? Drop us a line at bigquery-feedback@pypi.org. We'd like to preview some upcoming changes and maybe feature your project in the announcement. https://t.co/sBfT9K4utG" / Twitter
+
+
 Poetry
 https://twitter.com/SDisPater/status/1245782235392942080
 
@@ -25,6 +110,7 @@ https://twitter.com/pganssle/status/1224378970340233216
 
 https://status.python.org
 
+New release
 https://docs.python.org/dev/whatsnew/3.9.html
 https://www.python.org/downloads/release/python-390a5/
 
@@ -52,8 +138,6 @@ hugs.python.org
 
 <!--
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
-
-https://snarky.ca/what-the-heck-is-pyproject-toml/
 
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
 
