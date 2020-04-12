@@ -1,6 +1,20 @@
 # Python and Django- Contributing
 
 <!--
+node.js Release Schedule
+https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+https://nodejs.org/en/about/releases/
+https://nodejs.org/en/about/working-groups/
+https://github.com/nodejs/Release
+
+https://github.com/vstinner
+
+https://twitter.com/webology/status/1248610738999939075
+
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
 Compilers
 https://twitter.com/mgechev/status/1245961742364168193 | Minko Gechev on Twitter: "📚 Understand how compilers work in 2 steps: Step 1: Listen to a 10 min overview in the "Programming" podcast https://t.co/Ij0LE3YJPF Step 2: Read the source code of this tiny compiler (25 lines of JS) https://t.co/kdrj4bqCGl For advanced reading check https://t.co/5FTp0Bei3t" / Twitter
 https://increment.com/programming-languages/crash-course-in-compilers/ | A crash course in compilers – Increment: Programming Languages
@@ -8,7 +22,6 @@ https://increment.com/programming-languages/crash-course-in-compilers/ | A crash
 Twisted
 https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
 
-Python 2
 https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
 
 release-bot
@@ -18,14 +31,14 @@ Sponsorship
 https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html | Python Software Foundation News: Announcing a new Sponsorship Program for Python Packaging
 https://mobile.twitter.com/EWDurbin/status/1247587285958361094 | ernest w. durbin iii on Twitter: "Can't overstate what it means to have programs like these to support @ThePSF and @PyPI infrastructure. I'm really excited to see them doubling down to support more non-profits and open source projects. https://t.co/cT0vFL7aN1" / Twitter
 
+DSF Fellows
+https://mobile.twitter.com/simonw/status/1247285020865093633 | Simon Willison on Twitter: "The Django Fellows program is such a smart way of helping make a large, non-corporate-owned open source project more sustainable https://t.co/5oIkpW5jna https://t.co/3P4kQiqhGF" / Twitter
+
 Packaging Project
 https://twitter.com/EWDurbin/status/1245461610027778049 | ernest w. durbin iii on Twitter: "kinda bummed. this awesome project that @nlhkabu has been spearheading for the @ThePSF packaging working group and @PyPI is more or less ready to launch but it’s April 1 and you never launch on April 1 😭" / Twitter
 
 PyPa Translations
 https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
-
-DSF Fellows
-https://mobile.twitter.com/simonw/status/1247285020865093633 | Simon Willison on Twitter: "The Django Fellows program is such a smart way of helping make a large, non-corporate-owned open source project more sustainable https://t.co/5oIkpW5jna https://t.co/3P4kQiqhGF" / Twitter
 
 DSF Fellow Stats
 https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
@@ -35,6 +48,9 @@ https://mobile.twitter.com/carltongibson/status/1243080772501848064 | Carlton Gi
 
 Guido PEP
 https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
+
+Encode
+https://www.encode.io/reports/march-2020 | March 2020 - Encode
 
 TOML
 https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
@@ -65,10 +81,6 @@ History
 https://mobile.twitter.com/gvanrossum/status/1247288994502606849 | Guido van Rossum on Twitter: "@pumpichank @holdenweb Someone dug up it was coined in Sept 2002 by two people independently on python-list. I think I resisted it too, just like I resisted Alex's coinage of "duck typing". I learned my lesson though, and adopted "walrus" as soon as I heard it. :-)" / Twitter
 https://mobile.twitter.com/gvanrossum/status/1247197070013820929 | Guido van Rossum on Twitter: "The word "dunder" was coined on September 26, 2002, by Mark Jackson and Tim Hochberg. Thanks Ned for digging this up! https://t.co/SNl4bwHcOC" / Twitter
 
-
-
-Encode
-https://www.encode.io/reports/march-2020 | March 2020 - Encode
 
 Core
 http://www.blog.pythonlibrary.org/2020/04/06/pydev-of-the-week-pablo-galindo-salgado/ | PyDev of the Week: Pablo Galindo Salgado - The Mouse Vs. The Python
