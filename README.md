@@ -1,6 +1,16 @@
 # Python and Django- Contributing
 
 <!--
+https://twitter.com/dabeaz/status/1248599769884352513
+
+Translations
+https://twitter.com/di_codes/status/1176241499744296960
+
+Travis
+https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
+https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
+https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
+
 node.js Release Schedule
 https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
 https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
