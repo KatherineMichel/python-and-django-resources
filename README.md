@@ -8,6 +8,15 @@ https://nodejs.org/en/about/releases/
 https://nodejs.org/en/about/working-groups/
 https://github.com/nodejs/Release
 
+Visualization and Stats
+http://andrewsforge.com/article/python-new-package-landscape/ | Python's New Package Landscape
+https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A weekly dump of the 5,000 most-downloaded packages from PyPI
+https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/ | Python Data Visualization 2018: Where Do We Go From Here? - Anaconda
+
+https://medium.com/@yon.goldschmidt/running-python-in-the-linux-kernel-7cbcbd44503c | Running Python in the Linux Kernel - Yonatan Goldschmidt - Medium
+https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/ | Shipping a compiler every six weeks - Pietro Albini
+https://raphael.codes/blog/python-super/ | Multiple inheritance and super in Python
+
 https://github.com/vstinner
 
 https://twitter.com/webology/status/1248610738999939075
