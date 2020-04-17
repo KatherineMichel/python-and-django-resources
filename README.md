@@ -1,6 +1,28 @@
 # Python and Django- Contributing
 
 <!--
+Installing stuff
+https://opensource.com/article/19/5/python-3-default-mac
+https://installpython3.com/
+https://realpython.com/installing-python/
+https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
+Upgrade Python version in pipenv
+https://github.com/pypa/pipenv/issues/2482
+
+Django What’s New
+https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
+
+Django Security
+https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
+
+History
+https://code.djangoproject.com/ticket/2333 | #2333 (Add unit test framework for end-user Django applications) – Django
+
+Pep
+https://www.python.org/dev/peps/pep-0420/ | PEP 420 -- Implicit Namespace Packages | Python.org
+
+https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
+
 https://twitter.com/dabeaz/status/1248599769884352513
 
 Translations
@@ -11,32 +33,14 @@ https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitte
 https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
 https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
 
-node.js Release Schedule
-https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
-https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
-https://nodejs.org/en/about/releases/
-https://nodejs.org/en/about/working-groups/
-https://github.com/nodejs/Release
-
 Visualization and Stats
 http://andrewsforge.com/article/python-new-package-landscape/ | Python's New Package Landscape
 https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A weekly dump of the 5,000 most-downloaded packages from PyPI
 https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/ | Python Data Visualization 2018: Where Do We Go From Here? - Anaconda
 
-https://medium.com/@yon.goldschmidt/running-python-in-the-linux-kernel-7cbcbd44503c | Running Python in the Linux Kernel - Yonatan Goldschmidt - Medium
-https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/ | Shipping a compiler every six weeks - Pietro Albini
-https://raphael.codes/blog/python-super/ | Multiple inheritance and super in Python
-
 https://github.com/vstinner
 
 https://twitter.com/webology/status/1248610738999939075
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-Compilers
-https://twitter.com/mgechev/status/1245961742364168193 | Minko Gechev on Twitter: "📚 Understand how compilers work in 2 steps: Step 1: Listen to a 10 min overview in the "Programming" podcast https://t.co/Ij0LE3YJPF Step 2: Read the source code of this tiny compiler (25 lines of JS) https://t.co/kdrj4bqCGl For advanced reading check https://t.co/5FTp0Bei3t" / Twitter
-https://increment.com/programming-languages/crash-course-in-compilers/ | A crash course in compilers – Increment: Programming Languages
 
 Twisted
 https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
