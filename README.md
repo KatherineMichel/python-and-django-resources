@@ -4,58 +4,38 @@
 Installing stuff
 https://opensource.com/article/19/5/python-3-default-mac
 https://installpython3.com/
+https://github.com/wsvincent/installpython3.com | wsvincent/installpython3.com: Beginner guide for installing Python 3 on Windows, Mac, Linux, Chromebook
 https://realpython.com/installing-python/
 https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
-Django What’s New
-https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
+https://twitter.com/llanga/status/1252274455138766848 | Łukasz Langa on Twitter: "The last ever release of Python 2.7 is now officially out. Python 2 is no longer supported by the core team. This marks the end of an era. There was supposed to be a party at @PyCon right now. 2.7 was a real good release. We'll honor it by keeping releasing even better ones. https://t.co/L9Gr1HLj7B" / Twitter
 
-Django Security
-https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
+New release
+https://docs.python.org/dev/whatsnew/3.9.html
+https://www.python.org/downloads/release/python-390a5/
 
-History
-https://code.djangoproject.com/ticket/2333 | #2333 (Add unit test framework for end-user Django applications) – Django
-
-Pep
-https://www.python.org/dev/peps/pep-0420/ | PEP 420 -- Implicit Namespace Packages | Python.org
-
-https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
-
-https://twitter.com/dabeaz/status/1248599769884352513
-
-Translations
-https://twitter.com/di_codes/status/1176241499744296960
-
-Travis
-https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
-https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
-https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
-
-Visualization and Stats
-http://andrewsforge.com/article/python-new-package-landscape/ | Python's New Package Landscape
-https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A weekly dump of the 5,000 most-downloaded packages from PyPI
-https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/ | Python Data Visualization 2018: Where Do We Go From Here? - Anaconda
-
-https://github.com/vstinner
-
-https://twitter.com/webology/status/1248610738999939075
-
-Twisted
-https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
-
-https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
+http://pyfound.blogspot.com/2020/04/thank-you-to-donors-sponsors.html?m=1
 
 Sponsorship
 https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html | Python Software Foundation News: Announcing a new Sponsorship Program for Python Packaging
 https://mobile.twitter.com/EWDurbin/status/1247587285958361094 | ernest w. durbin iii on Twitter: "Can't overstate what it means to have programs like these to support @ThePSF and @PyPI infrastructure. I'm really excited to see them doubling down to support more non-profits and open source projects. https://t.co/cT0vFL7aN1" / Twitter
 
-DSF Fellows
-https://mobile.twitter.com/simonw/status/1247285020865093633 | Simon Willison on Twitter: "The Django Fellows program is such a smart way of helping make a large, non-corporate-owned open source project more sustainable https://t.co/5oIkpW5jna https://t.co/3P4kQiqhGF" / Twitter
+https://mobile.twitter.com/Aeros1415/status/1250176001130315778
+
+PyCon
+https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
+
+Python Language Summit
+https://twitter.com/mariatta/status/1250121466835644416 | Mariatta 🤦 on Twitter: "Getting excited for the first ever remote Python Language Summit tomorrow!! We have timezone problems to deal with and discussion with 50 very opinionated people is gonna be a challenge. But, we're able to include folks who normally couldn't attend the summit in person😃🌏🌎🌍🐍" / Twitter
+http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
+https://twitter.com/mariatta/status/1250511012144377856 | Mariatta 🤦 on Twitter: "Day 1 of the remote Python Language Summit just wrapped up, and I think it went really great! 😃 Quick summary: - 51 attendees - from various countries 🌏🌎🌍 - representatives from: CPython, Jython, PyPy, MicroPython, CircuitPython, Django, PSF, docs, PyPA, etc" / Twitter
+https://twitter.com/Aeros1415/status/1252186891488821249 | Kyle Stanley on Twitter: "The Python Language Summit was a very exciting and unique experience that I was glad to be a part of for the first time. Although a remote summit was not quite the same as in person one, @mariatta and @llanga did a fantastic job of hosting it! https://t.co/6sA8ife0oG" / Twitter
+https://twitter.com/VictorStinner/status/1251440897012781057 | Victor Stinner on Twitter: ""Group photo" of the first day of the Python Language Summit. It was a new experience for me: meeting with 50 people with video. The text chat and questions on https://t.co/O7Vb2cyBGS went well. The difficult part for me was to not fall asleep the second day (1:00am to 5:00am)! https://t.co/EN1PlKmqbB" / Twitter
+https://twitter.com/mariatta/status/1251158864411586560 | Mariatta 🤦 on Twitter: "Some thoughts re: online/remote Python language summit vs in person (50 people): - the Chat feature within the video conferencing app allows for more asynchronous discussions and Q&amp;A, I think more people get to comment and share their thoughts this way" / Twitter
+
+https://twitter.com/di_codes/status/1253166894158417926 | Dustin Ingram on Twitter: "Today we merged support on @pypi for PEP 592, adding the ability to "yank" releases, and for installers to determine which releases have been "yanked"! Nice! ...but, uh, what is a "yanked" release, you might ask? (1\11)" / Twitter
 
 Packaging Project
 https://twitter.com/EWDurbin/status/1245461610027778049 | ernest w. durbin iii on Twitter: "kinda bummed. this awesome project that @nlhkabu has been spearheading for the @ThePSF packaging working group and @PyPI is more or less ready to launch but it’s April 1 and you never launch on April 1 😭" / Twitter
@@ -63,24 +43,61 @@ https://twitter.com/EWDurbin/status/1245461610027778049 | ernest w. durbin iii o
 PyPa Translations
 https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
 
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+Django What’s New
+https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
+
+Django Security
+https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
+
+https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
+
+https://jefftriplett.com/django-release-cycle/
+
+Django
+https://groups.google.com/forum/#!msg/django-users/WKPThHlGW1A/Jx9Z6jEVCQAJ
+https://groups.google.com/forum/#!topic/django-users/pXOrXmMf4bY
 
 Django GSoC
 https://mobile.twitter.com/carltongibson/status/1243080772501848064 | Carlton Gibson 🇪🇺 on Twitter: "Speaking of which, Django veterans who might have the odd moment to help mentor a GSoC student in these strange times should let me know! 🙂 https://t.co/yhhHycERv6" / Twitter
 
-Guido PEP
-https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
+https://wsvincent.com/a-month-in-the-life-of-a-dsf-board-member/ | A Month in the Life of a DSF Board Member - Will Vincent
 
-Encode
-https://www.encode.io/reports/march-2020 | March 2020 - Encode
+DSF Fellows
+https://mobile.twitter.com/simonw/status/1247285020865093633 | Simon Willison on Twitter: "The Django Fellows program is such a smart way of helping make a large, non-corporate-owned open source project more sustainable https://t.co/5oIkpW5jna https://t.co/3P4kQiqhGF" / Twitter
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+History
+https://code.djangoproject.com/ticket/2333 | #2333 (Add unit test framework for end-user Django applications) – Django
+
+Sprint
+https://www.pandanistas.org/announcing-berlin-2020-pandas-documentation-sprint.html
+https://twitter.com/davidism/status/1252234546466054151 | David Lord on Twitter: "No donuts for this remote #pycon2020 #PalletsSprint, but I'm online now to answer questions and review PRs for Flask, Jinja, Click, etc. All skill levels welcome, there's plenty of different issues to work on! https://t.co/iHkjne2BnB" / Twitter
+
+https://twitter.com/pwang/status/1253164518806622208 | Peter Wang on Twitter: "The Scipy &amp; Pydata open source community has more efficiently harnessed &amp; organized human talent than capitalism. https://t.co/2un0Tsd5l6" / Twitter
+
+Travis
+https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
+https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
+https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
+
+Twisted
+https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
+
+History
+https://mobile.twitter.com/gvanrossum/status/1247288994502606849 | Guido van Rossum on Twitter: "@pumpichank @holdenweb Someone dug up it was coined in Sept 2002 by two people independently on python-list. I think I resisted it too, just like I resisted Alex's coinage of "duck typing". I learned my lesson though, and adopted "walrus" as soon as I heard it. :-)" / Twitter
+https://mobile.twitter.com/gvanrossum/status/1247197070013820929 | Guido van Rossum on Twitter: "The word "dunder" was coined on September 26, 2002, by Mark Jackson and Tim Hochberg. Thanks Ned for digging this up! https://t.co/SNl4bwHcOC" / Twitter
+
+https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
 
 TOML
 https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
 https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
-
-Conda PyPy
-https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
 
 pip innovation
 http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
@@ -93,6 +110,44 @@ https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Kei
 Pipenv
 https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co | Next Pipenv Release - Google Groups
 
+Ubuntu
+https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
+
+Fedora
+https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
+https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
+
+
+
+Pep
+https://www.python.org/dev/peps/pep-0420/ | PEP 420 -- Implicit Namespace Packages | Python.org
+
+https://twitter.com/dabeaz/status/1248599769884352513
+
+Translations
+https://twitter.com/di_codes/status/1176241499744296960
+
+Visualization and Stats
+http://andrewsforge.com/article/python-new-package-landscape/ | Python's New Package Landscape
+https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A weekly dump of the 5,000 most-downloaded packages from PyPI
+https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/ | Python Data Visualization 2018: Where Do We Go From Here? - Anaconda
+
+https://twitter.com/webology/status/1248610738999939075
+
+https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+Guido PEP
+https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
+
+Encode
+https://www.encode.io/reports/march-2020 | March 2020 - Encode
+
+Conda PyPy
+https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
+
 Python
 https://mobile.twitter.com/zooba/status/1246817603181522945 | Zooba on Twitter: "Agree with the first part, but not the second. Long answer: https://t.co/EMJBNmMSFs https://t.co/yV7XhJBe2Q" / Twitter
 https://mobile.twitter.com/zooba/status/1246719145196085248 | Zooba on Twitter: "I missed when this came out (though I helped review the post/sample)... Any Python package owners interested in offering a Start menu icon when installed into the Windows Store version of Python? That's what this is for. (We need to write the pip enhancement though.) https://t.co/jy3ezXQzlp" / Twitter
@@ -100,16 +155,6 @@ https://mobile.twitter.com/zooba/status/1246719145196085248 | Zooba on Twitter: 
 Packaging
 https://twitter.com/pganssle/status/1246169626318381058 | Paul Ganssle on Twitter: "@webKnjaZ @codewithanthony Less tightly coupled to what? Setuptools? This is a wrapper around https://t.co/fPoAy743uh_meta - if anything it's *more* tightly coupled. You also have basically complete control over when the Cython compilation happens if you put it in your https://t.co/o3PGyRiVuO." / Twitter
 
-History
-https://mobile.twitter.com/gvanrossum/status/1247288994502606849 | Guido van Rossum on Twitter: "@pumpichank @holdenweb Someone dug up it was coined in Sept 2002 by two people independently on python-list. I think I resisted it too, just like I resisted Alex's coinage of "duck typing". I learned my lesson though, and adopted "walrus" as soon as I heard it. :-)" / Twitter
-https://mobile.twitter.com/gvanrossum/status/1247197070013820929 | Guido van Rossum on Twitter: "The word "dunder" was coined on September 26, 2002, by Mark Jackson and Tim Hochberg. Thanks Ned for digging this up! https://t.co/SNl4bwHcOC" / Twitter
-
-
-Core
-http://www.blog.pythonlibrary.org/2020/04/06/pydev-of-the-week-pablo-galindo-salgado/ | PyDev of the Week: Pablo Galindo Salgado - The Mouse Vs. The Python
-
-Victor Stinner
-https://vstinner.github.io/daemon-threads-python-finalization-python32.html | Daemon threads and the Python finalization in Python 3.2 and 3.3
 
 CPython API
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
@@ -123,10 +168,6 @@ https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Inde
 
 Poetry
 https://twitter.com/SDisPater/status/1245782235392942080
-
-https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
-
-https://jefftriplett.com/django-release-cycle/
 
 https://twitter.com/cfactoid/status/1245803183848513537
 https://twitter.com/cfactoid/status/1245493559253446658
@@ -145,17 +186,6 @@ https://twitter.com/pganssle/status/1224378970340233216
 
 https://status.python.org
 
-New release
-https://docs.python.org/dev/whatsnew/3.9.html
-https://www.python.org/downloads/release/python-390a5/
-
-Ubuntu
-https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
-
-Fedora
-https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
-https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
-
 Python Rec
 https://twitter.com/jakevdp/status/1232552739864924160 | Jake VanderPlas on Twitter: "For Python package maintainers considering which Python versions to support going forward, check out the recommendations from the Numpy community in NEP 29: https://t.co/AjEjsrkd5j https://t.co/I9aI2KAyxV" / Twitter
 https://numpy.org/neps/nep-0029-deprecation_policy.html | NEP 29 — Recommend Python and Numpy version support as a community policy standard — NumPy Enhancement Proposals
@@ -172,6 +202,15 @@ hugs.python.org
 ## Authorities
 
 <!--
+https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
+
+Core
+http://www.blog.pythonlibrary.org/2020/04/06/pydev-of-the-week-pablo-galindo-salgado/ | PyDev of the Week: Pablo Galindo Salgado - The Mouse Vs. The Python
+
+Victor Stinner
+https://github.com/vstinner
+https://vstinner.github.io/daemon-threads-python-finalization-python32.html | Daemon threads and the Python finalization in Python 3.2 and 3.3
+
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
