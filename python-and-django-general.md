@@ -134,6 +134,10 @@ Core Developer Perspectives
 * [Emily Morehouse: "My Path to Becoming a Python Core Developer"](http://emilyemorehouse.com/blog/015-my-path-to-becoming-a-python-core-developer/) and ["My path to becoming a core developer, @emilyemorehouse #pytexas2019… "](https://www.youtube.com/watch?v=rOzUMQW4p0Y&list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ&index=2&t=0s)
 * [Mariatta Wijaya "What is a Python Core Developer?" (North Bay Python)](https://www.youtube.com/watch?v=xvft-_8djUI) and [Mariatta Wijaya "What is a Python Core Developer?" (PyCon 2018)](https://www.youtube.com/watch?v=hhj7eb6TrtI&feature=youtu.be)
 
+<!--
+https://speakerdeck.com/mariatta/what-is-a-python-core-developer
+-->
+
 ## CPython Help and Mentorship
 
 Help and Communication
