@@ -112,6 +112,13 @@ https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on T
 http://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
 
 
+Python Language Server
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+https://microsoft.github.io/language-server-protocol/specification
+https://github.com/Microsoft/python-language-server
+https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
+
 Twisted
 https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
 
@@ -131,13 +138,19 @@ https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 https://www.etsy.com/listing/582953686/python-programming-language-stud?ref=shop_home_active_1
 
 
-
 CPython Azure
 https://twitter.com/zooba/status/1146797781253648384 | Twitter
 
 Core Python
 https://twitter.com/tirkarthi/status/1247568755460317184
 https://twitter.com/VictorStinner/status/1248666328984059905
+
+Pep
+https://www.python.org/dev/peps/pep-0420/ | PEP 420 -- Implicit Namespace Packages | Python.org
+
+Guido PEP
+https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
+
 
 
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
@@ -157,13 +170,6 @@ History
 https://code.djangoproject.com/ticket/2333 | #2333 (Add unit test framework for end-user Django applications) – Django
 
 
-Pep
-https://www.python.org/dev/peps/pep-0420/ | PEP 420 -- Implicit Namespace Packages | Python.org
-
-Guido PEP
-https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
-
-
 https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
 
 release-bot
@@ -180,6 +186,9 @@ https://twitter.com/pganssle/status/1246169626318381058 | Paul Ganssle on Twitte
 
 CPython API
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
+
+Radix
+https://twitter.com/hynek/status/1189883958294654978
 
 Sans-IO-style
 https://mobile.twitter.com/zooba/status/1243474683258974208 | Zooba on Twitter: "Sounds good according to https://t.co/EMJBNmMSFs 😁 https://t.co/k4hhlsUnGB" / Twitter
