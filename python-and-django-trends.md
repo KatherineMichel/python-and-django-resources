@@ -19,8 +19,6 @@ https://github.com/jreese/pycon
 Static Types
 https://twitter.com/rauchg/status/1217993541730725894
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
-
-https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 -->
 
 ## Python on Other Platforms
