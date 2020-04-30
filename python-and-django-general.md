@@ -48,10 +48,6 @@ https://www.youtube.com/watch?v=7kn7NtlV6g0&feature=emb_logo | Creator of Python
 
 https://www.slideshare.net/willingc/python-the-peoples-programming-language | Python - The People's Programming Language
 
-https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
-https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
-https://twitter.com/cfactoid/status/1180599186913296384
-
 Node Certifications
 https://twitter.com/webology/status/1186695236749279233 | 🎃 Jeff O'Lantern 🎃 on Twitter: "👋 Hi #python community. Would this be something you'd like to see for our community? My understanding is that a similar program was brought up 6 or 7 years again, but it was not as well received. Is it worth exploring again?" / Twitter
 
@@ -71,6 +67,8 @@ http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html | The H
 https://twitter.com/gvanrossum/status/1142480012848717824 | Guido van Rossum on Twitter: "Random Python History thing: I stole Python's 'elif' from the C Preprocessor. https://t.co/qkE1Jn2LXu"
 https://twitter.com/gvanrossum/status/1143890149266190336 | Guido van Rossum on Twitter: "In other news, as I was reminded in an old thread on Stack Overflow, Python's `dir()` function was named after the `dir` command in DOS."
 https://twitter.com/gvanrossum/status/1222776098800357376
+https://mobile.twitter.com/gvanrossum/status/1247288994502606849 | Guido van Rossum on Twitter: "@pumpichank @holdenweb Someone dug up it was coined in Sept 2002 by two people independently on python-list. I think I resisted it too, just like I resisted Alex's coinage of "duck typing". I learned my lesson though, and adopted "walrus" as soon as I heard it. :-)" / Twitter
+https://mobile.twitter.com/gvanrossum/status/1247197070013820929 | Guido van Rossum on Twitter: "The word "dunder" was coined on September 26, 2002, by Mark Jackson and Tim Hochberg. Thanks Ned for digging this up! https://t.co/SNl4bwHcOC" / Twitter
 
 https://twitter.com/jakevdp/status/956894158312030210 | Jake VanderPlas on Twitter: "On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda: $ conda create -n py1env python=1.0 $ conda activate py1env $ python… https://t.co/wcFP2KDtJ4"
 https://groups.google.com/forum/#!msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ;context-place=msg/comp.lang.python/mvSmZ3sLgKY/vFGVCVPf_SwJ | Python 1.5.2 beta 1 released - Google Groups
@@ -97,6 +95,23 @@ State of Django
 
 About Django 
 * [Why this Project Exists](https://docs.djangoproject.com/en/dev/faq/general/#why-does-this-project-exist)
+
+## Fellowships and Grants
+
+<!--
+https://twitter.com/cfactoid/status/1180599186913296384 | Casey Faist on Twitter: "Ahh! the first official announcement of the Python Education Landing Page! #PyGotham https://t.co/oiVkiTgP96" / Twitter
+https://twitter.com/teach_python/status/1179142713373007873 | Meg Ray on Twitter: "Honored to be a @ThePSF education grant awardee! I am looking forward to creating a PSF landing site for #python education. Keep an eye out for updates on this #opensource project! Congrats to the other awardees @PyBeeWare &amp; @andre_roberge #csed https://t.co/JgaIgPrjEC" / Twitter
+https://twitter.com/cfactoid/status/1180599186913296384
+
+http://pyfound.blogspot.com/2020/04/thank-you-to-donors-sponsors.html?m=1
+
+Sponsorship
+https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html | Python Software Foundation News: Announcing a new Sponsorship Program for Python Packaging
+https://mobile.twitter.com/EWDurbin/status/1247587285958361094 | ernest w. durbin iii on Twitter: "Can't overstate what it means to have programs like these to support @ThePSF and @PyPI infrastructure. I'm really excited to see them doubling down to support more non-profits and open source projects. https://t.co/cT0vFL7aN1" / Twitter
+
+DSF Fellows
+https://mobile.twitter.com/simonw/status/1247285020865093633 | Simon Willison on Twitter: "The Django Fellows program is such a smart way of helping make a large, non-corporate-owned open source project more sustainable https://t.co/5oIkpW5jna https://t.co/3P4kQiqhGF" / Twitter
+-->
 
 ## Python Trends and Surveys
 
@@ -177,6 +192,11 @@ Python Master/Slave Terminology
 * [Python Bug Tracker: "Avoid master/slave terminology"](https://bugs.python.org/issue34605)
 
 <!--
+Diversity
+https://twitter.com/mariatta/status/797571171629879296
+https://twitter.com/mariatta/status/797569511398526977
+https://twitter.com/mariatta/status/797613449085878272
+
 Mariatta
 https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
 -->
