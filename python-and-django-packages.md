@@ -1,8 +1,20 @@
 # Python and Django Packages
 
 <!--
-pip improvements
-https://twitter.com/ThePyPA/status/1242998150190727169
+https://twitter.com/di_codes/status/1253166894158417926 | Dustin Ingram on Twitter: "Today we merged support on @pypi for PEP 592, adding the ability to "yank" releases, and for installers to determine which releases have been "yanked"! Nice! ...but, uh, what is a "yanked" release, you might ask? (1\11)" / Twitter
+
+Packaging Project
+https://twitter.com/EWDurbin/status/1245461610027778049 | ernest w. durbin iii on Twitter: "kinda bummed. this awesome project that @nlhkabu has been spearheading for the @ThePSF packaging working group and @PyPI is more or less ready to launch but it’s April 1 and you never launch on April 1 😭" / Twitter
+
+PyPa Translations
+https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
+https://twitter.com/di_codes/status/1176241499744296960
+
+https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
+
+TOML
+https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
+
 
 pip Study
 https://twitter.com/bernardtyers/status/1236039617222230017
