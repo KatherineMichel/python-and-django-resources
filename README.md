@@ -10,6 +10,8 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+https://github.com/microsoft/xlang/issues/634
+
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
 https://twitter.com/llanga/status/1252274455138766848 | Łukasz Langa on Twitter: "The last ever release of Python 2.7 is now officially out. Python 2 is no longer supported by the core team. This marks the end of an era. There was supposed to be a party at @PyCon right now. 2.7 was a real good release. We'll honor it by keeping releasing even better ones. https://t.co/L9Gr1HLj7B" / Twitter
