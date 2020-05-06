@@ -13,9 +13,18 @@ https://github.com/pypa/pipenv/issues/2482
 http://neopythonic.blogspot.com/2019/03/why-operators-are-useful.html
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
 
-https://github.com/taichi-dev/taichi
+http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
 
-https://github.com/microsoft/xlang/issues/634
+PEG
+https://twitter.com/emilyemorehouse/status/1255220791198781448
+
+"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
+https://twitter.com/trebor74hr/status/1252729526540472323
+
+"Excited to see this happening! Timezones move into the stdlib."
+https://twitter.com/gvanrossum/status/1255874000321798144
+
+https://github.com/taichi-dev/taichi
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
@@ -59,6 +68,7 @@ https://github.com/pypa/manylinux
 
 Windows
 https://github.com/zooba
+https://github.com/microsoft/xlang/issues/634
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
 https://twitter.com/CasualEffects/status/1256806906015907841
 
