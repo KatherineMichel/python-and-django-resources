@@ -21,6 +21,8 @@ https://twitter.com/emilyemorehouse/status/1255220791198781448
 "HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
 https://twitter.com/trebor74hr/status/1252729526540472323
 
+https://twitter.com/pganssle/status/1256639155351752704
+https://twitter.com/maidotgimenez/status/1255879572395982850
 "Excited to see this happening! Timezones move into the stdlib."
 https://twitter.com/gvanrossum/status/1255874000321798144
 
@@ -68,6 +70,7 @@ https://github.com/pypa/manylinux
 
 Windows
 https://github.com/zooba
+https://twitter.com/carltongibson/status/1256917475737899015
 https://github.com/microsoft/xlang/issues/634
 https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
 https://twitter.com/CasualEffects/status/1256806906015907841
