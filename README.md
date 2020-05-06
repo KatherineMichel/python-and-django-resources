@@ -10,6 +10,11 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+http://neopythonic.blogspot.com/2019/03/why-operators-are-useful.html
+https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
+
+https://github.com/taichi-dev/taichi
+
 https://github.com/microsoft/xlang/issues/634
 
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
@@ -54,6 +59,8 @@ https://github.com/pypa/manylinux
 
 Windows
 https://github.com/zooba
+https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
+https://twitter.com/CasualEffects/status/1256806906015907841
 
 Linux subsystem Windows
 http://wsl-guide.org/en/latest/
