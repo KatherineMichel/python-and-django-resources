@@ -10,6 +10,17 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+https://www.vinta.com.br/blog/2017/contributing-hugh-lib
+
+https://speakerdeck.com/jakevdp/seven-strategies-for-optimizing-numerical-code
+
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+
+https://www.reddit.com/r/Python/comments/6ug04h/who_maintains_pypi_and_where_and_by_whom_is_it/ | Who maintains PyPI and where and by whom is it hosted? : Python
+
+https://stackoverflow.blog/2017/09/06/incredible-growth-python/
+
+
 http://neopythonic.blogspot.com/2019/03/why-operators-are-useful.html
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
 
