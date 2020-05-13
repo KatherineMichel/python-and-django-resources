@@ -10,6 +10,40 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+Windows/LINUX
+https://www.forbes.com/sites/jasonevangelho/2020/05/06/windows-10-is-bleeding-users-while-ubuntu-linux-enjoys-an-astonishing-increase/#64f56a073ccd | Windows 10 Bleeds Users While Ubuntu Linux Enjoys An Astonishing Increase
+
+Spanish Translation
+https://www.python.org/dev/peps/pep-0545/#add-translation-to-the-language-switcher | PEP 545 -- Python Documentation Translations | Python.org
+https://twitter.com/webology/status/1258755230780600320 | Jeff says, "wash your hands" 🧼👏 on Twitter: "🗣 if you are fluent in Spanish or if Spanish is your first language, this is a great way to help contribute if you have free cycles. https://t.co/l2KtTJM0mY" / Twitter
+
+JSONField
+https://twitter.com/webology/status/1258759265361289216 | Jeff says, "wash your hands" 🧼👏 on Twitter: "👏 Thank you to @laymonage and everyone who helped pull it off. Django's JSONField is one of my favorite hammers and I'm thrilled to be able to test on non-Postgres databases with it. https://t.co/hOwGixy8ju" / Twitter
+
+https://www.jetbrains.com/lp/python-developers-survey-2019/
+
+Encode
+https://www.encode.io/reports/april-2020
+https://twitter.com/_tomchristie/status/1256210735056785409
+
+https://tutorial.edgedb.com/
+
+https://twitter.com/raymondh/status/1257431141482708994
+https://www.youtube.com/watch?v=FvNRlE4E9QQ
+http://alloytools.org/
+
+Django Core
+https://twitter.com/emilyemorehouse/status/1256312207358357504
+
+"In @ChatDjango episode 16 - “Django Admin” you mentioned you wanted to do a video series whiteboarding the models for famous websites. "
+https://twitter.com/Chris2Brooks/status/1257636370476130305
+
+https://twitter.com/theavalkyrie/status/1257469771202715648
+
+pystrftime.com
+https://twitter.com/webology/status/1255550229446828032
+
+
 https://www.vinta.com.br/blog/2017/contributing-hugh-lib
 
 https://speakerdeck.com/jakevdp/seven-strategies-for-optimizing-numerical-code
