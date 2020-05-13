@@ -282,6 +282,9 @@ Django Channels (Built on ASGI)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+https://github.com/andrewgodwin/channels-examples/blob/master/multichat/chat/consumers.py
+https://twitter.com/webology/status/1255226205206429701
+
 https://twitter.com/_tomchristie/status/1230538726310322177 | Tom Christie on Twitter: "@andrewgodwin We'll probably *also* end up with some CBVs in Starlette that look super-similar to Channels implementations, tho it's nice to be able to demo the API at the plain-old function level to show what's going on." / Twitter
 
 Channels
