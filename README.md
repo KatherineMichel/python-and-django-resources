@@ -43,6 +43,12 @@ https://twitter.com/theavalkyrie/status/1257469771202715648
 pystrftime.com
 https://twitter.com/webology/status/1255550229446828032
 
+Thought leaders
+https://twitter.com/webology/status/1259646238787538944 | Jeff says, "wash your hands" 🧼👏 on Twitter: "&gt; But there are also a lot of problems for which I can’t see any concrete benefit to using React. Those are things like blogs, shopping-cart-websites, mostly-CRUD-and-forms-websites. https://t.co/JJlETsknpn" / Twitter
+https://macwright.org/2020/05/10/spa-fatigue.html | Second-guessing the modern web - macwright.org
+
+https://naomiceder.tech/posts/stepping_back/ | Stepping back from the board | Naomi Ceder
+
 
 https://www.vinta.com.br/blog/2017/contributing-hugh-lib
 
