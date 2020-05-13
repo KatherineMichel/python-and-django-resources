@@ -29,6 +29,8 @@ https://www.encode.io/reports/april-2020
 https://twitter.com/_tomchristie/status/1256210735056785409
 
 https://tutorial.edgedb.com/
+https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
+https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
 
 https://twitter.com/raymondh/status/1257431141482708994
 https://www.youtube.com/watch?v=FvNRlE4E9QQ
