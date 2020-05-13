@@ -308,6 +308,13 @@ hugs.python.org
 ## Authorities
 
 <!--
+https://stevedower.id.au/ | Steve Dower Musings and Mutterings | Steve Dower
+https://github.com/zooba
+
+https://asvetlov.blogspot.com/ | Андрей Светлов
+
+https://twitter.com/MariuszFelisiak
+
 https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
 
 Core
