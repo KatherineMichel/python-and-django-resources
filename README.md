@@ -10,6 +10,8 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About Python: A PyLadies Panel Discussion | Meetup
+
 Windows/LINUX
 https://www.forbes.com/sites/jasonevangelho/2020/05/06/windows-10-is-bleeding-users-while-ubuntu-linux-enjoys-an-astonishing-increase/#64f56a073ccd | Windows 10 Bleeds Users While Ubuntu Linux Enjoys An Astonishing Increase
 
