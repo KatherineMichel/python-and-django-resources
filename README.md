@@ -53,6 +53,8 @@ https://macwright.org/2020/05/10/spa-fatigue.html | Second-guessing the modern w
 
 https://naomiceder.tech/posts/stepping_back/ | Stepping back from the board | Naomi Ceder
 
+https://lwn.net/SubscriberLink/820424/172e6da006687167/
+
 
 https://www.vinta.com.br/blog/2017/contributing-hugh-lib
 
