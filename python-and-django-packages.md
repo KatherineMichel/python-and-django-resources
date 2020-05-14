@@ -1,6 +1,37 @@
 # Python and Django Packages
 
 <!--
+Kenneth
+https://github.com/inishchith/autoenv
+
+gitvenv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+Tools
+http://nixos.org
+https://github.com/NixOS/nix
+
+https://pypi.org/project/check-manifest/
+
+https://pypi.org/classifiers/ | Classifiers · PyPI
+https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
+https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
+
+Packaging
+https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
+
+Packaging
+https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
+
+Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
+
+https://twitter.com/JackieKazil/status/1260594443419353089 | Jackie Kazil on Twitter: "@IanLee1521 @pydanny and I just chatted about this recently. I still use virtualenv but have been looking into poetry. Every time I have tried pipenv I have had problems so I gave up on it." / Twitter
+-->
+
+<!--
 https://twitter.com/di_codes/status/1253166894158417926 | Dustin Ingram on Twitter: "Today we merged support on @pypi for PEP 592, adding the ability to "yank" releases, and for installers to determine which releases have been "yanked"! Nice! ...but, uh, what is a "yanked" release, you might ask? (1\11)" / Twitter
 
 Packaging Project
