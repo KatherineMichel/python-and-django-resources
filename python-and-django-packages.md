@@ -1,6 +1,8 @@
 # Python and Django Packages
 
 <!--
+https://flit.readthedocs.io/en/latest/cmdline.html#flit-install
+
 Kenneth
 https://github.com/inishchith/autoenv
 
