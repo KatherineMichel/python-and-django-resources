@@ -10,6 +10,9 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+Python Steering Committee
+https://www.youtube.com/watch?v=xX8fGuh4T_o&feature=youtu.be
+
 PyCon
 https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
 
