@@ -46,6 +46,8 @@ Python: "I came for the language but I stay for the community..."
 <!--
 * [CPython Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
+https://code.djangoproject.com/ticket/2333 | #2333 (Add unit test framework for end-user Django applications) – Django
+
 https://twitter.com/jezdez/status/1216777837182693377
 
 https://www.youtube.com/watch?v=7kn7NtlV6g0&feature=emb_logo | Creator of Python Programming Language, Guido van Rossum | Oxford Union - YouTube
