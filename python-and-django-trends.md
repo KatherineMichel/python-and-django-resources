@@ -1,17 +1,6 @@
 # Python and Django Trends
 
 <!--
-Python runtime versus OS and distros
-https://twitter.com/pwang/status/1236422154079567877
-
-Kernel Python
-https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
-
-EPython
-https://openteams.com/projects/epython
-https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
-https://twitter.com/teoliphant/status/1217611221396082695
-
 What is a Coroutine Anyway?
 https://www.youtube.com/watch?v=GSiZkP7cI80
 https://github.com/jreese/pycon
