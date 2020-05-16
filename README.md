@@ -33,6 +33,8 @@ https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About P
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
 
 https://www.jetbrains.com/lp/python-developers-survey-2019/
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
 
 Why is Python Slow?
 https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
