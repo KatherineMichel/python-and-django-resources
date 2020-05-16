@@ -42,7 +42,11 @@ https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
 https://lwn.net/SubscriberLink/820424/172e6da006687167/
 
 http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
+http://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html
 
+Async views in Django
+https://twitter.com/gregkaleka/status/1260980433874898947
+https://docs.djangoproject.com/en/dev/releases/3.1/
 
 https://twitter.com/pganssle/status/1256639155351752704
 https://twitter.com/maidotgimenez/status/1255879572395982850
@@ -217,14 +221,14 @@ Python Rec
 https://twitter.com/jakevdp/status/1232552739864924160 | Jake VanderPlas on Twitter: "For Python package maintainers considering which Python versions to support going forward, check out the recommendations from the Numpy community in NEP 29: https://t.co/AjEjsrkd5j https://t.co/I9aI2KAyxV" / Twitter
 https://numpy.org/neps/nep-0029-deprecation_policy.html | NEP 29 — Recommend Python and Numpy version support as a community policy standard — NumPy Enhancement Proposals
 
-Ruby and Rust
-https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
-
 Radix
 https://twitter.com/hynek/status/1189883958294654978
 
 Sans-IO-style
 https://mobile.twitter.com/zooba/status/1243474683258974208 | Zooba on Twitter: "Sounds good according to https://t.co/EMJBNmMSFs 😁 https://t.co/k4hhlsUnGB" / Twitter
+
+https://twitter.com/kushaldas/status/1261307240255913985
+https://www.python.org/dev/peps/pep-0582/
 
 PEP 614
 https://twitter.com/pganssle/status/1235656233539026944
