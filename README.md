@@ -10,18 +10,26 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+https://docs.brew.sh/Homebrew-and-Python
+
+https://github.com/pycon-mentored-sprints/mentored-sprints-website
+
 Python Steering Committee
 https://www.youtube.com/watch?v=xX8fGuh4T_o&feature=youtu.be
+https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
 
 PyCon
 https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
 
 Language Summit
-https://twitter.com/pganssle/status/1224378970340233216
+https://us.pycon.org/2020/events/languagesummit/
+https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
+https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
+https://github.com/Zac-HD/stdlib-property-tests
+http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
 
 Python Language Summit
 https://twitter.com/mariatta/status/1250121466835644416 | Mariatta 🤦 on Twitter: "Getting excited for the first ever remote Python Language Summit tomorrow!! We have timezone problems to deal with and discussion with 50 very opinionated people is gonna be a challenge. But, we're able to include folks who normally couldn't attend the summit in person😃🌏🌎🌍🐍" / Twitter
-http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
 https://twitter.com/mariatta/status/1250511012144377856 | Mariatta 🤦 on Twitter: "Day 1 of the remote Python Language Summit just wrapped up, and I think it went really great! 😃 Quick summary: - 51 attendees - from various countries 🌏🌎🌍 - representatives from: CPython, Jython, PyPy, MicroPython, CircuitPython, Django, PSF, docs, PyPA, etc" / Twitter
 https://twitter.com/Aeros1415/status/1252186891488821249 | Kyle Stanley on Twitter: "The Python Language Summit was a very exciting and unique experience that I was glad to be a part of for the first time. Although a remote summit was not quite the same as in person one, @mariatta and @llanga did a fantastic job of hosting it! https://t.co/6sA8ife0oG" / Twitter
 https://twitter.com/VictorStinner/status/1251440897012781057 | Victor Stinner on Twitter: ""Group photo" of the first day of the Python Language Summit. It was a new experience for me: meeting with 50 people with video. The text chat and questions on https://t.co/O7Vb2cyBGS went well. The difficult part for me was to not fall asleep the second day (1:00am to 5:00am)! https://t.co/EN1PlKmqbB" / Twitter
@@ -34,10 +42,6 @@ https://twitter.com/davidism/status/1252234546466054151 | David Lord on Twitter:
 
 https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About Python: A PyLadies Panel Discussion | Meetup
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
-
-https://www.jetbrains.com/lp/python-developers-survey-2019/
-https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
 
 Why is Python Slow?
 https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
@@ -55,6 +59,17 @@ https://twitter.com/pganssle/status/1256639155351752704
 https://twitter.com/maidotgimenez/status/1255879572395982850
 "Excited to see this happening! Timezones move into the stdlib."
 https://twitter.com/gvanrossum/status/1255874000321798144
+
+
+https://twitter.com/pyblogsal/status/1261725040032309248
+https://www.python.org/dev/peps/pep-0617/
+http://pyfound.blogspot.com/2020/04/replacing-cpythons-parser-python.html
+https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+https://en.wikipedia.org/wiki/Comparison_of_parser_generators
+https://en.wikipedia.org/wiki/Parsing_expression_grammar
+https://docs.python.org/3/reference/grammar.html
 
 
 https://github.com/RalfG/python-wheels-manylinux-build
@@ -85,26 +100,36 @@ https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner �
 https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
 
 
+https://twitter.com/awbjs/status/1260976210936389632
+https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
+Ruby and Rust
+https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
+
+CPython API
+https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
+
+C-extensions, HPy, EPython
+https://github.com/pyhandle/hpy
+"The PEP summarizes the research work I'm doing on CPython C API since 2017 and the changes that me and others made since Python 3.7 towards an opaque C API. It is also a collaboration with developers of PyPy, HPy, Rust-CPython and many others! Thanks to everyone who helped me!"
+https://twitter.com/VictorStinner/status/1248666328984059905
+"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
+https://twitter.com/trebor74hr/status/1252729526540472323
+https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
+https://twitter.com/teoliphant/status/1217611221396082695
+
+Intel distribution for Python
+https://twitter.com/pwang/status/1218212838562463745 | Peter Wang on Twitter: "Another really cool example of what can be done with Python and Anaconda! https://t.co/EYf2TyRf8q" / Twitter
+
 Python runtime versus OS and distros
 https://twitter.com/pwang/status/1236422154079567877
 
 Kernel Python
 https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
 
-EPython
-https://openteams.com/projects/epython
-https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
-https://twitter.com/teoliphant/status/1217611221396082695
-
-Peter Wang
-https://twitter.com/pwang/status/1218212838562463745 | Peter Wang on Twitter: "Another really cool example of what can be done with Python and Anaconda! https://t.co/EYf2TyRf8q" / Twitter
-
-https://twitter.com/pwang/status/1253164518806622208 | Peter Wang on Twitter: "The Scipy &amp; Pydata open source community has more efficiently harnessed &amp; organized human talent than capitalism. https://t.co/2un0Tsd5l6" / Twitter
-
 Travis
+https://twitter.com/pwang/status/1253164518806622208 | Peter Wang on Twitter: "The Scipy &amp; Pydata open source community has more efficiently harnessed &amp; organized human talent than capitalism. https://t.co/2un0Tsd5l6" / Twitter
 https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
 https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
-https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
 
 http://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
 
@@ -173,7 +198,6 @@ https://twitter.com/theavalkyrie/status/1257469771202715648
 https://twitter.com/glasnt/status/1130373823176404992 | Katie McLaughlin ✨ on Twitter: "Hello Python Twitter. What is the project or application of Python -- that's not python itself -- that has made you the most excited this year? Share it with me. This is something I'm deeply interested in expanding my knowledge on, and I want to hear about it!"
 
 https://www.etsy.com/listing/582953686/python-programming-language-stud?ref=shop_home_active_1
-
 
 
 CPython on Azure Pipelines
