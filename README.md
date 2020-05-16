@@ -10,8 +10,6 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
-https://twitter.com/llanga/status/1252274455138766848 | Łukasz Langa on Twitter: "The last ever release of Python 2.7 is now officially out. Python 2 is no longer supported by the core team. This marks the end of an era. There was supposed to be a party at @PyCon right now. 2.7 was a real good release. We'll honor it by keeping releasing even better ones. https://t.co/L9Gr1HLj7B" / Twitter
-
 PyCon
 https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
 
@@ -36,12 +34,6 @@ https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-byt
 
 https://www.jetbrains.com/lp/python-developers-survey-2019/
 
-https://stackoverflow.blog/2017/09/06/incredible-growth-python/
-
-"#python is doomed"
-https://twitter.com/dabeaz/status/1248599769884352513
-https://twitter.com/webology/status/1248610738999939075
-
 Why is Python Slow?
 https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
 
@@ -49,42 +41,12 @@ https://lwn.net/SubscriberLink/820424/172e6da006687167/
 
 http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
 
-Virtualenv
-https://twitter.com/hynek/status/1241381814440247299
-
-virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://github.com/pyenv/pyenv-update
-
-PyPy
-https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
-
-pip innovation
-http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
-https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter: "Starting this year, pip will be more consistent + stricter in the dependencies it installs. https://t.co/vYkAAczeKM Here's what will change, when, and how you can help (testing, talking to our researchers, &amp; spreading the word) https://t.co/8dv6J0YCF8" / Twitter
-
-pip/virtualenv
-https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
-https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Keith-Magee on Twitter: "@jezdez @aaronbassett Not at all! It’s immensely useful - I’ve just completely missed the memo that it existed at all! And somehow, an entire generation of pip tutorials missed it, too..." / Twitter
-
-Pipenv
-https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co | Next Pipenv Release - Google Groups
-
-Conda PyPy
-https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
-
-https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
-
-https://twitter.com/VictorStinner/status/1248666328984059905
-
-"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
-https://twitter.com/trebor74hr/status/1252729526540472323
 
 https://twitter.com/pganssle/status/1256639155351752704
 https://twitter.com/maidotgimenez/status/1255879572395982850
 "Excited to see this happening! Timezones move into the stdlib."
 https://twitter.com/gvanrossum/status/1255874000321798144
+
 
 https://github.com/RalfG/python-wheels-manylinux-build
 https://github.com/pypa/manylinux
@@ -97,8 +59,9 @@ https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
 https://twitter.com/CasualEffects/status/1256806906015907841
 
 Linux subsystem Windows
-http://wsl-guide.org/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
 https://www.infoq.com/news/2020/04/wsl-2-general-availability/
+
 
 Ubuntu
 https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71 | Get Ubuntu 20.04 LTS - Microsoft Store
@@ -106,11 +69,23 @@ https://releases.ubuntu.com/20.04/ | Ubuntu 20.04 LTS (Focal Fossa)
 https://ubuntu.com/blog/ubuntu-20-04-lts-arrives | Ubuntu 20.04 LTS arrives | Ubuntu
 
 Ubuntu
-https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html?utm_source=dlvr.it&utm_medium=twitter | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
+https://www.linuxtoday.com/developer/python-2-removed-from-ubuntu-20.04-lts-200219221006.html | Linux Today - Python 2 Removed from Ubuntu 20.04 LTS!
 
 Fedora
 https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner 🐍 on Twitter: "Great rationale about the maintenance burden of a whole operating system, Adam Williamson on Fedora dropping features like x86 architecture, Python 2 and optical media https://t.co/cRds7It67m "Fedora is not a museum piece, it's a living, relatively forward-looking distribution."" / Twitter
 https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
+
+
+Python runtime versus OS and distros
+https://twitter.com/pwang/status/1236422154079567877
+
+Kernel Python
+https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
+
+EPython
+https://openteams.com/projects/epython
+https://openteams-chat.slack.com/join/shared_invite/enQtODk3MDM0NTU2MDUxLTdkZTZjM2MwNzYxZDVkNWI0NjUxYWE2OTZkOTU1N2VmM2Y2ZjJmMmViODM2NmE5ZDEyNDlhMjI5MzY1ZmI5ZWI
+https://twitter.com/teoliphant/status/1217611221396082695
 
 Peter Wang
 https://twitter.com/pwang/status/1218212838562463745 | Peter Wang on Twitter: "Another really cool example of what can be done with Python and Anaconda! https://t.co/EYf2TyRf8q" / Twitter
@@ -204,20 +179,11 @@ Guido PEP
 https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
 
 
-
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-https://jefftriplett.com/django-release-cycle/
 
 DSF Fellow Stats
 https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
 
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-
-History
-https://code.djangoproject.com/ticket/2333 | #2333 (Add unit test framework for end-user Django applications) – Django
 
 https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
 
@@ -233,14 +199,6 @@ Packaging
 https://twitter.com/pganssle/status/1246169626318381058 | Paul Ganssle on Twitter: "@webKnjaZ @codewithanthony Less tightly coupled to what? Setuptools? This is a wrapper around https://t.co/fPoAy743uh_meta - if anything it's *more* tightly coupled. You also have basically complete control over when the Cython compilation happens if you put it in your https://t.co/o3PGyRiVuO." / Twitter
 
 
-CPython API
-https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
-
-
-
-pip for Python on Windows
-https://twitter.com/simonw/status/1243297680886870017
-
 Poetry
 https://twitter.com/SDisPater/status/1245782235392942080
 
@@ -249,7 +207,6 @@ https://twitter.com/cfactoid/status/1245493559253446658
 https://twitter.com/di_codes/status/1245049626971037696
 https://twitter.com/cfactoid/status/1244795881406242823
 https://twitter.com/moshezadka/status/1245906711749124097
-
 
 
 https://status.python.org
@@ -282,12 +239,12 @@ https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Inde
 ## Authorities
 
 <!--
+https://twitter.com/MariuszFelisiak
+
 https://stevedower.id.au/ | Steve Dower Musings and Mutterings | Steve Dower
 https://github.com/zooba
 
 https://asvetlov.blogspot.com/ | Андрей Светлов
-
-https://twitter.com/MariuszFelisiak
 
 https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
 
@@ -332,7 +289,7 @@ https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Produc
 https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
 -->
 
-## News and Releases
+## News
 
 * [Django News (Jeff and William S. Vincent)](https://django-news.com/) and [Django Store](https://django.threadless.com/)
 * [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
@@ -350,6 +307,8 @@ https://blog.python.org
 https://pythoninsider.blogspot.com/
 https://discuss.python.org Discussions on Python.org
 -->
+
+## Releases
 
 General
 * [Downloads](https://www.python.org/downloads)
@@ -403,66 +362,6 @@ https://discuss.python.org/t/python-3-8-1-3-7-6-3-6-10-and-3-9-0a2-are-now-avail
 https://twitter.com/llanga/status/1207584391494545408 | Łukasz Langa on Twitter: "Why release one version of #Python if you can release four? This merry season, we bring you Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2. We hope you'll enjoy them at least as much as we did packaging them! https://t.co/TRqv5mZxk5 #ItsALiving #DontTrifleWithMyAffections" / Twitter
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
 https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
--->
-
-## Python 2 or 3, Python 2 EoL
-
-Python 2 End of Life (EOL)
-* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
-
-Changeset Python 2 Sunsetting Initiative
-* [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
-* [Sumana Tweet](https://twitter.com/brainwane/status/1176517084890750981)
-* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
-
-Python 2 EOL Websites
-* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
-* [Python Clock](https://pythonclock.org)
-* [Python 3 Statement](http://python3statement.org)
-
-Django and Python 3
-* [Django Packages Python 3](https://www.djangopackages.com/python3)
-
-<!--
-Python 2 versus 3
-https://twitter.com/chriswilcox47/status/1237444424461766658
-
-Python 3 Post Mortem
-https://twitter.com/gvanrossum/status/1216863597562740737
-
-https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
-https://twitter.com/andrewgodwin/status/1201518717588234240
-
-https://twitter.com/webology/status/1196469384253972482 | 🍂 Jeff Triplett 🍂 on Twitter: "🚀 Django 3.0 is expected to launch in December 2019, and RC 1 was released today for anyone who wants to try it out or update your test suites to start testing against it. I recommend updating your projects to note what's changed. https://t.co/nx7QvsUy4R" / Twitter
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
-https://t.co/IfmaQr0Oog" / Twitter
-https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
-https://twitter.com/kennethreitz/status/1204348890721456128
-
-PEP 373 -- Python 2.7 Release Schedule
-https://www.python.org/dev/peps/pep-0373/
-https://wiki.python.org/moin/Python2orPython3
-https://twitter.com/webology/status/1212552867225198592 | 🎊 Jeff Triplett 🎉 on Twitter: "🐍 Active development of Python 2.7 has ended, but there will be one final 2.7 release this April. ⛑ It's time to use Python 3 though if you haven't switched yet. https://t.co/wRu728dVrI" / Twitter
-https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
-
-https://django.readthedocs.io/en/1.7.x/topics/python3.html
-https://docs.python.org/3.8/library/2to3.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-
-https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
-
-Dropping Support
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
-https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
-https://aws.amazon.com/support
-https://forums.aws.amazon.com/forum.jspa?forumID=186
-https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
-https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
-https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
-https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
-https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
 ## Related Projects, PSF and DSF People and Members
@@ -1049,6 +948,7 @@ Upgrading and Choices
 
 <!--
 https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
 https://twitter.com/webology/status/1235628234148110336
 
 Django 1.11 EoL
