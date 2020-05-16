@@ -191,6 +191,7 @@ Python Surveys
 * [JetBrains 2018 Python Developers Survey Results](https://www.jetbrains.com/research/python-developers-survey-2018) and [Feedback](https://github.com/python/python-dev-survey)
 
 <!--
+https://www.jetbrains.com/lp/python-developers-survey-2019/
 http://pyfound.blogspot.com/2019/10/the-2019-python-developer-survey-is.html
 -->
 
