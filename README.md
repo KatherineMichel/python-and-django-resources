@@ -65,11 +65,26 @@ https://twitter.com/pyblogsal/status/1261725040032309248
 https://www.python.org/dev/peps/pep-0617/
 http://pyfound.blogspot.com/2020/04/replacing-cpythons-parser-python.html
 https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
+
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+https://docs.python.org/3/reference/grammar.html
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+
 https://en.wikipedia.org/wiki/Comparison_of_parser_generators
 https://en.wikipedia.org/wiki/Parsing_expression_grammar
-https://docs.python.org/3/reference/grammar.html
+https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+
+
+https://hynek.me/articles/python-app-deps-2018/
+https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip
+https://wiki.python.org/psf/Pip2020DonorFundedRoadmap
+https://github.com/pypa/pip/
+https://github.com/pypa/pip/projects/5
+https://github.com/pypa/pip/issues/988
+https://pradyunsg.me/blog/2019/06/23/oss-update-1/
 
 
 https://github.com/RalfG/python-wheels-manylinux-build
@@ -104,6 +119,8 @@ https://twitter.com/awbjs/status/1260976210936389632
 https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
 Ruby and Rust
 https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
+
+https://github.com/PyO3/pyo3
 
 CPython API
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
