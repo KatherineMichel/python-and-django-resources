@@ -10,6 +10,23 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+
+https://cython.org/ | Cython: C-Extensions for Python
+
+https://pypi.org/ | PyPI · The Python Package Index
+
+https://devguide.python.org/grammar/ | 24. Changing CPython’s Grammar — Python Developer's Guide
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
+https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
+https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm | Non-deterministic Finite Automaton - Tutorialspoint
+https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
+
+https://martinheinz.dev/blog/13 | Martin Heinz - Personal Website & Blog
+
+https://www.pagetable.com/?p=1397 | Ultimate C64 Memory Map – pagetable.com
+https://digitalmars.com/articles/b90.html | The Naked Truth About Writing a Programming Language - Digital Mars
+
+
 https://docs.brew.sh/Homebrew-and-Python
 
 https://github.com/pycon-mentored-sprints/mentored-sprints-website
