@@ -21,6 +21,7 @@ https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter
 https://pypi.org/ | PyPI · The Python Package Index
 
 https://www.tiobe.com/tiobe-index/ | index | TIOBE - The Software Quality Company
+https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
 
 Making Python Programs Blazingly Fast
 https://martinheinz.dev/blog/13 | Martin Heinz - Personal Website & Blog
