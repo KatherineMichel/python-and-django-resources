@@ -10,18 +10,23 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
+https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4LVIQEOM2HRPSAFXBJKDTEBZ2Z5R/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b1 is now available for testing - python-committers - python.org
 
-https://cython.org/ | Cython: C-Extensions for Python
+https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Twitter: "Concept of "first-party package" is new to me. This means officially endorsed by the PSF / CPython devs?" / Twitter
+
+Łukasz
+https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter: "If I wrote "show notes" for the #Python #AsyncIO video series, I would aim at something like this. (This would be specifically Episode 3 material.)" / Twitter
+
 
 https://pypi.org/ | PyPI · The Python Package Index
 
-https://devguide.python.org/grammar/ | 24. Changing CPython’s Grammar — Python Developer's Guide
-https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
-https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
-https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm | Non-deterministic Finite Automaton - Tutorialspoint
-https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
+https://www.tiobe.com/tiobe-index/ | index | TIOBE - The Software Quality Company
 
+Making Python Programs Blazingly Fast
 https://martinheinz.dev/blog/13 | Martin Heinz - Personal Website & Blog
+
+Why is Python Slow?
+https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
 
 https://www.pagetable.com/?p=1397 | Ultimate C64 Memory Map – pagetable.com
 https://digitalmars.com/articles/b90.html | The Naked Truth About Writing a Programming Language - Digital Mars
@@ -57,13 +62,17 @@ https://python-sprints.github.io/london/2018/09/18/first-anniversary.html | Pyth
 https://www.pandanistas.org/announcing-berlin-2020-pandas-documentation-sprint.html
 https://twitter.com/davidism/status/1252234546466054151 | David Lord on Twitter: "No donuts for this remote #pycon2020 #PalletsSprint, but I'm online now to answer questions and review PRs for Flask, Jinja, Click, etc. All skill levels welcome, there's plenty of different issues to work on! https://t.co/iHkjne2BnB" / Twitter
 
+PyLadies
+https://twitter.com/DrCatNelson/status/1263233262589054976 | Catherine Nelson on Twitter: "This was so much fun! Our panelists all had tons of useful advice and fun thoughts to share. Looking forward to more online events with @PyLadiesSEA!" / Twitter
 https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About Python: A PyLadies Panel Discussion | Meetup
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
 
-Why is Python Slow?
-https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
+PSF
+https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
+https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
 
-https://lwn.net/SubscriberLink/820424/172e6da006687167/
+
+https://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html | Python Software Foundation News: Call for Volunteers! Python GitHub Migration Work Group
 
 http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
 http://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html
@@ -85,17 +94,19 @@ https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91
 
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 https://docs.python.org/3/reference/grammar.html
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+https://devguide.python.org/grammar/ | 24. Changing CPython’s Grammar — Python Developer's Guide
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
 
 https://en.wikipedia.org/wiki/Comparison_of_parser_generators
 https://en.wikipedia.org/wiki/Parsing_expression_grammar
 https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm | Non-deterministic Finite Automaton - Tutorialspoint
 https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 
 
 https://hynek.me/articles/python-app-deps-2018/
+
+pip
 https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip
 https://wiki.python.org/psf/Pip2020DonorFundedRoadmap
 https://github.com/pypa/pip/
@@ -106,6 +117,7 @@ https://pradyunsg.me/blog/2019/06/23/oss-update-1/
 
 https://github.com/RalfG/python-wheels-manylinux-build
 https://github.com/pypa/manylinux
+https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
 
 Windows
 https://github.com/zooba
@@ -137,13 +149,20 @@ https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
 Ruby and Rust
 https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
 
+Subinterpreters for Python
+https://lwn.net/SubscriberLink/820424/172e6da006687167/
+
 https://github.com/PyO3/pyo3
 
 CPython API
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
 
+Cython
+https://cython.org/ | Cython: C-Extensions for Python
+https://github.com/paulross/NotesOnCython | paulross/NotesOnCython: Some notes on using Cython to increase the performance of Python code.
+
 C-extensions, HPy, EPython
-https://github.com/pyhandle/hpy
+https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
 "The PEP summarizes the research work I'm doing on CPython C API since 2017 and the changes that me and others made since Python 3.7 towards an opaque C API. It is also a collaboration with developers of PyPy, HPy, Rust-CPython and many others! Thanks to everyone who helped me!"
 https://twitter.com/VictorStinner/status/1248666328984059905
 "HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
@@ -185,7 +204,11 @@ https://github.com/palantir/python-language-server | palantir/python-language-se
 "In @ChatDjango episode 16 - “Django Admin” you mentioned you wanted to do a video series whiteboarding the models for famous websites. "
 https://twitter.com/Chris2Brooks/status/1257636370476130305
 
-Spanish Translation
+Python in Spanish
+https://docs.python.org/es/3.8/ | 3.8.3 Documentation
+https://twitter.com/reydelhumo/status/1261967982160461824 | humitos on Twitter: "¿Te gustaría colaborar con la #Traducción de la documentación oficial de #Python al #Español? ¡Nos puedes ayudar haciendo Reviews! ¡Tenemos 40 Pull Request abiertas en este momento! ¡No damos abasto! https://t.co/BJHM33owuD" / Twitter
+https://twitter.com/gilgamezh/status/1263528988938579970 | GiLgAmEzH 💚 on Twitter: "The @ThePSF CoC is now translated to Spanish 😊 by the python-doc-es workgroup /// El Código de conducta de la @ThePSF está ahora disponible en español por el equipo de trabajo de Python-doc-es https://t.co/4cshSEOifA" / Twitter
+https://github.com/PyCampES/python-docs-es/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc | Pull Requests · PyCampES/python-docs-es
 https://www.python.org/dev/peps/pep-0545/#add-translation-to-the-language-switcher | PEP 545 -- Python Documentation Translations | Python.org
 https://twitter.com/webology/status/1258755230780600320 | Jeff says, "wash your hands" 🧼👏 on Twitter: "🗣 if you are fluent in Spanish or if Spanish is your first language, this is a great way to help contribute if you have free cycles. https://t.co/l2KtTJM0mY" / Twitter
 
@@ -313,6 +336,7 @@ https://github.com/zooba
 
 https://asvetlov.blogspot.com/ | Андрей Светлов
 
+https://ironfroggy-reads.tumblr.com/post/618561789855154176/my-little-pony-devops-is-magic | Ironfroggy Reads Things on The Internet | My Little Pony -- DevOps is Magic
 https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
 
 https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
