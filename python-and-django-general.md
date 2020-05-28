@@ -136,6 +136,18 @@ Python 2 EOL Websites
 Django and Python 3
 * [Django Packages Python 3](https://www.djangopackages.com/python3)
 
+## Python 2 or 3, Python 2 EoL
+
+Python 2 or 3
+* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
+
+Python 2 EOL Websites
+* [Python 3 Readiness](https://tiran.github.io/py3readiness)
+* [Python Readiness](https://pyreadiness.org)
+* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
+* [Python 3 Porting](http://python3porting.com)
+* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
+
 <!--
 https://twitter.com/llanga/status/1252274455138766848 | Łukasz Langa on Twitter: "The last ever release of Python 2.7 is now officially out. Python 2 is no longer supported by the core team. This marks the end of an era. There was supposed to be a party at @PyCon right now. 2.7 was a real good release. We'll honor it by keeping releasing even better ones. https://t.co/L9Gr1HLj7B" / Twitter
 
@@ -167,6 +179,38 @@ https://snarky.ca/my-experience-creating-caniusepython3/
 https://pypi.org/project/caniusepython3/
 
 https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
+-->
+
+<!--
+https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
+
+https://github.blog/changelog/2020-02-27-github-actions-breaking-change-python-2-being-removed-from-all-virtual-environments/ | GitHub Actions Breaking Change: Python 2 being removed from all virtual environments - The GitHub Blog
+
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+
+https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
+https://pypi.org/project/modernize/ | modernize · PyPI
+
+Python 2 to 3
+https://docs.python.org/3/howto/pyporting.html
+
+Cheat Sheets
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
+http://python-future.org/compatible_idioms.html
+https://python-future.org/quickstart.html
+http://python-future.org/futurize.html#forwards-conversion-stage2
+https://python-future.org/quickstart.html#installation
+Python 3.1
+http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
+https://pybit.es/python-porting.html
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+https://python-future.org/futurize.html | futurize: Py2 to Py2/3 — Python-Future documentation
+http://python-future.org/futurize_cheatsheet.html | futurize quick-start guide — Python-Future documentation
+https://python-future.org/quickstart.html#to-convert-existing-python-2-code | Quick-start guide — Python-Future documentation
+http://python-future.org/changelog.html#newobject-base-object-defines-fallback-py2-compatible-special-methods | Changes in previous versions — Python-Future documentation
+
 
 Dropping Support
 https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
