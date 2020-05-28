@@ -68,6 +68,10 @@ https://twitter.com/DrCatNelson/status/1263233262589054976 | Catherine Nelson on
 https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About Python: A PyLadies Panel Discussion | Meetup
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
 
+Guido
+https://twitter.com/pythonbytes/status/1255908030266454017 | Python Bytes Podcast on Twitter: "Python news topics this week with special guest @gvanrossum and your usual hosts @brianokken and @mkennedy. Python Bytes #179 at https://t.co/B1VjOjRVvx" / Twitter
+https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes | Episode #179 Guido van Rossum drops in on Python Bytes - [Python Bytes Podcast]
+
 PSF
 https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
 https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
