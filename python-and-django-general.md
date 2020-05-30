@@ -154,6 +154,9 @@ Python 2 EOL Websites
 Packages for upgrading
 https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
+https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
+https://pypi.org/project/pyupgrade-docs/
+https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
 
 six
 https://pypi.org/project/six/ | six · PyPI
