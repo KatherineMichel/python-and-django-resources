@@ -18,7 +18,11 @@ https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Tw
 https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter: "If I wrote "show notes" for the #Python #AsyncIO video series, I would aim at something like this. (This would be specifically Episode 3 material.)" / Twitter
 
 
-https://pypi.org/ | PyPI · The Python Package Index
+Surveys
+https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
+https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
+
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
 https://www.tiobe.com/tiobe-index/ | index | TIOBE - The Software Quality Company
 https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
@@ -72,7 +76,10 @@ Guido
 https://twitter.com/pythonbytes/status/1255908030266454017 | Python Bytes Podcast on Twitter: "Python news topics this week with special guest @gvanrossum and your usual hosts @brianokken and @mkennedy. Python Bytes #179 at https://t.co/B1VjOjRVvx" / Twitter
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes | Episode #179 Guido van Rossum drops in on Python Bytes - [Python Bytes Podcast]
 
-PSF
+https://github.com/mritunjaysharma394/C-interpreter | mritunjaysharma394/C-interpreter: My personal playground to create a C-interpreter from scratch.
+
+https://twitter.com/WillingCarol/status/1265671563686248448 | Carol Willing on Twitter: "@llanga and I did this interview after the @dotpy_io conference was canceled in early March due to COVID19. Through the efforts of the Python Steering Council, @ThePSF, the core developers, the @pycon team, and so many more, I find optimism for our future. TY. @behind_thecode" / Twitter
+
 https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
 https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
 
@@ -109,27 +116,14 @@ https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automato
 https://en.wikipedia.org/wiki/Deterministic_finite_automaton
 
 
-https://hynek.me/articles/python-app-deps-2018/
-
-pip
-https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip
-https://wiki.python.org/psf/Pip2020DonorFundedRoadmap
-https://github.com/pypa/pip/
-https://github.com/pypa/pip/projects/5
-https://github.com/pypa/pip/issues/988
-https://pradyunsg.me/blog/2019/06/23/oss-update-1/
-
-Pipenv
-https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co | Next Pipenv Release - Google Groups
-
 Conda PyPy
 https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
 https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
 
-https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
-
 PyPy
 https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+
+https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
 
 
 https://github.com/RalfG/python-wheels-manylinux-build
