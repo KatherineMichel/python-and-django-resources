@@ -1,15 +1,19 @@
 # Python and Django Packages
 
 <!--
-Kenneth
-https://github.com/inishchith/autoenv
-
 gitvenv
 https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+Kenneth
+https://github.com/inishchith/autoenv
 
 Tools
 http://nixos.org
 https://github.com/NixOS/nix
+
+direnv
+https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
+https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
 
 https://pypi.org/project/check-manifest/
 
@@ -225,6 +229,8 @@ https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
 https://github.com/pypa/pipfile
 https://github.com/pypa/pipfile#the-concept
 
+https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
+
 pyproject.toml
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
 https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
@@ -250,8 +256,14 @@ https://packaging.python.org/tutorials/installing-packages/#creating-and-using-v
 
 venv, virtualenv and pyenv
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+
 https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 https://github.com/pyenv/pyenv-update
+
+pyenv
+https://twitter.com/webology/status/1206676626311917568 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "Same. If you run macOS and develop with Python, pyenv is the way to go IMO. https://t.co/9sy5GBtGIw" / Twitter
+https://twitter.com/webology/status/1199446555809460231 | 🍂 Jeff Triplett 🍂 on Twitter: "🐍 This is a great resource. 🐳 I'd love to see a 4th Docker version. 🎉 If you use macOS, I highly, highly recommend using pyenv to manage your Python version of you. It's on my "just use it" list when I work with any level of dev. https://t.co/R6uPyFbJDr" / Twitter
+https://www.marc-richter.info/using-pyenv-to-manage-your-python-interpreters/ | Using pyenv to manage your Python interpreters - Marc Richter's personal site
 
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 
@@ -276,6 +288,9 @@ https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future
 http://www.kennethreitz.org/essays/a-better-pip-workflow
 https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
 https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
+
+pipenv
+https://twitter.com/simonw/status/1211735682135101440 | Simon Willison on Twitter: "@llanga @webology That's the main reason I use pipenv - it keeps my virtual environments outside Dropbox for me" / Twitter
 
 Criticism of Poetry
 https://mobile.twitter.com/hynek/status/1226240842429616135
