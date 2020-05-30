@@ -123,8 +123,6 @@ https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
 PyPy
 https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
 
-https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
-
 
 https://github.com/RalfG/python-wheels-manylinux-build
 https://github.com/pypa/manylinux
