@@ -149,6 +149,21 @@ Python 2 EOL Websites
 * [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
 <!--
+## Python 2 or 3, Python 2 EoL
+
+Packages for upgrading
+https://github.com/asottile/pyupgrade
+https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
+
+six
+https://pypi.org/project/six/ | six · PyPI
+https://six.readthedocs.io/
+https://github.com/benjaminp/six
+
+django.utils.six
+https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
+https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
+
 https://twitter.com/llanga/status/1252274455138766848 | Łukasz Langa on Twitter: "The last ever release of Python 2.7 is now officially out. Python 2 is no longer supported by the core team. This marks the end of an era. There was supposed to be a party at @PyCon right now. 2.7 was a real good release. We'll honor it by keeping releasing even better ones. https://t.co/L9Gr1HLj7B" / Twitter
 
 Python 2 versus 3
@@ -196,21 +211,12 @@ https://docs.python.org/3/howto/pyporting.html
 
 Cheat Sheets
 http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
-http://python-future.org/compatible_idioms.html
-https://python-future.org/quickstart.html
-http://python-future.org/futurize.html#forwards-conversion-stage2
-https://python-future.org/quickstart.html#installation
 Python 3.1
 http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
 https://pybit.es/python-porting.html
 http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
 
 https://python-future.org/futurize.html | futurize: Py2 to Py2/3 — Python-Future documentation
-http://python-future.org/futurize_cheatsheet.html | futurize quick-start guide — Python-Future documentation
-https://python-future.org/quickstart.html#to-convert-existing-python-2-code | Quick-start guide — Python-Future documentation
-http://python-future.org/changelog.html#newobject-base-object-defines-fallback-py2-compatible-special-methods | Changes in previous versions — Python-Future documentation
-
 
 Dropping Support
 https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
