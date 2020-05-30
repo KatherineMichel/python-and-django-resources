@@ -1,8 +1,6 @@
 # Python and Django Packages
 
 <!--
-https://flit.readthedocs.io/en/latest/cmdline.html#flit-install
-
 Kenneth
 https://github.com/inishchith/autoenv
 
@@ -30,14 +28,11 @@ Pinax
 https://pypi.org/project/django-utils/ | django-utils · PyPI
 https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
 
-https://twitter.com/JackieKazil/status/1260594443419353089 | Jackie Kazil on Twitter: "@IanLee1521 @pydanny and I just chatted about this recently. I still use virtualenv but have been looking into poetry. Every time I have tried pipenv I have had problems so I gave up on it." / Twitter
+https://twitter.com/IanLee1521/status/1260437446728331268
 -->
 
 <!--
 https://twitter.com/di_codes/status/1253166894158417926 | Dustin Ingram on Twitter: "Today we merged support on @pypi for PEP 592, adding the ability to "yank" releases, and for installers to determine which releases have been "yanked"! Nice! ...but, uh, what is a "yanked" release, you might ask? (1\11)" / Twitter
-
-Packaging Project
-https://twitter.com/EWDurbin/status/1245461610027778049 | ernest w. durbin iii on Twitter: "kinda bummed. this awesome project that @nlhkabu has been spearheading for the @ThePSF packaging working group and @PyPI is more or less ready to launch but it’s April 1 and you never launch on April 1 😭" / Twitter
 
 PyPa Translations
 https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
@@ -239,7 +234,16 @@ https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way
 https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
 -->
 
-## Virtual Env
+## Virtualenv, Python and Django Dependency Management
+
+pipenv
+* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
+
+Others
+* [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
+* [Flit](https://flit.readthedocs.io/en/latest/)
+* [pipx](https://pipxproject.github.io/pipx/)
+* [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
 https://packaging.python.org/tutorials/installing-packages/#creating-and-using-virtual-environments
@@ -247,33 +251,21 @@ https://packaging.python.org/tutorials/installing-packages/#creating-and-using-v
 venv, virtualenv and pyenv
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
 https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
--->
+https://github.com/pyenv/pyenv-update
 
-## Python and Django Dependency Management
-
-pipenv
-* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
-
-Others
-* [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
-* [pipx](https://pipxproject.github.io/pipx/)
-* [Dephell GitHub](https://github.com/dephell/dephell)
-
-<!--
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-
-Pip problem
-https://github.com/pypa/pip/issues/7531#issuecomment-576686251 | Release 20.0 · Issue #7531 · pypa/pip
 
 pip grant
 https://mobile.twitter.com/di_codes/status/1193980331004743680
-https://twitter.com/jezdez/status/1202335326963994624 | Jannis Leidel on Twitter: "In which @ThePSF announces how it'll spend the grants from @Mozilla's MOSS and the Chan Zuckerberg Initiative on improving the user experience and rewriting the dependency resolver of pip! Roadmap: https://t.co/e9PVTSw1h4 https://t.co/JwuEGzBIgi" / Twitter
 
 pip
 https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
 https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs | pip install — pip 18.1 documentation
 https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
 https://pypi.org/project/pip/ | pip · PyPI
+
+Pip problem
+https://github.com/pypa/pip/issues/7531#issuecomment-576686251 | Release 20.0 · Issue #7531 · pypa/pip
 
 https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 
@@ -288,7 +280,6 @@ https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflo
 Criticism of Poetry
 https://mobile.twitter.com/hynek/status/1226240842429616135
 
-https://github.com/sdispater/poetry
 https://python-poetry.org/docs/pyproject/
 https://black.readthedocs.io/en/stable/pyproject_toml.html
 
