@@ -1,11 +1,9 @@
 # Python and Django Packages
 
 <!--
-Tools
-http://nixos.org
-https://github.com/NixOS/nix
-
 https://pypi.org/project/keyring/ | keyring · PyPI
+
+https://pypi.org/project/towncrier/
 
 Checks
 https://pypi.org/project/check-manifest/
