@@ -1,4 +1,4 @@
-# Python and Django- Contributing
+# Python and Django- Resources
 
 <!--
 Installing stuff
@@ -148,6 +148,7 @@ https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner ðŸ
 https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
 
 
+https://twitter.com/KatiMichel/status/1257133245864402945
 https://twitter.com/awbjs/status/1260976210936389632
 https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
 Ruby and Rust
