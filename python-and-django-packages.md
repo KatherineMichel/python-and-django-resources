@@ -228,7 +228,7 @@ https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml a
 ## Environment
 
 <!--
-gitvenv
+https://github.com/cans/gitvenv
 https://direnv.net/ | direnv – unclutter your .profile | direnv
 
 direnv
