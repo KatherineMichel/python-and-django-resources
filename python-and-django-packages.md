@@ -1,10 +1,6 @@
 # Python and Django Packages
 
 <!--
-https://pypi.org/project/keyring/ | keyring · PyPI
-
-https://pypi.org/project/towncrier/
-
 Checks
 https://pypi.org/project/check-manifest/
 https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
