@@ -1,55 +1,25 @@
 # Python and Django Packages
 
 <!--
-gitvenv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-Kenneth
-https://github.com/inishchith/autoenv
-
 Tools
 http://nixos.org
 https://github.com/NixOS/nix
 
-direnv
-https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
-https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
+https://pypi.org/project/keyring/ | keyring · PyPI
 
+Checks
 https://pypi.org/project/check-manifest/
+https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
 
 https://pypi.org/classifiers/ | Classifiers · PyPI
 https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
 https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
 
-Packaging
-https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
-
-Packaging
+Twine
 https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
+
+Setuptools
 https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
-
-Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
-
-https://twitter.com/IanLee1521/status/1260437446728331268
--->
-
-<!--
-https://twitter.com/di_codes/status/1253166894158417926 | Dustin Ingram on Twitter: "Today we merged support on @pypi for PEP 592, adding the ability to "yank" releases, and for installers to determine which releases have been "yanked"! Nice! ...but, uh, what is a "yanked" release, you might ask? (1\11)" / Twitter
-
-PyPa Translations
-https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
-https://twitter.com/di_codes/status/1176241499744296960
-
-https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
-
-TOML
-https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
-
-
-pip Study
-https://twitter.com/bernardtyers/status/1236039617222230017
 
 https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
 
@@ -64,7 +34,22 @@ https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Pyt
 
 https://packaging.python.org/tutorials/distributing-packages/#project-urls
 
-https://pypi.org/project/keyring/ | keyring · PyPI
+https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
+
+Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
+
+Virtualenv
+https://twitter.com/IanLee1521/status/1260437446728331268
+
+pip Study
+https://twitter.com/bernardtyers/status/1236039617222230017
+
+TOML
+https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
+https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
+
 
 Kenneth
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
@@ -76,7 +61,7 @@ https://twitter.com/mariatta/status/1218232806163107841
 https://twitter.com/brettsky/status/1218293642877534209
 https://github.com/pypa/gh-action-pypi-publish/issues/2 | Add a usage guide to packaging.python.org · Issue #2 · pypa/gh-action-pypi-publish
 
-https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
+https://twitter.com/di_codes/status/1253166894158417926 | Dustin Ingram on Twitter: "Today we merged support on @pypi for PEP 592, adding the ability to "yank" releases, and for installers to determine which releases have been "yanked"! Nice! ...but, uh, what is a "yanked" release, you might ask? (1\11)" / Twitter
 
 Scam
 urllib3
@@ -238,6 +223,20 @@ https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
 https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
 https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
 https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
+-->
+
+## Environment
+
+<!--
+gitvenv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+direnv
+https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
+https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
+
+Kenneth
+https://github.com/inishchith/autoenv
 -->
 
 ## Virtualenv, Python and Django Dependency Management
