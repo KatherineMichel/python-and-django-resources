@@ -14,15 +14,10 @@ https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4
 
 https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Twitter: "Concept of "first-party package" is new to me. This means officially endorsed by the PSF / CPython devs?" / Twitter
 
-Łukasz
-https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter: "If I wrote "show notes" for the #Python #AsyncIO video series, I would aim at something like this. (This would be specifically Episode 3 material.)" / Twitter
-
 
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
 https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
-
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
 https://www.tiobe.com/tiobe-index/ | index | TIOBE - The Software Quality Company
 https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
@@ -213,6 +208,10 @@ https://github.com/palantir/python-language-server | palantir/python-language-se
 "In @ChatDjango episode 16 - “Django Admin” you mentioned you wanted to do a video series whiteboarding the models for famous websites. "
 https://twitter.com/Chris2Brooks/status/1257636370476130305
 
+PyPa Translations
+https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
+https://twitter.com/di_codes/status/1176241499744296960
+
 Python in Spanish
 https://docs.python.org/es/3.8/ | 3.8.3 Documentation
 https://twitter.com/reydelhumo/status/1261967982160461824 | humitos on Twitter: "¿Te gustaría colaborar con la #Traducción de la documentación oficial de #Python al #Español? ¡Nos puedes ayudar haciendo Reviews! ¡Tenemos 40 Pull Request abiertas en este momento! ¡No damos abasto! https://t.co/BJHM33owuD" / Twitter
@@ -231,8 +230,6 @@ https://macwright.org/2020/05/10/spa-fatigue.html | Second-guessing the modern w
 Django Core
 https://www.vinta.com.br/blog/2017/contributing-hugh-lib
 
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-
 https://www.reddit.com/r/Python/comments/6ug04h/who_maintains_pypi_and_where_and_by_whom_is_it/ | Who maintains PyPI and where and by whom is it hosted? : Python
 
 Encode
@@ -242,6 +239,8 @@ https://www.encode.io/reports/march-2020 | March 2020 - Encode
 https://www.encode.io/reports/april-2020
 https://twitter.com/_tomchristie/status/1256210735056785409
 
+Łukasz
+https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter: "If I wrote "show notes" for the #Python #AsyncIO video series, I would aim at something like this. (This would be specifically Episode 3 material.)" / Twitter
 https://tutorial.edgedb.com/
 https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
 https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
@@ -278,16 +277,7 @@ Guido PEP
 https://github.com/python/cpython/pull/18239 | bpo-39481: Implementation for PEP 585 by gvanrossum · Pull Request #18239 · python/cpython
 
 
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-
 https://salt.tips/upgrading-salt-to-python-3/ | Upgrading Salt to Python 3 🧂 Salt Tips
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
 
 
 Python
@@ -334,6 +324,7 @@ hugs.python.org
 Big Query
 https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Index on Twitter: "Have you built something interesting using the PyPI Big Query public dataset? Drop us a line at bigquery-feedback@pypi.org. We'd like to preview some upcoming changes and maybe feature your project in the announcement. https://t.co/sBfT9K4utG" / Twitter
 -->
+
 
 ## Authorities
 
