@@ -43,12 +43,14 @@ https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/401
 PyCon
 https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
 
-Language Summit
+Python Language Summit
 https://us.pycon.org/2020/events/languagesummit/
 https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
 https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
 https://github.com/Zac-HD/stdlib-property-tests
 http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
+
+https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
 
 Python Language Summit
 https://twitter.com/mariatta/status/1250121466835644416 | Mariatta 🤦 on Twitter: "Getting excited for the first ever remote Python Language Summit tomorrow!! We have timezone problems to deal with and discussion with 50 very opinionated people is gonna be a challenge. But, we're able to include folks who normally couldn't attend the summit in person😃🌏🌎🌍🐍" / Twitter
@@ -337,14 +339,7 @@ https://github.com/zooba
 
 https://asvetlov.blogspot.com/ | Андрей Светлов
 
-https://ironfroggy-reads.tumblr.com/post/618561789855154176/my-little-pony-devops-is-magic | Ironfroggy Reads Things on The Internet | My Little Pony -- DevOps is Magic
-https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
-
-https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
-
-Core
-http://www.blog.pythonlibrary.org/2020/04/06/pydev-of-the-week-pablo-galindo-salgado/ | PyDev of the Week: Pablo Galindo Salgado - The Mouse Vs. The Python
-
+Armin Ronacher
 http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/ | Be Careful with Python's New-Style String Format | Armin Ronacher's Thoughts and Writings
 
 Victor Stinner
@@ -353,13 +348,20 @@ https://vstinner.github.io/daemon-threads-python-finalization-python32.html | Da
 
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
-
 https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
 https://hynek.me/articles/testing-packaging/
 https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
 
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
+
+https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
+https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
+
+https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
+https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
+
+https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
 
 Important!
 https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
@@ -369,16 +371,14 @@ python -m pip install X
 https://twitter.com/mariatta/status/1217494274469548032
 https://twitter.com/mariatta/status/1189243515739561985
 
+https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
+https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/
+
+https://ironfroggy-reads.tumblr.com/post/618561789855154176/my-little-pony-devops-is-magic | Ironfroggy Reads Things on The Internet | My Little Pony -- DevOps is Magic
+https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
+
 http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html | Traps for the Unwary in Python’s Import System — Nick Coghlan's Python Notes 1.0 documentation
 http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html | Efficiently Exploiting Multiple Cores with Python — Nick Coghlan's Python Notes 1.0 documentation
-
-https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
-https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
-
-https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
-https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
-
-https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
 -->
 
 ## News
