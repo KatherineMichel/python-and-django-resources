@@ -374,19 +374,6 @@ https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/sa
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
-## Encode
-
-<!--
-https://www.encode.io/projects/
-
-Encode Typesystem
-https://twitter.com/webology/status/1227286423109279744
-
-https://www.encode.io/reports/july-2019/ | Encode
-http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
-https://discuss.encode.io/ | Encode
--->
-
 ## Static Typing
 
 Duck Typing
@@ -423,6 +410,12 @@ Django Static Typing Tools
 * [DEP Draft for Django Type Checking](https://github.com/django/deps/pull/65)
 
 <!--
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
 https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
 
 http://mypy-lang.org/
