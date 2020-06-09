@@ -15,6 +15,10 @@ https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4
 https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Twitter: "Concept of "first-party package" is new to me. This means officially endorsed by the PSF / CPython devs?" / Twitter
 
 
+PSF
+https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/jeff-triplett/ | Nominee for 2020 Python Software Foundation Board Election | Python.org
+https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/ | Nominees for 2020 Python Software Foundation Board Election | Python.org
+
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
 https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
