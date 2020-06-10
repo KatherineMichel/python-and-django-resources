@@ -1,49 +1,13 @@
 # Python and Django Packages
 
 <!--
-Checks
-https://pypi.org/project/check-manifest/
-https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
-
-https://pypi.org/classifiers/ | Classifiers · PyPI
-https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
-https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
-
-Twine
-https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
-
-Setuptools
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
-
-https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
-
-https://docs.python.org/3/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.6.4rc1 documentation
-https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
-https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
-https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
-
-https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
-https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
-
-https://packaging.python.org/tutorials/distributing-packages/#project-urls
-
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
-Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
 
 Virtualenv
 https://twitter.com/IanLee1521/status/1260437446728331268
 
 pip Study
 https://twitter.com/bernardtyers/status/1236039617222230017
-
-TOML
-https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
-https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
-
 
 Kenneth
 https://docs.python-guide.org/shipping/packaging/ | Packaging Your Code — The Hitchhiker's Guide to Python
@@ -71,6 +35,30 @@ Requirements pinning
 https://twitter.com/webology/status/1238674042338652161
 -->
 
+## Environment
+
+<!--
+https://en.wikipedia.org/wiki/Env | env - Wikipedia
+
+Django
+https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
+environs[django] - Google Search
+
+https://github.com/sloria/environs#usage-with-django
+
+https://github.com/cortesi/devd
+
+https://github.com/cans/gitvenv
+
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+direnv
+https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
+https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
+
+Kenneth
+https://github.com/inishchith/autoenv
+-->
 
 ## Governance
 
@@ -94,15 +82,6 @@ https://www.python.org/dev/peps/pep-0517/
 https://www.python.org/dev/peps/pep-0394/#recommendation
 -->
 
-## Packaging- Hosting
-
-Python- Packages/Libraries
-* [Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
- 
-TestPyPI
-* [TestPyPI](https://test.pypi.org)
-* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
-
 ## Packaging- How To
 
 Django
@@ -124,6 +103,50 @@ https://packaging.python.org/overview/ | An Overview of Packaging for Python —
 https://packaging.python.org/glossary/ | Glossary — Python Packaging User Guide
 
 https://packaging.python.org/tutorials/distributing-packages/ | Packaging and distributing projects
+-->
+
+## Key Projects
+
+<!--
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
+
+
+https://docs.python.org/3/tutorial/modules.html#packages | 6. Modules — Python 3.7.3rc1 documentation
+
+https://docs.python.org/3/distutils/introduction.html | 1. An Introduction to Distutils — Python 3.6.4rc1 documentation
+https://docs.python.org/3.1/distutils/uploading.html | 7. Uploading Packages to the Package Index — Python v3.1.5 documentation
+https://docs.python.org/3.6/distutils/packageindex.html#package-index | 6. The Python Package Index (PyPI) — Python 3.6.4rc1 documentation
+https://docs.python.org/3/distutils/sourcedist.html | 4. Creating a Source Distribution — Python 3.6.4rc1 documentation
+
+https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
+https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
+
+https://packaging.python.org/tutorials/distributing-packages/#project-urls
+-->
+
+<!--
+setup.py
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
+
+https://pypi.org/classifiers/ | Classifiers · PyPI
+https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
+https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
+
+Setuptools
+https://en.wikipedia.org/wiki/Setuptools
+https://pypi.org/project/setuptools/
+https://github.com/pypa/setuptools
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
+
+https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
+https://packaging.python.org/key_projects/#distutils
+
+https://packaging.python.org/key_projects/#wheel | Project Summaries — Python Packaging User Guide
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
 -->
 
 ## Packaging- Installing Packages
@@ -160,23 +183,14 @@ https://packaging.python.org/tutorials/packaging-projects/#wheels | Packaging Py
 https://pip.pypa.io/en/stable/reference/pip_wheel
 -->
 
-## Key Projects
+## Packaging- Hosting
 
-<!--
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
-https://en.wikipedia.org/wiki/Setuptools
-https://pypi.org/project/setuptools/
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
-
-https://packaging.python.org/guides/distributing-packages-using-setuptools/ | Packaging and distributing projects — Python Packaging User Guide
-
-https://packaging.python.org/key_projects/#setuptools | Project Summaries — Python Packaging User Guide
-https://packaging.python.org/key_projects/#distutils
-
-https://packaging.python.org/key_projects/#wheel | Project Summaries — Python Packaging User Guide
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
--->
+Python- Packages/Libraries
+* [Warehouse](https://pypi.org), [Warehouse GitHub](https://github.com/pypa/warehouse), and [Warehouse Read the Docs](https://warehouse.readthedocs.io)
+ 
+TestPyPI
+* [TestPyPI](https://test.pypi.org)
+* [Using TestPyPI](https://packaging.python.org/guides/using-testpypi)
 
 ## Packaging- Tools
 
@@ -188,16 +202,36 @@ Core Packaging Utilities
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io) 
 
+<!--
+Checks
+https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
+-->
+
 ## requirements.txt, pipfile, pyproject.toml, setup.py, setup,cfg
 
 <!--
+TOML
+https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
+https://github.com/toml-lang/toml
+https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
+
+pyproject.toml
+https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
+https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
+https://snarky.ca/what-the-heck-is-pyproject-toml/ | What the heck is pyproject.toml?
+
+https://github.com/carlosperate/awesome-pyproject | carlosperate/awesome-pyproject: An Awesome List of projects using the pyproject.toml Python configuration file.
+https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
+https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
+https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
+
+pyproject.toml : the future of Python packaging
+https://testandcode.com/52
+
 PEP 517 and 518 in Plain English
 https://medium.com/@grassfedcode/pep-517-and-518-in-plain-english-47208ca8b7a6
 https://www.python.org/dev/peps/pep-0517/
 https://www.python.org/dev/peps/pep-0518/
-
-pyproject.toml : the future of Python packaging
-https://testandcode.com/52
 
 Options
 The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
@@ -207,30 +241,6 @@ https://pip.pypa.io/en/stable/user_guide/#requirements-files
 https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
 https://github.com/pypa/pipfile
 https://github.com/pypa/pipfile#the-concept
-
-https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
-
-pyproject.toml
-https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
-https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
-https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
-https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
-https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
-https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
--->
-
-## Environment
-
-<!--
-https://github.com/cans/gitvenv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-direnv
-https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
-https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
-
-Kenneth
-https://github.com/inishchith/autoenv
 -->
 
 ## Virtualenv, Python and Django Dependency Management
