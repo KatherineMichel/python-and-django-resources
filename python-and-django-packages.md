@@ -1,6 +1,18 @@
 # Python and Django Packages
 
 <!--
+Pinax release docs
+`python setup.py test`
+https://github.com/pypa/setuptools/issues/931
+https://github.com/pytest-dev/pytest/issues/5534
+https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
+https://github.com/pypa/setuptools/issues/1684
+
+https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files
+https://github.com/pypa/sampleproject/blob/master/setup.cfg
+-->
+
+<!--
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
 
 Virtualenv
