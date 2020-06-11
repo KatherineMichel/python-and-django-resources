@@ -18,10 +18,17 @@ https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Tw
 PSF
 https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/jeff-triplett/ | Nominee for 2020 Python Software Foundation Board Election | Python.org
 https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/ | Nominees for 2020 Python Software Foundation Board Election | Python.org
+https://twitter.com/pganssle/status/1270056171861401601 | Paul Ganssle on Twitter: "The election for PSF Board of Directors is on, and I wanted to highlight a candidate who I'm afraid may be easy to overlook: my friend and setuptools co-maintainer Jason R. Coombs (@jaraco). I don't have a better forum for this statement, so I'll make this a thread:" / Twitter
 
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
 https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
+
+Ruby
+https://twitter.com/mojombo/status/1270727764073578502 | Tom Preston-Werner on Twitter: "In this podcast I dig a lot more into how @RedwoodJS is inspired by, but also quite critical of, Rails and how we’re using the framework to better guide you down the path toward long term maintainability. Have a listen or watch the video!" / Twitter
+
+PHP
+https://www.jetbrains.com/lp/php-25/ | 25 Years of PHP History | JetBrains: Developer Tools for Professionals and Teams
 
 https://www.tiobe.com/tiobe-index/ | index | TIOBE - The Software Quality Company
 https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
