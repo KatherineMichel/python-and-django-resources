@@ -1,6 +1,16 @@
 # Python and Django- Resources
 
 <!--
+https://snarky.ca/what-is-the-core-of-the-python-programming-language/ | What is the core of the Python programming language?
+https://www.youtube.com/watch?v=7MuQQQWVzU4&feature=emb_logo | Writing a PEG Parser For Fun and Profit - YouTube
+
+https://www.python.org/dev/peps/pep-0622/
+https://twitter.com/pganssle/status/1275822193499406337 | Paul Ganssle on Twitter: "I am already overwhelmed by the discussion thread on this: https://t.co/rYPqsIhtUw @gvanrossum's cautionary statement is proving prophetic: "I want to clarify that the design space for such a match statement is enormous."" / Twitter
+
+https://twitter.com/gvanrossum/status/1255874000321798144 | Guido van Rossum on Twitter: "Excited to see this happening! Timezones move into the stdlib. https://t.co/rn5RiMDpKp" / Twitter
+https://twitter.com/pganssle/status/1271878126235197440 | Paul Ganssle on Twitter: "I've been working on a new package to help libraries to cleanly drop pytz even if their users mightbe using pytz's interface. One of the last things I need to do before I can publish it is add a migration guide. Anyone interesting in reviewing? https://t.co/6DVerffYGJ" / Twitter
+
+
 Installing stuff
 https://opensource.com/article/19/5/python-3-default-mac
 https://installpython3.com/
