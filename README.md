@@ -1,6 +1,11 @@
 # Python and Django- Resources
 
 <!--
+https://www.python.org/dev/peps/pep-0394/#recommendation | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
+
+Eric Snow
+https://docs.google.com/presentation/d/16M3v1sEOJO0xoMW9qupAzyPsYLfseeWv9zXXAMee4aE/mobilepresent?slide=id.p
+
 https://wiki.python.org/moin/EuroPython2020/Sprints | EuroPython2020/Sprints - Python Wiki
 
 Edge
