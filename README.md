@@ -1,6 +1,11 @@
 # Python and Django- Resources
 
 <!--
+https://wiki.python.org/moin/EuroPython2020/Sprints | EuroPython2020/Sprints - Python Wiki
+
+Edge
+https://www.youtube.com/watch?v=-CzqsgaXUM8&feature=youtu.be | import asyncio: Learn Python's AsyncIO #3 - Using Coroutines - YouTub
+
 https://snarky.ca/what-is-the-core-of-the-python-programming-language/ | What is the core of the Python programming language?
 https://www.youtube.com/watch?v=7MuQQQWVzU4&feature=emb_logo | Writing a PEG Parser For Fun and Profit - YouTube
 
