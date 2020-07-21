@@ -1,6 +1,25 @@
 # Python and Django- Resources
 
 <!--
+https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html | Guía para contribuir en la traducción — Documentación de Python en Español -- 3.8.3
+https://twitter.com/reydelhumo/status/1282607529646796802 | humitos on Twitter: "¡Es oficial! ¡El #Español como idioma oficial de la documentación de #Python! Felicitaciones a todas las personas que están ayudando a que esto sea posible y acercar Python a más personas. ¡Vos también podés sumarte! #PythonDocsEs https://t.co/V7yJZpHh4U https://t.co/HSYdmtj2iO" / Twitter
+
+https://github.com/gvanrossum/patma | gvanrossum/patma: Pattern Matching
+https://twitter.com/facundobatista/status/1281246334964678656 | Facundo Batista 💚 on Twitter: "From @gvanrossum : """Today I’m happy (and a little trepidatious) to announce the next version of PEP 622, Pattern Matching. As authors we welcome Daniel F Moisset in our midst. """ Congrats @dmoisset !" / Twitter
+
+https://twitter.com/MariuszFelisiak/status/1285123181779591168 | Mariusz Felisiak on Twitter: "Try out the rc1 and help identify 🐛 before the 3️⃣.1️⃣ release📣" / Twitter
+
+Django History
+https://www.youtube.com/watch?v=wqii_iX0RTs&feature=emb_logo | Django Origins (and some things I have built with Django) - YouTube
+https://nedbatchelder.com/blog/200507/django.html | Ned Batchelder: Django
+https://twitter.com/simonw/status/1284125169229787136 | Simon Willison on Twitter: "15 years ago today on my blog: Introducing Django https://t.co/fABuSKQjKC" / Twitter
+
+History
+https://mobile.twitter.com/gvanrossum/status/1247288994502606849
+
+https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
+
+
 https://www.python.org/dev/peps/pep-0394/#recommendation | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
 
 Eric Snow
