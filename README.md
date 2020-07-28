@@ -1,8 +1,28 @@
 # Python and Django- Resources
 
 <!--
+Python history
+https://twitter.com/pauloxnet/status/1286708010308571137 | Paolo Melchiorre @ #EuroPython 2020 🇪🇺️ on Twitter: "@gvanrossum 🐍 at @europython 🇪🇺 suggested to read its "King's Day Speech" post. "... The Python user community is formed of millions of people who consciously use Python, and love using it ..." #EuroPython #EP2020 https://t.co/C2yMBgLYak https://t.co/63UdZ5jdzO" / Twitter
+
+Django
+https://twitter.com/MariuszFelisiak/status/1285883314998521856 | Mariusz Felisiak on Twitter: "Over 2️⃣0️⃣0️⃣0️⃣❕📢 folks contributed to Django🎉, thanks y'all🏆💪🌟" / Twitter
+
+https://github.com/psf/fundable-packaging-improvements | psf/fundable-packaging-improvements: Packaging improvements that could be funded
+
+Spanish
+https://github.com/python/python-docs-es | python/python-docs-es: Spanish translation of the Python documentation.
 https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html | Guía para contribuir en la traducción — Documentación de Python en Español -- 3.8.3
 https://twitter.com/reydelhumo/status/1282607529646796802 | humitos on Twitter: "¡Es oficial! ¡El #Español como idioma oficial de la documentación de #Python! Felicitaciones a todas las personas que están ayudando a que esto sea posible y acercar Python a más personas. ¡Vos también podés sumarte! #PythonDocsEs https://t.co/V7yJZpHh4U https://t.co/HSYdmtj2iO" / Twitter
+
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+Python
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/ | Static Typing in Python - Dustin Ingram
+
+https://anweshadas.in/how-to-upload-a-package-in-pypi-using-twine/ | How to upload a package in PyPI using twine ?
+Moshe
+https://orbifold.xyz/back-off.html | Orbifolds and Other Games - Hey, Back Off!
+
 
 https://github.com/gvanrossum/patma | gvanrossum/patma: Pattern Matching
 https://twitter.com/facundobatista/status/1281246334964678656 | Facundo Batista 💚 on Twitter: "From @gvanrossum : """Today I’m happy (and a little trepidatious) to announce the next version of PEP 622, Pattern Matching. As authors we welcome Daniel F Moisset in our midst. """ Congrats @dmoisset !" / Twitter
