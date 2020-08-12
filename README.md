@@ -1,64 +1,8 @@
 # Python and Django- Resources
 
 <!--
-Python history
-https://twitter.com/pauloxnet/status/1286708010308571137 | Paolo Melchiorre @ #EuroPython 2020 🇪🇺️ on Twitter: "@gvanrossum 🐍 at @europython 🇪🇺 suggested to read its "King's Day Speech" post. "... The Python user community is formed of millions of people who consciously use Python, and love using it ..." #EuroPython #EP2020 https://t.co/C2yMBgLYak https://t.co/63UdZ5jdzO" / Twitter
-
-Django
-https://twitter.com/MariuszFelisiak/status/1285883314998521856 | Mariusz Felisiak on Twitter: "Over 2️⃣0️⃣0️⃣0️⃣❕📢 folks contributed to Django🎉, thanks y'all🏆💪🌟" / Twitter
-
-https://github.com/psf/fundable-packaging-improvements | psf/fundable-packaging-improvements: Packaging improvements that could be funded
-
-Spanish
-https://github.com/python/python-docs-es | python/python-docs-es: Spanish translation of the Python documentation.
-https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html | Guía para contribuir en la traducción — Documentación de Python en Español -- 3.8.3
-https://twitter.com/reydelhumo/status/1282607529646796802 | humitos on Twitter: "¡Es oficial! ¡El #Español como idioma oficial de la documentación de #Python! Felicitaciones a todas las personas que están ayudando a que esto sea posible y acercar Python a más personas. ¡Vos también podés sumarte! #PythonDocsEs https://t.co/V7yJZpHh4U https://t.co/HSYdmtj2iO" / Twitter
-
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
-Python
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/ | Static Typing in Python - Dustin Ingram
-
-https://anweshadas.in/how-to-upload-a-package-in-pypi-using-twine/ | How to upload a package in PyPI using twine ?
-Moshe
-https://orbifold.xyz/back-off.html | Orbifolds and Other Games - Hey, Back Off!
-
-
-https://github.com/gvanrossum/patma | gvanrossum/patma: Pattern Matching
-https://twitter.com/facundobatista/status/1281246334964678656 | Facundo Batista 💚 on Twitter: "From @gvanrossum : """Today I’m happy (and a little trepidatious) to announce the next version of PEP 622, Pattern Matching. As authors we welcome Daniel F Moisset in our midst. """ Congrats @dmoisset !" / Twitter
-
-https://twitter.com/MariuszFelisiak/status/1285123181779591168 | Mariusz Felisiak on Twitter: "Try out the rc1 and help identify 🐛 before the 3️⃣.1️⃣ release📣" / Twitter
-
-Django History
-https://www.youtube.com/watch?v=wqii_iX0RTs&feature=emb_logo | Django Origins (and some things I have built with Django) - YouTube
-https://nedbatchelder.com/blog/200507/django.html | Ned Batchelder: Django
-https://twitter.com/simonw/status/1284125169229787136 | Simon Willison on Twitter: "15 years ago today on my blog: Introducing Django https://t.co/fABuSKQjKC" / Twitter
-
-History
-https://mobile.twitter.com/gvanrossum/status/1247288994502606849
-
-https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
-
-
-https://www.python.org/dev/peps/pep-0394/#recommendation | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
-
-Eric Snow
-https://docs.google.com/presentation/d/16M3v1sEOJO0xoMW9qupAzyPsYLfseeWv9zXXAMee4aE/mobilepresent?slide=id.p
-
-https://wiki.python.org/moin/EuroPython2020/Sprints | EuroPython2020/Sprints - Python Wiki
-
-Edge
-https://www.youtube.com/watch?v=-CzqsgaXUM8&feature=youtu.be | import asyncio: Learn Python's AsyncIO #3 - Using Coroutines - YouTub
-
-https://snarky.ca/what-is-the-core-of-the-python-programming-language/ | What is the core of the Python programming language?
-https://www.youtube.com/watch?v=7MuQQQWVzU4&feature=emb_logo | Writing a PEG Parser For Fun and Profit - YouTube
-
-https://www.python.org/dev/peps/pep-0622/
-https://twitter.com/pganssle/status/1275822193499406337 | Paul Ganssle on Twitter: "I am already overwhelmed by the discussion thread on this: https://t.co/rYPqsIhtUw @gvanrossum's cautionary statement is proving prophetic: "I want to clarify that the design space for such a match statement is enormous."" / Twitter
-
-https://twitter.com/gvanrossum/status/1255874000321798144 | Guido van Rossum on Twitter: "Excited to see this happening! Timezones move into the stdlib. https://t.co/rn5RiMDpKp" / Twitter
-https://twitter.com/pganssle/status/1271878126235197440 | Paul Ganssle on Twitter: "I've been working on a new package to help libraries to cleanly drop pytz even if their users mightbe using pytz's interface. One of the last things I need to do before I can publish it is add a migration guide. Anyone interesting in reviewing? https://t.co/6DVerffYGJ" / Twitter
-
+Mariatta
+https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
 
 Installing stuff
 https://opensource.com/article/19/5/python-3-default-mac
@@ -69,19 +13,19 @@ https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
 Upgrade Python version in pipenv
 https://github.com/pypa/pipenv/issues/2482
 
-https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4LVIQEOM2HRPSAFXBJKDTEBZ2Z5R/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b1 is now available for testing - python-committers - python.org
+https://docs.brew.sh/Homebrew-and-Python
 
-https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Twitter: "Concept of "first-party package" is new to me. This means officially endorsed by the PSF / CPython devs?" / Twitter
-
-
-PSF
-https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/jeff-triplett/ | Nominee for 2020 Python Software Foundation Board Election | Python.org
-https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/ | Nominees for 2020 Python Software Foundation Board Election | Python.org
-https://twitter.com/pganssle/status/1270056171861401601 | Paul Ganssle on Twitter: "The election for PSF Board of Directors is on, and I wanted to highlight a candidate who I'm afraid may be easy to overlook: my friend and setuptools co-maintainer Jason R. Coombs (@jaraco). I don't have a better forum for this statement, so I'll make this a thread:" / Twitter
+https://twitter.com/simonw/status/1292956056054722561 | Simon Willison on Twitter: "I've been having problems with @MacHomebrew and Python recently: I upgrade some brew application, which upgrades my Python version, which breaks all of my existing virtual environments I can fix it when it happens, but it makes me scared to recommend brew for Python beginners :/" / Twitter
 
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
 https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
+
+https://twitter.com/KatiMichel/status/1257133245864402945
+https://twitter.com/awbjs/status/1260976210936389632
+https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
+Ruby and Rust
+https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
 
 Ruby
 https://twitter.com/mojombo/status/1270727764073578502 | Tom Preston-Werner on Twitter: "In this podcast I dig a lot more into how @RedwoodJS is inspired by, but also quite critical of, Rails and how we’re using the framework to better guide you down the path toward long term maintainability. Have a listen or watch the video!" / Twitter
@@ -101,70 +45,36 @@ https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
 https://www.pagetable.com/?p=1397 | Ultimate C64 Memory Map – pagetable.com
 https://digitalmars.com/articles/b90.html | The Naked Truth About Writing a Programming Language - Digital Mars
 
+Stats
+https://twitter.com/MariuszFelisiak/status/1285883314998521856 | Mariusz Felisiak on Twitter: "Over 2️⃣0️⃣0️⃣0️⃣❕📢 folks contributed to Django🎉, thanks y'all🏆💪🌟" / Twitter
 
-https://docs.brew.sh/Homebrew-and-Python
+https://twitter.com/MariuszFelisiak/status/1285123181779591168 | Mariusz Felisiak on Twitter: "Try out the rc1 and help identify 🐛 before the 3️⃣.1️⃣ release📣" / Twitter
+https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4LVIQEOM2HRPSAFXBJKDTEBZ2Z5R/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b1 is now available for testing - python-committers - python.org
 
-https://github.com/pycon-mentored-sprints/mentored-sprints-website
+https://github.com/python/cpython/pulls | Pull requests · python/cpython
+https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
+CPython
 
-Python Steering Committee
-https://www.youtube.com/watch?v=xX8fGuh4T_o&feature=youtu.be
-https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
+Python history
+https://twitter.com/pauloxnet/status/1286708010308571137 | Paolo Melchiorre @ #EuroPython 2020 🇪🇺️ on Twitter: "@gvanrossum 🐍 at @europython 🇪🇺 suggested to read its "King's Day Speech" post. "... The Python user community is formed of millions of people who consciously use Python, and love using it ..." #EuroPython #EP2020 https://t.co/C2yMBgLYak https://t.co/63UdZ5jdzO" / Twitter
+https://mobile.twitter.com/gvanrossum/status/1247288994502606849
 
-PyCon
-https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
+Django History
+https://www.youtube.com/watch?v=wqii_iX0RTs&feature=emb_logo | Django Origins (and some things I have built with Django) - YouTube
+https://nedbatchelder.com/blog/200507/django.html | Ned Batchelder: Django
+https://twitter.com/simonw/status/1284125169229787136 | Simon Willison on Twitter: "15 years ago today on my blog: Introducing Django https://t.co/fABuSKQjKC" / Twitter
 
-Python Language Summit
-https://us.pycon.org/2020/events/languagesummit/
-https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
-https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
-https://github.com/Zac-HD/stdlib-property-tests
-http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
+PSF Funding
+https://github.com/psf/fundable-packaging-improvements | psf/fundable-packaging-improvements: Packaging improvements that could be funded
+https://www.youtube.com/watch?v=EyhosW2ZeaE&list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB&index=9&t=0s | "Apply for Grants to Fund Open Source Work" - Sumana Harihareswara - YouTube
 
-https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
-
-Python Language Summit
-https://twitter.com/mariatta/status/1250121466835644416 | Mariatta 🤦 on Twitter: "Getting excited for the first ever remote Python Language Summit tomorrow!! We have timezone problems to deal with and discussion with 50 very opinionated people is gonna be a challenge. But, we're able to include folks who normally couldn't attend the summit in person😃🌏🌎🌍🐍" / Twitter
-https://twitter.com/mariatta/status/1250511012144377856 | Mariatta 🤦 on Twitter: "Day 1 of the remote Python Language Summit just wrapped up, and I think it went really great! 😃 Quick summary: - 51 attendees - from various countries 🌏🌎🌍 - representatives from: CPython, Jython, PyPy, MicroPython, CircuitPython, Django, PSF, docs, PyPA, etc" / Twitter
-https://twitter.com/Aeros1415/status/1252186891488821249 | Kyle Stanley on Twitter: "The Python Language Summit was a very exciting and unique experience that I was glad to be a part of for the first time. Although a remote summit was not quite the same as in person one, @mariatta and @llanga did a fantastic job of hosting it! https://t.co/6sA8ife0oG" / Twitter
-https://twitter.com/VictorStinner/status/1251440897012781057 | Victor Stinner on Twitter: ""Group photo" of the first day of the Python Language Summit. It was a new experience for me: meeting with 50 people with video. The text chat and questions on https://t.co/O7Vb2cyBGS went well. The difficult part for me was to not fall asleep the second day (1:00am to 5:00am)! https://t.co/EN1PlKmqbB" / Twitter
-https://twitter.com/mariatta/status/1251158864411586560 | Mariatta 🤦 on Twitter: "Some thoughts re: online/remote Python language summit vs in person (50 people): - the Chat feature within the video conferencing app allows for more asynchronous discussions and Q&amp;A, I think more people get to comment and share their thoughts this way" / Twitter
-
-Sprint
-https://python-sprints.github.io/london/2018/09/18/first-anniversary.html | Python Sprints - First anniversary sprint
-https://www.pandanistas.org/announcing-berlin-2020-pandas-documentation-sprint.html
-https://twitter.com/davidism/status/1252234546466054151 | David Lord on Twitter: "No donuts for this remote #pycon2020 #PalletsSprint, but I'm online now to answer questions and review PRs for Flask, Jinja, Click, etc. All skill levels welcome, there's plenty of different issues to work on! https://t.co/iHkjne2BnB" / Twitter
-
-PyLadies
-https://twitter.com/DrCatNelson/status/1263233262589054976 | Catherine Nelson on Twitter: "This was so much fun! Our panelists all had tons of useful advice and fun thoughts to share. Looking forward to more online events with @PyLadiesSEA!" / Twitter
-https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About Python: A PyLadies Panel Discussion | Meetup
-https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
-
-Guido
-https://twitter.com/pythonbytes/status/1255908030266454017 | Python Bytes Podcast on Twitter: "Python news topics this week with special guest @gvanrossum and your usual hosts @brianokken and @mkennedy. Python Bytes #179 at https://t.co/B1VjOjRVvx" / Twitter
-https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes | Episode #179 Guido van Rossum drops in on Python Bytes - [Python Bytes Podcast]
+pip
+https://twitter.com/ChangesetLLC/status/1291062082574704649 | Changeset Consulting on Twitter: "There is a big change coming to pip in October -- a watershed moment, a minor revolution. It'll be a great foundation for making it easier to deal with #Python packaging. This is a thread where I'll share some of the stuff @ThePyPA can build on that foundation. https://t.co/JGqVy21Dnp" / Twitter
 
 https://github.com/mritunjaysharma394/C-interpreter | mritunjaysharma394/C-interpreter: My personal playground to create a C-interpreter from scratch.
 
-https://twitter.com/WillingCarol/status/1265671563686248448 | Carol Willing on Twitter: "@llanga and I did this interview after the @dotpy_io conference was canceled in early March due to COVID19. Through the efforts of the Python Steering Council, @ThePSF, the core developers, the @pycon team, and so many more, I find optimism for our future. TY. @behind_thecode" / Twitter
-
-https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
-https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
-
-
-https://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html | Python Software Foundation News: Call for Volunteers! Python GitHub Migration Work Group
-
-http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
-http://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html
-
-Async views in Django
-https://twitter.com/gregkaleka/status/1260980433874898947
-https://docs.djangoproject.com/en/dev/releases/3.1/
-
-https://twitter.com/pganssle/status/1256639155351752704
-https://twitter.com/maidotgimenez/status/1255879572395982850
-"Excited to see this happening! Timezones move into the stdlib."
-https://twitter.com/gvanrossum/status/1255874000321798144
-
+https://snarky.ca/what-is-the-core-of-the-python-programming-language/ | What is the core of the Python programming language?
+https://www.youtube.com/watch?v=7MuQQQWVzU4&feature=emb_logo | Writing a PEG Parser For Fun and Profit - YouTube
 
 https://twitter.com/pyblogsal/status/1261725040032309248
 https://www.python.org/dev/peps/pep-0617/
@@ -181,6 +91,92 @@ https://en.wikipedia.org/wiki/Parsing_expression_grammar
 https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
 https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm | Non-deterministic Finite Automaton - Tutorialspoint
 https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+
+Pattern matching
+https://www.python.org/dev/peps/pep-0622/
+https://github.com/gvanrossum/patma | gvanrossum/patma: Pattern Matching
+https://twitter.com/facundobatista/status/1281246334964678656 | Facundo Batista 💚 on Twitter: "From @gvanrossum : """Today I’m happy (and a little trepidatious) to announce the next version of PEP 622, Pattern Matching. As authors we welcome Daniel F Moisset in our midst. """ Congrats @dmoisset !" / Twitter
+https://twitter.com/pganssle/status/1275822193499406337 | Paul Ganssle on Twitter: "I am already overwhelmed by the discussion thread on this: https://t.co/rYPqsIhtUw @gvanrossum's cautionary statement is proving prophetic: "I want to clarify that the design space for such a match statement is enormous."" / Twitter
+
+Async views in Django
+https://twitter.com/gregkaleka/status/1260980433874898947
+https://docs.djangoproject.com/en/dev/releases/3.1/
+
+Timezones
+https://twitter.com/gvanrossum/status/1255874000321798144 | Guido van Rossum on Twitter: "Excited to see this happening! Timezones move into the stdlib. https://t.co/rn5RiMDpKp" / Twitter
+https://twitter.com/pganssle/status/1271878126235197440 | Paul Ganssle on Twitter: "I've been working on a new package to help libraries to cleanly drop pytz even if their users mightbe using pytz's interface. One of the last things I need to do before I can publish it is add a migration guide. Anyone interesting in reviewing? https://t.co/6DVerffYGJ" / Twitter
+
+https://twitter.com/pganssle/status/1256639155351752704
+https://twitter.com/maidotgimenez/status/1255879572395982850
+"Excited to see this happening! Timezones move into the stdlib."
+https://twitter.com/gvanrossum/status/1255874000321798144
+
+https://www.python.org/dev/peps/pep-0394/#recommendation | PEP 394 -- The "python" Command on Unix-Like Systems | Python.org
+
+https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Twitter: "Concept of "first-party package" is new to me. This means officially endorsed by the PSF / CPython devs?" / Twitter
+
+
+Sprints
+https://github.com/pycon-mentored-sprints/mentored-sprints-website
+https://wiki.python.org/moin/EuroPython2020/Sprints | EuroPython2020/Sprints - Python Wiki
+Sprint
+https://python-sprints.github.io/london/2018/09/18/first-anniversary.html | Python Sprints - First anniversary sprint
+https://www.pandanistas.org/announcing-berlin-2020-pandas-documentation-sprint.html
+https://twitter.com/davidism/status/1252234546466054151 | David Lord on Twitter: "No donuts for this remote #pycon2020 #PalletsSprint, but I'm online now to answer questions and review PRs for Flask, Jinja, Click, etc. All skill levels welcome, there's plenty of different issues to work on! https://t.co/iHkjne2BnB" / Twitter
+
+
+https://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html | Python Software Foundation News: Call for Volunteers! Python GitHub Migration Work Group
+
+http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
+http://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html
+
+Board Election
+https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
+https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
+
+Nominees
+https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/jeff-triplett/ | Nominee for 2020 Python Software Foundation Board Election | Python.org
+https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/ | Nominees for 2020 Python Software Foundation Board Election | Python.org
+https://twitter.com/pganssle/status/1270056171861401601 | Paul Ganssle on Twitter: "The election for PSF Board of Directors is on, and I wanted to highlight a candidate who I'm afraid may be easy to overlook: my friend and setuptools co-maintainer Jason R. Coombs (@jaraco). I don't have a better forum for this statement, so I'll make this a thread:" / Twitter
+
+
+Python Steering Committee
+https://www.youtube.com/watch?v=xX8fGuh4T_o&feature=youtu.be
+https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
+
+PyCon
+https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
+
+Python Language Summit
+https://us.pycon.org/2020/events/languagesummit/
+https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
+https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
+https://github.com/Zac-HD/stdlib-property-tests
+http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
+
+Eric Snow- Multicore
+https://docs.google.com/presentation/d/16M3v1sEOJO0xoMW9qupAzyPsYLfseeWv9zXXAMee4aE/mobilepresent?slide=id.p
+
+https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
+
+Python Language Summit
+https://twitter.com/mariatta/status/1250121466835644416 | Mariatta 🤦 on Twitter: "Getting excited for the first ever remote Python Language Summit tomorrow!! We have timezone problems to deal with and discussion with 50 very opinionated people is gonna be a challenge. But, we're able to include folks who normally couldn't attend the summit in person😃🌏🌎🌍🐍" / Twitter
+https://twitter.com/mariatta/status/1250511012144377856 | Mariatta 🤦 on Twitter: "Day 1 of the remote Python Language Summit just wrapped up, and I think it went really great! 😃 Quick summary: - 51 attendees - from various countries 🌏🌎🌍 - representatives from: CPython, Jython, PyPy, MicroPython, CircuitPython, Django, PSF, docs, PyPA, etc" / Twitter
+https://twitter.com/Aeros1415/status/1252186891488821249 | Kyle Stanley on Twitter: "The Python Language Summit was a very exciting and unique experience that I was glad to be a part of for the first time. Although a remote summit was not quite the same as in person one, @mariatta and @llanga did a fantastic job of hosting it! https://t.co/6sA8ife0oG" / Twitter
+https://twitter.com/VictorStinner/status/1251440897012781057 | Victor Stinner on Twitter: ""Group photo" of the first day of the Python Language Summit. It was a new experience for me: meeting with 50 people with video. The text chat and questions on https://t.co/O7Vb2cyBGS went well. The difficult part for me was to not fall asleep the second day (1:00am to 5:00am)! https://t.co/EN1PlKmqbB" / Twitter
+https://twitter.com/mariatta/status/1251158864411586560 | Mariatta 🤦 on Twitter: "Some thoughts re: online/remote Python language summit vs in person (50 people): - the Chat feature within the video conferencing app allows for more asynchronous discussions and Q&amp;A, I think more people get to comment and share their thoughts this way" / Twitter
+
+PyLadies
+https://twitter.com/DrCatNelson/status/1263233262589054976 | Catherine Nelson on Twitter: "This was so much fun! Our panelists all had tons of useful advice and fun thoughts to share. Looking forward to more online events with @PyLadiesSEA!" / Twitter
+https://www.meetup.com/Seattle-PyLadies/events/270466637/ | What We Love About Python: A PyLadies Panel Discussion | Meetup
+https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes
+
+Guido
+https://twitter.com/pythonbytes/status/1255908030266454017 | Python Bytes Podcast on Twitter: "Python news topics this week with special guest @gvanrossum and your usual hosts @brianokken and @mkennedy. Python Bytes #179 at https://t.co/B1VjOjRVvx" / Twitter
+https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes | Episode #179 Guido van Rossum drops in on Python Bytes - [Python Bytes Podcast]
+
+https://twitter.com/WillingCarol/status/1265671563686248448 | Carol Willing on Twitter: "@llanga and I did this interview after the @dotpy_io conference was canceled in early March due to COVID19. Through the efforts of the Python Steering Council, @ThePSF, the core developers, the @pycon team, and so many more, I find optimism for our future. TY. @behind_thecode" / Twitter
+
 
 
 Conda PyPy
@@ -220,16 +216,17 @@ https://twitter.com/VictorStinner/status/1206876992026664960 | Victor Stinner �
 https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/message/YUTCNQKX4X756N7DYXRGTBRZOAKEP653/ | Re: Fedora 32 System-Wide Change proposal: Drop Optical Media Release Criterion - devel - Fedora Mailing-Lists
 
 
-https://twitter.com/KatiMichel/status/1257133245864402945
-https://twitter.com/awbjs/status/1260976210936389632
-https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
-Ruby and Rust
-https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
-
 Subinterpreters for Python
 https://lwn.net/SubscriberLink/820424/172e6da006687167/
 
+Brython
+https://m.youtube.com/watch?feature=youtu.be&v=VJj-H4we71g
+https://twitter.com/pystar/status/1285754294835322880 | pystar on Twitter: "A Python 3 implementation for client-side web programming. https://t.co/bfOIP0ftX4" / Twitter
+
+https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
+
 https://github.com/PyO3/pyo3
+https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
 
 CPython API
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
@@ -272,6 +269,9 @@ https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A weekly dump o
 https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/ | Python Data Visualization 2018: Where Do We Go From Here? - Anaconda
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
+https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
+https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
+
 Python Language Server
 https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 https://microsoft.github.io/language-server-protocol/specification
@@ -287,6 +287,9 @@ https://twitter.com/di_codes/status/1176241499744296960
 
 Python in Spanish
 https://docs.python.org/es/3.8/ | 3.8.3 Documentation
+https://github.com/python/python-docs-es | python/python-docs-es: Spanish translation of the Python documentation.
+https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html | Guía para contribuir en la traducción — Documentación de Python en Español -- 3.8.3
+https://twitter.com/reydelhumo/status/1282607529646796802 | humitos on Twitter: "¡Es oficial! ¡El #Español como idioma oficial de la documentación de #Python! Felicitaciones a todas las personas que están ayudando a que esto sea posible y acercar Python a más personas. ¡Vos también podés sumarte! #PythonDocsEs https://t.co/V7yJZpHh4U https://t.co/HSYdmtj2iO" / Twitter
 https://twitter.com/reydelhumo/status/1261967982160461824 | humitos on Twitter: "¿Te gustaría colaborar con la #Traducción de la documentación oficial de #Python al #Español? ¡Nos puedes ayudar haciendo Reviews! ¡Tenemos 40 Pull Request abiertas en este momento! ¡No damos abasto! https://t.co/BJHM33owuD" / Twitter
 https://twitter.com/gilgamezh/status/1263528988938579970 | GiLgAmEzH 💚 on Twitter: "The @ThePSF CoC is now translated to Spanish 😊 by the python-doc-es workgroup /// El Código de conducta de la @ThePSF está ahora disponible en español por el equipo de trabajo de Python-doc-es https://t.co/4cshSEOifA" / Twitter
 https://github.com/PyCampES/python-docs-es/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc | Pull Requests · PyCampES/python-docs-es
@@ -317,6 +320,8 @@ https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter
 https://tutorial.edgedb.com/
 https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
 https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
+https://www.youtube.com/channel/UCRF82wX0EPwqvKMBwvB4fQg
+
 
 https://twitter.com/raymondh/status/1257431141482708994
 https://www.youtube.com/watch?v=FvNRlE4E9QQ
@@ -402,6 +407,14 @@ https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Inde
 ## Authorities
 
 <!--
+Barry
+https://www.wefearchange.org/ | We Fear Change
+
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/ | Static Typing in Python - Dustin Ingram
+
+https://anweshadas.in/how-to-upload-a-package-in-pypi-using-twine/ | How to upload a package in PyPI using twine ?
+
+
 https://twitter.com/MariuszFelisiak
 
 https://stevedower.id.au/ | Steve Dower Musings and Mutterings | Steve Dower
@@ -416,6 +429,7 @@ Victor Stinner
 https://github.com/vstinner
 https://vstinner.github.io/daemon-threads-python-finalization-python32.html | Daemon threads and the Python finalization in Python 3.2 and 3.3
 
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 https://blog.ganssle.io/articles/2019/08/test-as-installed.html
 
 https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
@@ -444,6 +458,8 @@ https://twitter.com/mariatta/status/1189243515739561985
 https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
 https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/
 
+Moshe
+https://orbifold.xyz/back-off.html | Orbifolds and Other Games - Hey, Back Off!
 https://ironfroggy-reads.tumblr.com/post/618561789855154176/my-little-pony-devops-is-magic | Ironfroggy Reads Things on The Internet | My Little Pony -- DevOps is Magic
 https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
 
