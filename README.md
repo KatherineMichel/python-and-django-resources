@@ -4,6 +4,8 @@
 Mariatta
 https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
 
+https://www.blog.pythonlibrary.org/2020/08/04/is-the-python-community-becoming-toxic/
+
 Installing stuff
 https://opensource.com/article/19/5/python-3-default-mac
 https://installpython3.com/
@@ -16,6 +18,10 @@ https://github.com/pypa/pipenv/issues/2482
 https://docs.brew.sh/Homebrew-and-Python
 
 https://twitter.com/simonw/status/1292956056054722561 | Simon Willison on Twitter: "I've been having problems with @MacHomebrew and Python recently: I upgrade some brew application, which upgrades my Python version, which breaks all of my existing virtual environments I can fix it when it happens, but it makes me scared to recommend brew for Python beginners :/" / Twitter
+
+DSF Survey
+https://www.djangoproject.com/weblog/2020/jul/28/community-survey-2020/ | Django Developers Community Survey 2020 | Weblog | Django
+https://twitter.com/djangoproject/status/1288488760741683201 | Django on Twitter: "Django Developers Community Survey 2020 https://t.co/p7dKmaAaXh" / Twitter
 
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
@@ -67,9 +73,6 @@ https://twitter.com/simonw/status/1284125169229787136 | Simon Willison on Twitte
 PSF Funding
 https://github.com/psf/fundable-packaging-improvements | psf/fundable-packaging-improvements: Packaging improvements that could be funded
 https://www.youtube.com/watch?v=EyhosW2ZeaE&list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB&index=9&t=0s | "Apply for Grants to Fund Open Source Work" - Sumana Harihareswara - YouTube
-
-pip
-https://twitter.com/ChangesetLLC/status/1291062082574704649 | Changeset Consulting on Twitter: "There is a big change coming to pip in October -- a watershed moment, a minor revolution. It'll be a great foundation for making it easier to deal with #Python packaging. This is a thread where I'll share some of the stuff @ThePyPA can build on that foundation. https://t.co/JGqVy21Dnp" / Twitter
 
 https://github.com/mritunjaysharma394/C-interpreter | mritunjaysharma394/C-interpreter: My personal playground to create a C-interpreter from scratch.
 
