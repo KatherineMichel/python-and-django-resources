@@ -1,6 +1,19 @@
 # CPython and Django Internals
 
 <!--
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
+
+RISC versus CISC
+https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
+
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
+
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+
+
 http://www.avabodh.com/cin/cin.html | C Internals
 
 CPython
@@ -36,7 +49,6 @@ Low-Level Programming Language, Machine Code, Assembly Language
 * [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
 <!--
-https://en.wikipedia.org/wiki/Instruction_set_architecture
 https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
 https://en.wikipedia.org/wiki/X86_instruction_listings
 
