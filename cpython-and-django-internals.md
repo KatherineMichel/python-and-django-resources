@@ -1,20 +1,33 @@
 # CPython and Django Internals
 
 <!--
-https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
+https://leanpub.com/insidethepythonvirtualmachine/read
 
-RISC versus CISC
-https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
+https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-and-what-are-its-advantages
+"Machine code is the low-level binary 1s and 0s that make up the instructions to the processor.  These are processed directly by the CPU and are the final output of a compiler for given CPU and operating system combination."
+"Byte code is a virtualized machine code."
 
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+https://docs.python.org/3/reference/grammar.html
+https://devguide.python.org/grammar/ | 24. Changing CPython’s Grammar — Python Developer's Guide
+https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
+
+https://en.wikipedia.org/wiki/Comparison_of_parser_generators
+https://en.wikipedia.org/wiki/Parsing_expression_grammar
 
 https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
 
 Linux Performance Observability Tools
 https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
 
-
 http://www.avabodh.com/cin/cin.html | C Internals
+
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+
+Computer Architecture
+https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+
+https://en.wikipedia.org/wiki/Branch_predictor | Branch predictor - Wikipedia
 
 CPython
 https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
@@ -27,81 +40,6 @@ https://docs.python.org/3/library/markup.html | Structured Markup Processing Too
 https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
 https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
 https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
-https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
-
-
-https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
-
-https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
-
-Computer Architecture
-https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
-
-https://en.wikipedia.org/wiki/Branch_predictor | Branch predictor - Wikipedia
--->
-
-## General
-
-Low-Level Programming Language, Machine Code, Assembly Language
-* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
-* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
-* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-
-<!--
-https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
-https://en.wikipedia.org/wiki/X86_instruction_listings
-
-https://leanpub.com/insidethepythonvirtualmachine/read
-
-https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-and-what-are-its-advantages
-"Machine code is the low-level binary 1s and 0s that make up the instructions to the processor.  These are processed directly by the CPU and are the final output of a compiler for given CPU and operating system combination."
-"Byte code is a virtualized machine code."
--->
-
-Instruction Set (CPU)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
-* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
-* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
-* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
-* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Components
-* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
-
-<!--
-https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
-https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
-https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
-https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
-https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
-https://en.wikipedia.org/wiki/Memory_address_register
-https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
-https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
-https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
-
-https://en.wikipedia.org/wiki/Opcode
-https://en.wikipedia.org/wiki/Opcode_table
-
-http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
--->
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-<!--
-https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
-https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
-
-https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
-http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
-https://en.wikipedia.org/wiki/ASCII
-https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
 -->
 
 ## Python Source
@@ -122,6 +60,10 @@ Automata
 The Two Types of Finite Automata
 * [Nondeterministic Finite Automaton Wikipedia](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton)
 * [Deterministic Finite Automaton Wikipedia](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)
+
+<!--
+https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm | Non-deterministic Finite Automaton - Tutorialspoint
+-->
 
 Trees, Symbol Table, Control Flow Graph
 * [Tree Data Structure Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
@@ -364,51 +306,4 @@ https://eli.thegreenplace.net/2014/06/04/using-asdl-to-describe-asts-in-compiler
 https://greentreesnakes.readthedocs.io | Green Tree Snakes - the missing Python AST docs — Green Tree Snakes 1.0 documentation	
 https://greentreesnakes.readthedocs.io/en/latest/nodes.html | Meet the Nodes — Green Tree Snakes 1.0 documentation	
 https://python-ast-explorer.com/ | Python AST Explorer	
--->
-
-## Django Source
-
-<!--
-https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
-https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
-https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
-https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
-
-https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
-https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
-
-Django Source Code
-https://github.com/django/django/blob/master/django/__init__.py	
-https://github.com/django/django/tree/master/django/apps	
-https://github.com/django/django/blob/master/django/apps/config.py	
-https://github.com/django/django/blob/master/django/apps/registry.py
-https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/urls/conf.py	
-https://github.com/django/django/blob/master/django/urls/resolvers.py
-https://github.com/django/django/blob/master/django/middleware/common.py
-
-https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
-https://github.com/django/django/blob/master/django/http
-https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
-https://github.com/django/django/blob/master/django/http/response.py	
-
-https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
-	
-https://github.com/django/django/blob/master/django/shortcuts.py
-https://github.com/django/django/blob/master/django/core/exceptions.py	
-	
-https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
-https://github.com/django/django/blob/master/django/db/models/__init__.py 	
-https://github.com/django/django/blob/master/django/db/models/query.py	
-https://github.com/django/django/blob/master/django/db/models/query.py#L337	
-https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
-https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
