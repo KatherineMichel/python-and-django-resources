@@ -20,12 +20,15 @@ https://docs.brew.sh/Homebrew-and-Python
 https://twitter.com/simonw/status/1292956056054722561 | Simon Willison on Twitter: "I've been having problems with @MacHomebrew and Python recently: I upgrade some brew application, which upgrades my Python version, which breaks all of my existing virtual environments I can fix it when it happens, but it makes me scared to recommend brew for Python beginners :/" / Twitter
 
 DSF Survey
+https://twitter.com/djangoproject/status/1293988923283247111
+https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
 https://www.djangoproject.com/weblog/2020/jul/28/community-survey-2020/ | Django Developers Community Survey 2020 | Weblog | Django
 https://twitter.com/djangoproject/status/1288488760741683201 | Django on Twitter: "Django Developers Community Survey 2020 https://t.co/p7dKmaAaXh" / Twitter
 
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
 https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
+
 
 https://twitter.com/KatiMichel/status/1257133245864402945
 https://twitter.com/awbjs/status/1260976210936389632
@@ -41,6 +44,7 @@ https://www.jetbrains.com/lp/php-25/ | 25 Years of PHP History | JetBrains: Deve
 
 https://www.tiobe.com/tiobe-index/ | index | TIOBE - The Software Quality Company
 https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
+
 
 Making Python Programs Blazingly Fast
 https://martinheinz.dev/blog/13 | Martin Heinz - Personal Website & Blog
@@ -84,22 +88,17 @@ https://www.python.org/dev/peps/pep-0617/
 http://pyfound.blogspot.com/2020/04/replacing-cpythons-parser-python.html
 https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
 
-https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
-https://docs.python.org/3/reference/grammar.html
-https://devguide.python.org/grammar/ | 24. Changing CPython’s Grammar — Python Developer's Guide
-https://devguide.python.org/compiler/ | 25. Design of CPython’s Compiler — Python Developer's Guide
-
-https://en.wikipedia.org/wiki/Comparison_of_parser_generators
-https://en.wikipedia.org/wiki/Parsing_expression_grammar
-https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
-https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm | Non-deterministic Finite Automaton - Tutorialspoint
-https://en.wikipedia.org/wiki/Deterministic_finite_automaton
-
 Pattern matching
+Structural Pattern Matching
+https://github.com/markshannon/pep622-critique
+https://lwn.net/Articles/827179/
 https://www.python.org/dev/peps/pep-0622/
 https://github.com/gvanrossum/patma | gvanrossum/patma: Pattern Matching
 https://twitter.com/facundobatista/status/1281246334964678656 | Facundo Batista 💚 on Twitter: "From @gvanrossum : """Today I’m happy (and a little trepidatious) to announce the next version of PEP 622, Pattern Matching. As authors we welcome Daniel F Moisset in our midst. """ Congrats @dmoisset !" / Twitter
 https://twitter.com/pganssle/status/1275822193499406337 | Paul Ganssle on Twitter: "I am already overwhelmed by the discussion thread on this: https://t.co/rYPqsIhtUw @gvanrossum's cautionary statement is proving prophetic: "I want to clarify that the design space for such a match statement is enormous."" / Twitter
+
+Async
+https://twitter.com/andrewgodwin/status/1290676950529388546 | (1) Andrew Godwin on Twitter: "We're still working on Django async - ORM stuff is probably next - but hey, if you wanted async views, why not try a fresh new copy of Django 3.1? Even better, it also has a cross-compatible JSONField (yes!) and much better hashing for sessions etc., amongst others." / Twitter
 
 Async views in Django
 https://twitter.com/gregkaleka/status/1260980433874898947
