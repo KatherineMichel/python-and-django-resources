@@ -1,5 +1,30 @@
 # CPython and Django Internals
 
+<~--
+https://docs.python.org/3/library/python.html
+https://docs.python.org/3/reference/grammar.html
+
+https://docs.python.org/3/library/dis.html | 404 Not Found
+
+https://en.wikipedia.org/wiki/Bootstrapping_(compilers) | Bootstrapping (compilers) - Wikipedia
+https://en.wikipedia.org/wiki/Self-hosting_(compilers) | Self-hosting (compilers) - Wikipedia
+https://en.wikipedia.org/wiki/Source-to-source_compiler | Source-to-source compiler - Wikipedia
+https://github.com/lark-parser/lark
+C System API
+https://docs.python.org/3.8/extending/extending.html
+
+https://www.google.com/search?q=C+compiler+toolkit&oq=C+compiler+toolkit&aqs=chrome..69i57j69i64l3.244j0j7&sourceid=chrome&ie=UTF-8 | C compiler toolkit - Google Search
+https://www.google.com/search?q=Extended-BNF+(EBNF)&oq=Extended-BNF+(EBNF)&aqs=chrome..69i57.234j0j7&sourceid=chrome&ie=UTF-8 | Extended-BNF (EBNF) - Google Search
+https://en.wikipedia.org/wiki/Parse_table | Parse table - Wikipedia
+https://docs.python.org/3/using/cmdline.html | 1. Command line and environment — Python 3.8.2rc2 documentation
+https://docs.python.org/3/c-api/memory.html | Memory Management — Python 3.8.2rc2 documentation
+https://github.com/python/cpython/blob/v3.8.0b4/Modules/main.c | cpython/main.c at v3.8.0b4 · python/cpython
+https://github.com/python/cpython/blob/d93605de7232da5e6a182fd1d5c220639e900159/Parser/tokenizer.c#L1110 | cpython/tokenizer.c at d93605de7232da5e6a182fd1d5c220639e900159 · python/cpython
+https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.8.2rc1 documentation
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions | dis — Disassembler for Python bytecode — Python 3.8.2rc1 documentation
+https://github.com/python/cpython/blob/master/Include/pymacro.h#L103 | cpython/pymacro.h at master · python/cpython
+-->
+
 <!--
 https://leanpub.com/insidethepythonvirtualmachine/read
 
