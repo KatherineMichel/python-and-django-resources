@@ -11,12 +11,6 @@ http://python-history.blogspot.com/2009/04/metaclasses-and-extension-classes-aka
 -->
 
 <!--
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
-
-Linux Performance Observability Tools
-https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
-
-
 http://www.avabodh.com/cin/cin.html | C Internals
 
 https://en.wikipedia.org/wiki/C_dynamic_memory_allocation
