@@ -1,6 +1,8 @@
 # CPython and Django Internals
 
-<~--
+<--
+## CPython Internals Book
+
 https://docs.python.org/3/library/python.html
 https://docs.python.org/3/reference/grammar.html
 
