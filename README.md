@@ -1,10 +1,57 @@
 # Python and Django- Resources
 
 <!--
+Technical Board
+https://www.djangoproject.com/weblog/2020/aug/21/technical-board-election-registration/ | Announcement of Technical Board Election Registration | Weblog | Django
+
+CBV
+https://twitter.com/webology/status/1301241533270720515 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "An interesting Django thread that is sure to be filled with lots of anti-CBV and pro-CBV debates. As a consultant, I dare say that CBVs are easier to maintain and cheaper." / Twitter
+https://twitter.com/wsv3000/status/1301205613331050497 | William Vincent on Twitter: "Reader just asked if class-based views can be used for everything in Django. Essentially, yes. The Django source code primarily uses CBVs. There are only a few cases where a FBV can achieve what a GCBV or CBV cannot. Most Django devs I know prefer CBVs, not but not all..../1" / Twitter
+https://twitter.com/carltongibson/status/1301216070762737665 | Carlton Gibson 🇪🇺 on Twitter: "@simonw @wsv3000 I’ve been thinking about this since @spookylukey released his piece the other week... I think the issue is that the get() or post() or whatever, is normally not in sight. As soon as that is it‘s obvious*, and the factoring into methods is great. *bar the mixins which are nuts." / Twitter
+https://twitter.com/webology/status/1301242796595187712 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "@simonw @zekefarwell @wsv3000 @carltongibson @spookylukey I guess the way I see it is that 90% of the time, I only care about a few methods. For the 10% I use that resource and there are many methods I have rarely if ever had to touch. Thankfully they exist to make things picking which form or how to filter a queryset possible." / Twitter
+
+Bad Django bug
+https://groups.google.com/g/django-developers/c/HUZySAw43uE/m/RD4ifBLPBgAJ | Consider reverting or adding guidelines on how to use class based views for security sensitive features
+
+Corpus
+https://twitter.com/gvanrossum/status/1297687557715529728 | Guido van Rossum on Twitter: "I'm looking for a corpus of Python syntax errors (don't ask why). I found https://t.co/Q1TzNWrzSy by Alexander William Wong et al., which has https://t.co/FOTHPPsqE0 (thank you authors!). Does anyone know of others?" / Twitter
+
+Django async
+https://github.com/django/asgiref/commit/7becc9daca2628c46af1cb7e46b4c47c1ea27adf | Making thread_sensitive=True the default · django/asgiref@7becc9d
+
+Ancient Pythons
+https://twitter.com/codewithanthony/status/1298410035043688449 | https://twitter.com/codewithanthony/status/1298410035043688449
+https://github.com/asottile/ancient-pythons | asottile/ancient-pythons: Attempts to build some really old pythons.
+
+Python 2.7- interesting
+https://github.com/naftaliharris/tauthon | naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3.
+
+https://github.com/FFY00/python-build/releases/tag/0.0.4 | Release python-build 0.0.4 · FFY00/python-build
+https://twitter.com/pganssle/status/1303465479844114433 | Paul Ganssle on Twitter: "This 0.0.4 release may not seem exciting, but this is the first significant release that could reasonably be the answer to "How do I build a source distribution or wheel for an arbitrary Python package" in the world of PEP 517. It's worth your attention!" / Twitter
+
+Django LTS
+https://twitter.com/carltongibson/status/1297442786648698880 | Carlton Gibson 🇪🇺 on Twitter: "I might have to dust off my “Don’t use the LTS” rant. 🧐" / Twitter
+
+Conda
+https://twitter.com/jeremyphoward/status/1301256701836836864 | Jeremy Howard on Twitter: "Wait what?" / Twitter
+
+Season of Docs
+https://twitter.com/carltongibson/status/1296168715990466562 | Carlton Gibson 🇪🇺 on Twitter: "Lots of times in the last couple of years, I've heard the @djangoproject contributing guide is too hard to get started with. Well… we've got a Season of Docs with @pgabbyprecious project to make it better! 💃 Say Hi, and share your pain points. https://t.co/8Yk6el2PYi" / Twitter
+
+Calling C from Python
+https://twitter.com/anthonypjshaw/status/1304176845902868480 | Anthony Shaw 🐍 on Twitter: "This is an excellent article by Anton on "Under the hood of calling C/C++ from Python", explains a lot of low-level concepts with examples, diagrams and metaphors. Hope to see more from @azhpushkin in future!" / Twitter
+
+Rust/Python
+https://dygalo.dev/blog/rust-for-a-pythonista-1/ | Rust for a Pythonista #1: Why and when?
+
+Ruby
+https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11 | Version number bumped to 3.0.0 from 2.8.0 (tentative). · ruby/ruby@21c62fb
+
 Mariatta
 https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
 
 https://www.blog.pythonlibrary.org/2020/08/04/is-the-python-community-becoming-toxic/
+
 
 Installing stuff
 https://opensource.com/article/19/5/python-3-default-mac
@@ -406,7 +453,7 @@ https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Inde
 -->
 
 
-## Authorities
+## Experts
 
 <!--
 Barry
