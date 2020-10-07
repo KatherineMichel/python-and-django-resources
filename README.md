@@ -6,6 +6,10 @@ https://twitter.com/mariatta/status/1309246720929271808 | Mariatta 🤦 on Twitt
 https://twitter.com/denicmarko/status/1309714816290951168 | Marko ⚡ Denic on Twitter: "Backend Frameworks with the most stars on GitHub: 1. Laravel - 61.6K⭐️ 2. Django - 52.1K⭐️ 3. Flask - 52.1K⭐️ 4. Spring Boot - 50.8K⭐️ 5. Express - 50.2K⭐️ 6. Ruby on Rails - 46.5K⭐️ 7. Meteor - 42K⭐️ 8. Nest - 30.5K⭐️ 9. Koa - 30K⭐️ Which one is your favorite?" / Twitter
 https://twitter.com/dbader_org/status/927457146601697280 | Dan Bader on Twitter: "Python is the #2 language on GitHub (by opened pull requests). Would be cool to see a Python 2 vs Python 3 breakdown https://t.co/cUkGqGeogf"
 
+https://twitter.com/gvanrossum/status/1306082472443084801 | Guido van Rossum on Twitter: "Python 4 FAQ. 1. The version after 3.9 is 3.10; in fact it already exists (in github master). 2. If there ever is a version 4, the transition from 3 to 4 will be more like that from 1 to 2 rather than 2 to 3." / Twitter
+
+https://edgedb.com/blog/we-can-do-better-than-sql/ | We Can Do Better Than SQL
+
 Python History
 http://python-history.blogspot.com/2010/06/import-antigravity.html | The History of Python: import antigravity
 http://python-history.blogspot.com/2010/06/method-resolution-order.html | The History of Python: Method Resolution Order
