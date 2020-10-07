@@ -8,6 +8,13 @@ https://twitter.com/dbader_org/status/927457146601697280 | Dan Bader on Twitter:
 
 https://twitter.com/gvanrossum/status/1306082472443084801 | Guido van Rossum on Twitter: "Python 4 FAQ. 1. The version after 3.9 is 3.10; in fact it already exists (in github master). 2. If there ever is a version 4, the transition from 3 to 4 will be more like that from 1 to 2 rather than 2 to 3." / Twitter
 
+https://discuss.python.org/t/is-psf-losing-python/5180 | Is PSF losing Python? - Python Software Foundation - Discussions on Python.org
+
+Pip
+https://twitter.com/nlhkabu/status/1306162067599228931 | Nicole Harris on Twitter: " Python users! Want to help make pip better? Help the team understand what's important to you by participating in our "buy a feature" game: https://t.co/Dhqy6wypyK Retweets appreciated cc @ThePyPA @pypi @ThePSF @ChangesetLLC @simplysecureorg" / Twitter
+
+https://twitter.com/simonw/status/1305546864716996608 | Simon Willison on Twitter: "I have a Windows 10 machine up and running (repurposed gaming PC) - what's the best way to get a Python development environment working on it? I want to be able to test my Python stuff works on Windows and ideally get familiar enough that I can answer support questions" / Twitter
+
 https://edgedb.com/blog/we-can-do-better-than-sql/ | We Can Do Better Than SQL
 
 Python History
