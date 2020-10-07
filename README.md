@@ -1,6 +1,17 @@
 # Python and Django- Resources
 
 <!--
+https://twitter.com/mariatta/status/1309246720929271808 | Mariatta 🤦 on Twitter: "📣 Don't miss out on this unique opportunity where you get to ask a #Python core dev anything! (you can even ask @gvanrossum) Details: https://t.co/d22VEb1q6o Submit your question: https://t.co/NflLqF5Vlo" / Twitter
+
+https://twitter.com/denicmarko/status/1309714816290951168 | Marko ⚡ Denic on Twitter: "Backend Frameworks with the most stars on GitHub: 1. Laravel - 61.6K⭐️ 2. Django - 52.1K⭐️ 3. Flask - 52.1K⭐️ 4. Spring Boot - 50.8K⭐️ 5. Express - 50.2K⭐️ 6. Ruby on Rails - 46.5K⭐️ 7. Meteor - 42K⭐️ 8. Nest - 30.5K⭐️ 9. Koa - 30K⭐️ Which one is your favorite?" / Twitter
+https://twitter.com/dbader_org/status/927457146601697280 | Dan Bader on Twitter: "Python is the #2 language on GitHub (by opened pull requests). Would be cool to see a Python 2 vs Python 3 breakdown https://t.co/cUkGqGeogf"
+
+Python History
+http://python-history.blogspot.com/2010/06/import-antigravity.html | The History of Python: import antigravity
+http://python-history.blogspot.com/2010/06/method-resolution-order.html | The History of Python: Method Resolution Order
+http://python-history.blogspot.com/2018/05/the-origins-of-pgen.html
+
+
 Technical Board
 https://www.djangoproject.com/weblog/2020/aug/21/technical-board-election-registration/ | Announcement of Technical Board Election Registration | Weblog | Django
 
