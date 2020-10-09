@@ -1,6 +1,10 @@
 # Python and Django- Resources
 
 <!--
+https://docs.python.org/2.5/whatsnew/pep-343.html
+https://lwn.net/Articles/828486/ | "Structural pattern matching" for Python, part 2 [LWN.net]
+https://www.python.org/dev/peps/pep-0638/ | PEP 638 -- Syntactic Macros | Python.org
+
 https://twitter.com/mariatta/status/1309246720929271808 | Mariatta 🤦 on Twitter: "📣 Don't miss out on this unique opportunity where you get to ask a #Python core dev anything! (you can even ask @gvanrossum) Details: https://t.co/d22VEb1q6o Submit your question: https://t.co/NflLqF5Vlo" / Twitter
 
 https://twitter.com/denicmarko/status/1309714816290951168 | Marko ⚡ Denic on Twitter: "Backend Frameworks with the most stars on GitHub: 1. Laravel - 61.6K⭐️ 2. Django - 52.1K⭐️ 3. Flask - 52.1K⭐️ 4. Spring Boot - 50.8K⭐️ 5. Express - 50.2K⭐️ 6. Ruby on Rails - 46.5K⭐️ 7. Meteor - 42K⭐️ 8. Nest - 30.5K⭐️ 9. Koa - 30K⭐️ Which one is your favorite?" / Twitter
