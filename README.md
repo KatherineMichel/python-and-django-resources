@@ -1,6 +1,8 @@
 # Python and Django- Resources
 
 <!--
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
 https://docs.python.org/2.5/whatsnew/pep-343.html
 https://lwn.net/Articles/828486/ | "Structural pattern matching" for Python, part 2 [LWN.net]
 https://www.python.org/dev/peps/pep-0638/ | PEP 638 -- Syntactic Macros | Python.org
