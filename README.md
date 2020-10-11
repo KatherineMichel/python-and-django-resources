@@ -1,6 +1,8 @@
 # Python and Django- Resources
 
 <!--
+https://github.com/naftaliharris/tauthon
+
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
 https://docs.python.org/2.5/whatsnew/pep-343.html
