@@ -62,12 +62,6 @@ https://github.com/cortesi/devd
 
 https://github.com/cans/gitvenv
 
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-direnv
-https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
-https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
-
 Kenneth
 https://github.com/inishchith/autoenv
 -->
