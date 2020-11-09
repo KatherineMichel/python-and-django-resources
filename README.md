@@ -1,9 +1,11 @@
 # Python and Django- Resources
 
 <!--
-https://github.com/naftaliharris/tauthon
+Python Ideas
+https://devguide.python.org/stdlibchanges/ | 19. Adding to the Stdlib — Python Developer's Guide
+https://mail.python.org/mailman3/lists/python-ideas.python.org/ | Mailman 3 Info | python-ideas@python.org - python.org
 
-http://wsvincent.com/how-to-contribute-to-django-docs/
+https://github.com/naftaliharris/tauthon
 
 https://docs.python.org/2.5/whatsnew/pep-343.html
 https://lwn.net/Articles/828486/ | "Structural pattern matching" for Python, part 2 [LWN.net]
