@@ -1,89 +1,7 @@
 # Python and Django- Resources
 
 <!--
-Python Ideas
-https://devguide.python.org/stdlibchanges/ | 19. Adding to the Stdlib — Python Developer's Guide
-https://mail.python.org/mailman3/lists/python-ideas.python.org/ | Mailman 3 Info | python-ideas@python.org - python.org
-
-https://github.com/naftaliharris/tauthon
-
-https://docs.python.org/2.5/whatsnew/pep-343.html
-https://lwn.net/Articles/828486/ | "Structural pattern matching" for Python, part 2 [LWN.net]
-https://www.python.org/dev/peps/pep-0638/ | PEP 638 -- Syntactic Macros | Python.org
-
-https://twitter.com/mariatta/status/1309246720929271808 | Mariatta 🤦 on Twitter: "📣 Don't miss out on this unique opportunity where you get to ask a #Python core dev anything! (you can even ask @gvanrossum) Details: https://t.co/d22VEb1q6o Submit your question: https://t.co/NflLqF5Vlo" / Twitter
-
-https://twitter.com/denicmarko/status/1309714816290951168 | Marko ⚡ Denic on Twitter: "Backend Frameworks with the most stars on GitHub: 1. Laravel - 61.6K⭐️ 2. Django - 52.1K⭐️ 3. Flask - 52.1K⭐️ 4. Spring Boot - 50.8K⭐️ 5. Express - 50.2K⭐️ 6. Ruby on Rails - 46.5K⭐️ 7. Meteor - 42K⭐️ 8. Nest - 30.5K⭐️ 9. Koa - 30K⭐️ Which one is your favorite?" / Twitter
-https://twitter.com/dbader_org/status/927457146601697280 | Dan Bader on Twitter: "Python is the #2 language on GitHub (by opened pull requests). Would be cool to see a Python 2 vs Python 3 breakdown https://t.co/cUkGqGeogf"
-
-https://twitter.com/gvanrossum/status/1306082472443084801 | Guido van Rossum on Twitter: "Python 4 FAQ. 1. The version after 3.9 is 3.10; in fact it already exists (in github master). 2. If there ever is a version 4, the transition from 3 to 4 will be more like that from 1 to 2 rather than 2 to 3." / Twitter
-
-https://discuss.python.org/t/is-psf-losing-python/5180 | Is PSF losing Python? - Python Software Foundation - Discussions on Python.org
-
-Pip
-https://twitter.com/nlhkabu/status/1306162067599228931 | Nicole Harris on Twitter: " Python users! Want to help make pip better? Help the team understand what's important to you by participating in our "buy a feature" game: https://t.co/Dhqy6wypyK Retweets appreciated cc @ThePyPA @pypi @ThePSF @ChangesetLLC @simplysecureorg" / Twitter
-
 https://twitter.com/simonw/status/1305546864716996608 | Simon Willison on Twitter: "I have a Windows 10 machine up and running (repurposed gaming PC) - what's the best way to get a Python development environment working on it? I want to be able to test my Python stuff works on Windows and ideally get familiar enough that I can answer support questions" / Twitter
-
-https://edgedb.com/blog/we-can-do-better-than-sql/ | We Can Do Better Than SQL
-
-Python History
-http://python-history.blogspot.com/2010/06/import-antigravity.html | The History of Python: import antigravity
-http://python-history.blogspot.com/2010/06/method-resolution-order.html | The History of Python: Method Resolution Order
-http://python-history.blogspot.com/2018/05/the-origins-of-pgen.html
-
-
-Technical Board
-https://www.djangoproject.com/weblog/2020/aug/21/technical-board-election-registration/ | Announcement of Technical Board Election Registration | Weblog | Django
-
-CBV
-https://twitter.com/webology/status/1301241533270720515 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "An interesting Django thread that is sure to be filled with lots of anti-CBV and pro-CBV debates. As a consultant, I dare say that CBVs are easier to maintain and cheaper." / Twitter
-https://twitter.com/wsv3000/status/1301205613331050497 | William Vincent on Twitter: "Reader just asked if class-based views can be used for everything in Django. Essentially, yes. The Django source code primarily uses CBVs. There are only a few cases where a FBV can achieve what a GCBV or CBV cannot. Most Django devs I know prefer CBVs, not but not all..../1" / Twitter
-https://twitter.com/carltongibson/status/1301216070762737665 | Carlton Gibson 🇪🇺 on Twitter: "@simonw @wsv3000 I’ve been thinking about this since @spookylukey released his piece the other week... I think the issue is that the get() or post() or whatever, is normally not in sight. As soon as that is it‘s obvious*, and the factoring into methods is great. *bar the mixins which are nuts." / Twitter
-https://twitter.com/webology/status/1301242796595187712 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "@simonw @zekefarwell @wsv3000 @carltongibson @spookylukey I guess the way I see it is that 90% of the time, I only care about a few methods. For the 10% I use that resource and there are many methods I have rarely if ever had to touch. Thankfully they exist to make things picking which form or how to filter a queryset possible." / Twitter
-
-Bad Django bug
-https://groups.google.com/g/django-developers/c/HUZySAw43uE/m/RD4ifBLPBgAJ | Consider reverting or adding guidelines on how to use class based views for security sensitive features
-
-Corpus
-https://twitter.com/gvanrossum/status/1297687557715529728 | Guido van Rossum on Twitter: "I'm looking for a corpus of Python syntax errors (don't ask why). I found https://t.co/Q1TzNWrzSy by Alexander William Wong et al., which has https://t.co/FOTHPPsqE0 (thank you authors!). Does anyone know of others?" / Twitter
-
-Django async
-https://github.com/django/asgiref/commit/7becc9daca2628c46af1cb7e46b4c47c1ea27adf | Making thread_sensitive=True the default · django/asgiref@7becc9d
-
-Ancient Pythons
-https://twitter.com/codewithanthony/status/1298410035043688449 | https://twitter.com/codewithanthony/status/1298410035043688449
-https://github.com/asottile/ancient-pythons | asottile/ancient-pythons: Attempts to build some really old pythons.
-
-Python 2.7- interesting
-https://github.com/naftaliharris/tauthon | naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3.
-
-https://github.com/FFY00/python-build/releases/tag/0.0.4 | Release python-build 0.0.4 · FFY00/python-build
-https://twitter.com/pganssle/status/1303465479844114433 | Paul Ganssle on Twitter: "This 0.0.4 release may not seem exciting, but this is the first significant release that could reasonably be the answer to "How do I build a source distribution or wheel for an arbitrary Python package" in the world of PEP 517. It's worth your attention!" / Twitter
-
-Django LTS
-https://twitter.com/carltongibson/status/1297442786648698880 | Carlton Gibson 🇪🇺 on Twitter: "I might have to dust off my “Don’t use the LTS” rant. 🧐" / Twitter
-
-Conda
-https://twitter.com/jeremyphoward/status/1301256701836836864 | Jeremy Howard on Twitter: "Wait what?" / Twitter
-
-Season of Docs
-https://twitter.com/carltongibson/status/1296168715990466562 | Carlton Gibson 🇪🇺 on Twitter: "Lots of times in the last couple of years, I've heard the @djangoproject contributing guide is too hard to get started with. Well… we've got a Season of Docs with @pgabbyprecious project to make it better! 💃 Say Hi, and share your pain points. https://t.co/8Yk6el2PYi" / Twitter
-
-Calling C from Python
-https://twitter.com/anthonypjshaw/status/1304176845902868480 | Anthony Shaw 🐍 on Twitter: "This is an excellent article by Anton on "Under the hood of calling C/C++ from Python", explains a lot of low-level concepts with examples, diagrams and metaphors. Hope to see more from @azhpushkin in future!" / Twitter
-
-Rust/Python
-https://dygalo.dev/blog/rust-for-a-pythonista-1/ | Rust for a Pythonista #1: Why and when?
-
-Ruby
-https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11 | Version number bumped to 3.0.0 from 2.8.0 (tentative). · ruby/ruby@21c62fb
-
-Mariatta
-https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
-
-https://www.blog.pythonlibrary.org/2020/08/04/is-the-python-community-becoming-toxic/
-
 
 Installing stuff
 https://opensource.com/article/19/5/python-3-default-mac
@@ -98,6 +16,58 @@ https://docs.brew.sh/Homebrew-and-Python
 
 https://twitter.com/simonw/status/1292956056054722561 | Simon Willison on Twitter: "I've been having problems with @MacHomebrew and Python recently: I upgrade some brew application, which upgrades my Python version, which breaks all of my existing virtual environments I can fix it when it happens, but it makes me scared to recommend brew for Python beginners :/" / Twitter
 
+
+Ancient Pythons
+https://twitter.com/codewithanthony/status/1298410035043688449 | https://twitter.com/codewithanthony/status/1298410035043688449
+https://github.com/asottile/ancient-pythons | asottile/ancient-pythons: Attempts to build some really old pythons.
+
+Python 2.7- interesting
+https://github.com/naftaliharris/tauthon | naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3.
+
+
+https://discuss.python.org/t/is-psf-losing-python/5180 | Is PSF losing Python? - Python Software Foundation - Discussions on Python.org
+
+Python Ideas
+https://devguide.python.org/stdlibchanges/ | 19. Adding to the Stdlib — Python Developer's Guide
+https://mail.python.org/mailman3/lists/python-ideas.python.org/ | Mailman 3 Info | python-ideas@python.org - python.org
+
+Python History
+http://python-history.blogspot.com/2010/06/import-antigravity.html | The History of Python: import antigravity
+http://python-history.blogspot.com/2010/06/method-resolution-order.html | The History of Python: Method Resolution Order
+http://python-history.blogspot.com/2018/05/the-origins-of-pgen.html
+
+Python history
+https://twitter.com/pauloxnet/status/1286708010308571137 | Paolo Melchiorre @ #EuroPython 2020 🇪🇺️ on Twitter: "@gvanrossum 🐍 at @europython 🇪🇺 suggested to read its "King's Day Speech" post. "... The Python user community is formed of millions of people who consciously use Python, and love using it ..." #EuroPython #EP2020 https://t.co/C2yMBgLYak https://t.co/63UdZ5jdzO" / Twitter
+https://mobile.twitter.com/gvanrossum/status/1247288994502606849
+
+Django History
+https://www.youtube.com/watch?v=wqii_iX0RTs&feature=emb_logo | Django Origins (and some things I have built with Django) - YouTube
+https://nedbatchelder.com/blog/200507/django.html | Ned Batchelder: Django
+https://twitter.com/simonw/status/1284125169229787136 | Simon Willison on Twitter: "15 years ago today on my blog: Introducing Django https://t.co/fABuSKQjKC" / Twitter
+
+Django LTS
+https://twitter.com/carltongibson/status/1297442786648698880 | Carlton Gibson 🇪🇺 on Twitter: "I might have to dust off my “Don’t use the LTS” rant. 🧐" / Twitter
+
+
+CBV
+https://twitter.com/webology/status/1301241533270720515 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "An interesting Django thread that is sure to be filled with lots of anti-CBV and pro-CBV debates. As a consultant, I dare say that CBVs are easier to maintain and cheaper." / Twitter
+https://twitter.com/wsv3000/status/1301205613331050497 | William Vincent on Twitter: "Reader just asked if class-based views can be used for everything in Django. Essentially, yes. The Django source code primarily uses CBVs. There are only a few cases where a FBV can achieve what a GCBV or CBV cannot. Most Django devs I know prefer CBVs, not but not all..../1" / Twitter
+https://twitter.com/carltongibson/status/1301216070762737665 | Carlton Gibson 🇪🇺 on Twitter: "@simonw @wsv3000 I’ve been thinking about this since @spookylukey released his piece the other week... I think the issue is that the get() or post() or whatever, is normally not in sight. As soon as that is it‘s obvious*, and the factoring into methods is great. *bar the mixins which are nuts." / Twitter
+https://twitter.com/webology/status/1301242796595187712 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "@simonw @zekefarwell @wsv3000 @carltongibson @spookylukey I guess the way I see it is that 90% of the time, I only care about a few methods. For the 10% I use that resource and there are many methods I have rarely if ever had to touch. Thankfully they exist to make things picking which form or how to filter a queryset possible." / Twitter
+
+Bad Django bug
+https://groups.google.com/g/django-developers/c/HUZySAw43uE/m/RD4ifBLPBgAJ | Consider reverting or adding guidelines on how to use class based views for security sensitive features
+
+Django async
+https://github.com/django/asgiref/commit/7becc9daca2628c46af1cb7e46b4c47c1ea27adf | Making thread_sensitive=True the default · django/asgiref@7becc9d
+
+Async
+https://twitter.com/andrewgodwin/status/1290676950529388546 | (1) Andrew Godwin on Twitter: "We're still working on Django async - ORM stuff is probably next - but hey, if you wanted async views, why not try a fresh new copy of Django 3.1? Even better, it also has a cross-compatible JSONField (yes!) and much better hashing for sessions etc., amongst others." / Twitter
+
+Async views in Django
+https://twitter.com/gregkaleka/status/1260980433874898947
+https://docs.djangoproject.com/en/dev/releases/3.1/
+
 DSF Survey
 https://twitter.com/djangoproject/status/1293988923283247111
 https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
@@ -107,6 +77,91 @@ https://twitter.com/djangoproject/status/1288488760741683201 | Django on Twitter
 Surveys
 https://insights.stackoverflow.com/survey/2020#overview | Stack Overflow Developer Survey 2020
 https://www.jetbrains.com/lp/python-developers-survey-2019/ | Python Developers Survey 2019 Results | JetBrains: Developer Tools for Professionals and Teams
+
+## Stats
+
+Stats
+https://twitter.com/denicmarko/status/1309714816290951168 | Marko ⚡ Denic on Twitter: "Backend Frameworks with the most stars on GitHub: 1. Laravel - 61.6K⭐️ 2. Django - 52.1K⭐️ 3. Flask - 52.1K⭐️ 4. Spring Boot - 50.8K⭐️ 5. Express - 50.2K⭐️ 6. Ruby on Rails - 46.5K⭐️ 7. Meteor - 42K⭐️ 8. Nest - 30.5K⭐️ 9. Koa - 30K⭐️ Which one is your favorite?" / Twitter
+https://twitter.com/dbader_org/status/927457146601697280 | Dan Bader on Twitter: "Python is the #2 language on GitHub (by opened pull requests). Would be cool to see a Python 2 vs Python 3 breakdown https://t.co/cUkGqGeogf"
+
+Stats
+https://twitter.com/MariuszFelisiak/status/1285883314998521856 | Mariusz Felisiak on Twitter: "Over 2️⃣0️⃣0️⃣0️⃣❕📢 folks contributed to Django🎉, thanks y'all🏆💪🌟" / Twitter
+
+https://twitter.com/MariuszFelisiak/status/1285123181779591168 | Mariusz Felisiak on Twitter: "Try out the rc1 and help identify 🐛 before the 3️⃣.1️⃣ release📣" / Twitter
+https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4LVIQEOM2HRPSAFXBJKDTEBZ2Z5R/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b1 is now available for testing - python-committers - python.org
+
+## Core Dev
+
+Mariatta
+https://twitter.com/matrixise/status/865678978677223429 | Stéphane Wirtel on Twitter: "Standing ovation for @mariatta, the first Woman #Python Core Dev. https://t.co/0VzlSaZAd2"
+
+Core dev
+https://twitter.com/mariatta/status/1309246720929271808 | Mariatta 🤦 on Twitter: "📣 Don't miss out on this unique opportunity where you get to ask a #Python core dev anything! (you can even ask @gvanrossum) Details: https://t.co/d22VEb1q6o Submit your question: https://t.co/NflLqF5Vlo" / Twitter
+
+## Opportunities
+
+https://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html | Python Software Foundation News: Call for Volunteers! Python GitHub Migration Work Group
+
+http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
+http://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html
+
+## Packaging
+
+PSF Funding
+https://github.com/psf/fundable-packaging-improvements | psf/fundable-packaging-improvements: Packaging improvements that could be funded
+https://www.youtube.com/watch?v=EyhosW2ZeaE&list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB&index=9&t=0s | "Apply for Grants to Fund Open Source Work" - Sumana Harihareswara - YouTube
+
+Pip
+https://twitter.com/nlhkabu/status/1306162067599228931 | Nicole Harris on Twitter: " Python users! Want to help make pip better? Help the team understand what's important to you by participating in our "buy a feature" game: https://t.co/Dhqy6wypyK Retweets appreciated cc @ThePyPA @pypi @ThePSF @ChangesetLLC @simplysecureorg" / Twitter
+
+## Governance
+
+Technical Board
+https://www.djangoproject.com/weblog/2020/aug/21/technical-board-election-registration/ | Announcement of Technical Board Election Registration | Weblog | Django
+
+Board Election
+https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
+https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
+
+Nominees
+https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/jeff-triplett/ | Nominee for 2020 Python Software Foundation Board Election | Python.org
+https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/ | Nominees for 2020 Python Software Foundation Board Election | Python.org
+https://twitter.com/pganssle/status/1270056171861401601 | Paul Ganssle on Twitter: "The election for PSF Board of Directors is on, and I wanted to highlight a candidate who I'm afraid may be easy to overlook: my friend and setuptools co-maintainer Jason R. Coombs (@jaraco). I don't have a better forum for this statement, so I'll make this a thread:" / Twitter
+
+Python Steering Committee
+https://www.youtube.com/watch?v=xX8fGuh4T_o&feature=youtu.be
+https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
+
+
+
+
+
+
+https://edgedb.com/blog/we-can-do-better-than-sql/ | We Can Do Better Than SQL
+
+
+Corpus
+https://twitter.com/gvanrossum/status/1297687557715529728 | Guido van Rossum on Twitter: "I'm looking for a corpus of Python syntax errors (don't ask why). I found https://t.co/Q1TzNWrzSy by Alexander William Wong et al., which has https://t.co/FOTHPPsqE0 (thank you authors!). Does anyone know of others?" / Twitter
+
+
+
+https://github.com/FFY00/python-build/releases/tag/0.0.4 | Release python-build 0.0.4 · FFY00/python-build
+https://twitter.com/pganssle/status/1303465479844114433 | Paul Ganssle on Twitter: "This 0.0.4 release may not seem exciting, but this is the first significant release that could reasonably be the answer to "How do I build a source distribution or wheel for an arbitrary Python package" in the world of PEP 517. It's worth your attention!" / Twitter
+
+Conda
+https://twitter.com/jeremyphoward/status/1301256701836836864 | Jeremy Howard on Twitter: "Wait what?" / Twitter
+
+Calling C from Python
+https://twitter.com/anthonypjshaw/status/1304176845902868480 | Anthony Shaw 🐍 on Twitter: "This is an excellent article by Anton on "Under the hood of calling C/C++ from Python", explains a lot of low-level concepts with examples, diagrams and metaphors. Hope to see more from @azhpushkin in future!" / Twitter
+
+Rust/Python
+https://dygalo.dev/blog/rust-for-a-pythonista-1/ | Rust for a Pythonista #1: Why and when?
+
+Ruby
+https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11 | Version number bumped to 3.0.0 from 2.8.0 (tentative). · ruby/ruby@21c62fb
+
+https://www.blog.pythonlibrary.org/2020/08/04/is-the-python-community-becoming-toxic/
+
 
 
 https://twitter.com/KatiMichel/status/1257133245864402945
@@ -134,28 +189,12 @@ https://www.youtube.com/watch?v=I4nkgJdVZFA&feature=emb_logo
 https://www.pagetable.com/?p=1397 | Ultimate C64 Memory Map – pagetable.com
 https://digitalmars.com/articles/b90.html | The Naked Truth About Writing a Programming Language - Digital Mars
 
-Stats
-https://twitter.com/MariuszFelisiak/status/1285883314998521856 | Mariusz Felisiak on Twitter: "Over 2️⃣0️⃣0️⃣0️⃣❕📢 folks contributed to Django🎉, thanks y'all🏆💪🌟" / Twitter
-
-https://twitter.com/MariuszFelisiak/status/1285123181779591168 | Mariusz Felisiak on Twitter: "Try out the rc1 and help identify 🐛 before the 3️⃣.1️⃣ release📣" / Twitter
-https://mail.python.org/archives/list/python-committers@python.org/message/LQGV4LVIQEOM2HRPSAFXBJKDTEBZ2Z5R/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b1 is now available for testing - python-committers - python.org
 
 https://github.com/python/cpython/pulls | Pull requests · python/cpython
 https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
 CPython
 
-Python history
-https://twitter.com/pauloxnet/status/1286708010308571137 | Paolo Melchiorre @ #EuroPython 2020 🇪🇺️ on Twitter: "@gvanrossum 🐍 at @europython 🇪🇺 suggested to read its "King's Day Speech" post. "... The Python user community is formed of millions of people who consciously use Python, and love using it ..." #EuroPython #EP2020 https://t.co/C2yMBgLYak https://t.co/63UdZ5jdzO" / Twitter
-https://mobile.twitter.com/gvanrossum/status/1247288994502606849
 
-Django History
-https://www.youtube.com/watch?v=wqii_iX0RTs&feature=emb_logo | Django Origins (and some things I have built with Django) - YouTube
-https://nedbatchelder.com/blog/200507/django.html | Ned Batchelder: Django
-https://twitter.com/simonw/status/1284125169229787136 | Simon Willison on Twitter: "15 years ago today on my blog: Introducing Django https://t.co/fABuSKQjKC" / Twitter
-
-PSF Funding
-https://github.com/psf/fundable-packaging-improvements | psf/fundable-packaging-improvements: Packaging improvements that could be funded
-https://www.youtube.com/watch?v=EyhosW2ZeaE&list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB&index=9&t=0s | "Apply for Grants to Fund Open Source Work" - Sumana Harihareswara - YouTube
 
 https://github.com/mritunjaysharma394/C-interpreter | mritunjaysharma394/C-interpreter: My personal playground to create a C-interpreter from scratch.
 
@@ -167,6 +206,12 @@ https://www.python.org/dev/peps/pep-0617/
 http://pyfound.blogspot.com/2020/04/replacing-cpythons-parser-python.html
 https://medium.com/@gvanrossum_83706/peg-at-the-core-developer-sprint-8b23677b91e6
 
+
+PEPs
+https://docs.python.org/2.5/whatsnew/pep-343.html
+https://lwn.net/Articles/828486/ | "Structural pattern matching" for Python, part 2 [LWN.net]
+https://www.python.org/dev/peps/pep-0638/ | PEP 638 -- Syntactic Macros | Python.org
+
 Pattern matching
 Structural Pattern Matching
 https://github.com/markshannon/pep622-critique
@@ -176,12 +221,7 @@ https://github.com/gvanrossum/patma | gvanrossum/patma: Pattern Matching
 https://twitter.com/facundobatista/status/1281246334964678656 | Facundo Batista 💚 on Twitter: "From @gvanrossum : """Today I’m happy (and a little trepidatious) to announce the next version of PEP 622, Pattern Matching. As authors we welcome Daniel F Moisset in our midst. """ Congrats @dmoisset !" / Twitter
 https://twitter.com/pganssle/status/1275822193499406337 | Paul Ganssle on Twitter: "I am already overwhelmed by the discussion thread on this: https://t.co/rYPqsIhtUw @gvanrossum's cautionary statement is proving prophetic: "I want to clarify that the design space for such a match statement is enormous."" / Twitter
 
-Async
-https://twitter.com/andrewgodwin/status/1290676950529388546 | (1) Andrew Godwin on Twitter: "We're still working on Django async - ORM stuff is probably next - but hey, if you wanted async views, why not try a fresh new copy of Django 3.1? Even better, it also has a cross-compatible JSONField (yes!) and much better hashing for sessions etc., amongst others." / Twitter
 
-Async views in Django
-https://twitter.com/gregkaleka/status/1260980433874898947
-https://docs.djangoproject.com/en/dev/releases/3.1/
 
 Timezones
 https://twitter.com/gvanrossum/status/1255874000321798144 | Guido van Rossum on Twitter: "Excited to see this happening! Timezones move into the stdlib. https://t.co/rn5RiMDpKp" / Twitter
@@ -196,7 +236,6 @@ https://www.python.org/dev/peps/pep-0394/#recommendation | PEP 394 -- The "pytho
 
 https://twitter.com/bossylobster/status/1262816695774613504 | Danny Hermes on Twitter: "Concept of "first-party package" is new to me. This means officially endorsed by the PSF / CPython devs?" / Twitter
 
-
 Sprints
 https://github.com/pycon-mentored-sprints/mentored-sprints-website
 https://wiki.python.org/moin/EuroPython2020/Sprints | EuroPython2020/Sprints - Python Wiki
@@ -206,46 +245,12 @@ https://www.pandanistas.org/announcing-berlin-2020-pandas-documentation-sprint.h
 https://twitter.com/davidism/status/1252234546466054151 | David Lord on Twitter: "No donuts for this remote #pycon2020 #PalletsSprint, but I'm online now to answer questions and review PRs for Flask, Jinja, Click, etc. All skill levels welcome, there's plenty of different issues to work on! https://t.co/iHkjne2BnB" / Twitter
 
 
-https://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html | Python Software Foundation News: Call for Volunteers! Python GitHub Migration Work Group
 
-http://pyfound.blogspot.com/2020/05/pythons-migration-to-github-request-for.html
-http://pyfound.blogspot.com/2020/05/call-for-volunteers-python-github.html
-
-Board Election
-https://twitter.com/ThePSF/status/1262772512636665856 | Python Software Foundation on Twitter: "In light of the upcoming PSF board elections, @thePSF is currently hosting a 24-hour slack channel for anyone that may have questions about what it takes to be a board director: https://t.co/Z1ZOJTfqOS. Board Director Nomination cut-off is May 31, 2020 AoE." / Twitter
-https://medium.com/@jackiekazil/elect-more-international-representation-finance-focused-individuals-to-psf-3eedcf0a91a7 | Elect more international representation & finance-focused individuals to PSF
-
-Nominees
-https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/jeff-triplett/ | Nominee for 2020 Python Software Foundation Board Election | Python.org
-https://www.python.org/nominations/elections/2020-python-software-foundation-board/nominees/ | Nominees for 2020 Python Software Foundation Board Election | Python.org
-https://twitter.com/pganssle/status/1270056171861401601 | Paul Ganssle on Twitter: "The election for PSF Board of Directors is on, and I wanted to highlight a candidate who I'm afraid may be easy to overlook: my friend and setuptools co-maintainer Jason R. Coombs (@jaraco). I don't have a better forum for this statement, so I'll make this a thread:" / Twitter
-
-
-Python Steering Committee
-https://www.youtube.com/watch?v=xX8fGuh4T_o&feature=youtu.be
-https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
 
 PyCon
 https://us.pycon.org/2020/sponsors/virtualexpohall/ | PyCon US
 
-Python Language Summit
-https://us.pycon.org/2020/events/languagesummit/
-https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
-https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
-https://github.com/Zac-HD/stdlib-property-tests
-http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html | Python Software Foundation News: The 2019 Python Language Summit
 
-Eric Snow- Multicore
-https://docs.google.com/presentation/d/16M3v1sEOJO0xoMW9qupAzyPsYLfseeWv9zXXAMee4aE/mobilepresent?slide=id.p
-
-https://github.com/ericvsmith/f-strings-by-default | ericvsmith/f-strings-by-default: Files related to my PyCon 2020 Language Summit talk
-
-Python Language Summit
-https://twitter.com/mariatta/status/1250121466835644416 | Mariatta 🤦 on Twitter: "Getting excited for the first ever remote Python Language Summit tomorrow!! We have timezone problems to deal with and discussion with 50 very opinionated people is gonna be a challenge. But, we're able to include folks who normally couldn't attend the summit in person😃🌏🌎🌍🐍" / Twitter
-https://twitter.com/mariatta/status/1250511012144377856 | Mariatta 🤦 on Twitter: "Day 1 of the remote Python Language Summit just wrapped up, and I think it went really great! 😃 Quick summary: - 51 attendees - from various countries 🌏🌎🌍 - representatives from: CPython, Jython, PyPy, MicroPython, CircuitPython, Django, PSF, docs, PyPA, etc" / Twitter
-https://twitter.com/Aeros1415/status/1252186891488821249 | Kyle Stanley on Twitter: "The Python Language Summit was a very exciting and unique experience that I was glad to be a part of for the first time. Although a remote summit was not quite the same as in person one, @mariatta and @llanga did a fantastic job of hosting it! https://t.co/6sA8ife0oG" / Twitter
-https://twitter.com/VictorStinner/status/1251440897012781057 | Victor Stinner on Twitter: ""Group photo" of the first day of the Python Language Summit. It was a new experience for me: meeting with 50 people with video. The text chat and questions on https://t.co/O7Vb2cyBGS went well. The difficult part for me was to not fall asleep the second day (1:00am to 5:00am)! https://t.co/EN1PlKmqbB" / Twitter
-https://twitter.com/mariatta/status/1251158864411586560 | Mariatta 🤦 on Twitter: "Some thoughts re: online/remote Python language summit vs in person (50 people): - the Chat feature within the video conferencing app allows for more asynchronous discussions and Q&amp;A, I think more people get to comment and share their thoughts this way" / Twitter
 
 PyLadies
 https://twitter.com/DrCatNelson/status/1263233262589054976 | Catherine Nelson on Twitter: "This was so much fun! Our panelists all had tons of useful advice and fun thoughts to share. Looking forward to more online events with @PyLadiesSEA!" / Twitter
@@ -257,31 +262,6 @@ https://twitter.com/pythonbytes/status/1255908030266454017 | Python Bytes Podcas
 https://pythonbytes.fm/episodes/show/179/guido-van-rossum-drops-in-on-python-bytes | Episode #179 Guido van Rossum drops in on Python Bytes - [Python Bytes Podcast]
 
 https://twitter.com/WillingCarol/status/1265671563686248448 | Carol Willing on Twitter: "@llanga and I did this interview after the @dotpy_io conference was canceled in early March due to COVID19. Through the efforts of the Python Steering Council, @ThePSF, the core developers, the @pycon team, and so many more, I find optimism for our future. TY. @behind_thecode" / Twitter
-
-
-
-Conda PyPy
-https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
-https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
-
-PyPy
-https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
-
-
-https://github.com/RalfG/python-wheels-manylinux-build
-https://github.com/pypa/manylinux
-https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
-
-Windows
-https://github.com/zooba
-https://twitter.com/carltongibson/status/1256917475737899015
-https://github.com/microsoft/xlang/issues/634
-https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
-https://twitter.com/CasualEffects/status/1256806906015907841
-
-Linux subsystem Windows
-https://wsl-guide.kennethreitz.org/en/latest/
-https://www.infoq.com/news/2020/04/wsl-2-general-availability/
 
 
 Ubuntu
@@ -300,48 +280,17 @@ https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/mess
 Subinterpreters for Python
 https://lwn.net/SubscriberLink/820424/172e6da006687167/
 
-Brython
-https://m.youtube.com/watch?feature=youtu.be&v=VJj-H4we71g
-https://twitter.com/pystar/status/1285754294835322880 | pystar on Twitter: "A Python 3 implementation for client-side web programming. https://t.co/bfOIP0ftX4" / Twitter
-
-https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
-
-https://github.com/PyO3/pyo3
-https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
-
-CPython API
-https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
-
-Cython
-https://cython.org/ | Cython: C-Extensions for Python
-https://github.com/paulross/NotesOnCython | paulross/NotesOnCython: Some notes on using Cython to increase the performance of Python code.
-
-C-extensions, HPy, EPython
-https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
-"The PEP summarizes the research work I'm doing on CPython C API since 2017 and the changes that me and others made since Python 3.7 towards an opaque C API. It is also a collaboration with developers of PyPy, HPy, Rust-CPython and many others! Thanks to everyone who helped me!"
-https://twitter.com/VictorStinner/status/1248666328984059905
-"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
-https://twitter.com/trebor74hr/status/1252729526540472323
-https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
-https://twitter.com/teoliphant/status/1217611221396082695
-
-Intel distribution for Python
-https://twitter.com/pwang/status/1218212838562463745 | Peter Wang on Twitter: "Another really cool example of what can be done with Python and Anaconda! https://t.co/EYf2TyRf8q" / Twitter
-
 Python runtime versus OS and distros
 https://twitter.com/pwang/status/1236422154079567877
 
 Kernel Python
 https://glyph.twistedmatrix.com/2019/06/kernel-python.html | Deciphering Glyph :: Toward a “Kernel Python”
 
+
 Travis
 https://twitter.com/pwang/status/1253164518806622208 | Peter Wang on Twitter: "The Scipy &amp; Pydata open source community has more efficiently harnessed &amp; organized human talent than capitalism. https://t.co/2un0Tsd5l6" / Twitter
 https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
 https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
-
-http://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
-
-https://github.com/taichi-dev/taichi
 
 Visualization and Stats
 https://speakerdeck.com/jakevdp/seven-strategies-for-optimizing-numerical-code
@@ -350,17 +299,14 @@ https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A weekly dump o
 https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-where-do-we-go-from-here/ | Python Data Visualization 2018: Where Do We Go From Here? - Anaconda
 https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
 
-https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
-https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
-
-Python Language Server
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
 
 "In @ChatDjango episode 16 - “Django Admin” you mentioned you wanted to do a video series whiteboarding the models for famous websites. "
 https://twitter.com/Chris2Brooks/status/1257636370476130305
+
+
+
+Season of Docs
+https://twitter.com/carltongibson/status/1296168715990466562 | Carlton Gibson 🇪🇺 on Twitter: "Lots of times in the last couple of years, I've heard the @djangoproject contributing guide is too hard to get started with. Well… we've got a Season of Docs with @pgabbyprecious project to make it better! 💃 Say Hi, and share your pain points. https://t.co/8Yk6el2PYi" / Twitter
 
 PyPa Translations
 https://hosted.weblate.org/engage/pypa/ | Get involved in pypa! @ Hosted Weblate
@@ -389,12 +335,6 @@ https://www.vinta.com.br/blog/2017/contributing-hugh-lib
 
 https://www.reddit.com/r/Python/comments/6ug04h/who_maintains_pypi_and_where_and_by_whom_is_it/ | Who maintains PyPI and where and by whom is it hosted? : Python
 
-Encode
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-http://www.encode.io/reports/july-2017
-https://www.encode.io/reports/march-2020 | March 2020 - Encode
-https://www.encode.io/reports/april-2020
-https://twitter.com/_tomchristie/status/1256210735056785409
 
 Łukasz
 https://twitter.com/llanga/status/1263581352869482497 | Łukasz Langa on Twitter: "If I wrote "show notes" for the #Python #AsyncIO video series, I would aim at something like this. (This would be specifically Episode 3 material.)" / Twitter
@@ -484,94 +424,7 @@ Big Query
 https://mobile.twitter.com/pypi/status/1244692904561520642 | Python Package Index on Twitter: "Have you built something interesting using the PyPI Big Query public dataset? Drop us a line at bigquery-feedback@pypi.org. We'd like to preview some upcoming changes and maybe feature your project in the announcement. https://t.co/sBfT9K4utG" / Twitter
 -->
 
-
-## Experts
-
-<!--
-Barry
-https://www.wefearchange.org/ | We Fear Change
-
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/ | Static Typing in Python - Dustin Ingram
-
-https://anweshadas.in/how-to-upload-a-package-in-pypi-using-twine/ | How to upload a package in PyPI using twine ?
-
-
-https://twitter.com/MariuszFelisiak
-
-https://stevedower.id.au/ | Steve Dower Musings and Mutterings | Steve Dower
-https://github.com/zooba
-
-https://asvetlov.blogspot.com/ | Андрей Светлов
-
-Armin Ronacher
-http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/ | Be Careful with Python's New-Style String Format | Armin Ronacher's Thoughts and Writings
-
-Victor Stinner
-https://github.com/vstinner
-https://vstinner.github.io/daemon-threads-python-finalization-python32.html | Daemon threads and the Python finalization in Python 3.2 and 3.3
-
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-https://blog.ganssle.io/articles/2019/08/test-as-installed.html
-
-https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
-https://hynek.me/articles/testing-packaging/
-https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
-
-https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
-
-https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
-https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
-
-https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
-https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
-
-https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
-
-Important!
-https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
-
-https://snarky.ca/why-you-should-use-python-m-pip/
-python -m pip install X
-https://twitter.com/mariatta/status/1217494274469548032
-https://twitter.com/mariatta/status/1189243515739561985
-
-https://snarky.ca/the-challenges-in-designing-a-library-for-pep-425/
-https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/
-
-Moshe
-https://orbifold.xyz/back-off.html | Orbifolds and Other Games - Hey, Back Off!
-https://ironfroggy-reads.tumblr.com/post/618561789855154176/my-little-pony-devops-is-magic | Ironfroggy Reads Things on The Internet | My Little Pony -- DevOps is Magic
-https://twitter.com/moshezadka/status/1240034266131484673 | Moshe Zadka on Twitter: "Ever wondered how Twisted got its reputation for crashing routers and exceeding rate limits? Here I'll show you how to make ~50 calls against an API. The article about how to obey rate limits will come later... https://t.co/8EfPZYAXjd" / Twitter
-
-http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html | Traps for the Unwary in Python’s Import System — Nick Coghlan's Python Notes 1.0 documentation
-http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html | Efficiently Exploiting Multiple Cores with Python — Nick Coghlan's Python Notes 1.0 documentation
--->
-
-## News
-
-* [Django News (Jeff and William S. Vincent)](https://django-news.com/) and [Django Store](https://django.threadless.com/)
-* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
-
-<!--
-https://twitter.com/webology/status/1205503566745493505
-
-Podcast
-https://twitter.com/di_codes/status/1202697746446245888 | Dustin Ingram on Twitter: "Wow, I have definitely been underestimating the podcast audience. I just discovered that this one interview I did for the @GCPPodcast is one of the most downloaded episodes in the past year. What Python topics would you want to hear about in 2020? https://t.co/3iYXBFcvDG" / Twitter
-
-https://news.python.sc/ | Pythonic News
-
-Python Insider
-https://blog.python.org
-https://pythoninsider.blogspot.com/
-https://discuss.python.org Discussions on Python.org
--->
-
-## Releases
-
-General
-* [Downloads](https://www.python.org/downloads)
-* [What's New](https://docs.python.org/dev/whatsnew/)
+## Mac and Windows
 
 By OS
 * [The Microsoft Store Package](https://docs.python.org/3.7/using/windows.html#windows-store)
@@ -580,47 +433,55 @@ By OS
 * ["This is a huge step forward in #Python 3 adoption on Linux!"](https://twitter.com/hroncok/status/1147223223572058114)
 
 <!--
-https://www.python.org/doc/versions/
+https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
+
+Windows
+https://github.com/zooba
+https://twitter.com/carltongibson/status/1256917475737899015
+https://github.com/microsoft/xlang/issues/634
+https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/
+https://twitter.com/CasualEffects/status/1256806906015907841
+
+Linux subsystem Windows
+https://wsl-guide.kennethreitz.org/en/latest/
+https://www.infoq.com/news/2020/04/wsl-2-general-availability/
 
 Best Practices
 Python on Windows is Okay, Actually
 https://us.pycon.org/2019/schedule/presentation/212/
 https://www.youtube.com/watch?v=uoI57uMdDD4
 https://docs.python.org/3/using/unix.html
+-->
 
+## Releases
+
+<!--
 https://github.com/python/cpython/tree/master/Misc/NEWS.d
+
+Docs by version
+https://www.python.org/doc/versions/
+
+https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
+https://twitter.com/carltongibson/status/1179011386036367362
+
+
+Versions
+https://twitter.com/gvanrossum/status/1306082472443084801 | Guido van Rossum on Twitter: "Python 4 FAQ. 1. The version after 3.9 is 3.10; in fact it already exists (in github master). 2. If there ever is a version 4, the transition from 3 to 4 will be more like that from 1 to 2 rather than 2 to 3." / Twitter
+
+Python 3.8.2rc1
+https://twitter.com/llanga/status/1227231833844264960
+https://twitter.com/eevee/status/1227613322834411522
 
 Python versions
 https://twitter.com/llanga/status/1232477893210435584 | Łukasz Langa on Twitter: "Python 3.8.2 and 3.9.0a4 are now available. They are quite literally the best Python versions we've ever seen. Go get 'em while they are hot. The one you want in production: https://t.co/Ji0gDx9ZVe And the bleeding edge: https://t.co/rDS29XfbJ9 #python #kangaroo #encyclopaedia" / Twitter
 https://twitter.com/llanga/status/1229843838715473920 | Łukasz Langa on Twitter: "#Python 3.8.2rc2 released! It includes a revert for a change to urlparse() that was mistakenly backported to 3.8.1 and caused a fair amount of trouble for third party libraries. If you have a minute, download it and pip install a bunch of your favorites: https://t.co/fwQbmsqCgx https://t.co/pIZingcLw5" / Twitter
 
-Python 3.8.2rc1
-https://twitter.com/llanga/status/1227231833844264960
-https://twitter.com/eevee/status/1227613322834411522
-https://realpython.com/python38-new-features/
-https://speakerdeck.com/matrixise/whats-new-in-python-3-dot-8 | What's new in Python 3.8? - Speaker Deck
-https://docs.python.org/3.8/whatsnew/3.8.html
-https://docs.python.org/3.8/whatsnew/changelog.html#changelog
-https://twitter.com/carltongibson/status/1179011386036367362
-
-Release notes
-https://docs.python.org/3/whatsnew/
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
-
 https://twitter.com/baybryj/status/1184202292729405440 | Ned Deily on Twitter: "Wow! It's the #Python Harvest of Releases Week (and no one expects that)! Yesterday the latest feature release: 3.8.0. Today: 3.7.5 bugfix release. Coming soon: 2.7.17, the penultimate release (you are migrating, right?) and the first 3.9.0 alpha!" / Twitter
-
-https://github.com/pypa/python-manylinux-demo
-https://github.com/pypa/manylinux
-https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux
-
-https://docs.microsoft.com/en-us/windows/python/ | Python on Windows documentation | Microsoft Docs
 
 https://blog.python.org/2019/12/python-381-376-3610-and-390a2-are-now.html | Python Insider: Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available!
 https://discuss.python.org/t/python-3-8-1-3-7-6-3-6-10-and-3-9-0a2-are-now-available/2889 | Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2 are now available! - Committers - Discussions on Python.org
 https://twitter.com/llanga/status/1207584391494545408 | Łukasz Langa on Twitter: "Why release one version of #Python if you can release four? This merry season, we bring you Python 3.8.1, 3.7.6, 3.6.10, and 3.9.0a2. We hope you'll enjoy them at least as much as we did packaging them! https://t.co/TRqv5mZxk5 #ItsALiving #DontTrifleWithMyAffections" / Twitter
 https://twitter.com/raymondh/status/1136076427218964480 | Raymond Hettinger on Twitter: "#Python 3.8 news: The beta release out. Please download it and try out the new features: shared memory multiprocessing, walrus operator, positional-only notation ... Let us know if anything can be made better. But no complaints that it is too fast ;-) https://t.co/9mlvs0luFv"
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 -->
 
 ## Related Projects, PSF and DSF People and Members
@@ -703,8 +564,6 @@ Sprint PR Tool
 
 
 <!--
-https://python-release-cycle.glitch.me/ | Python Release Cycle
-
 Extended-BNF (EBNF) specification with regular-expression syntax - Google Search
 
 https://devguide.python.org/#contributing
@@ -843,12 +702,6 @@ https://github.com/vstinner/pysandbox/
 
 speed.python.org
 https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
-
-Tools
-https://pypy.org/ | PyPy - Welcome to PyPy
-https://cython.org/ | Cython: C-Extensions for Python
-https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
-https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
 
 https://www.python.org/dev/peps/pep-0578/ | PEP 578 -- Python Runtime Audit Hooks | Python.org
 https://speakerdeck.com/tiran/europython-2019-auditing-hooks-and-security-transparency-for-cpython | EuroPython 2019: Auditing hooks and security transparency for CPython - Speaker Deck
@@ -1165,8 +1018,9 @@ Django Tickets
 * [Tickets](https://code.djangoproject.com/query)
 * [Life of a Django Ticket](https://docs.google.com/presentation/d/1Ao0S3Z-VRn_pcT5T4mXIhv3t3liQ3ZrwqaGeDqz9XCQ/edit)
 
+
 <!--
-https://groups.google.com/forum/#!forum/django-updates | (99+) Django updates – Google Groups
+https://groups.google.com/g/django-updates
 -->
 
 Django Roadmaps
@@ -1179,22 +1033,14 @@ Release Process
 Release Cadence
 * [Django Release Cadence](https://docs.djangoproject.com/en/dev/internals/release-process/#internal-release-cadence)
 
-Django Blog and Announcements
-* [Django Blog](https://www.djangoproject.com/weblog/)
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-
-New Releases
-* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
-
 Release Notes
-* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+* [Django Releases](https://docs.djangoproject.com/en/stable/releases)
 * [Django 2.2 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.2/)
 * [Django 2.1 Release Notes](https://docs.djangoproject.com/en/2.1/releases/2.1)
 * [Django 2.0 Release Notes](https://docs.djangoproject.com/en/2.2/releases/2.0/)
 * [Django 1.11 Release Notes](https://docs.djangoproject.com/en/2.2/releases/1.11/)
 
 Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
 * [Supported Versions Policy](https://docs.djangoproject.com/en/dev/internals/release-process/#supported-versions-policy)
 
 Depreciation
@@ -1206,10 +1052,6 @@ Upgrading and Choices
 * [Should I Use the Stable Version or Development Version](https://docs.djangoproject.com/en/dev/faq/install/#should-i-use-the-stable-version-or-development-version)
 
 <!--
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
-
 Django 1.11 EoL
 https://twitter.com/webology/status/1235288399654907904
 https://twitter.com/carltongibson/status/1235222028703199234
@@ -1417,14 +1259,10 @@ https://github.com/django/django/pull/2947 | Team organization by aaugustin · P
 ## Python and Django PEPs and DEPs
 
 PEPs
-* [PEP Index](https://www.python.org/dev/peps)
 * [Legacy PEP Index](https://legacy.python.org/dev/peps)
 
 PEP Template
 * [PEP 12 -- Sample reStructuredText PEP Template](https://www.python.org/dev/peps/pep-0012)
-
-DEPs (Django Enhancement Proposals)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 <!--
 https://github.com/FlipperPA/django-dep-default-project | FlipperPA/django-dep-default-project: A Django Enhancement Proposal (DEP) to make the default project more friendly to newcomers.
