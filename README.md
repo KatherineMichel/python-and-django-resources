@@ -1,6 +1,11 @@
 # Python and Django- Resources
 
 <!--
+Django News
+* [Django Store](https://django.threadless.com/)
+* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
+
+
 https://twitter.com/simonw/status/1305546864716996608 | Simon Willison on Twitter: "I have a Windows 10 machine up and running (repurposed gaming PC) - what's the best way to get a Python development environment working on it? I want to be able to test my Python stuff works on Windows and ideally get familiar enough that I can answer support questions" / Twitter
 
 Installing stuff
